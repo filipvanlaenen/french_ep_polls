@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 18:34:10 +0100</pubDate>
+    <pubDate>Sat, 24 Mar 2018 15:25:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop for Le Figaro, 29 November–1 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11–15 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 6–9 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 22–28 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9–13 seats&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 0–7 seats&lt;/li&gt;&lt;li&gt;Front national (ENF): 14–18 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop-seats.png"
+        length="269479"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 15:25:50 +0100</pubDate>
+      <dc:date>2018-03-24T15:25:50.886075+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for Le Figaro, 29 November–1 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop-coalitions-seats.png"
+        length="165258"
+        type="image/png"/>
+      <pubDate>Sat, 24 Mar 2018 15:25:50 +0100</pubDate>
+      <dc:date>2018-03-24T15:25:50.886075+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop for Le Figaro, 29 November–1 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop.html</link>
@@ -16,9 +36,9 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop.png"
         length="294469"
         type="image/png"/>
-      <pubDate>Sun, 18 Mar 2018 18:34:10 +0100</pubDate>
-      <dc:date>2018-03-18T18:34:10.943712+01:00</dc:date>
+      <pubDate>Sat, 24 Mar 2018 15:25:50 +0100</pubDate>
+      <dc:date>2018-03-24T15:25:50.886075+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T18:34:10.943712+01:00</dc:date>
+    <dc:date>2018-03-24T15:25:50.886075+01:00</dc:date>
   </channel>
 </rss>
