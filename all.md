@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PCF | FI | PS | EEV | LREM–MoDem | Agir–UDI | LR | DlF | FN | LP | UPR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 1–3% <br> 0 | 12–16% <br> 11–15 | 7–10% <br> 6–9 | 3–5% <br> 0–5 | 23–29% <br> 22–28 | 2–5% <br> 0 | 10–14% <br> 9–13 | 5–8% <br> 0–7 | 15–19% <br> 14–18 | 1–3% <br> 0 | 1–2% <br> 0 |
+| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 1–3% <br> 0 | 12–16% <br> 11–13 | 7–10% <br> 5–8 | 3–5% <br> 0 | 23–29% <br> 25–27 | 2–5% <br> 0 | 10–14% <br> 11–12 | 5–8% <br> 0–6 | 15–19% <br> 16–19 | 1–3% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -23,7 +23,7 @@ Only polls for which at least the sample size has been published are included in
 + **DlF:** Debout la France (EFDD)
 + **FN:** Front national (ENF)
 + **LP:** Les Patriotes (EFDD)
-+ **UPR:** Union populaire républicaine (—)
++ **UPR:** Union populaire républicaine (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
