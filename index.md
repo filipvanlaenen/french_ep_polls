@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PCF | FI | PS | EEV | LREM–MoDem | Agir–UDI | LR | DlF | FN | LP | UPR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 1–3% <br> 0 | 12–16% <br> 11–16 | 6–10% <br> 6–9 | 3–5% <br> 0–5 | 23–29% <br> 21–28 | 2–5% <br> 0 | 10–14% <br> 9–14 | 5–8% <br> 0–7 | 15–19% <br> 14–18 | 1–3% <br> 0 | 1–2% <br> 0 |
-| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 1–3% <br> 0 | 12–16% <br> 11–16 | 7–10% <br> 6–9 | 3–5% <br> 0–5 | 23–29% <br> 21–28 | 2–5% <br> 0 | 10–14% <br> 9–14 | 5–8% <br> 0–7 | 15–19% <br> 14–18 | 1–3% <br> 0 | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 1–3% <br> 0 | 12–16% <br> 11–15 | 6–10% <br> 6–9 | 3–5% <br> 0–5 | 23–29% <br> 22–28 | 2–5% <br> 0 | 10–14% <br> 9–13 | 5–8% <br> 0–7 | 15–19% <br> 14–18 | 1–3% <br> 0 | 1–2% <br> 0 |
+| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 1–3% <br> 0 | 12–16% <br> 11–15 | 7–10% <br> 6–9 | 3–5% <br> 0–5 | 23–29% <br> 22–28 | 2–5% <br> 0 | 10–14% <br> 9–13 | 5–8% <br> 0–7 | 15–19% <br> 14–18 | 1–3% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
