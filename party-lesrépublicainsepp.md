@@ -49,8 +49,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 10–14 | 9–16 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 12 | 10–13 | 10–14 | 10–14 | 9–16 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 
 ### Probability Mass Function
@@ -69,15 +69,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.2% | 100% |  |
-| 9 | 1.0% | 99.8% |  |
-| 10 | 13% | 98.8% |  |
-| 11 | 27% | 86% |  |
-| 12 | 38% | 58% | Median |
-| 13 | 7% | 20% |  |
-| 14 | 11% | 13% |  |
-| 15 | 2% | 2% |  |
-| 16 | 0% | 0.1% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 2% | 99.9% |  |
+| 10 | 14% | 98% |  |
+| 11 | 32% | 84% |  |
+| 12 | 26% | 52% | Median |
+| 13 | 20% | 26% |  |
+| 14 | 4% | 6% |  |
+| 15 | 0.7% | 1.2% |  |
+| 16 | 0.5% | 0.6% |  |
 | 17 | 0% | 0% |  |
 
 
