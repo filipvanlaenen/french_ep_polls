@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 30 May 2018 14:40:09 +0200</pubDate>
+    <pubDate>Wed, 30 May 2018 18:30:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Harris Interactive for LCP – Assemblée nationale, 22–23 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-23-HarrisInteractive.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2018-05-30T14:35:07.447563+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Viavoice for Europe Écologie Les Verts, 7–11 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–6 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–9 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 24–29 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 0–6 seats&lt;/li&gt;&lt;li&gt;Front national (ENF): 10–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice-seats.png"
+        length="236084"
+        type="image/png"/>
+      <pubDate>Wed, 30 May 2018 18:30:10 +0200</pubDate>
+      <dc:date>2018-05-30T18:30:10.503922+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Viavoice for Europe Écologie Les Verts, 7–11 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice-coalitions-seats.png"
+        length="165291"
+        type="image/png"/>
+      <pubDate>Wed, 30 May 2018 18:30:10 +0200</pubDate>
+      <dc:date>2018-05-30T18:30:10.503922+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Viavoice for Europe Écologie Les Verts, 7–11 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.7–10.6%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.7–10.6%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 29.7–34.4%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10.5–13.8%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Front national (ENF): 12.3–15.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.png"
         length="218641"
         type="image/png"/>
-      <pubDate>Wed, 30 May 2018 14:40:09 +0200</pubDate>
-      <dc:date>2018-05-30T14:40:09.55152+02:00</dc:date>
+      <pubDate>Wed, 30 May 2018 18:30:10 +0200</pubDate>
+      <dc:date>2018-05-30T18:30:10.503922+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop for Valeurs Actuelles, 7–9 May 2018 – Seat Projections for the Parties</title>
@@ -89,6 +109,6 @@
       <pubDate>Sat, 07 Apr 2018 14:29:31 +0200</pubDate>
       <dc:date>2018-04-07T14:29:31.826298+02:00</dc:date>
     </item>
-    <dc:date>2018-05-30T14:40:09.55152+02:00</dc:date>
+    <dc:date>2018-05-30T18:30:10.503922+02:00</dc:date>
   </channel>
 </rss>
