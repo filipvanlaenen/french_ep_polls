@@ -57,7 +57,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 11–16 | 10–17 | 10–17 | 10–19 |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 14 | 14 | 13–14 | 13–14 | 12–15 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 15 | 14–17 | 14–17 | 13–18 | 12–20 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 15 | 14–18 | 14–18 | 14–18 | 13–19 |
 
@@ -79,11 +79,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.2% | 100% |  |
-| 10 | 7% | 99.8% |  |
-| 11 | 15% | 93% |  |
-| 12 | 9% | 78% |  |
-| 13 | 7% | 70% |  |
-| 14 | 41% | 63% | Median |
+| 10 | 5% | 99.8% |  |
+| 11 | 15% | 94% |  |
+| 12 | 11% | 79% |  |
+| 13 | 6% | 68% |  |
+| 14 | 41% | 62% | Median |
 | 15 | 10% | 21% |  |
 | 16 | 6% | 12% |  |
 | 17 | 4% | 6% |  |
