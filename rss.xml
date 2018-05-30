@@ -8,9 +8,29 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 19 May 2018 11:32:58 +0200</pubDate>
+    <pubDate>Wed, 30 May 2018 14:40:09 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Ifop for Valeurs Actuelles, 7–9 May 2018 – Seat Projections</title>
+      <title>Opinion Poll by Harris Interactive for LCP – Assemblée nationale, 22–23 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-23-HarrisInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–2.8%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10.8–13.9%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 7.0–9.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 3.2–5.1%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 26.4–30.8%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.7–15.0%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 6.0–8.5%&lt;/li&gt;&lt;li&gt;Front national (ENF): 13.7–17.1%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-23-HarrisInteractive.png"
+        length="280657"
+        type="image/png"/>
+      <pubDate>Wed, 30 May 2018 14:35:07 +0200</pubDate>
+      <dc:date>2018-05-30T14:35:07.447563+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Viavoice for Europe Écologie Les Verts, 7–11 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.7–10.6%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.7–10.6%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 29.7–34.4%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10.5–13.8%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Front national (ENF): 12.3–15.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.png"
+        length="218641"
+        type="image/png"/>
+      <pubDate>Wed, 30 May 2018 14:40:09 +0200</pubDate>
+      <dc:date>2018-05-30T14:40:09.55152+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for Valeurs Actuelles, 7–9 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-09-Ifop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10–14 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 6–9 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 21–28 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10–14 seats&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 0–7 seats&lt;/li&gt;&lt;li&gt;Front national (ENF): 13–18 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-09-Ifop-seats.png"
@@ -40,7 +60,7 @@
       <dc:date>2018-05-19T11:32:58.534951+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ifop for Le Figaro, 29 November–1 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by Ifop for Le Figaro, 29 November–1 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11–15 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 6–9 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 22–28 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9–13 seats&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 0–7 seats&lt;/li&gt;&lt;li&gt;Front national (ENF): 14–18 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop-seats.png"
@@ -69,6 +89,6 @@
       <pubDate>Sat, 07 Apr 2018 14:29:31 +0200</pubDate>
       <dc:date>2018-04-07T14:29:31.826298+02:00</dc:date>
     </item>
-    <dc:date>2018-05-19T11:32:58.534951+02:00</dc:date>
+    <dc:date>2018-05-30T14:40:09.55152+02:00</dc:date>
   </channel>
 </rss>
