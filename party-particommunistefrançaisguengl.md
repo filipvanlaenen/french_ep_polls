@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.9–2.5% | 0.8–2.7% | 0.7–2.9% | 0.6–3.2% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.8% | 1.3–3.1% |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 2.0% | 1.5–2.7% | 1.3–2.9% | 1.2–3.1% | 1.1–3.5% |
@@ -22,10 +23,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 38% | 99.6% |  |
-| 1.5–2.5% | 54% | 62% | Median |
-| 2.5–3.5% | 8% | 8% |  |
+| 0.0–0.5% | 0.9% | 100% | Last Result |
+| 0.5–1.5% | 50% | 99.1% |  |
+| 1.5–2.5% | 42% | 49% | Median |
+| 2.5–3.5% | 6% | 6% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -39,6 +40,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 0 | 0 | 0 | 0 | 0 |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 0 | 0 | 0 | 0 | 0 |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 0 | 0 | 0 | 0 | 0 |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 0 | 0 | 0 | 0 | 0 |
