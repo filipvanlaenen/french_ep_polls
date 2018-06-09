@@ -46,8 +46,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–8 | 0–9 | 0–9 |
-| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–8 | 0–8 | 0–9 |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 0 | 0 | 0 | 0 | 0–4 |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 0 | 0 | 0–5 | 0–5 | 0–5 |
@@ -66,11 +66,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 53% |  |
 | 3 | 0% | 53% |  |
 | 4 | 2% | 53% |  |
-| 5 | 2% | 51% | Median |
-| 6 | 5% | 49% |  |
-| 7 | 30% | 44% |  |
-| 8 | 11% | 14% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0% | 0% |  |
+| 5 | 6% | 51% | Median |
+| 6 | 7% | 46% |  |
+| 7 | 26% | 39% |  |
+| 8 | 11% | 13% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.1% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 
