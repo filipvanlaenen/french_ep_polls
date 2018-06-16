@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 23.7–32.3% | 22.9–33.0% | 22.3–33.6% | 21.3–34.5% |
+| N/A | [Poll Average](average.html) | 27.6% | 23.7–32.3% | 22.9–33.0% | 22.3–33.6% | 21.3–34.5% |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 28.6% | 27.2–30.0% | 26.8–30.4% | 26.4–30.8% | 25.8–31.5% |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 28.0% | 26.6–29.4% | 26.2–29.8% | 25.9–30.2% | 25.2–30.9% |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 32.0% | 30.5–33.6% | 30.1–34.0% | 29.7–34.4% | 29.0–35.2% |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 27.0% | 25.1–28.9% | 24.6–29.4% | 24.2–29.9% | 23.3–30.9% |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
@@ -48,13 +48,13 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 3% | 99.3% |  |
 | 22.5–23.5% | 6% | 97% |  |
 | 23.5–24.5% | 8% | 91% |  |
-| 24.5–25.5% | 8% | 83% |  |
-| 25.5–26.5% | 9% | 74% |  |
-| 26.5–27.5% | 11% | 66% |  |
-| 27.5–28.5% | 13% | 55% | Median |
-| 28.5–29.5% | 11% | 42% |  |
-| 29.5–30.5% | 7% | 30% |  |
-| 30.5–31.5% | 7% | 24% |  |
+| 24.5–25.5% | 9% | 83% |  |
+| 25.5–26.5% | 10% | 74% |  |
+| 26.5–27.5% | 14% | 64% |  |
+| 27.5–28.5% | 14% | 50% | Median |
+| 28.5–29.5% | 9% | 36% |  |
+| 29.5–30.5% | 5% | 28% |  |
+| 30.5–31.5% | 6% | 23% |  |
 | 31.5–32.5% | 8% | 16% |  |
 | 32.5–33.5% | 6% | 8% |  |
 | 33.5–34.5% | 2% | 3% |  |
@@ -71,12 +71,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 20–27 | 20–28 | 19–28 | 18–29 |
-| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 20 | 19–22 | 19–23 | 18–23 | 18–24 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 27 | 25–28 | 24–28 | 24–28 | 23–29 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 26 | 25–28 | 24–28 | 24–29 | 24–30 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 25 | 22–27 | 22–28 | 21–28 | 21–29 |
-| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 26 | 23–27 | 22–27 | 22–28 | 21–29 |
+| N/A | [Poll Average](average.html) | 25 | 24–28 | 21–29 | 21–29 | 20–31 |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 27 | 21–27 | 21–27 | 20–27 | 20–27 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 25 | 25 | 25–28 | 25–28 | 22–28 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 27 | 24–29 | 24–30 | 24–31 | 24–31 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 25 | 25 | 25 | 25 | 25–26 |
+| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 25 | 25 | 25 | 25 | 22–25 |
 
 ### Probability Mass Function
 
@@ -104,20 +104,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.8% | 100% |  |
-| 19 | 2% | 99.2% |  |
-| 20 | 10% | 97% |  |
-| 21 | 9% | 87% |  |
-| 22 | 4% | 78% |  |
-| 23 | 4% | 74% |  |
-| 24 | 8% | 70% |  |
-| 25 | 16% | 62% | Median |
-| 26 | 16% | 46% |  |
-| 27 | 22% | 30% |  |
-| 28 | 6% | 8% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.3% | 0.4% |  |
-| 31 | 0.1% | 0.1% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0.8% | 100% |  |
+| 21 | 5% | 99.2% |  |
+| 22 | 0.4% | 94% |  |
+| 23 | 0.1% | 93% |  |
+| 24 | 8% | 93% |  |
+| 25 | 47% | 86% | Median |
+| 26 | 2% | 39% |  |
+| 27 | 23% | 37% |  |
+| 28 | 5% | 14% |  |
+| 29 | 8% | 9% |  |
+| 30 | 0.4% | 1.3% |  |
+| 31 | 0.9% | 0.9% |  |
 | 32 | 0% | 0% |  |
 
 
