@@ -71,12 +71,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 24–28 | 21–29 | 21–29 | 20–31 |
-| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 27 | 21–27 | 21–27 | 20–27 | 20–27 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 25 | 25 | 25–28 | 25–28 | 22–28 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 27 | 24–29 | 24–30 | 24–31 | 24–31 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 25 | 25 | 25 | 25 | 25–26 |
-| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 25 | 25 | 25 | 25 | 22–25 |
+| N/A | [Poll Average](average.html) | 27 | 22–29 | 21–31 | 21–31 | 19–31 |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 22 | 21–25 | 19–26 | 19–26 | 18–26 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 28 | 28–29 | 26–29 | 26–30 | 25–30 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 29 | 26–31 | 26–31 | 25–31 | 25–31 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 25 | 23–28 | 23–28 | 22–28 | 22–29 |
+| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 25 | 25–28 | 25–29 | 23–29 | 22–29 |
 
 ### Probability Mass Function
 
@@ -104,20 +104,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0.8% | 100% |  |
-| 21 | 5% | 99.2% |  |
-| 22 | 0.4% | 94% |  |
-| 23 | 0.1% | 93% |  |
-| 24 | 8% | 93% |  |
-| 25 | 47% | 86% | Median |
-| 26 | 2% | 39% |  |
-| 27 | 23% | 37% |  |
-| 28 | 5% | 14% |  |
-| 29 | 8% | 9% |  |
-| 30 | 0.4% | 1.3% |  |
-| 31 | 0.9% | 0.9% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 2% | 99.8% |  |
+| 20 | 0.3% | 98% |  |
+| 21 | 6% | 98% |  |
+| 22 | 9% | 92% |  |
+| 23 | 4% | 83% |  |
+| 24 | 2% | 79% |  |
+| 25 | 16% | 76% |  |
+| 26 | 9% | 61% |  |
+| 27 | 8% | 52% | Median |
+| 28 | 27% | 44% |  |
+| 29 | 8% | 17% |  |
+| 30 | 2% | 10% |  |
+| 31 | 8% | 8% |  |
 | 32 | 0% | 0% |  |
 
 
