@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Jun 2018 17:12:49 +0200</pubDate>
+    <pubDate>Mon, 25 Jun 2018 20:13:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by ELABE for BFMTV, 29–30 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-05-30-ELABE.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-30-ELABE.png"
         length="344547"
         type="image/png"/>
-      <pubDate>Sat, 16 Jun 2018 16:08:54 +0200</pubDate>
-      <dc:date>2018-06-16T16:08:54.436834+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 18:02:12 +0200</pubDate>
+      <dc:date>2018-06-25T18:02:12.188903+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for LCP – Assemblée nationale, 22–23 May 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-23-HarrisInteractive.png"
         length="332091"
         type="image/png"/>
-      <pubDate>Sat, 16 Jun 2018 16:29:32 +0200</pubDate>
-      <dc:date>2018-06-16T16:29:32.214708+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 20:13:12 +0200</pubDate>
+      <dc:date>2018-06-25T20:13:12.681874+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Viavoice for Europe Écologie Les Verts, 7–11 May 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-11-Viavoice.png"
         length="265062"
         type="image/png"/>
-      <pubDate>Sat, 16 Jun 2018 16:44:56 +0200</pubDate>
-      <dc:date>2018-06-16T16:44:56.491582+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 17:30:11 +0200</pubDate>
+      <dc:date>2018-06-25T17:30:11.793151+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop for Valeurs Actuelles, 7–9 May 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-05-09-Ifop.png"
         length="324153"
         type="image/png"/>
-      <pubDate>Sat, 16 Jun 2018 16:57:19 +0200</pubDate>
-      <dc:date>2018-06-16T16:57:19.251472+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 19:17:43 +0200</pubDate>
+      <dc:date>2018-06-25T19:17:43.392624+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop for Le Figaro, 29 November–1 December 2017 – Voting Intentions</title>
@@ -56,9 +56,9 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2017-12-01-Ifop.png"
         length="324649"
         type="image/png"/>
-      <pubDate>Sat, 16 Jun 2018 17:12:49 +0200</pubDate>
-      <dc:date>2018-06-16T17:12:49.872632+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 19:11:07 +0200</pubDate>
+      <dc:date>2018-06-25T19:11:07.989023+02:00</dc:date>
     </item>
-    <dc:date>2018-06-16T17:12:49.872632+02:00</dc:date>
+    <dc:date>2018-06-25T20:13:12.681874+02:00</dc:date>
   </channel>
 </rss>
