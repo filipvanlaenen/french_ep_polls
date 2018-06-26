@@ -52,12 +52,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–12 | 7–14 | 6–14 | 6–14 |
-| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 9 | 7–11 | 7–11 | 7–11 | 7–11 |
+| N/A | [Poll Average](average.html) | 10 | 7–12 | 7–14 | 6–14 | 6–14 |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 11 | 11–12 | 10–12 | 9–12 | 9–13 |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
-| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 12 | 11–16 | 11–16 | 11–16 | 11–16 |
+| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 13 | 12–14 | 12–15 | 11–16 | 11–16 |
 
 ### Probability Mass Function
 
@@ -74,11 +74,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 3% | 100% |  |
-| 7 | 11% | 97% |  |
-| 8 | 18% | 87% |  |
-| 9 | 8% | 68% |  |
-| 10 | 7% | 60% |  |
-| 11 | 32% | 53% | Median |
+| 7 | 10% | 97% |  |
+| 8 | 21% | 88% |  |
+| 9 | 12% | 67% |  |
+| 10 | 7% | 55% | Median |
+| 11 | 27% | 48% |  |
 | 12 | 13% | 21% |  |
 | 13 | 2% | 8% |  |
 | 14 | 5% | 6% |  |

@@ -58,12 +58,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–18 | 11–20 | 10–20 | 10–21 |
-| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 18 | 16–20 | 16–20 | 14–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 14 | 12–20 | 11–21 | 10–21 | 10–22 |
+| [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 19 | 16–21 | 16–22 | 16–22 | 15–22 |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 14 | 14 | 13–14 | 13–14 | 13–15 |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 12 | 10–13 | 10–14 | 10–14 | 10–14 |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 16 | 16–17 | 16–17 | 15–18 | 13–19 |
-| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 17 | 16–18 | 16–18 | 15–18 | 14–18 |
+| [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 16 | 15–17 | 14–18 | 14–19 | 14–20 |
 
 ### Probability Mass Function
 
@@ -87,15 +87,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 5% | 96% |  |
 | 12 | 10% | 91% |  |
 | 13 | 6% | 81% |  |
-| 14 | 26% | 75% | Median |
-| 15 | 1.0% | 49% |  |
-| 16 | 18% | 48% |  |
-| 17 | 13% | 30% |  |
-| 18 | 8% | 17% |  |
-| 19 | 2% | 9% |  |
-| 20 | 6% | 7% |  |
-| 21 | 0.4% | 0.5% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 14 | 25% | 75% | Median |
+| 15 | 1.1% | 50% |  |
+| 16 | 15% | 49% |  |
+| 17 | 16% | 33% |  |
+| 18 | 4% | 18% |  |
+| 19 | 1.5% | 14% |  |
+| 20 | 3% | 12% |  |
+| 21 | 9% | 10% |  |
+| 22 | 1.3% | 1.3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
