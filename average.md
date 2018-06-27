@@ -9,11 +9,11 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PCF | FI | PS | EELV | LREM–MoDem | Agir–UDI | LR | DlF | RN | LP | UPR | NPA | G·s | R! |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 1–3% <br> 0 | 8–15% <br> 6–14 | 5–9% <br> 0–8 | 3–10% <br> 0–9 | 22–34% <br> 21–31 | 1–4% <br> 0 | 11–17% <br> 9–16 | 5–8% <br> 0–7 | 13–21% <br> 10–21 | 1–2% <br> 0 | 1–2% <br> 0 | 1–5% <br> 0 | 1–8% <br> 0–6 | 1–2% <br> 0 |
+| N/A | Poll Average | 1–3% <br> 0 | 8–15% <br> 6–14 | 5–9% <br> 0–9 | 3–10% <br> 0–9 | 22–34% <br> 21–30 | 1–4% <br> 0 | 11–17% <br> 9–16 | 5–8% <br> 0–7 | 13–21% <br> 11–21 | 1–2% <br> 0 | 1–2% <br> 0 | 1–5% <br> 0 | 1–8% <br> 0–6 | 1–2% <br> 0 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 1–2% <br> 0 | 8–12% <br> 7–11 | 5–8% <br> 0–6 | 6–10% <br> 5–9 | 21–27% <br> 20–25 | 1–3% <br> 0 | 13–17% <br> 12–16 | 4–7% <br> 0–6 | 17–22% <br> 16–22 | 1–2% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 1–3% <br> 0 | 11–14% <br> 9–12 | 7–9% <br> 7–8 | 3–5% <br> 0–4 | 26–30% <br> 26–30 | 1–3% <br> 0 | 11–15% <br> 11–13 | 6–8% <br> 6–7 | 13–17% <br> 13–14 | 1–2% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 1–2% <br> 0 | 8–11% <br> 6–9 | 5–7% <br> 0–6 | 8–11% <br> 6–10 | 30–34% <br> 25–31 | N/A <br> N/A | 10–14% <br> 9–12 | 5–7% <br> 0–6 | 12–16% <br> 10–14 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–4 | 6–8% <br> 5–7 | N/A <br> N/A |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 1–3% <br> 0 | 11–15% <br> 10–14 | 6–10% <br> 6–9 | 3–6% <br> 0–4 | 24–30% <br> 22–28 | 2–4% <br> 0 | 11–15% <br> 11–14 | 5–8% <br> 0–7 | 15–20% <br> 15–18 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 1–3% <br> 0 | 11–14% <br> 9–13 | 7–9% <br> 6–9 | 3–5% <br> 0–4 | 26–30% <br> 25–30 | 1–3% <br> 0 | 11–15% <br> 11–13 | 6–8% <br> 5–8 | 13–17% <br> 12–16 | 1–2% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 1–2% <br> 0 | 8–11% <br> 6–9 | 5–7% <br> 0–6 | 8–11% <br> 6–9 | 30–34% <br> 25–31 | N/A <br> N/A | 10–14% <br> 9–11 | 5–7% <br> 0–6 | 12–16% <br> 10–13 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–4 | 6–8% <br> 5–7 | N/A <br> N/A |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 1–3% <br> 0 | 11–15% <br> 10–15 | 6–10% <br> 6–9 | 3–6% <br> 0–5 | 24–30% <br> 23–29 | 2–4% <br> 0 | 11–15% <br> 10–14 | 5–8% <br> 0–7 | 15–20% <br> 14–18 | 1–2% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -354,18 +354,18 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 0 | 10 | 7–12 |7–14 | 6–14 | 6–14 |
-| <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 0 | 6 | 0–7 |0–8 | 0–8 | 0–9 |
-| <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 0 | 5 | 0–9 |0–9 | 0–9 | 0–10 |
-| <a href="#la-république-en-marche–mouvement-démocrate-(alde)">La République en marche–Mouvement démocrate (ALDE)</a> | 0 | 27 | 22–29 |21–31 | 21–31 | 19–31 |
+| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 0 | 10 | 7–12 |7–13 | 6–14 | 6–15 |
+| <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 0 | 6 | 4–8 |0–9 | 0–9 | 0–9 |
+| <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 0 | 5 | 0–8 |0–9 | 0–9 | 0–10 |
+| <a href="#la-république-en-marche–mouvement-démocrate-(alde)">La République en marche–Mouvement démocrate (ALDE)</a> | 0 | 26 | 22–28 |21–29 | 21–30 | 19–31 |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(alde)">Agir, la droite constructive–Union des démocrates et indépendants (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 0 | 12 | 10–14 |9–15 | 9–16 | 9–16 |
-| <a href="#debout-la-france-(efdd)">Debout la France (EFDD)</a> | 0 | 5 | 0–6 |0–7 | 0–7 | 0–7 |
-| <a href="#rassemblement-national-(enf)">Rassemblement national (ENF)</a> | 0 | 14 | 12–20 |11–21 | 10–21 | 10–22 |
+| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 0 | 12 | 10–14 |10–14 | 9–16 | 9–16 |
+| <a href="#debout-la-france-(efdd)">Debout la France (EFDD)</a> | 0 | 5 | 0–7 |0–7 | 0–7 | 0–8 |
+| <a href="#rassemblement-national-(enf)">Rassemblement national (ENF)</a> | 0 | 15 | 12–20 |11–21 | 11–21 | 10–22 |
 | <a href="#les-patriotes-(efdd)">Les Patriotes (EFDD)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#union-populaire-républicaine-(*)">Union populaire républicaine (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#nouveau-parti-anticapitaliste-(gue/ngl)">Nouveau Parti anticapitaliste (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0–4 |
-| <a href="#génération·s,-le-mouvement-(s&d)">Génération·s, le mouvement (S&D)</a> | 0 | 0 | 0–5 |0–6 | 0–6 | 0–7 |
+| <a href="#génération·s,-le-mouvement-(s&d)">Génération·s, le mouvement (S&D)</a> | 0 | 0 | 0–6 |0–6 | 0–6 | 0–7 |
 | <a href="#résistons!-(*)">Résistons! (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
 ### Nouveau Parti anticapitaliste (GUE/NGL)
@@ -376,11 +376,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 0% | 1.1% |  |
-| 2 | 0% | 1.1% |  |
-| 3 | 0% | 1.1% |  |
-| 4 | 1.1% | 1.1% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0% | 0.8% |  |
+| 2 | 0% | 0.8% |  |
+| 3 | 0% | 0.8% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 ### Parti communiste français (GUE/NGL)
@@ -407,16 +407,16 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 3% | 100% |  |
-| 7 | 10% | 97% |  |
-| 8 | 21% | 88% |  |
-| 9 | 12% | 67% |  |
-| 10 | 7% | 55% | Median |
-| 11 | 27% | 48% |  |
-| 12 | 13% | 21% |  |
-| 13 | 2% | 8% |  |
-| 14 | 5% | 6% |  |
-| 15 | 0.5% | 0.5% |  |
+| 6 | 4% | 100% |  |
+| 7 | 17% | 96% |  |
+| 8 | 14% | 79% |  |
+| 9 | 11% | 66% |  |
+| 10 | 9% | 55% | Median |
+| 11 | 19% | 46% |  |
+| 12 | 18% | 27% |  |
+| 13 | 6% | 9% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.6% | 0.7% |  |
 | 16 | 0% | 0% |  |
 
 ### Génération·s, le mouvement (S&D)
@@ -431,9 +431,9 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 33% |  |
 | 2 | 0% | 33% |  |
 | 3 | 0% | 33% |  |
-| 4 | 0.1% | 33% |  |
-| 5 | 23% | 33% |  |
-| 6 | 8% | 10% |  |
+| 4 | 0.8% | 33% |  |
+| 5 | 11% | 33% |  |
+| 6 | 19% | 21% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
@@ -449,13 +449,13 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 52% |  |
 | 2 | 0% | 52% |  |
 | 3 | 0% | 52% |  |
-| 4 | 2% | 52% |  |
-| 5 | 1.4% | 50% | Median |
+| 4 | 1.0% | 52% |  |
+| 5 | 2% | 51% | Median |
 | 6 | 7% | 49% |  |
-| 7 | 16% | 42% |  |
-| 8 | 11% | 26% |  |
-| 9 | 14% | 15% |  |
-| 10 | 2% | 2% |  |
+| 7 | 26% | 42% |  |
+| 8 | 10% | 16% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
 ### Parti socialiste (S&D)
@@ -466,16 +466,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0% | 87% |  |
-| 3 | 0% | 87% |  |
-| 4 | 9% | 87% |  |
-| 5 | 18% | 78% |  |
-| 6 | 15% | 59% | Median |
-| 7 | 38% | 44% |  |
-| 8 | 5% | 6% |  |
-| 9 | 1.1% | 1.3% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 0% | 95% |  |
+| 4 | 8% | 95% |  |
+| 5 | 21% | 86% |  |
+| 6 | 18% | 65% | Median |
+| 7 | 32% | 47% |  |
+| 8 | 6% | 15% |  |
+| 9 | 9% | 9% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
@@ -509,16 +509,16 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 0.4% | 99.9% |  |
 | 20 | 1.2% | 99.5% |  |
 | 21 | 4% | 98% |  |
-| 22 | 11% | 94% |  |
-| 23 | 9% | 83% |  |
-| 24 | 2% | 75% |  |
-| 25 | 14% | 73% |  |
-| 26 | 7% | 59% |  |
-| 27 | 8% | 52% | Median |
-| 28 | 27% | 44% |  |
-| 29 | 8% | 17% |  |
-| 30 | 2% | 10% |  |
-| 31 | 8% | 8% |  |
+| 22 | 10% | 94% |  |
+| 23 | 7% | 84% |  |
+| 24 | 4% | 77% |  |
+| 25 | 10% | 73% |  |
+| 26 | 21% | 63% | Median |
+| 27 | 21% | 42% |  |
+| 28 | 13% | 21% |  |
+| 29 | 5% | 8% |  |
+| 30 | 1.4% | 3% |  |
+| 31 | 1.3% | 1.3% |  |
 | 32 | 0% | 0% |  |
 
 ### Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
@@ -529,7 +529,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0% | 0.1% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 ### Les Républicains (EPP)
 
@@ -548,12 +554,12 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
-| 9 | 7% | 99.8% |  |
-| 10 | 16% | 93% |  |
-| 11 | 12% | 76% |  |
-| 12 | 21% | 64% | Median |
-| 13 | 25% | 43% |  |
-| 14 | 13% | 19% |  |
+| 9 | 3% | 99.8% |  |
+| 10 | 20% | 97% |  |
+| 11 | 12% | 77% |  |
+| 12 | 20% | 64% | Median |
+| 13 | 23% | 44% |  |
+| 14 | 17% | 22% |  |
 | 15 | 2% | 5% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0% | 0% |  |
@@ -566,15 +572,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 15% | 89% |  |
-| 5 | 28% | 74% | Median |
-| 6 | 36% | 46% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 0% | 88% |  |
+| 4 | 6% | 88% |  |
+| 5 | 36% | 81% | Median |
+| 6 | 35% | 45% |  |
 | 7 | 9% | 10% |  |
-| 8 | 0.3% | 0.3% |  |
+| 8 | 0.8% | 0.8% |  |
 | 9 | 0% | 0% |  |
 
 ### Rassemblement national (ENF)
@@ -595,16 +601,16 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 4% | 100% |  |
-| 11 | 5% | 96% |  |
-| 12 | 10% | 91% |  |
-| 13 | 6% | 81% |  |
-| 14 | 25% | 75% | Median |
-| 15 | 1.1% | 50% |  |
-| 16 | 15% | 49% |  |
-| 17 | 16% | 33% |  |
+| 10 | 1.1% | 100% |  |
+| 11 | 5% | 98.9% |  |
+| 12 | 12% | 94% |  |
+| 13 | 8% | 81% |  |
+| 14 | 15% | 73% |  |
+| 15 | 18% | 58% | Median |
+| 16 | 12% | 40% |  |
+| 17 | 10% | 28% |  |
 | 18 | 4% | 18% |  |
-| 19 | 1.5% | 14% |  |
+| 19 | 2% | 14% |  |
 | 20 | 3% | 12% |  |
 | 21 | 9% | 10% |  |
 | 22 | 1.3% | 1.3% |  |
@@ -650,13 +656,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) – La République en marche–Mouvement démocrate (ALDE) | 0 | 27 | 0% | 22–29 | 21–31 | 21–31 | 19–31 |
-| Rassemblement national (ENF) | 0 | 14 | 0% | 12–20 | 11–21 | 10–21 | 10–22 |
-| Les Républicains (EPP) | 0 | 12 | 0% | 10–14 | 9–15 | 9–16 | 9–16 |
-| La France insoumise (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) – Parti communiste français (GUE/NGL) | 0 | 10 | 0% | 7–12 | 7–14 | 7–14 | 6–14 |
-| Génération·s, le mouvement (S&D) – Parti socialiste (S&D) | 0 | 7 | 0% | 5–10 | 4–11 | 0–11 | 0–12 |
-| Europe Écologie Les Verts (Greens/EFA) | 0 | 5 | 0% | 0–9 | 0–9 | 0–9 | 0–10 |
-| Debout la France (EFDD) – Les Patriotes (EFDD) | 0 | 5 | 0% | 0–6 | 0–7 | 0–7 | 0–7 |
+| Agir, la droite constructive–Union des démocrates et indépendants (ALDE) – La République en marche–Mouvement démocrate (ALDE) | 0 | 26 | 0% | 22–28 | 21–29 | 21–30 | 19–31 |
+| Rassemblement national (ENF) | 0 | 15 | 0% | 12–20 | 11–21 | 11–21 | 10–22 |
+| Les Républicains (EPP) | 0 | 12 | 0% | 10–14 | 10–14 | 9–16 | 9–16 |
+| La France insoumise (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) – Parti communiste français (GUE/NGL) | 0 | 10 | 0% | 7–12 | 7–13 | 6–14 | 6–15 |
+| Génération·s, le mouvement (S&D) – Parti socialiste (S&D) | 0 | 7 | 0% | 5–11 | 4–12 | 0–12 | 0–12 |
+| Europe Écologie Les Verts (Greens/EFA) | 0 | 5 | 0% | 0–8 | 0–9 | 0–9 | 0–10 |
+| Debout la France (EFDD) – Les Patriotes (EFDD) | 0 | 5 | 0% | 0–7 | 0–7 | 0–7 | 0–8 |
 | Résistons! (*) – Union populaire républicaine (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Agir, la droite constructive–Union des démocrates et indépendants (ALDE) – La République en marche–Mouvement démocrate (ALDE)
@@ -685,16 +691,16 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 0.4% | 99.9% |  |
 | 20 | 1.2% | 99.5% |  |
 | 21 | 4% | 98% |  |
-| 22 | 11% | 94% |  |
-| 23 | 9% | 83% |  |
-| 24 | 2% | 75% |  |
-| 25 | 14% | 73% |  |
-| 26 | 7% | 59% |  |
-| 27 | 8% | 52% | Median |
-| 28 | 27% | 44% |  |
-| 29 | 8% | 17% |  |
-| 30 | 2% | 10% |  |
-| 31 | 8% | 8% |  |
+| 22 | 10% | 94% |  |
+| 23 | 7% | 84% |  |
+| 24 | 4% | 77% |  |
+| 25 | 10% | 73% |  |
+| 26 | 21% | 63% | Median |
+| 27 | 21% | 42% |  |
+| 28 | 13% | 21% |  |
+| 29 | 5% | 8% |  |
+| 30 | 1.4% | 3% |  |
+| 31 | 1.3% | 1.3% |  |
 | 32 | 0% | 0% |  |
 
 ### Rassemblement national (ENF)
@@ -711,16 +717,16 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 4% | 100% |  |
-| 11 | 5% | 96% |  |
-| 12 | 10% | 91% |  |
-| 13 | 6% | 81% |  |
-| 14 | 25% | 75% | Median |
-| 15 | 1.1% | 50% |  |
-| 16 | 15% | 49% |  |
-| 17 | 16% | 33% |  |
+| 10 | 1.1% | 100% |  |
+| 11 | 5% | 98.9% |  |
+| 12 | 12% | 94% |  |
+| 13 | 8% | 81% |  |
+| 14 | 15% | 73% |  |
+| 15 | 18% | 58% | Median |
+| 16 | 12% | 40% |  |
+| 17 | 10% | 28% |  |
 | 18 | 4% | 18% |  |
-| 19 | 1.5% | 14% |  |
+| 19 | 2% | 14% |  |
 | 20 | 3% | 12% |  |
 | 21 | 9% | 10% |  |
 | 22 | 1.3% | 1.3% |  |
@@ -740,12 +746,12 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
-| 9 | 7% | 99.8% |  |
-| 10 | 16% | 93% |  |
-| 11 | 12% | 76% |  |
-| 12 | 21% | 64% | Median |
-| 13 | 25% | 43% |  |
-| 14 | 13% | 19% |  |
+| 9 | 3% | 99.8% |  |
+| 10 | 20% | 97% |  |
+| 11 | 12% | 77% |  |
+| 12 | 20% | 64% | Median |
+| 13 | 23% | 44% |  |
+| 14 | 17% | 22% |  |
 | 15 | 2% | 5% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0% | 0% |  |
@@ -760,16 +766,16 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 2% | 100% |  |
-| 7 | 9% | 98% |  |
-| 8 | 21% | 89% |  |
-| 9 | 12% | 68% |  |
-| 10 | 7% | 56% | Median |
-| 11 | 27% | 49% |  |
-| 12 | 13% | 21% |  |
-| 13 | 2% | 8% |  |
-| 14 | 5% | 6% |  |
-| 15 | 0.5% | 0.5% |  |
+| 6 | 4% | 100% |  |
+| 7 | 16% | 96% |  |
+| 8 | 14% | 80% |  |
+| 9 | 11% | 66% |  |
+| 10 | 10% | 56% | Median |
+| 11 | 19% | 46% |  |
+| 12 | 18% | 27% |  |
+| 13 | 6% | 9% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.6% | 0.7% |  |
 | 16 | 0% | 0% |  |
 
 ### Génération·s, le mouvement (S&D) – Parti socialiste (S&D)
@@ -781,15 +787,16 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 97% |  |
 | 3 | 0% | 97% |  |
 | 4 | 6% | 97% |  |
-| 5 | 17% | 90% |  |
-| 6 | 14% | 74% | Median |
-| 7 | 38% | 60% |  |
-| 8 | 5% | 22% |  |
-| 9 | 3% | 17% |  |
-| 10 | 7% | 14% |  |
-| 11 | 5% | 7% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0% | 0% |  |
+| 5 | 10% | 90% |  |
+| 6 | 11% | 81% | Median |
+| 7 | 33% | 70% |  |
+| 8 | 6% | 38% |  |
+| 9 | 10% | 32% |  |
+| 10 | 6% | 21% |  |
+| 11 | 5% | 15% |  |
+| 12 | 10% | 10% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 ### Europe Écologie Les Verts (Greens/EFA)
 
@@ -799,28 +806,28 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 52% |  |
 | 2 | 0% | 52% |  |
 | 3 | 0% | 52% |  |
-| 4 | 2% | 52% |  |
-| 5 | 1.4% | 50% | Median |
+| 4 | 1.0% | 52% |  |
+| 5 | 2% | 51% | Median |
 | 6 | 7% | 49% |  |
-| 7 | 16% | 42% |  |
-| 8 | 11% | 26% |  |
-| 9 | 14% | 15% |  |
-| 10 | 2% | 2% |  |
+| 7 | 26% | 42% |  |
+| 8 | 10% | 16% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
 ### Debout la France (EFDD) – Les Patriotes (EFDD)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 15% | 89% |  |
-| 5 | 28% | 74% | Median |
-| 6 | 36% | 46% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 0% | 88% |  |
+| 4 | 6% | 88% |  |
+| 5 | 36% | 81% | Median |
+| 6 | 35% | 45% |  |
 | 7 | 9% | 10% |  |
-| 8 | 0.3% | 0.3% |  |
+| 8 | 0.8% | 0.8% |  |
 | 9 | 0% | 0% |  |
 
 ### Résistons! (*) – Union populaire républicaine (*)
