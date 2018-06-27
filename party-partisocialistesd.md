@@ -46,11 +46,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–7 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 0–9 | 0–9 | 0–9 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 7 | 7 | 7–8 | 7–8 | 6–8 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 7 | 6–8 | 6–8 | 6–9 | 6–10 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 5 | 4–6 | 0–6 | 0–6 | 0–6 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 
 ### Probability Mass Function
@@ -61,16 +61,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0% | 87% |  |
-| 3 | 0% | 87% |  |
-| 4 | 9% | 87% |  |
-| 5 | 18% | 78% |  |
-| 6 | 15% | 59% | Median |
-| 7 | 38% | 44% |  |
-| 8 | 5% | 6% |  |
-| 9 | 1.1% | 1.3% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 0% | 95% |  |
+| 4 | 8% | 95% |  |
+| 5 | 21% | 86% |  |
+| 6 | 18% | 65% | Median |
+| 7 | 32% | 47% |  |
+| 8 | 6% | 15% |  |
+| 9 | 9% | 9% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 

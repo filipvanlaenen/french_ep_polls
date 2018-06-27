@@ -46,11 +46,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–9 | 0–9 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 5 | 0–8 | 0–9 | 0–9 | 0–10 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 0 | 0 | 0 | 0–4 | 0–5 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 0 | 0 | 0 | 0–4 | 0–5 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 7 | 7–8 | 6–9 | 6–9 | 6–10 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 0 | 0 | 0 | 0–5 | 0–5 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 0 | 0 | 0–4 | 0–4 | 0–5 |
 
 ### Probability Mass Function
@@ -65,13 +65,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 52% |  |
 | 2 | 0% | 52% |  |
 | 3 | 0% | 52% |  |
-| 4 | 2% | 52% |  |
-| 5 | 1.4% | 50% | Median |
+| 4 | 1.0% | 52% |  |
+| 5 | 2% | 51% | Median |
 | 6 | 7% | 49% |  |
-| 7 | 16% | 42% |  |
-| 8 | 11% | 26% |  |
-| 9 | 14% | 15% |  |
-| 10 | 2% | 2% |  |
+| 7 | 26% | 42% |  |
+| 8 | 10% | 16% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.6% | 0.6% |  |
 | 11 | 0% | 0% |  |
 
 

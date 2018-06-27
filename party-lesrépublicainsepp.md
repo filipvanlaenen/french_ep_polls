@@ -54,11 +54,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–16 | 9–16 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 9–16 | 9–16 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 14 | 13–16 | 12–16 | 12–16 | 11–16 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 13 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 10 | 9–10 | 9–11 | 9–12 | 8–12 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 12 | 11–12 | 11–13 | 11–14 | 10–16 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 13 | 11–13 | 11–13 | 11–13 | 10–14 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 11 | 10–12 | 10–13 | 10–14 | 9–15 |
 
 ### Probability Mass Function
@@ -78,12 +78,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.2% | 100% |  |
-| 9 | 7% | 99.8% |  |
-| 10 | 16% | 93% |  |
-| 11 | 12% | 76% |  |
-| 12 | 21% | 64% | Median |
-| 13 | 25% | 43% |  |
-| 14 | 13% | 19% |  |
+| 9 | 3% | 99.8% |  |
+| 10 | 20% | 97% |  |
+| 11 | 12% | 77% |  |
+| 12 | 20% | 64% | Median |
+| 13 | 23% | 44% |  |
+| 14 | 17% | 22% |  |
 | 15 | 2% | 5% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0% | 0% |  |

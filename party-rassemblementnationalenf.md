@@ -58,11 +58,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–20 | 11–21 | 10–21 | 10–22 |
+| N/A | [Poll Average](average.html) | 15 | 12–20 | 11–21 | 11–21 | 10–22 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 19 | 16–21 | 16–22 | 16–22 | 15–22 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 14 | 14 | 13–14 | 13–14 | 13–15 |
-| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 12 | 10–13 | 10–14 | 10–14 | 10–14 |
-| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 16 | 16–17 | 16–17 | 15–18 | 13–19 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 14 | 14–16 | 13–16 | 12–16 | 12–17 |
+| [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
+| [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 15 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 16 | 15–17 | 14–18 | 14–19 | 14–20 |
 
 ### Probability Mass Function
@@ -83,16 +83,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 4% | 100% |  |
-| 11 | 5% | 96% |  |
-| 12 | 10% | 91% |  |
-| 13 | 6% | 81% |  |
-| 14 | 25% | 75% | Median |
-| 15 | 1.1% | 50% |  |
-| 16 | 15% | 49% |  |
-| 17 | 16% | 33% |  |
+| 10 | 1.1% | 100% |  |
+| 11 | 5% | 98.9% |  |
+| 12 | 12% | 94% |  |
+| 13 | 8% | 81% |  |
+| 14 | 15% | 73% |  |
+| 15 | 18% | 58% | Median |
+| 16 | 12% | 40% |  |
+| 17 | 10% | 28% |  |
 | 18 | 4% | 18% |  |
-| 19 | 1.5% | 14% |  |
+| 19 | 2% | 14% |  |
 | 20 | 3% | 12% |  |
 | 21 | 9% | 10% |  |
 | 22 | 1.3% | 1.3% |  |
