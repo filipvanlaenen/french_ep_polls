@@ -73,7 +73,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 22–28 | 21–29 | 21–30 | 19–31 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 22 | 21–24 | 20–24 | 20–25 | 18–27 |
-| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 27 | 25–28 | 25–29 | 25–30 | 25–30 |
+| [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [7–11 May 2018](2018-05-11-Viavoice.html) | Viavoice <br> Europe Écologie Les Verts | 27 | 26–29 | 26–31 | 25–31 | 25–31 |
 | [7–9 May 2018](2018-05-09-Ifop.html) | Ifop <br> Valeurs Actuelles | 27 | 24–28 | 24–29 | 23–29 | 22–29 |
 | [29 November–1 December 2017](2017-12-01-Ifop.html) | Ifop <br> Le Figaro | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
@@ -112,12 +112,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 7% | 84% |  |
 | 24 | 4% | 77% |  |
 | 25 | 10% | 73% |  |
-| 26 | 21% | 63% | Median |
-| 27 | 21% | 42% |  |
-| 28 | 13% | 21% |  |
-| 29 | 5% | 8% |  |
-| 30 | 1.4% | 3% |  |
-| 31 | 1.3% | 1.3% |  |
+| 26 | 20% | 63% | Median |
+| 27 | 22% | 43% |  |
+| 28 | 12% | 21% |  |
+| 29 | 6% | 10% |  |
+| 30 | 2% | 3% |  |
+| 31 | 1.4% | 1.4% |  |
 | 32 | 0% | 0% |  |
 
 
