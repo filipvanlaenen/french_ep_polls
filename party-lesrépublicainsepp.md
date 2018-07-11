@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.6% | 11.7–15.8% | 11.3–16.3% | 11.0–16.7% | 10.4–17.5% |
+| [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 15.0% | 13.7–16.6% | 13.3–17.0% | 12.9–17.4% | 12.3–18.2% |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 15.0% | 13.8–16.3% | 13.5–16.7% | 13.2–17.0% | 12.7–17.6% |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 15.0% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.3–18.2% |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 13.0% | 12.0–14.1% | 11.7–14.4% | 11.4–14.7% | 11.0–15.2% |
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–14 | 10–16 | 10–16 | 9–17 |
+| [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 14 | 13–16 | 12–16 | 12–16 | 11–16 |
 | [22–23 May 2018](2018-05-23-HarrisInteractive.html) | Harris Interactive <br> LCP – Assemblée nationale | 13 | 11–13 | 11–13 | 11–14 | 10–14 |
