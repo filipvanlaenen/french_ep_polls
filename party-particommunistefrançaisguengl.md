@@ -4,13 +4,13 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 25 May 2014)
+Last result: **6.6%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.9–2.7% | 0.8–2.9% | 0.7–3.1% | 0.5–3.5% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.6% | 0.7–2.8% | 0.6–3.1% | 0.5–3.4% |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.8% |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -25,17 +25,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% | Last Result |
-| 0.5–1.5% | 41% | 99.3% |  |
-| 1.5–2.5% | 44% | 58% | Median |
-| 2.5–3.5% | 14% | 14% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 1.0% | 100% |  |
+| 0.5–1.5% | 49% | 99.0% |  |
+| 1.5–2.5% | 39% | 50% | Median |
+| 2.5–3.5% | 11% | 12% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% | Last Result |
 
 
 ## Seats
 
-Last result: **0** seats (General Election of 25 May 2014)
+Last result: **1** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
@@ -58,6 +60,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 

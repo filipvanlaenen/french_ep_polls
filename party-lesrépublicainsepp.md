@@ -4,13 +4,13 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 25 May 2014)
+Last result: **20.8%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 11.7–15.8% | 11.3–16.3% | 11.0–16.7% | 10.4–17.5% |
+| N/A | [Poll Average](average.html) | 13.9% | 11.8–16.0% | 11.4–16.5% | 11.1–16.9% | 10.5–17.7% |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 15.0% | 13.7–16.6% | 13.3–17.0% | 12.9–17.4% | 12.3–18.2% |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 15.0% | 13.8–16.3% | 13.5–16.7% | 13.2–17.0% | 12.7–17.6% |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 15.0% | 13.7–16.6% | 13.3–17.0% | 13.0–17.4% | 12.3–18.2% |
@@ -25,37 +25,30 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.8% | 100% |  |
-| 10.5–11.5% | 7% | 99.2% |  |
-| 11.5–12.5% | 19% | 92% |  |
-| 12.5–13.5% | 23% | 73% |  |
-| 13.5–14.5% | 20% | 50% | Median |
-| 14.5–15.5% | 17% | 30% |  |
-| 15.5–16.5% | 10% | 13% |  |
-| 16.5–17.5% | 3% | 3% |  |
-| 17.5–18.5% | 0.4% | 0.5% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 9.5–10.5% | 0.6% | 100% |  |
+| 10.5–11.5% | 6% | 99.3% |  |
+| 11.5–12.5% | 16% | 94% |  |
+| 12.5–13.5% | 21% | 78% |  |
+| 13.5–14.5% | 21% | 57% | Median |
+| 14.5–15.5% | 20% | 36% |  |
+| 15.5–16.5% | 12% | 17% |  |
+| 16.5–17.5% | 4% | 4% |  |
+| 17.5–18.5% | 0.6% | 0.7% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 0% | Last Result |
 
 
 ## Seats
 
-Last result: **0** seats (General Election of 25 May 2014)
+Last result: **20** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–14 | 10–16 | 10–16 | 9–17 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–16 | 10–16 | 9–17 |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 14 | 13–16 | 12–16 | 12–16 | 11–16 |
@@ -72,25 +65,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0.2% | 100% |  |
-| 9 | 2% | 99.8% |  |
-| 10 | 16% | 98% |  |
-| 11 | 10% | 81% |  |
-| 12 | 19% | 71% |  |
-| 13 | 19% | 52% | Median |
-| 14 | 23% | 33% |  |
-| 15 | 4% | 10% |  |
-| 16 | 4% | 5% |  |
-| 17 | 0.9% | 1.1% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 2% | 99.9% |  |
+| 10 | 14% | 98% |  |
+| 11 | 8% | 84% |  |
+| 12 | 16% | 76% |  |
+| 13 | 17% | 60% | Median |
+| 14 | 21% | 43% |  |
+| 15 | 12% | 22% |  |
+| 16 | 8% | 10% |  |
+| 17 | 1.4% | 2% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
+| 20 | 0% | 0% | Last Result |
 
 
