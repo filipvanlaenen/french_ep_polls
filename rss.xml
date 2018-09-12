@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 12 Sep 2018 10:32:33 +0200</pubDate>
+    <pubDate>Wed, 12 Sep 2018 10:36:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for Paris Match and Sud Radio, 30–31 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-08-31-Ifop-Fiducial.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-08-31-Ifop-Fiducial.png"
         length="353215"
         type="image/png"/>
-      <pubDate>Wed, 12 Sep 2018 10:32:33 +0200</pubDate>
-      <dc:date>2018-09-12T10:32:33.766551+02:00</dc:date>
+      <pubDate>Wed, 12 Sep 2018 10:36:22 +0200</pubDate>
+      <dc:date>2018-09-12T10:36:22.920207+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Le Monde, 27 June–2 July 2018 – Seat Projections for the Parties</title>
@@ -229,6 +229,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2018-09-12T10:32:33.766551+02:00</dc:date>
+    <dc:date>2018-09-12T10:36:22.920207+02:00</dc:date>
   </channel>
 </rss>
