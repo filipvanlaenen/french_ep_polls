@@ -282,6 +282,8 @@
 
 ### La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-lrem–modem–agir–udi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -309,6 +311,8 @@
 
 ### Rassemblement national (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-rn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.1% | 100% |  |
@@ -325,6 +329,8 @@
 
 ### Les Républicains (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-lr.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 3% | 100% |  |
@@ -339,6 +345,8 @@
 | 20 | 0% | 0% | Last Result |
 
 ### La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-fi–pcf–npa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -359,6 +367,8 @@
 
 ### Europe Écologie Les Verts (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-eelv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% |  |
@@ -374,6 +384,8 @@
 
 ### Debout la France (EFDD) – Les Patriotes (EFDD)
 
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-dlf–lp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 19% | 100% | Last Result |
@@ -387,6 +399,8 @@
 | 8 | 0% | 0% |  |
 
 ### Parti socialiste (S&D) – Génération·s, le mouvement (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-06-27-Ifop-Fiducial-coalitions-seats-pmf-ps–g·s.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

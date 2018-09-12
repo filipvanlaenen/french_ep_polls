@@ -296,6 +296,8 @@
 
 ### La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-lrem–modem–agir–udi.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0% | 100% | Last Result |
@@ -327,6 +329,8 @@
 
 ### Rassemblement national (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-rn.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 3% | 100% |  |
@@ -345,6 +349,8 @@
 
 ### Les Républicains (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-lr.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 1.5% | 100% |  |
@@ -360,6 +366,8 @@
 | 20 | 0% | 0% | Last Result |
 
 ### La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-fi–pcf–npa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -380,6 +388,8 @@
 
 ### Parti socialiste (S&D) – Génération·s, le mouvement (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-ps–g·s.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
@@ -393,6 +403,8 @@
 | 13 | 0% | 0% | Last Result |
 
 ### Debout la France (EFDD) – Les Patriotes (EFDD)
+
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-dlf–lp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -410,6 +422,8 @@
 
 ### Europe Écologie Les Verts (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-eelv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 96% | 100% | Median |
@@ -421,6 +435,8 @@
 | 6 | 0% | 0% | Last Result |
 
 ### Résistons! (*) – Union populaire républicaine (*)
+
+![Graph with seats probability mass function not yet produced](2018-05-23-HarrisInteractive-coalitions-seats-pmf-r–upr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

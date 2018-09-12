@@ -10,7 +10,8 @@ Last result: **24.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 14.0–20.0% | 13.5–20.6% | 13.1–21.1% | 12.4–22.1% |
+| N/A | [Poll Average](average.html) | 17.5% | 16.1–19.2% | 15.7–19.7% | 15.4–20.2% | 14.7–21.0% |
+| [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 17.0% | 15.8–18.4% | 15.5–18.8% | 15.2–19.1% | 14.6–19.8% |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 18.0% | 16.6–19.7% | 16.1–20.1% | 15.8–20.5% | 15.1–21.4% |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 19.0% | 17.7–20.4% | 17.3–20.8% | 17.0–21.2% | 16.4–21.9% |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 19.5% | 18.0–21.2% | 17.6–21.7% | 17.2–22.1% | 16.5–22.9% |
@@ -25,19 +26,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.7% | 100% |  |
-| 12.5–13.5% | 5% | 99.3% |  |
-| 13.5–14.5% | 12% | 94% |  |
-| 14.5–15.5% | 13% | 83% |  |
-| 15.5–16.5% | 10% | 70% |  |
-| 16.5–17.5% | 12% | 60% | Median |
-| 17.5–18.5% | 16% | 48% |  |
-| 18.5–19.5% | 16% | 32% |  |
-| 19.5–20.5% | 10% | 16% |  |
-| 20.5–21.5% | 4% | 5% |  |
-| 21.5–22.5% | 1.0% | 1.2% |  |
-| 22.5–23.5% | 0.2% | 0.2% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 3% | 99.7% |  |
+| 15.5–16.5% | 16% | 96% |  |
+| 16.5–17.5% | 30% | 80% |  |
+| 17.5–18.5% | 28% | 49% | Median |
+| 18.5–19.5% | 15% | 21% |  |
+| 19.5–20.5% | 5% | 6% |  |
+| 20.5–21.5% | 1.1% | 1.3% |  |
+| 21.5–22.5% | 0.1% | 0.2% |  |
+| 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% | Last Result |
 
@@ -50,7 +49,8 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 12–20 | 12–21 | 11–21 | 10–22 |
+| N/A | [Poll Average](average.html) | 16 | 15–20 | 15–20 | 15–21 | 13–21 |
+| [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 15 | 15–17 | 15–17 | 15–17 | 13–18 |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 18 | 15–20 | 15–21 | 15–21 | 15–21 |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 19 | 16–21 | 16–22 | 16–22 | 15–22 |
@@ -67,20 +67,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 4% | 99.3% |  |
-| 12 | 8% | 96% |  |
-| 13 | 6% | 88% |  |
-| 14 | 10% | 81% |  |
-| 15 | 17% | 72% |  |
-| 16 | 9% | 54% | Median |
-| 17 | 13% | 46% |  |
-| 18 | 11% | 33% |  |
-| 19 | 6% | 21% |  |
-| 20 | 7% | 15% |  |
-| 21 | 7% | 8% |  |
-| 22 | 1.0% | 1.0% |  |
-| 23 | 0.1% | 0.1% |  |
+| 13 | 0.7% | 100% |  |
+| 14 | 0.2% | 99.3% |  |
+| 15 | 45% | 99.1% |  |
+| 16 | 14% | 54% | Median |
+| 17 | 12% | 41% |  |
+| 18 | 5% | 29% |  |
+| 19 | 9% | 23% |  |
+| 20 | 12% | 15% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
 | 24 | 0% | 0% | Last Result |
 
 
