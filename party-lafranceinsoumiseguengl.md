@@ -48,8 +48,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 11–15 | 11–15 |
-| [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
+| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–14 | 10–15 | 10–17 |
+| [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 13 | 11–14 | 11–15 | 10–15 | 10–17 |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [25–27 June 2018](2018-06-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 11 | 9–12 | 8–12 | 8–12 | 8–12 |
 | [29–30 May 2018](2018-05-30-ELABE.html) | ELABE <br> BFMTV | 9 | 7–10 | 7–11 | 7–11 | 7–11 |
@@ -75,13 +75,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 13% | 99.7% |  |
-| 12 | 32% | 87% |  |
-| 13 | 24% | 55% | Median |
+| 10 | 3% | 100% |  |
+| 11 | 17% | 97% |  |
+| 12 | 29% | 80% |  |
+| 13 | 20% | 52% | Median |
 | 14 | 27% | 31% |  |
-| 15 | 4% | 4% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 15 | 3% | 4% |  |
+| 16 | 0.2% | 0.8% |  |
+| 17 | 0.5% | 0.5% |  |
+| 18 | 0% | 0% |  |
 
 
