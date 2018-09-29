@@ -10,7 +10,7 @@ Last result: **24.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 16.1–19.2% | 15.7–19.7% | 15.4–20.2% | 14.7–21.0% |
+| N/A | [Poll Average](average.html) | 18.3% | 16.3–21.7% | 15.9–22.4% | 15.5–23.0% | 14.9–24.0% |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 20.9% | 19.3–22.8% | 18.8–23.3% | 18.4–23.7% | 17.6–24.6% |
 | [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 17.0% | 15.8–18.4% | 15.5–18.8% | 15.2–19.1% | 14.6–19.8% |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 18.0% | 16.6–19.7% | 16.1–20.1% | 15.8–20.5% | 15.1–21.4% |
@@ -28,18 +28,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.3% | 100% |  |
-| 14.5–15.5% | 3% | 99.7% |  |
-| 15.5–16.5% | 16% | 96% |  |
-| 16.5–17.5% | 30% | 80% |  |
-| 17.5–18.5% | 28% | 49% | Median |
-| 18.5–19.5% | 15% | 21% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 1.1% | 1.3% |  |
-| 21.5–22.5% | 0.1% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
-| 23.5–24.5% | 0% | 0% |  |
-| 24.5–25.5% | 0% | 0% | Last Result |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 2% | 99.8% |  |
+| 15.5–16.5% | 11% | 97% |  |
+| 16.5–17.5% | 20% | 87% |  |
+| 17.5–18.5% | 20% | 66% | Median |
+| 18.5–19.5% | 14% | 46% |  |
+| 19.5–20.5% | 11% | 33% |  |
+| 20.5–21.5% | 10% | 22% |  |
+| 21.5–22.5% | 7% | 11% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 0.9% | 1.1% |  |
+| 24.5–25.5% | 0.2% | 0.2% | Last Result |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -50,7 +51,7 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–20 | 14–20 | 14–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 14–22 | 14–23 | 14–24 |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 22 | 20–22 | 19–23 | 19–24 | 16–25 |
 | [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 16 | 14–17 | 14–18 | 14–18 | 14–19 |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 18 | 15–20 | 15–21 | 15–21 | 15–21 |
@@ -69,17 +70,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 9% | 99.8% |  |
-| 15 | 28% | 91% |  |
-| 16 | 17% | 63% | Median |
-| 17 | 15% | 46% |  |
-| 18 | 8% | 31% |  |
-| 19 | 9% | 24% |  |
-| 20 | 12% | 15% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% | Last Result |
+| 13 | 0.1% | 100% |  |
+| 14 | 6% | 99.9% |  |
+| 15 | 19% | 94% |  |
+| 16 | 11% | 75% |  |
+| 17 | 10% | 64% |  |
+| 18 | 5% | 54% | Median |
+| 19 | 7% | 48% |  |
+| 20 | 14% | 41% |  |
+| 21 | 3% | 28% |  |
+| 22 | 22% | 25% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.6% | 0.9% | Last Result |
+| 25 | 0.2% | 0.3% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0.1% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 
