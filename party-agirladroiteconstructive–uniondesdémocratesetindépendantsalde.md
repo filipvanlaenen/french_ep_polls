@@ -11,6 +11,7 @@ Last result: **2.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.2–3.7% | 2.0–3.9% | 1.9–4.2% | 1.7–4.6% |
+| [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 3.0% | 2.4–3.9% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.8% |
 | [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.5% | 1.6–3.8% |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -31,7 +32,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 28% | 99.9% | Last Result |
 | 2.5–3.5% | 58% | 72% | Median |
 | 3.5–4.5% | 13% | 14% |  |
-| 4.5–5.5% | 0.6% | 0.6% |  |
+| 4.5–5.5% | 0.7% | 0.7% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -44,6 +45,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 0 | 0 | 0 | 0 | 0–4 |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 0 | 0 | 0 | 0 | 0 |
 | [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [27 June–2 July 2018](2018-07-02-Ipsos.html) | Ipsos <br> Le Monde | 0 | 0 | 0 | 0 | 0 |
@@ -62,6 +64,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0% | 0.5% |  |
+| 2 | 0% | 0.5% |  |
+| 3 | 0% | 0.5% |  |
+| 4 | 0.5% | 0.5% |  |
+| 5 | 0% | 0% |  |
 
 
