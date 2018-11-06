@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 23 Sep 2018 17:06:31 +0200</pubDate>
+    <pubDate>Tue, 06 Nov 2018 10:56:47 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop for La Lettre de l’Expansion, 30–31 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5–9 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 15–20 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10–14 seats&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 5–8 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ENF): 17–22 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop-seats.png"
+        length="304087"
+        type="image/png"/>
+      <pubDate>Tue, 06 Nov 2018 10:56:47 +0100</pubDate>
+      <dc:date>2018-11-06T10:56:47.297519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for La Lettre de l’Expansion, 30–31 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop-coalitions-seats.png"
+        length="183859"
+        type="image/png"/>
+      <pubDate>Tue, 06 Nov 2018 10:56:47 +0100</pubDate>
+      <dc:date>2018-11-06T10:56:47.297519+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for La Lettre de l’Expansion, 30–31 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.3–3.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9.2–13.3%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 1.7–3.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5.5–8.8%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 6.0–9.4%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 16.6–21.7%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.0–15.4%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 5.5–8.8%&lt;/li&gt;&lt;li&gt;Rassemblement national (ENF): 18.5–23.8%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.5–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop.png"
+        length="371925"
+        type="image/png"/>
+      <pubDate>Tue, 06 Nov 2018 10:56:47 +0100</pubDate>
+      <dc:date>2018-11-06T10:56:47.297519+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Odoxa for France Info and Le Figaro, 12–13 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-09-13-Odoxa.html#seats</link>
@@ -279,6 +309,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2018-09-23T17:06:31.795247+02:00</dc:date>
+    <dc:date>2018-11-06T10:56:47.297519+01:00</dc:date>
   </channel>
 </rss>
