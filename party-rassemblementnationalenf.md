@@ -11,6 +11,7 @@ Last result: **24.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.1% | 16.5–22.4% | 16.0–23.0% | 15.7–23.5% | 15.0–24.4% |
+| [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 21.0% | 19.3–22.8% | 18.9–23.3% | 18.5–23.8% | 17.7–24.7% |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 20.9% | 19.3–22.8% | 18.8–23.3% | 18.4–23.7% | 17.6–24.6% |
 | [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 17.0% | 15.8–18.4% | 15.5–18.8% | 15.2–19.1% | 14.6–19.8% |
@@ -54,6 +55,7 @@ Last result: **24** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 15–22 | 14–22 | 14–23 | 14–24 |
+| [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 19 | 19 | 18–19 | 18–19 | 17–23 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 22 | 20–22 | 19–23 | 19–24 | 16–25 |
 | [30–31 August 2018](2018-08-31-Ifop-Fiducial.html) | Ifop-Fiducial <br> Paris Match and Sud Radio | 16 | 14–17 | 14–18 | 14–18 | 14–19 |
