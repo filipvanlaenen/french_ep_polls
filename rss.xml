@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 06 Nov 2018 10:56:47 +0100</pubDate>
+    <pubDate>Fri, 16 Nov 2018 19:20:33 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV, 6–7 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-11-07-ELABE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5.6–8.7%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 17.1–22.0%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12.9–17.3%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ENF): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-11-07-ELABE.png"
+        length="367851"
+        type="image/png"/>
+      <pubDate>Fri, 16 Nov 2018 19:20:33 +0100</pubDate>
+      <dc:date>2018-11-16T19:20:33.130588+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop for La Lettre de l’Expansion, 30–31 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-10-31-Ifop.html#seats</link>
@@ -309,6 +319,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2018-11-06T10:56:47.297519+01:00</dc:date>
+    <dc:date>2018-11-16T19:20:33.130588+01:00</dc:date>
   </channel>
 </rss>
