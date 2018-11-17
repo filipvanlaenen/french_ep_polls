@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 16 Nov 2018 19:20:33 +0100</pubDate>
+    <pubDate>Fri, 16 Nov 2018 19:26:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by ELABE for BFMTV, 6–7 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-11-07-ELABE.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-11-07-ELABE.png"
         length="367851"
         type="image/png"/>
-      <pubDate>Fri, 16 Nov 2018 19:20:33 +0100</pubDate>
-      <dc:date>2018-11-16T19:20:33.130588+01:00</dc:date>
+      <pubDate>Fri, 16 Nov 2018 19:26:07 +0100</pubDate>
+      <dc:date>2018-11-16T19:26:07.868401+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop for La Lettre de l’Expansion, 30–31 October 2018 – Seat Projections for the Parties</title>
@@ -319,6 +319,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2018-11-16T19:20:33.130588+01:00</dc:date>
+    <dc:date>2018-11-16T19:26:07.868401+01:00</dc:date>
   </channel>
 </rss>
