@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.5–7.7% | 5.2–8.0% | 4.9–8.4% | 4.4–9.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.5–7.7% | 5.2–8.0% | 5.0–8.3% | 4.5–9.0% |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.0–9.4% |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.3% |
@@ -33,12 +33,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.8% | 100% |  |
-| 4.5–5.5% | 11% | 99.2% |  |
-| 5.5–6.5% | 40% | 88% |  |
-| 6.5–7.5% | 36% | 48% | Median |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 2% | 2% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 11% | 99.4% |  |
+| 5.5–6.5% | 40% | 89% |  |
+| 6.5–7.5% | 36% | 49% | Median |
+| 7.5–8.5% | 11% | 12% |  |
+| 8.5–9.5% | 1.4% | 1.5% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -51,7 +51,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 0–8 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 5 | 5–6 | 5–6 | 4–7 | 0–7 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 5 | 5–6 | 5–7 | 5–7 | 0–8 |
@@ -76,12 +76,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 98.7% |  |
 | 2 | 0% | 98.7% |  |
 | 3 | 0% | 98.7% |  |
-| 4 | 0.2% | 98.7% |  |
-| 5 | 34% | 98% |  |
-| 6 | 43% | 65% | Median |
-| 7 | 19% | 22% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.4% | 0.4% |  |
+| 4 | 0.8% | 98.7% |  |
+| 5 | 37% | 98% |  |
+| 6 | 44% | 61% | Median |
+| 7 | 15% | 17% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
