@@ -47,8 +47,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 0 | 0 | 0 | 0 | 0–4 |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 0 | 0 | 0 | 0 | 0 |
@@ -69,12 +69,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 0% | 18% |  |
-| 2 | 0% | 18% |  |
-| 3 | 0% | 18% |  |
-| 4 | 14% | 18% |  |
-| 5 | 4% | 4% |  |
-| 6 | 0% | 0% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 0% | 15% |  |
+| 4 | 14% | 15% |  |
+| 5 | 1.1% | 1.5% |  |
+| 6 | 0.4% | 0.4% |  |
+| 7 | 0% | 0% |  |
 
 
