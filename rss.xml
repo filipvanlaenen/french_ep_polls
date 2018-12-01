@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Nov 2018 14:33:35 +0100</pubDate>
+    <pubDate>Sat, 01 Dec 2018 08:15:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop, 9–12 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2018-11-12-Ifop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.3–3.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8.3–12.1%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5.5–8.8%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.7–7.7%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 16.7–21.7%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Résistons! (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.0–15.3%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Rassemblement national (ENF): 19.5–24.8%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2018-11-12-Ifop.png"
+        length="382645"
+        type="image/png"/>
+      <pubDate>Sat, 01 Dec 2018 08:15:23 +0100</pubDate>
+      <dc:date>2018-12-01T08:15:23.123527+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by ELABE for BFMTV, 6–7 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2018-11-07-ELABE.html#seats</link>
@@ -339,6 +349,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2018-11-19T14:33:35.95177+01:00</dc:date>
+    <dc:date>2018-12-01T08:15:23.123527+01:00</dc:date>
   </channel>
 </rss>
