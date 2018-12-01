@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.4–2.8% | 1.2–3.1% | 1.1–3.3% | 0.9–3.7% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.4–2.8% | 1.3–3.1% | 1.1–3.3% | 0.9–3.7% |
+| [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.8–2.9% |
@@ -31,7 +32,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 16% | 100% |  |
-| 1.5–2.5% | 63% | 84% | Median |
+| 1.5–2.5% | 64% | 84% | Median |
 | 2.5–3.5% | 19% | 20% |  |
 | 3.5–4.5% | 1.0% | 1.0% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -48,6 +49,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 0 | 0 | 0 | 0 | 0 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 0 | 0 | 0 | 0 | 0 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 0 | 0 | 0 | 0 | 0 |
 | [12–13 September 2018](2018-09-13-Odoxa.html) | Odoxa <br> France Info and Le Figaro | 0 | 0 | 0 | 0 | 0 |
