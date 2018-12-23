@@ -58,7 +58,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 0 | 0 | 0 | 0 | 0 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 0 | 0 | 0 | 0 | 0 |
 | [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 0 | 0 | 0 | 0 | 0 |
-| [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 0 | 0 | 0 | 0 | 0 |
+| [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 0 | 0 | 0 | 0 | 0–4 |

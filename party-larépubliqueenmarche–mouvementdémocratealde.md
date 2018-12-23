@@ -62,12 +62,12 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–22 | 17–22 | 17–22 | 16–25 |
-| [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 18 | 18 | 18 | 18 | 18 |
+| N/A | [Poll Average](average.html) | 18 | 17–21 | 16–21 | 16–21 | 14–22 |
+| [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 18 | 16–19 | 15–21 | 14–21 | 14–22 |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 18 | 17–19 | 17–19 | 17–19 | 15–21 |
-| [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 22 | 18–22 | 17–23 | 17–25 | 17–25 |
-| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 18 | 17–20 | 17–22 | 17–22 | 17–22 |
-| [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 14 | 13–14 | 13–14 | 13–14 | 13–14 |
+| [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 21 | 20–21 | 20–21 | 20–21 | 19–22 |
+| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 18 | 18–20 | 18–20 | 18–21 | 17–23 |
+| [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 16 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 18 | 16–20 | 16–21 | 15–22 | 14–22 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 17 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 18 | 17–19 | 16–20 | 15–20 | 14–21 |
@@ -96,18 +96,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.2% | 100% |  |
-| 16 | 1.2% | 99.8% |  |
-| 17 | 19% | 98.6% |  |
-| 18 | 45% | 80% | Median |
-| 19 | 13% | 35% |  |
-| 20 | 8% | 22% |  |
-| 21 | 0.4% | 14% |  |
-| 22 | 12% | 14% |  |
-| 23 | 0.9% | 1.4% |  |
-| 24 | 0% | 0.6% |  |
-| 25 | 0.5% | 0.5% |  |
-| 26 | 0% | 0% |  |
+| 14 | 1.0% | 100% |  |
+| 15 | 0.3% | 99.0% |  |
+| 16 | 5% | 98.7% |  |
+| 17 | 13% | 94% |  |
+| 18 | 41% | 81% | Median |
+| 19 | 9% | 40% |  |
+| 20 | 14% | 31% |  |
+| 21 | 16% | 17% |  |
+| 22 | 0.5% | 0.8% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0% | 0% |  |
 
 
