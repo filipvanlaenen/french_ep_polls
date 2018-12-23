@@ -10,7 +10,12 @@ Last result: **9.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 4.8–8.1% | 4.4–8.5% | 4.2–8.8% | 3.7–9.3% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.2–14.0% | 5.8–14.8% | 5.4–15.4% | 4.8–16.3% |
+| [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 6.5% | 5.4–8.0% | 5.1–8.5% | 4.8–8.8% | 4.3–9.6% |
+| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.4–9.9% | 6.0–10.5% |
+| [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 14.0% | 12.7–15.5% | 12.3–16.0% | 11.9–16.4% | 11.3–17.1% |
+| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.0–8.1% | 5.7–8.4% |
+| [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.1–9.4% |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 7.0% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.0–9.4% |
@@ -30,16 +35,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 6% | 99.7% |  |
-| 4.5–5.5% | 14% | 94% |  |
-| 5.5–6.5% | 20% | 80% |  |
-| 6.5–7.5% | 34% | 60% | Median |
-| 7.5–8.5% | 22% | 26% |  |
-| 8.5–9.5% | 4% | 4% | Last Result |
-| 9.5–10.5% | 0.2% | 0.2% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 16% | 97% |  |
+| 6.5–7.5% | 34% | 81% | Median |
+| 7.5–8.5% | 19% | 47% |  |
+| 8.5–9.5% | 6% | 28% | Last Result |
+| 9.5–10.5% | 1.1% | 21% |  |
+| 10.5–11.5% | 0.3% | 20% |  |
+| 11.5–12.5% | 1.5% | 20% |  |
+| 12.5–13.5% | 5% | 18% |  |
+| 13.5–14.5% | 7% | 13% |  |
+| 14.5–15.5% | 5% | 7% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -50,7 +61,12 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 0–8 | 0–9 | 0–9 |
+| N/A | [Poll Average](average.html) | 6 | 6–16 | 6–16 | 6–16 | 5–16 |
+| [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 6 | 6 | 6 | 6 | 6 |
+| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 9 | 8–9 | 6–9 | 6–9 | 6–9 |
+| [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 16 | 12–16 | 11–16 | 11–16 | 11–16 |
+| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 6 | 6 | 6–8 | 6–8 | 6–8 |
+| [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 7 | 5–9 | 5–9 | 5–9 | 4–9 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 6 | 6 | 5–7 | 5–7 | 4–8 |
 | [30–31 October 2018](2018-10-31-Ifop.html) | Ifop <br> La Lettre de l’Expansion | 6 | 5–7 | 5–8 | 5–8 | 0–8 |
@@ -72,16 +88,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 0% | 94% |  |
-| 2 | 0% | 94% |  |
-| 3 | 0% | 94% |  |
-| 4 | 11% | 94% |  |
-| 5 | 11% | 82% |  |
-| 6 | 37% | 71% | Last Result, Median |
-| 7 | 22% | 34% |  |
-| 8 | 8% | 12% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 0.1% | 99.9% |  |
+| 5 | 2% | 99.8% |  |
+| 6 | 57% | 98% | Last Result, Median |
+| 7 | 2% | 41% |  |
+| 8 | 6% | 39% |  |
+| 9 | 13% | 33% |  |
+| 10 | 0% | 20% |  |
+| 11 | 1.5% | 20% |  |
+| 12 | 5% | 19% |  |
+| 13 | 0.5% | 14% |  |
+| 14 | 2% | 13% |  |
+| 15 | 0.1% | 11% |  |
+| 16 | 11% | 11% |  |
+| 17 | 0% | 0% |  |
 
 
