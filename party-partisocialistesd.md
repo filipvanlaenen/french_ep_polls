@@ -60,7 +60,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 6 | 0–7 | 0–8 | 0–8 | 0–9 |
-| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 0 | 0 | 0–5 | 0–5 | 0–5 |
+| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 5 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 0 | 0 | 0 | 0 | 0–5 |
 | [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 6 | 0–6 | 0–6 | 0–6 | 0–6 |
 | [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 11 | 9–11 | 8–12 | 8–12 | 8–13 |
@@ -85,13 +85,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% |  |
-| 1 | 0% | 55% |  |
-| 2 | 0% | 55% |  |
-| 3 | 0% | 55% |  |
-| 4 | 0.1% | 55% |  |
-| 5 | 14% | 55% | Median |
-| 6 | 22% | 40% |  |
+| 0 | 32% | 100% |  |
+| 1 | 0% | 68% |  |
+| 2 | 0% | 68% |  |
+| 3 | 0% | 68% |  |
+| 4 | 0.1% | 68% |  |
+| 5 | 27% | 68% | Median |
+| 6 | 22% | 41% |  |
 | 7 | 16% | 18% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.3% | 0.3% |  |
