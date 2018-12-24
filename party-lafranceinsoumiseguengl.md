@@ -57,11 +57,11 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–13 | 8–14 | 8–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–13 | 8–14 | 8–14 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 11 | 10–14 | 10–14 | 9–14 | 8–14 |
-| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 9 | 8–9 | 8–9 | 8–9 | 8–11 |
+| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 9 | 8–9 | 8–11 | 8–11 | 7–11 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 10 | 10–12 | 10–12 | 10–12 | 10–13 |
-| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 8 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 9 | 9 | 9 | 9–10 | 8–10 |
 | [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 10 | 10–12 | 9–13 | 9–13 | 8–13 |
 | [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 9 | 7–11 | 7–12 | 7–12 | 7–12 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 10 | 9–10 | 9–11 | 9–11 | 8–12 |
@@ -89,11 +89,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 15% | 99.9% |  |
-| 9 | 29% | 85% |  |
-| 10 | 37% | 56% | Median |
+| 6 | 0.1% | 100% |  |
+| 7 | 0.1% | 99.9% |  |
+| 8 | 4% | 99.8% |  |
+| 9 | 43% | 96% |  |
+| 10 | 33% | 52% | Median |
 | 11 | 7% | 20% |  |
 | 12 | 6% | 13% |  |
 | 13 | 4% | 7% |  |

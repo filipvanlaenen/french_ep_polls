@@ -63,11 +63,11 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–23 | 16–24 | 16–24 | 16–28 |
+| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 16–25 | 16–28 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 23 | 22–24 | 21–25 | 20–28 | 19–28 |
-| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 23 | 23–24 | 23–24 | 22–25 | 21–27 |
+| [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 23 | 23–24 | 23–26 | 22–26 | 21–28 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 17 | 16–17 | 16–17 | 16–17 | 14–17 |
-| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 19 | 19–20 | 18–22 | 18–22 | 18–22 |
+| [26 November–6 December 2018](2018-12-06-BVA.html) | BVA <br> Presse régionale | 20 | 20 | 20 | 20–21 | 19–23 |
 | [3–4 December 2018](2018-12-04-Ifop.html) | Ifop <br> Place publique | 22 | 21–24 | 21–25 | 20–26 | 19–27 |
 | [9–12 November 2018](2018-11-12-Ifop.html) | Ifop | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
 | [6–7 November 2018](2018-11-07-ELABE.html) | ELABE <br> BFMTV | 19 | 17–19 | 17–20 | 16–20 | 16–21 |
@@ -94,17 +94,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.1% | 99.9% |  |
 | 16 | 5% | 99.7% |  |
 | 17 | 20% | 94% |  |
-| 18 | 4% | 74% |  |
-| 19 | 25% | 70% | Median |
-| 20 | 4% | 45% |  |
-| 21 | 2% | 41% |  |
-| 22 | 5% | 40% |  |
-| 23 | 25% | 34% |  |
-| 24 | 7% | 9% | Last Result |
-| 25 | 0.8% | 2% |  |
-| 26 | 0.3% | 1.2% |  |
-| 27 | 0.2% | 0.9% |  |
-| 28 | 0.6% | 0.7% |  |
+| 18 | 3% | 74% |  |
+| 19 | 10% | 71% |  |
+| 20 | 21% | 61% | Median |
+| 21 | 2% | 40% |  |
+| 22 | 5% | 39% |  |
+| 23 | 24% | 34% |  |
+| 24 | 7% | 10% | Last Result |
+| 25 | 0.9% | 3% |  |
+| 26 | 1.2% | 2% |  |
+| 27 | 0.3% | 1.2% |  |
+| 28 | 0.9% | 0.9% |  |
 | 29 | 0% | 0% |  |
 
 
