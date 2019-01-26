@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.4–5.1% | 2.1–5.3% | 2.0–5.6% | 1.7–6.0% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.0–5.0% | 1.8–5.3% | 1.6–5.5% | 1.3–5.9% |
+| [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 2.5% | 1.9–3.2% | 1.8–3.5% | 1.6–3.7% | 1.4–4.1% |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 3.0% | 2.3–4.1% | 2.1–4.5% | 1.9–4.7% | 1.6–5.3% |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 3.5% | 2.9–4.4% | 2.7–4.7% | 2.5–4.9% | 2.2–5.4% |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -36,12 +38,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 15% | 99.8% |  |
-| 2.5–3.5% | 39% | 85% | Median |
-| 3.5–4.5% | 26% | 46% |  |
-| 4.5–5.5% | 18% | 21% |  |
-| 5.5–6.5% | 3% | 3% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 25% | 98% |  |
+| 2.5–3.5% | 35% | 73% | Median |
+| 3.5–4.5% | 22% | 39% |  |
+| 4.5–5.5% | 15% | 17% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -54,6 +56,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 0 | 0 | 0 | 0 | 0 |
+| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 0 | 0 | 0 | 0 | 0–5 |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 0 | 0 | 0 | 0 | 0 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 0 | 0 | 0 | 0 | 0 |
@@ -80,12 +84,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 0% | 19% |  |
-| 4 | 18% | 19% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 0% | 16% |  |
+| 4 | 15% | 16% |  |
+| 5 | 0.6% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 

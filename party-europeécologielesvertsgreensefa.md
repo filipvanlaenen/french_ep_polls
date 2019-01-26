@@ -10,7 +10,9 @@ Last result: **9.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.2–14.0% | 5.8–14.8% | 5.4–15.4% | 4.8–16.3% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.1–13.8% | 5.7–14.7% | 5.4–15.2% | 4.8–16.3% |
+| [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 6.5% | 5.6–7.7% | 5.3–8.0% | 5.1–8.3% | 4.7–8.9% |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 6.5% | 5.4–8.0% | 5.1–8.5% | 4.8–8.8% | 4.3–9.6% |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 8.0% | 7.0–9.3% | 6.7–9.6% | 6.4–9.9% | 6.0–10.5% |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 14.0% | 12.7–15.5% | 12.3–16.0% | 11.9–16.4% | 11.3–17.1% |
@@ -38,18 +40,18 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 16% | 97% |  |
-| 6.5–7.5% | 34% | 81% | Median |
-| 7.5–8.5% | 19% | 47% |  |
-| 8.5–9.5% | 6% | 28% | Last Result |
-| 9.5–10.5% | 1.1% | 21% |  |
-| 10.5–11.5% | 0.3% | 20% |  |
-| 11.5–12.5% | 1.5% | 20% |  |
-| 12.5–13.5% | 5% | 18% |  |
-| 13.5–14.5% | 7% | 13% |  |
-| 14.5–15.5% | 5% | 7% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 16% | 96% |  |
+| 6.5–7.5% | 28% | 81% |  |
+| 7.5–8.5% | 18% | 53% | Median |
+| 8.5–9.5% | 12% | 34% | Last Result |
+| 9.5–10.5% | 5% | 23% |  |
+| 10.5–11.5% | 1.1% | 18% |  |
+| 11.5–12.5% | 1.3% | 17% |  |
+| 12.5–13.5% | 4% | 15% |  |
+| 13.5–14.5% | 6% | 11% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 1.4% | 2% |  |
+| 16.5–17.5% | 0.2% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -61,7 +63,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–13 | 5–13 | 5–16 | 0–16 |
+| N/A | [Poll Average](average.html) | 7 | 6–13 | 6–13 | 5–16 | 0–16 |
+| [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 8 | 8 | 8 | 8 | 8 |
+| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 7 | 7 | 7 | 7 | 7 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 6 | 5–7 | 0–7 | 0–8 | 0–9 |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 9 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 13 | 13–16 | 13–16 | 13–16 | 12–16 |
@@ -88,23 +92,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 0% | 98.9% |  |
-| 2 | 0% | 98.9% |  |
-| 3 | 0% | 98.9% |  |
-| 4 | 0.1% | 98.9% |  |
-| 5 | 6% | 98.9% |  |
-| 6 | 44% | 93% | Last Result, Median |
-| 7 | 10% | 49% |  |
-| 8 | 5% | 39% |  |
-| 9 | 14% | 34% |  |
-| 10 | 0.1% | 20% |  |
-| 11 | 0% | 20% |  |
-| 12 | 0.3% | 20% |  |
-| 13 | 15% | 20% |  |
-| 14 | 0.1% | 5% |  |
-| 15 | 0.1% | 5% |  |
-| 16 | 5% | 5% |  |
+| 0 | 0.9% | 100% |  |
+| 1 | 0% | 99.1% |  |
+| 2 | 0% | 99.1% |  |
+| 3 | 0% | 99.1% |  |
+| 4 | 0% | 99.1% |  |
+| 5 | 3% | 99.1% |  |
+| 6 | 23% | 96% | Last Result |
+| 7 | 24% | 73% | Median |
+| 8 | 20% | 49% |  |
+| 9 | 12% | 28% |  |
+| 10 | 0.1% | 17% |  |
+| 11 | 0% | 17% |  |
+| 12 | 0.2% | 17% |  |
+| 13 | 12% | 16% |  |
+| 14 | 0.1% | 4% |  |
+| 15 | 0.1% | 4% |  |
+| 16 | 4% | 4% |  |
 | 17 | 0% | 0% |  |
 
 
