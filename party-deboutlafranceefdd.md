@@ -60,9 +60,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
-| [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 5 | 5 | 5 | 5 | 5 |
-| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 8 | 8 | 8 | 8 | 8 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 0–8 | 0–9 | 0–9 |
+| [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 8 | 8 | 8 | 7–8 | 6–9 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 7 | 6–8 | 6–8 | 5–8 | 0–9 |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 7 | 7–9 | 7–9 | 7–9 | 5–10 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 5 | 5 | 5 | 5 | 0–6 |
@@ -89,13 +89,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0% | 99.7% |  |
-| 4 | 0% | 99.7% |  |
-| 5 | 33% | 99.6% |  |
-| 6 | 7% | 66% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 0% | 94% |  |
+| 3 | 0% | 94% |  |
+| 4 | 2% | 94% |  |
+| 5 | 23% | 92% |  |
+| 6 | 10% | 69% |  |
 | 7 | 31% | 59% | Median |
 | 8 | 24% | 28% |  |
 | 9 | 4% | 4% |  |
