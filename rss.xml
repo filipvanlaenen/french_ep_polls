@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 26 Jan 2019 21:00:16 +0100</pubDate>
+    <pubDate>Sun, 27 Jan 2019 23:14:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by ELABE for BFMTV, 22–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-01-23-ELABE.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-01-23-ELABE.png"
         length="358513"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 19:03:57 +0100</pubDate>
-      <dc:date>2019-01-26T19:03:57.994587+01:00</dc:date>
+      <pubDate>Sun, 27 Jan 2019 23:14:59 +0100</pubDate>
+      <dc:date>2019-01-27T23:14:59.536912+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for Valeurs Actuelles and Sud Radio, 8–9 January 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-01-09-Ifop-Fiducial.png"
         length="386415"
         type="image/png"/>
-      <pubDate>Sat, 26 Jan 2019 21:00:16 +0100</pubDate>
-      <dc:date>2019-01-26T21:00:16.617611+01:00</dc:date>
+      <pubDate>Sun, 27 Jan 2019 22:15:05 +0100</pubDate>
+      <dc:date>2019-01-27T22:15:05.977387+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Odoxa for France Info, 19–20 December 2018 – Seat Projections for the Parties</title>
@@ -539,6 +539,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2019-01-26T21:00:16.617611+01:00</dc:date>
+    <dc:date>2019-01-27T23:14:59.536912+01:00</dc:date>
   </channel>
 </rss>
