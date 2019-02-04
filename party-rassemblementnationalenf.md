@@ -69,7 +69,7 @@ Last result: **24** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 20 | 17–23 | 17–24 | 16–24 | 16–28 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 19 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
-| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 20 | 20 | 20–22 | 20–22 | 19–22 |
+| [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 22 | 20–22 | 20–22 | 19–23 | 19–24 |
 | [19–20 December 2018](2018-12-20-Odoxa.html) | Odoxa <br> France Info | 23 | 22–24 | 21–25 | 20–28 | 19–28 |
 | [7–10 December 2018](2018-12-10-Ifop.html) | Ifop <br> L’Opinion | 23 | 23–24 | 23–26 | 22–26 | 21–28 |
 | [5–6 December 2018](2018-12-06-Ipsos.html) | Ipsos <br> La République en Marche | 17 | 16–17 | 16–17 | 16–17 | 14–17 |
@@ -101,10 +101,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 4% | 99.8% |  |
 | 17 | 14% | 96% |  |
 | 18 | 7% | 82% |  |
-| 19 | 7% | 74% |  |
-| 20 | 31% | 67% | Median |
-| 21 | 7% | 36% |  |
-| 22 | 5% | 30% |  |
+| 19 | 8% | 75% |  |
+| 20 | 21% | 67% | Median |
+| 21 | 7% | 46% |  |
+| 22 | 14% | 39% |  |
 | 23 | 17% | 25% |  |
 | 24 | 5% | 7% | Last Result |
 | 25 | 0.7% | 2% |  |
