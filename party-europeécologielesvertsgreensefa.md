@@ -10,7 +10,8 @@ Last result: **9.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.2–13.5% | 5.8–14.5% | 5.4–15.1% | 4.8–16.2% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.6–13.5% | 6.1–14.5% | 5.7–15.1% | 4.9–16.2% |
+| [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.6% | 7.2–11.2% |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% | 6.5–9.8% |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 6.5% | 5.6–7.7% | 5.3–8.0% | 5.1–8.3% | 4.7–8.9% |
@@ -40,13 +41,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 14% | 97% |  |
-| 6.5–7.5% | 27% | 83% |  |
-| 7.5–8.5% | 24% | 56% | Median |
-| 8.5–9.5% | 13% | 33% | Last Result |
-| 9.5–10.5% | 4% | 20% |  |
-| 10.5–11.5% | 1.0% | 15% |  |
+| 4.5–5.5% | 2% | 99.8% |  |
+| 5.5–6.5% | 8% | 98% |  |
+| 6.5–7.5% | 22% | 90% |  |
+| 7.5–8.5% | 26% | 69% | Median |
+| 8.5–9.5% | 20% | 43% | Last Result |
+| 9.5–10.5% | 8% | 23% |  |
+| 10.5–11.5% | 1.4% | 16% |  |
 | 11.5–12.5% | 1.1% | 14% |  |
 | 12.5–13.5% | 3% | 13% |  |
 | 13.5–14.5% | 5% | 10% |  |
@@ -64,7 +65,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–13 | 6–13 | 5–16 | 0–16 |
+| N/A | [Poll Average](average.html) | 8 | 6–13 | 6–13 | 5–16 | 0–16 |
+| [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9 | 9 | 9 | 9 | 9 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
 | [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 7 | 7 | 6–7 | 5–7 | 5–9 |
@@ -94,16 +96,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 0% | 99.2% |  |
-| 2 | 0% | 99.2% |  |
-| 3 | 0% | 99.2% |  |
-| 4 | 0% | 99.2% |  |
-| 5 | 3% | 99.2% |  |
-| 6 | 27% | 96% | Last Result |
-| 7 | 26% | 69% | Median |
-| 8 | 12% | 43% |  |
-| 9 | 14% | 31% |  |
+| 0 | 0.7% | 100% |  |
+| 1 | 0% | 99.3% |  |
+| 2 | 0% | 99.3% |  |
+| 3 | 0% | 99.3% |  |
+| 4 | 0% | 99.3% |  |
+| 5 | 3% | 99.3% |  |
+| 6 | 26% | 96% | Last Result |
+| 7 | 13% | 70% |  |
+| 8 | 12% | 57% | Median |
+| 9 | 28% | 45% |  |
 | 10 | 3% | 18% |  |
 | 11 | 0.4% | 15% |  |
 | 12 | 0.3% | 14% |  |
