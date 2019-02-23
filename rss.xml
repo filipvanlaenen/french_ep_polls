@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 04 Feb 2019 14:37:50 +0100</pubDate>
+    <pubDate>Sat, 23 Feb 2019 10:33:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 13–15 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-02-15-Ifop-Fiducial.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.2–4.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.2–9.1%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 2.7–4.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.6–10.6%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.8–7.4%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 21.8–26.3%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Résistons! (*): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8.5–11.7%&lt;/li&gt;&lt;li&gt;Debout la France (EFDD): 4.8–7.4%&lt;/li&gt;&lt;li&gt;Rassemblement national (ENF): 17.9–22.2%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.2–1.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-02-15-Ifop-Fiducial.png"
+        length="363321"
+        type="image/png"/>
+      <pubDate>Sat, 23 Feb 2019 10:33:31 +0100</pubDate>
+      <dc:date>2019-02-23T10:33:31.109792+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OpinionWay–Tilder for Les Echos and Radio Classique, 17–25 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-01-25-OpinionWay–Tilder.html#seats</link>
@@ -609,6 +619,6 @@
       <pubDate>Tue, 26 Jun 2018 13:43:36 +0200</pubDate>
       <dc:date>2018-06-26T13:43:36.893362+02:00</dc:date>
     </item>
-    <dc:date>2019-02-04T14:37:50.494405+01:00</dc:date>
+    <dc:date>2019-02-23T10:33:31.109792+01:00</dc:date>
   </channel>
 </rss>
