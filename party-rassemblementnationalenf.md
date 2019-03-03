@@ -10,7 +10,12 @@ Last result: **24.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.3% | 17.6–24.7% | 16.6–25.5% | 16.0–26.2% | 15.0–27.5% |
+| N/A | [Poll Average](average.html) | 21.3% | 19.0–24.5% | 18.3–25.4% | 17.8–26.1% | 16.8–27.4% |
+| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 22.0% | 20.9–23.2% | 20.6–23.5% | 20.3–23.8% | 19.8–24.3% |
+| [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 22.0% | 20.5–23.6% | 20.1–24.0% | 19.7–24.4% | 19.0–25.2% |
+| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 20.0% | 18.5–21.7% | 18.1–22.1% | 17.7–22.5% | 17.0–23.4% |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 21.0% | 20.2–21.8% | 20.0–22.1% | 19.8–22.3% | 19.4–22.7% |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 19.1% | 17.5–20.8% | 17.0–21.3% | 16.6–21.7% | 15.9–22.6% |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20.0% | 18.6–21.4% | 18.3–21.8% | 17.9–22.2% | 17.3–22.9% |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 22.0% | 20.8–23.3% | 20.4–23.6% | 20.1–24.0% | 19.6–24.6% |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
@@ -39,22 +44,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 1.2% | 99.8% |  |
-| 15.5–16.5% | 3% | 98.6% |  |
-| 16.5–17.5% | 5% | 95% |  |
-| 17.5–18.5% | 5% | 91% |  |
-| 18.5–19.5% | 8% | 85% |  |
-| 19.5–20.5% | 14% | 77% |  |
-| 20.5–21.5% | 19% | 63% | Median |
-| 21.5–22.5% | 15% | 45% |  |
-| 22.5–23.5% | 10% | 29% |  |
-| 23.5–24.5% | 8% | 19% |  |
-| 24.5–25.5% | 6% | 11% | Last Result |
-| 25.5–26.5% | 3% | 5% |  |
-| 26.5–27.5% | 1.2% | 2% |  |
-| 27.5–28.5% | 0.4% | 0.5% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 1.4% | 99.7% |  |
+| 17.5–18.5% | 5% | 98% |  |
+| 18.5–19.5% | 10% | 93% |  |
+| 19.5–20.5% | 16% | 83% |  |
+| 20.5–21.5% | 21% | 67% | Median |
+| 21.5–22.5% | 17% | 46% |  |
+| 22.5–23.5% | 11% | 29% |  |
+| 23.5–24.5% | 8% | 17% |  |
+| 24.5–25.5% | 5% | 10% | Last Result |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 1.1% | 1.5% |  |
+| 27.5–28.5% | 0.3% | 0.4% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -67,7 +70,12 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–23 | 17–24 | 16–24 | 16–28 |
+| N/A | [Poll Average](average.html) | 19 | 16–23 | 16–24 | 16–24 | 14–28 |
+| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 20 | 19–20 | 19–20 | 19–20 | 19–20 |
+| [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 19 | 19–24 | 19–24 | 19–24 | 19–24 |
+| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 17 | 17–18 | 14–19 | 14–19 | 14–19 |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 20 | 17–20 | 17–20 | 17–20 | 17–20 |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 16 | 16 | 16 | 16 | 16 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 19 | 19–20 | 19–20 | 16–21 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 19 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
@@ -98,21 +106,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 0.1% | 99.9% |  |
-| 16 | 4% | 99.8% |  |
-| 17 | 14% | 96% |  |
-| 18 | 8% | 82% |  |
-| 19 | 20% | 74% |  |
-| 20 | 19% | 54% | Median |
-| 21 | 6% | 35% |  |
-| 22 | 4% | 29% |  |
-| 23 | 17% | 25% |  |
-| 24 | 5% | 7% | Last Result |
+| 14 | 0.8% | 100% |  |
+| 15 | 0% | 99.2% |  |
+| 16 | 13% | 99.2% |  |
+| 17 | 13% | 87% |  |
+| 18 | 3% | 74% |  |
+| 19 | 24% | 71% | Median |
+| 20 | 19% | 47% |  |
+| 21 | 1.3% | 28% |  |
+| 22 | 3% | 26% |  |
+| 23 | 15% | 23% |  |
+| 24 | 6% | 8% | Last Result |
 | 25 | 0.6% | 2% |  |
-| 26 | 0.9% | 2% |  |
-| 27 | 0.2% | 0.9% |  |
-| 28 | 0.6% | 0.7% |  |
+| 26 | 0.8% | 2% |  |
+| 27 | 0.2% | 0.7% |  |
+| 28 | 0.6% | 0.6% |  |
 | 29 | 0% | 0% |  |
 
 
