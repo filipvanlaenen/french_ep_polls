@@ -72,7 +72,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 6 | 6–7 | 6–7 | 6–9 | 6–9 |
 | [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 7 | 7 | 7 | 7 | 7 |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 7 | 7 | 6–7 | 6–7 | 6–9 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 7 | 7 | 6–9 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 9 | 8–10 | 7–10 | 7–11 | 7–12 |
@@ -108,8 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 13% | 97% |  |
-| 7 | 46% | 84% | Median |
+| 6 | 14% | 97% |  |
+| 7 | 44% | 83% | Median |
 | 8 | 11% | 39% |  |
 | 9 | 15% | 28% |  |
 | 10 | 5% | 13% |  |

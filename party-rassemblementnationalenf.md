@@ -70,12 +70,12 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–23 | 16–24 | 16–24 | 14–28 |
+| N/A | [Poll Average](average.html) | 19 | 17–23 | 16–24 | 16–24 | 14–28 |
 | [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 20 | 19–20 | 19–20 | 19–20 | 19–20 |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 19 | 19–24 | 19–24 | 19–24 | 19–24 |
 | [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 17 | 17–18 | 14–19 | 14–19 | 14–19 |
 | [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 20 | 17–20 | 17–20 | 17–20 | 17–20 |
-| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 16 | 16 | 16 | 16 | 16 |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 16 | 16–20 | 16–20 | 16–20 | 16–20 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 19 | 19–20 | 19–20 | 16–21 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 19 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
@@ -108,11 +108,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.8% | 100% |  |
 | 15 | 0% | 99.2% |  |
-| 16 | 13% | 99.2% |  |
-| 17 | 13% | 87% |  |
-| 18 | 3% | 74% |  |
-| 19 | 24% | 71% | Median |
-| 20 | 19% | 47% |  |
+| 16 | 8% | 99.2% |  |
+| 17 | 13% | 91% |  |
+| 18 | 6% | 79% |  |
+| 19 | 24% | 73% | Median |
+| 20 | 21% | 49% |  |
 | 21 | 1.3% | 28% |  |
 | 22 | 3% | 26% |  |
 | 23 | 15% | 23% |  |
