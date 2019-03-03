@@ -67,10 +67,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 6–11 | 5–13 | 5–14 |
-| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 6 | 6–7 | 6–7 | 6–9 | 6–9 |
-| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–11 | 6–13 | 5–14 |
+| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 8 | 6–8 | 6–8 | 6–9 | 6–10 |
+| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 7 | 7 | 6–7 | 6–7 | 6–9 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 7 | 7 | 6–9 |
@@ -107,11 +107,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 14% | 97% |  |
-| 7 | 44% | 83% | Median |
-| 8 | 11% | 39% |  |
-| 9 | 15% | 28% |  |
+| 5 | 2% | 100% |  |
+| 6 | 16% | 98% |  |
+| 7 | 30% | 82% |  |
+| 8 | 17% | 53% | Median |
+| 9 | 22% | 35% |  |
 | 10 | 5% | 13% |  |
 | 11 | 3% | 8% |  |
 | 12 | 0.4% | 5% |  |
