@@ -71,12 +71,12 @@ Last result: **20** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–14 | 7–15 | 7–15 | 6–15 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 7–13 | 7–14 | 6–15 |
 | [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
-| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 13 | 10–15 | 10–15 | 10–15 | 9–15 |
-| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 9 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 10 | 8–11 | 8–12 | 8–12 | 8–12 |
+| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 11 | 9–14 | 9–14 | 9–15 | 9–15 |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 10 | 8–11 | 7–11 | 7–12 | 7–12 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 10 | 10 | 8–10 | 8–10 | 8–11 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 12 | 11–13 | 10–14 | 9–14 | 9–15 |
@@ -109,15 +109,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 1.1% | 99.9% |  |
-| 7 | 6% | 98.8% |  |
-| 8 | 7% | 93% |  |
-| 9 | 12% | 86% |  |
-| 10 | 34% | 75% | Median |
-| 11 | 9% | 41% |  |
-| 12 | 7% | 32% |  |
-| 13 | 10% | 24% |  |
-| 14 | 9% | 15% |  |
-| 15 | 6% | 6% |  |
+| 7 | 7% | 98.8% |  |
+| 8 | 7% | 92% |  |
+| 9 | 8% | 86% |  |
+| 10 | 33% | 78% | Median |
+| 11 | 15% | 45% |  |
+| 12 | 11% | 30% |  |
+| 13 | 14% | 18% |  |
+| 14 | 3% | 4% |  |
+| 15 | 0.6% | 0.7% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |

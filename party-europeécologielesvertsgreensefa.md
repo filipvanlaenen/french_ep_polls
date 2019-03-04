@@ -66,12 +66,12 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–10 | 5–10 | 0–10 |
-| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 8 | 5–9 | 5–10 | 5–10 | 0–10 |
+| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 5 | 5–6 | 4–6 | 0–6 | 0–7 |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
-| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 8 | 7–9 | 7–10 | 7–11 | 7–11 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9 | 9 | 8–9 | 8–9 | 7–11 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
@@ -102,18 +102,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 0% | 99.2% |  |
-| 2 | 0% | 99.2% |  |
-| 3 | 0% | 99.2% |  |
-| 4 | 0.4% | 99.2% |  |
-| 5 | 6% | 98.8% |  |
-| 6 | 17% | 93% | Last Result |
-| 7 | 22% | 77% |  |
-| 8 | 21% | 55% | Median |
-| 9 | 28% | 34% |  |
-| 10 | 6% | 6% |  |
-| 11 | 0.1% | 0.1% |  |
+| 0 | 1.0% | 100% |  |
+| 1 | 0% | 99.0% |  |
+| 2 | 0% | 99.0% |  |
+| 3 | 0% | 99.0% |  |
+| 4 | 0.2% | 99.0% |  |
+| 5 | 9% | 98.7% |  |
+| 6 | 12% | 90% | Last Result |
+| 7 | 20% | 78% |  |
+| 8 | 23% | 58% | Median |
+| 9 | 28% | 36% |  |
+| 10 | 7% | 7% |  |
+| 11 | 0.4% | 0.5% |  |
 | 12 | 0% | 0% |  |
 
 

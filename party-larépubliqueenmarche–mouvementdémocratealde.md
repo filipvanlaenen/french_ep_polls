@@ -75,12 +75,12 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–24 | 16–26 | 16–26 | 16–26 |
-| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 20 | 19–21 | 19–21 | 19–21 | 19–22 |
+| N/A | [Poll Average](average.html) | 22 | 17–24 | 16–25 | 16–26 | 16–27 |
+| [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 20 | 19–21 | 19–22 | 19–22 | 17–23 |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 22 | 22–24 | 21–24 | 20–25 | 19–25 |
-| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 23 | 20–23 | 18–23 | 17–23 | 16–23 |
-| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 21 | 21 | 21 | 21 | 21–22 |
-| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 24 | 22–26 | 22–26 | 22–26 | 21–26 |
+| [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 22 | 18–24 | 18–25 | 18–25 | 17–25 |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 23 | 20–23 | 20–23 | 20–23 | 19–23 |
+| [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 23 | 22–26 | 21–26 | 21–27 | 20–27 |
 | [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22 | 22 | 22–24 | 22–25 | 22–26 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
@@ -122,15 +122,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.1% | 99.9% |  |
 | 16 | 9% | 99.8% |  |
 | 17 | 3% | 90% |  |
-| 18 | 5% | 88% |  |
-| 19 | 14% | 83% |  |
-| 20 | 4% | 70% |  |
-| 21 | 20% | 65% | Median |
-| 22 | 21% | 45% |  |
-| 23 | 10% | 24% |  |
-| 24 | 7% | 14% |  |
-| 25 | 0.4% | 7% |  |
-| 26 | 6% | 6% |  |
-| 27 | 0% | 0% |  |
+| 18 | 7% | 87% |  |
+| 19 | 12% | 81% |  |
+| 20 | 9% | 69% |  |
+| 21 | 7% | 60% |  |
+| 22 | 22% | 53% | Median |
+| 23 | 17% | 31% |  |
+| 24 | 8% | 14% |  |
+| 25 | 2% | 6% |  |
+| 26 | 3% | 4% |  |
+| 27 | 0.5% | 0.5% |  |
+| 28 | 0% | 0% |  |
 
 
