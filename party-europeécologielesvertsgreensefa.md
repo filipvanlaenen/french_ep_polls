@@ -66,9 +66,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–9 | 5–10 | 5–10 | 0–10 |
+| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–10 | 5–10 | 0–11 |
 | [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 5 | 5–6 | 4–6 | 0–6 | 0–7 |
-| [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
+| [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
 | [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
 | [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 8 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 8 | 7–9 | 7–10 | 7–11 | 7–11 |
@@ -111,9 +111,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 12% | 90% | Last Result |
 | 7 | 20% | 78% |  |
 | 8 | 23% | 58% | Median |
-| 9 | 28% | 36% |  |
-| 10 | 7% | 7% |  |
-| 11 | 0.4% | 0.5% |  |
-| 12 | 0% | 0% |  |
+| 9 | 25% | 35% |  |
+| 10 | 9% | 10% |  |
+| 11 | 1.0% | 1.2% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 
