@@ -71,14 +71,14 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–23 | 17–23 | 16–24 | 16–26 |
+| N/A | [Poll Average](average.html) | 20 | 18–23 | 17–23 | 16–24 | 16–26 |
 | [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 21 | 19–23 | 19–24 | 19–26 | 18–26 |
 | [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 19 | 18–21 | 17–23 | 16–25 | 15–25 |
-| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 19 | 19 | 19 | 18–20 | 18–20 |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 19 | 19 | 19–20 | 18–20 | 17–20 |
 | [20–21 February 2019](2019-02-21-Ifop.html) | Ifop <br> SWG | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
-| [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
+| [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 18–20 | 17–21 | 17–21 | 17–23 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 19 | 18–21 | 18–21 | 18–21 | 18–22 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
 | [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 22 | 20–22 | 20–22 | 19–23 | 19–24 |
@@ -112,11 +112,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 5% | 99.7% |  |
 | 17 | 3% | 95% |  |
 | 18 | 11% | 92% |  |
-| 19 | 31% | 81% | Median |
-| 20 | 18% | 50% |  |
+| 19 | 28% | 80% |  |
+| 20 | 20% | 52% | Median |
 | 21 | 11% | 32% |  |
 | 22 | 9% | 21% |  |
-| 23 | 8% | 12% |  |
+| 23 | 8% | 13% |  |
 | 24 | 2% | 4% | Last Result |
 | 25 | 1.0% | 2% |  |
 | 26 | 0.5% | 0.9% |  |

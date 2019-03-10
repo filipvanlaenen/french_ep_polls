@@ -80,10 +80,10 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 21 | 19–21 | 19–21 | 19–22 | 18–23 |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 23 | 21–24 | 20–24 | 18–24 | 18–25 |
 | [22–23 February 2019](2019-02-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 22 | 18–24 | 18–25 | 18–25 | 17–25 |
-| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 20 | 20 | 20–21 | 20–22 | 19–23 |
+| [15–21 February 2019](2019-02-21-Ipsos.html) | Ipsos <br> Le Monde | 20 | 20–21 | 20–22 | 20–22 | 19–23 |
 | [20–21 February 2019](2019-02-21-Ifop.html) | Ifop <br> SWG | 19 | 18–21 | 17–22 | 17–23 | 16–24 |
 | [20–21 February 2019](2019-02-21-BVA.html) | BVA <br> La Tribune and RTL | 23 | 22–26 | 21–26 | 21–27 | 20–27 |
-| [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22 | 22–24 | 22–25 | 22–26 | 20–29 |
+| [13–15 February 2019](2019-02-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22 | 22–25 | 21–26 | 21–27 | 20–29 |
 | [17–25 January 2019](2019-01-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [22–23 January 2019](2019-01-23-ELABE.html) | ELABE <br> BFMTV | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [8–9 January 2019](2019-01-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> Valeurs Actuelles and Sud Radio | 23 | 23–24 | 23–24 | 22–25 | 21–26 |
@@ -126,16 +126,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 3% | 98% |  |
 | 18 | 7% | 95% |  |
 | 19 | 11% | 88% |  |
-| 20 | 19% | 77% |  |
+| 20 | 18% | 77% |  |
 | 21 | 16% | 59% | Median |
-| 22 | 15% | 43% |  |
-| 23 | 16% | 28% |  |
-| 24 | 6% | 12% |  |
-| 25 | 2% | 6% |  |
+| 22 | 13% | 43% |  |
+| 23 | 17% | 29% |  |
+| 24 | 6% | 13% |  |
+| 25 | 2% | 7% |  |
 | 26 | 3% | 4% |  |
-| 27 | 0.5% | 0.7% |  |
-| 28 | 0.1% | 0.2% |  |
-| 29 | 0.2% | 0.2% |  |
+| 27 | 0.8% | 0.9% |  |
+| 28 | 0% | 0.2% |  |
+| 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
 
