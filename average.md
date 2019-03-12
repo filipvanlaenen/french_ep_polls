@@ -33,7 +33,7 @@ Only polls for which at least the sample size has been published are included in
 + **PCF:** Parti communiste français (GUE/NGL)
 + **FI:** La France insoumise (GUE/NGL)
 + **Agir–UDI:** Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
-+ **DlF:** Debout la France (EFDD)
++ **DlF:** Debout la France (ECR)
 + **LP:** Les Patriotes (EFDD)
 + **UPR:** Union populaire républicaine (*)
 + **NPA:** Nouveau Parti anticapitaliste (GUE/NGL)
@@ -58,7 +58,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 6.6% | 2.2% | 1.7–3.1% |1.5–3.4% | 1.4–3.6% | 1.1–4.0% |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 6.6% | 7.8% | 6.5–10.6% |6.1–12.0% | 5.8–12.8% | 5.2–14.1% |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(alde)">Agir, la droite constructive–Union des démocrates et indépendants (ALDE)</a> | 2.0% | 2.3% | 1.7–3.4% |1.5–3.8% | 1.4–4.1% | 1.2–4.7% |
-| <a href="#debout-la-france-(efdd)">Debout la France (EFDD)</a> | 0.0% | 6.1% | 5.0–7.3% |4.7–7.8% | 4.5–8.2% | 4.2–9.2% |
+| <a href="#debout-la-france-(ecr)">Debout la France (ECR)</a> | 0.0% | 6.1% | 5.0–7.3% |4.7–7.8% | 4.5–8.2% | 4.2–9.2% |
 | <a href="#les-patriotes-(efdd)">Les Patriotes (EFDD)</a> | 0.0% | 1.1% | 0.8–1.7% |0.7–1.9% | 0.6–2.0% | 0.4–2.4% |
 | <a href="#union-populaire-républicaine-(*)">Union populaire républicaine (*)</a> | 0.0% | 0.8% | 0.4–1.4% |0.4–1.6% | 0.3–1.7% | 0.2–2.1% |
 | <a href="#nouveau-parti-anticapitaliste-(gue/ngl)">Nouveau Parti anticapitaliste (GUE/NGL)</a> | 0.0% | 1.2% | 0.8–2.6% |0.7–3.0% | 0.6–3.4% | 0.5–4.0% |
@@ -244,9 +244,9 @@ Only polls for which at least the sample size has been published are included in
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
-### Debout la France (EFDD)
+### Debout la France (ECR)
 
-*For a full overview of the results for this party, see the [Debout la France (EFDD)](party-deboutlafranceefdd.html) page.*
+*For a full overview of the results for this party, see the [Debout la France (ECR)](party-deboutlafranceecr.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -333,7 +333,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0 | 0 | 0 |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 7 | 6–10 |5–11 | 5–13 | 4–14 |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(alde)">Agir, la droite constructive–Union des démocrates et indépendants (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#debout-la-france-(efdd)">Debout la France (EFDD)</a> | 0 | 5 | 4–7 |0–7 | 0–8 | 0–8 |
+| <a href="#debout-la-france-(ecr)">Debout la France (ECR)</a> | 0 | 5 | 4–7 |0–7 | 0–8 | 0–8 |
 | <a href="#les-patriotes-(efdd)">Les Patriotes (EFDD)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#union-populaire-républicaine-(*)">Union populaire républicaine (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#nouveau-parti-anticapitaliste-(gue/ngl)">Nouveau Parti anticapitaliste (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -536,11 +536,11 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
-### Debout la France (EFDD)
+### Debout la France (ECR)
 
-*For a full overview of the results for this party, see the [Debout la France (EFDD)](party-deboutlafranceefdd.html) page.*
+*For a full overview of the results for this party, see the [Debout la France (ECR)](party-deboutlafranceecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-deboutlafranceefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-deboutlafranceecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -617,7 +617,7 @@ Only polls for which at least the sample size has been published are included in
 | La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) | 2 | 7 | 0% | 6–10 | 5–11 | 5–13 | 4–14 |
 | Europe Écologie Les Verts (Greens/EFA) | 6 | 8 | 0% | 5–10 | 5–10 | 5–10 | 0–11 |
 | Parti socialiste (S&D) – Génération·s, le mouvement (S&D) | 13 | 5 | 0% | 0–10 | 0–10 | 0–10 | 0–10 |
-| Debout la France (EFDD) – Les Patriotes (EFDD) | 0 | 5 | 0% | 4–7 | 0–7 | 0–8 | 0–8 |
+| Debout la France (ECR) | 0 | 5 | 0% | 4–7 | 0–7 | 0–8 | 0–8 |
 | Résistons! (*) – Union populaire républicaine (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
@@ -761,9 +761,9 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
-### Debout la France (EFDD) – Les Patriotes (EFDD)
+### Debout la France (ECR)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dlf–lp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dlf.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -797,6 +797,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 1,048,575
++ **Total number of simulations done in the polls included in this average:** 8,388,600
 + **Error estimate:** 3.57%
