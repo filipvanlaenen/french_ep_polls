@@ -47,7 +47,7 @@ Only polls for which at least the sample size has been published are included in
 + **PCF:** Parti communiste français (GUE/NGL)
 + **FI:** La France insoumise (GUE/NGL)
 + **Agir–UDI:** Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
-+ **DlF:** Debout la France (EFDD)
++ **DlF:** Debout la France (ECR)
 + **LP:** Les Patriotes (EFDD)
 + **UPR:** Union populaire républicaine (*)
 + **NPA:** Nouveau Parti anticapitaliste (GUE/NGL)
