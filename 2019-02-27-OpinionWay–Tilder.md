@@ -18,6 +18,7 @@
 | Parti socialiste (S&D) | 14.0% | 6.0% | 5.4–6.7% |5.2–6.9% |5.1–7.1% |4.8–7.4% |
 | Debout la France (ECR) | 0.0% | 5.0% | 4.5–5.7% |4.3–5.8% |4.2–6.0% |3.9–6.3% |
 | Génération·s, le mouvement (S&D) | 0.0% | 4.0% | 3.5–4.6% |3.4–4.8% |3.3–4.9% |3.0–5.2% |
+| Lutte Ouvrière (*) | 0.0% | 2.0% | N/A |N/A |N/A |N/A |
 | Parti communiste français (GUE/NGL) | 6.6% | 2.0% | 1.6–2.4% |1.6–2.5% |1.5–2.7% |1.3–2.9% |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | 2.0% | 2.0% | 1.6–2.4% |1.6–2.5% |1.5–2.7% |1.3–2.9% |
 | Les Patriotes (EFDD) | 0.0% | 1.0% | 0.8–1.3% |0.7–1.4% |0.7–1.5% |0.6–1.7% |
@@ -41,6 +42,7 @@
 | <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 5 | 5–6 |5–6 |4–6 |0–6 |
 | <a href="#debout-la-france-(ecr)">Debout la France (ECR)</a> | 0 | 4 | 0–5 |0–5 |0–5 |0–5 |
 | <a href="#génération·s,-le-mouvement-(s&d)">Génération·s, le mouvement (S&D)</a> | 0 | 0 | 0 |0 |0 |0–4 |
+| <a href="#lutte-ouvrière-(*)">Lutte Ouvrière (*)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(alde)">Agir, la droite constructive–Union des démocrates et indépendants (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#les-patriotes-(efdd)">Les Patriotes (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |

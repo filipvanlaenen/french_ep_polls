@@ -14,7 +14,7 @@
 | Rassemblement national (ENF) | 24.9% | 21.0% | 19.3–22.8% |18.9–23.3% |18.5–23.7% |17.7–24.6% |
 | Les Républicains (EPP) | 20.8% | 10.0% | 8.8–11.3% |8.5–11.7% |8.2–12.1% |7.7–12.7% |
 | La France insoumise (GUE/NGL) | 6.6% | 9.5% | 8.4–10.9% |8.1–11.2% |7.8–11.6% |7.3–12.3% |
-| Debout la France (EFDD) | 0.0% | 7.5% | 6.5–8.7% |6.2–9.1% |6.0–9.4% |5.5–10.0% |
+| Debout la France (ECR) | 0.0% | 7.5% | 6.5–8.7% |6.2–9.1% |6.0–9.4% |5.5–10.0% |
 | Europe Écologie Les Verts (Greens/EFA) | 9.0% | 6.5% | 5.6–7.7% |5.3–8.0% |5.1–8.3% |4.7–8.9% |
 | Parti socialiste (S&D) | 14.0% | 4.0% | 3.2–4.9% |3.0–5.2% |2.9–5.4% |2.6–5.9% |
 | Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | 2.0% | 3.5% | 2.9–4.4% |2.7–4.7% |2.5–4.9% |2.2–5.4% |
@@ -39,7 +39,7 @@
 | <a href="#rassemblement-national-(enf)">Rassemblement national (ENF)</a> | 24 | 22 | 20–22 |20–22 |19–23 |19–24 |
 | <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 11 | 10–11 |10–11 |9–11 |8–12 |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 8 | 8–10 |8–11 |8–11 |8–11 |
-| <a href="#debout-la-france-(efdd)">Debout la France (EFDD)</a> | 0 | 8 | 8–9 |7–9 |6–9 |6–10 |
+| <a href="#debout-la-france-(ecr)">Debout la France (ECR)</a> | 0 | 8 | 8–9 |7–9 |6–9 |6–10 |
 | <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 7 | 7 |6–7 |5–7 |5–9 |
 | <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 0 | 0 |0 |0 |0–5 |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(alde)">Agir, la droite constructive–Union des démocrates et indépendants (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–5 |
@@ -147,11 +147,11 @@
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
-### Debout la France (EFDD)
+### Debout la France (ECR)
 
-*For a full overview of the results for this party, see the [Debout la France (EFDD)](party-deboutlafranceefdd.html) page.*
+*For a full overview of the results for this party, see the [Debout la France (ECR)](party-deboutlafranceecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-09-Ifop-Fiducial-seats-pmf-deboutlafranceefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-09-Ifop-Fiducial-seats-pmf-deboutlafranceecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -302,7 +302,7 @@
 | Rassemblement national (ENF) | 24 | 22 | 0% | 20–22 | 20–22 | 19–23 | 19–24 |
 | Les Républicains (EPP) | 20 | 11 | 0% | 10–11 | 10–11 | 9–11 | 8–12 |
 | La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) | 2 | 8 | 0% | 8–10 | 8–11 | 8–11 | 8–11 |
-| Debout la France (EFDD) – Les Patriotes (EFDD) | 0 | 8 | 0% | 8–9 | 7–9 | 6–9 | 6–10 |
+| Debout la France (ECR) | 0 | 8 | 0% | 8–9 | 7–9 | 6–9 | 6–10 |
 | Europe Écologie Les Verts (Greens/EFA) | 6 | 7 | 0% | 7 | 6–7 | 5–7 | 5–9 |
 | Parti socialiste (S&D) – Génération·s, le mouvement (S&D) | 13 | 0 | 0% | 0 | 0 | 0 | 0–5 |
 | Résistons! (*) – Union populaire républicaine (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -395,9 +395,9 @@
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
-### Debout la France (EFDD) – Les Patriotes (EFDD)
+### Debout la France (ECR)
 
-![Graph with seats probability mass function not yet produced](2019-01-09-Ifop-Fiducial-coalitions-seats-pmf-dlf–lp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-09-Ifop-Fiducial-coalitions-seats-pmf-dlf.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -474,6 +474,6 @@
 ### Calculations
 
 + **Sample size:** 934
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 2.56%
 
