@@ -81,10 +81,10 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–10 | 5–11 | 5–13 | 4–14 |
-| [18–21 March 2019](2019-03-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9 | 6–9 | 6–9 | 6–9 | 6–9 |
-| [16–20 March 2019](2019-03-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 7 | 7 | 7 |
-| [15–19 March 2019](2019-03-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 8 | 8 |
-| [14–18 March 2019](2019-03-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 8 | 8 |
+| [18–21 March 2019](2019-03-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 7–8 | 7–9 |
+| [16–20 March 2019](2019-03-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 7–8 | 6–8 |
+| [15–19 March 2019](2019-03-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [14–18 March 2019](2019-03-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 6–8 | 6–8 | 0–8 |
 | [12–15 March 2019](2019-03-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 6–7 | 6–7 | 6–7 |
 | [10–14 March 2019](2019-03-14-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 5 | 5 | 5–8 | 5–8 | 5–8 |
 | [9–13 March 2019](2019-03-13-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
