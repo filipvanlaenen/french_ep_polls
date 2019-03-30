@@ -10,7 +10,7 @@ Last result: **6.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.5–10.6% | 6.1–12.0% | 5.8–12.8% | 5.2–14.1% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.4–8.7% | 6.1–9.0% | 5.8–9.3% | 5.2–9.9% |
 | [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8.0% | 7.1–9.0% | 6.9–9.3% | 6.7–9.6% | 6.3–10.1% |
 | [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8.0% | 7.3–8.9% | 7.0–9.1% | 6.9–9.3% | 6.5–9.8% |
 | [25–27 March 2019](2019-03-27-ELABE.html) | ELABE <br> BFMTV | 7.5% | 6.6–8.6% | 6.3–8.9% | 6.1–9.1% | 5.7–9.7% |
@@ -68,18 +68,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.2% | 100% |  |
-| 5.5–6.5% | 10% | 98.7% |  |
-| 6.5–7.5% | 29% | 88% | Last Result |
-| 7.5–8.5% | 32% | 60% | Median |
-| 8.5–9.5% | 15% | 28% |  |
-| 9.5–10.5% | 3% | 13% |  |
-| 10.5–11.5% | 4% | 10% |  |
-| 11.5–12.5% | 3% | 7% |  |
-| 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.8% | 1.1% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 4.5–5.5% | 1.4% | 100% |  |
+| 5.5–6.5% | 11% | 98.6% |  |
+| 6.5–7.5% | 31% | 88% | Last Result |
+| 7.5–8.5% | 43% | 56% | Median |
+| 8.5–9.5% | 12% | 13% |  |
+| 9.5–10.5% | 1.3% | 1.4% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -90,14 +86,14 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 5–11 | 5–13 | 4–14 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 4–9 |
 | [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 7–8 | 7–8 | 6–10 |
 | [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [25–27 March 2019](2019-03-27-ELABE.html) | ELABE <br> BFMTV | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [20–26 March 2019](2019-03-26-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [22–26 March 2019](2019-03-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [21–25 March 2019](2019-03-25-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [22–23 March 2019](2019-03-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 7–8 | 6–8 | 6–8 | 6–10 |
+| [22–23 March 2019](2019-03-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [19–22 March 2019](2019-03-22-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [19–22 March 2019](2019-03-22-BVA.html) | BVA <br> Europe 1 and La Tribune | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 7 | 7 | 7 | 7 | 7 |
@@ -149,21 +145,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 0% | 99.7% | Last Result |
-| 2 | 0% | 99.7% |  |
-| 3 | 0% | 99.7% |  |
-| 4 | 0.8% | 99.7% |  |
-| 5 | 8% | 98.8% |  |
-| 6 | 20% | 91% |  |
-| 7 | 35% | 71% | Median |
-| 8 | 17% | 36% |  |
-| 9 | 7% | 19% |  |
-| 10 | 5% | 12% |  |
-| 11 | 3% | 7% |  |
-| 12 | 0.4% | 5% |  |
-| 13 | 3% | 4% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0% | 0% |  |
+| 0 | 0.4% | 100% |  |
+| 1 | 0% | 99.6% | Last Result |
+| 2 | 0% | 99.6% |  |
+| 3 | 0% | 99.6% |  |
+| 4 | 0.9% | 99.6% |  |
+| 5 | 8% | 98.7% |  |
+| 6 | 16% | 90% |  |
+| 7 | 46% | 74% | Median |
+| 8 | 25% | 28% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.4% | 0.4% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
