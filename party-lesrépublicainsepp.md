@@ -91,7 +91,7 @@ Last result: **20** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–16 |
 | [26–29 March 2019](2019-03-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 14 | 13–16 | 12–16 | 11–16 |
 | [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 13 | 13 | 13–14 | 10–15 |
 | [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 14–15 | 13–15 | 13–15 | 12–17 |
@@ -154,11 +154,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 1.0% | 100% |  |
 | 11 | 13% | 99.0% |  |
 | 12 | 32% | 86% |  |
-| 13 | 18% | 54% | Median |
-| 14 | 19% | 36% |  |
-| 15 | 9% | 17% |  |
+| 13 | 18% | 53% | Median |
+| 14 | 20% | 36% |  |
+| 15 | 8% | 15% |  |
 | 16 | 7% | 8% |  |
-| 17 | 0.5% | 0.5% |  |
+| 17 | 0.4% | 0.4% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% | Last Result |
