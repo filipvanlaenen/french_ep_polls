@@ -93,8 +93,8 @@ Last result: **20** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–16 |
 | [26–29 March 2019](2019-03-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 14 | 13–16 | 12–16 | 11–16 |
-| [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 13 | 13 | 13–14 | 10–15 |
-| [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 14–15 | 13–15 | 13–15 | 12–17 |
+| [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
+| [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [25–27 March 2019](2019-03-27-ELABE.html) | ELABE <br> BFMTV | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [20–26 March 2019](2019-03-26-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 11 | 11–12 | 11–12 | 11–13 | 11–14 |
 | [22–26 March 2019](2019-03-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 12–14 | 11–15 | 11–15 | 11–16 |
@@ -111,7 +111,7 @@ Last result: **20** seats (General Election of 25 May 2014)
 | [10–14 March 2019](2019-03-14-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 13 | 11–13 | 11–17 | 11–17 |
 | [9–13 March 2019](2019-03-13-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 12–13 | 12–13 | 12–13 | 12–15 |
 | [8–12 March 2019](2019-03-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 12–13 | 12–13 | 11–13 | 9–13 |
-| [7–11 March 2019](2019-03-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 14 | 11–14 | 11–14 | 10–14 |
+| [7–11 March 2019](2019-03-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | [8–9 March 2019](2019-03-09-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 13 | 13 | 13 | 13 | 13 |
 | [5–8 March 2019](2019-03-08-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
 | [4–7 March 2019](2019-03-07-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 16 | 14–16 | 14–16 | 14–16 | 13–16 |
