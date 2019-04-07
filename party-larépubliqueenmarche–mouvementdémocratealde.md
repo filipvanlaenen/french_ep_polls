@@ -11,6 +11,7 @@ Last result: **9.9%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.0% | 21.5–24.3% | 21.0–24.7% | 20.6–25.1% | 19.9–25.9% |
+| [2–5 April 2019](2019-04-05-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23.5% | 22.0–25.0% | 21.6–25.4% | 21.3–25.8% | 20.6–26.5% |
 | [1–4 April 2019](2019-04-04-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23.5% | 22.1–25.0% | 21.7–25.5% | 21.4–25.8% | 20.7–26.6% |
 | [30 March–3 April 2019](2019-04-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23.0% | 21.6–24.5% | 21.2–24.9% | 20.8–25.3% | 20.2–26.0% |
 | [29 March–2 April 2019](2019-04-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23.0% | 21.6–24.5% | 21.2–24.9% | 20.8–25.3% | 20.2–26.0% |
@@ -102,6 +103,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
+| [2–5 April 2019](2019-04-05-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 19–20 | 19–20 | 19–20 | 19–26 |
 | [1–4 April 2019](2019-04-04-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 24 | 22–24 | 21–25 | 21–27 | 19–27 |
 | [30 March–3 April 2019](2019-04-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 24 | 22–27 | 22–27 | 21–27 | 20–27 |
 | [29 March–2 April 2019](2019-04-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21 | 21–23 | 19–24 | 19–24 | 19–25 |
