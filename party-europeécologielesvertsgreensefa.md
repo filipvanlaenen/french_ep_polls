@@ -93,7 +93,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–10 | 5–10 |
-| [2–5 April 2019](2019-04-05-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
+| [2–5 April 2019](2019-04-05-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [1–4 April 2019](2019-04-04-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 6–7 | 6–7 | 6–8 | 5–9 |
 | [30 March–3 April 2019](2019-04-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [29 March–2 April 2019](2019-04-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
