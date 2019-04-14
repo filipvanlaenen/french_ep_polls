@@ -102,13 +102,13 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 7–10 | 7–10 | 7–10 | 6–12 |
 | [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 7–9 | 7–9 | 7–10 |
 | [25–27 March 2019](2019-03-27-ELABE.html) | ELABE <br> BFMTV | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
-| [20–26 March 2019](2019-03-26-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [20–26 March 2019](2019-03-26-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [22–26 March 2019](2019-03-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9 | 6–10 | 6–10 | 6–10 | 6–10 |
 | [21–25 March 2019](2019-03-25-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [22–23 March 2019](2019-03-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 5 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [19–22 March 2019](2019-03-22-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [19–22 March 2019](2019-03-22-BVA.html) | BVA <br> Europe 1 and La Tribune | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [18–21 March 2019](2019-03-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 8 | 6–8 |
 | [16–20 March 2019](2019-03-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [15–19 March 2019](2019-03-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
@@ -163,9 +163,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 99.9% |  |
 | 4 | 0% | 99.9% |  |
 | 5 | 10% | 99.9% |  |
-| 6 | 16% | 90% | Last Result |
-| 7 | 31% | 74% | Median |
-| 8 | 35% | 43% |  |
+| 6 | 21% | 90% | Last Result |
+| 7 | 22% | 68% | Median |
+| 8 | 39% | 47% |  |
 | 9 | 5% | 8% |  |
 | 10 | 3% | 3% |  |
 | 11 | 0.3% | 0.3% |  |
