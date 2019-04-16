@@ -10,7 +10,7 @@ Last result: **2.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.6% | 1.3–3.9% | 1.2–4.1% | 1.0–4.6% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.9% | 1.8–4.1% | 1.8–4.4% | 1.6–4.8% |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 2.0% | N/A | N/A | N/A | N/A |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 2.0% | N/A | N/A | N/A | N/A |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 2.5% | N/A | N/A | N/A | N/A |
@@ -81,12 +81,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 52% | 88% | Last Result, Median |
-| 2.5–3.5% | 26% | 36% |  |
-| 3.5–4.5% | 10% | 10% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 37% | 99.9% | Last Result |
+| 2.5–3.5% | 43% | 63% | Median |
+| 3.5–4.5% | 19% | 20% |  |
+| 4.5–5.5% | 1.3% | 1.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -171,12 +170,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0% | 0.1% |  |
-| 5 | 0.1% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0% | 0.2% |  |
+| 4 | 0% | 0.2% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

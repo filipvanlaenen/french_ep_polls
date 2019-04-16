@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.5–2.0% | 0.4–2.3% | 0.4–2.4% | 0.3–2.8% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.4–2.3% | 0.4–2.5% | 0.4–2.6% | 0.3–2.9% |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 1.0% | N/A | N/A | N/A | N/A |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.0% | N/A | N/A | N/A | N/A |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.0% | N/A | N/A | N/A | N/A |
@@ -81,10 +81,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 14% | 100% | Last Result |
-| 0.5–1.5% | 63% | 86% | Median |
-| 1.5–2.5% | 22% | 23% |  |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 33% | 100% | Last Result |
+| 0.5–1.5% | 19% | 67% | Median |
+| 1.5–2.5% | 44% | 48% |  |
+| 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 

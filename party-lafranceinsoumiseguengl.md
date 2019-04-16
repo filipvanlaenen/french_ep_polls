@@ -10,7 +10,7 @@ Last result: **6.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.8–8.8% | 6.5–9.1% | 6.3–9.4% | 5.9–9.9% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.6–8.4% | 6.3–8.6% | 6.1–8.8% | 5.7–9.3% |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9.5% | N/A | N/A | N/A | N/A |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8.5% | N/A | N/A | N/A | N/A |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9.0% | N/A | N/A | N/A | N/A |
@@ -82,14 +82,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 6% | 99.9% |  |
-| 6.5–7.5% | 31% | 94% | Last Result |
-| 7.5–8.5% | 48% | 63% | Median |
-| 8.5–9.5% | 14% | 15% |  |
-| 9.5–10.5% | 1.5% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 10% | 99.8% |  |
+| 6.5–7.5% | 37% | 90% | Last Result |
+| 7.5–8.5% | 47% | 53% | Median |
+| 8.5–9.5% | 6% | 6% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,7 +99,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 |  |  |  |  |  |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
@@ -177,12 +176,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 18% | 98% |  |
-| 7 | 32% | 80% | Median |
-| 8 | 30% | 48% |  |
-| 9 | 18% | 18% |  |
-| 10 | 0.6% | 0.7% |  |
-| 11 | 0% | 0% |  |
+| 5 | 4% | 100% |  |
+| 6 | 31% | 96% |  |
+| 7 | 33% | 65% | Median |
+| 8 | 29% | 32% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0% | 0% |  |
 
 
