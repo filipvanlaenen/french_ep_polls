@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 15 Apr 2019 22:40:13 +0200</pubDate>
+    <pubDate>Fri, 19 Apr 2019 13:31:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 12–13 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-13-HarrisInteractive.html#seats</link>
@@ -266,8 +266,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-03-27-ELABE.png"
         length="355330"
         type="image/png"/>
-      <pubDate>Thu, 11 Apr 2019 12:15:10 +0200</pubDate>
-      <dc:date>2019-04-11T12:15:10.974347+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 13:09:07 +0200</pubDate>
+      <dc:date>2019-04-19T13:09:07.383757+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OpinionWay–Tilder for Les Echos and Radio Classique, 20–26 March 2019 – Voting Intentions</title>
@@ -276,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-03-26-OpinionWay–Tilder.png"
         length="334392"
         type="image/png"/>
-      <pubDate>Thu, 11 Apr 2019 13:00:32 +0200</pubDate>
-      <dc:date>2019-04-11T13:00:32.459006+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 13:19:52 +0200</pubDate>
+      <dc:date>2019-04-19T13:19:52.942782+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 22–26 March 2019 – Voting Intentions</title>
@@ -336,8 +336,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-03-21-Ipsos.png"
         length="329070"
         type="image/png"/>
-      <pubDate>Thu, 11 Apr 2019 21:43:12 +0200</pubDate>
-      <dc:date>2019-04-11T21:43:12.415281+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 13:31:50 +0200</pubDate>
+      <dc:date>2019-04-19T13:31:50.571329+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 18–21 March 2019 – Seat Projections for the Parties</title>
@@ -449,6 +449,6 @@
       <pubDate>Fri, 12 Apr 2019 21:59:04 +0200</pubDate>
       <dc:date>2019-04-12T21:59:04.722511+02:00</dc:date>
     </item>
-    <dc:date>2019-04-15T22:40:13.813723+02:00</dc:date>
+    <dc:date>2019-04-19T13:31:50.571329+02:00</dc:date>
   </channel>
 </rss>
