@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | La République en marche–Mouvement démocrate (ALDE) | 9.9% | 23.5% | 22.1–25.0% |21.7–25.5% |21.4–25.8% |20.7–26.6% |
-| Rassemblement national (ENF) | 24.9% | 20.5% | 19.2–22.0% |18.8–22.4% |18.5–22.7% |17.8–23.4% |
+| Rassemblement national (EAPN) | 24.9% | 20.5% | 19.2–22.0% |18.8–22.4% |18.5–22.7% |17.8–23.4% |
 | Les Républicains (EPP) | 20.8% | 13.0% | 11.9–14.2% |11.6–14.6% |11.3–14.9% |10.8–15.5% |
 | La France insoumise (GUE/NGL) | 6.6% | 7.5% | 6.7–8.5% |6.4–8.8% |6.2–9.0% |5.9–9.5% |
 | Europe Écologie Les Verts (Greens/EFA) | 9.0% | 7.5% | 6.7–8.5% |6.4–8.8% |6.2–9.0% |5.9–9.5% |
@@ -38,7 +38,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#la-république-en-marche–mouvement-démocrate-(alde)">La République en marche–Mouvement démocrate (ALDE)</a> | 7 | 24 | 19–28 |19–28 |19–28 |19–28 |
-| <a href="#rassemblement-national-(enf)">Rassemblement national (ENF)</a> | 24 | 17 | 17–20 |17–20 |17–20 |17–20 |
+| <a href="#rassemblement-national-(eapn)">Rassemblement national (EAPN)</a> | 24 | 17 | 17–20 |17–20 |17–20 |17–20 |
 | <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 10 | 10–13 |10–13 |10–13 |10–13 |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 7 | 6–7 |6–7 |6–7 |5–8 |
 | <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 6 | 6–8 |6–8 |6–8 |6–8 |
@@ -86,11 +86,11 @@
 | 28 | 11% | 11% |  |
 | 29 | 0% | 0% |  |
 
-### Rassemblement national (ENF)
+### Rassemblement national (EAPN)
 
-*For a full overview of the results for this party, see the [Rassemblement national (ENF)](party-rassemblementnationalenf.html) page.*
+*For a full overview of the results for this party, see the [Rassemblement national (EAPN)](party-rassemblementnationaleapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-19-Ifop-Fiducial-seats-pmf-rassemblementnationalenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-19-Ifop-Fiducial-seats-pmf-rassemblementnationaleapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -309,7 +309,7 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | 7 | 24 | 0% | 19–28 | 19–28 | 19–28 | 19–28 |
-| Rassemblement national (ENF) | 24 | 17 | 0% | 17–20 | 17–20 | 17–20 | 17–20 |
+| Rassemblement national (EAPN) | 24 | 17 | 0% | 17–20 | 17–20 | 17–20 | 17–20 |
 | Les Républicains (EPP) | 20 | 10 | 0% | 10–13 | 10–13 | 10–13 | 10–13 |
 | Europe Écologie Les Verts (Greens/EFA) | 6 | 6 | 0% | 6–8 | 6–8 | 6–8 | 6–8 |
 | La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) | 2 | 7 | 0% | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -348,7 +348,7 @@
 | 28 | 11% | 11% |  |
 | 29 | 0% | 0% |  |
 
-### Rassemblement national (ENF)
+### Rassemblement national (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-19-Ifop-Fiducial-coalitions-seats-pmf-rn.png "Seats Probability Mass Function")
 
