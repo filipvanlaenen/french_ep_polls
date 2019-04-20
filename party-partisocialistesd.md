@@ -11,7 +11,7 @@ Last result: **14.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.2% | 5.3–7.0% | 5.0–7.3% | 4.8–7.6% | 4.4–8.2% |
-| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.5% | N/A | N/A | N/A | N/A |
+| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.5% | 5.7–7.4% | 5.5–7.7% | 5.3–7.9% | 4.9–8.4% |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | N/A | N/A | N/A | N/A |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | N/A | N/A | N/A | N/A |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | N/A | N/A | N/A | N/A |
@@ -109,7 +109,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
+| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6 | 5–6 | 0–6 | 0–7 | 0–7 |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
