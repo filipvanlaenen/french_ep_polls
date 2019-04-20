@@ -15,7 +15,7 @@ Last result: **9.9%** (General Election of 25 May 2014)
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.8–24.3% | 19.2–25.0% |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.9% | 20.5–23.5% | 20.1–23.9% | 19.8–24.2% | 19.1–25.0% |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 20.1–23.0% | 19.7–23.4% | 19.4–23.8% | 18.7–24.5% |
-| [11–15 April 2019](2019-04-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | N/A | N/A | N/A | N/A |
+| [11–15 April 2019](2019-04-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 19.8–23.5% | 19.8–23.5% | 18.5–24.7% | 18.5–24.7% |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 22.5% | 20.9–24.2% | 20.4–24.7% | 20.1–25.2% | 19.3–26.0% |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.9–24.2% | 19.2–25.0% |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.5% | 21.1–24.0% | 20.7–24.4% | 20.4–24.8% | 19.7–25.5% |
@@ -116,8 +116,8 @@ Last result: **7** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–23 | 18–23 |
-| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 18–20 | 18–21 | 18–22 | 18–23 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–24 | 18–26 | 18–26 |
+| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21 | 19–21 | 19–21 | 19–22 | 19–22 |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 18 | 18 | 18 | 18–20 | 18–20 |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 19 | 19 | 19 | 19 |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 19 | 19–23 | 19–23 | 19–23 |
@@ -125,7 +125,7 @@ Last result: **7** seats (General Election of 25 May 2014)
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 21 | 19–22 | 18–22 | 18–22 | 18–23 |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20 | 19–23 | 18–23 | 18–23 | 17–25 |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22 | 19–23 | 19–24 | 19–24 | 18–24 |
-| [10–11 April 2019](2019-04-11-BVA.html) | BVA <br> Europe 1 and La Tribune | 23 | 23 | 23 | 23 | 23 |
+| [10–11 April 2019](2019-04-11-BVA.html) | BVA <br> Europe 1 and La Tribune | 23 | 23–26 | 23–26 | 23–26 | 22–26 |
 | [6–10 April 2019](2019-04-10-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23 | 19–24 | 19–25 | 19–25 | 19–26 |
 | [5–9 April 2019](2019-04-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23 | 21–23 | 21–23 | 20–23 | 19–26 |
 | [4–8 April 2019](2019-04-08-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20 | 20 | 20–23 | 19–24 | 19–24 |
@@ -209,9 +209,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 16% | 97% |  |
 | 20 | 23% | 81% |  |
 | 21 | 11% | 58% | Median |
-| 22 | 10% | 47% |  |
-| 23 | 37% | 37% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 22 | 10% | 46% |  |
+| 23 | 31% | 37% |  |
+| 24 | 1.2% | 6% |  |
+| 25 | 0.5% | 5% |  |
+| 26 | 4% | 4% |  |
+| 27 | 0% | 0% |  |
 
 

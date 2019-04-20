@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.5% | 3.0–4.3% | 2.8–4.5% | 2.7–4.7% | 2.4–5.0% |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.7–4.7% | 2.4–5.0% |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.5% | 2.9–4.2% | 2.7–4.4% | 2.6–4.6% | 2.4–5.0% |
-| [11–15 April 2019](2019-04-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.5% | N/A | N/A | N/A | N/A |
+| [11–15 April 2019](2019-04-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.5% | 2.5–4.9% | 2.5–4.9% | 2.5–4.9% | 2.5–4.9% |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.7–5.8% |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% | 2.0–4.4% |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.6% | 2.4–5.0% |

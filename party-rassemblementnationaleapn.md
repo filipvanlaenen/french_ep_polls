@@ -15,7 +15,7 @@ Last result: **24.9%** (General Election of 25 May 2014)
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.8–24.3% | 19.2–25.0% |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 20.1–23.0% | 19.7–23.4% | 19.4–23.8% | 18.7–24.5% |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.0% | 19.6–22.5% | 19.2–22.9% | 18.9–23.2% | 18.3–24.0% |
-| [11–15 April 2019](2019-04-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | N/A | N/A | N/A | N/A |
+| [11–15 April 2019](2019-04-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 19.8–23.5% | 19.8–23.5% | 18.5–24.7% | 18.5–24.7% |
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 21.0% | 19.5–22.8% | 19.0–23.2% | 18.7–23.7% | 17.9–24.5% |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 20.1–22.9% | 19.7–23.4% | 19.4–23.7% | 18.7–24.4% |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.9–24.3% | 19.3–25.0% |
@@ -108,8 +108,8 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–21 | 18–21 | 18–21 | 17–23 |
-| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 19–23 | 19–24 | 19–24 | 17–24 |
+| N/A | [Poll Average](average.html) | 21 | 19–21 | 18–21 | 18–22 | 17–23 |
+| [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22 | 22 | 21–22 | 21–22 | 19–23 |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21 | 21 | 21–22 | 19–23 | 17–23 |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 18 | 18 | 18 | 18 | 18 |
 | [12–16 April 2019](2019-04-16-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 18 | 18 | 17–18 | 17–18 | 17–18 |
@@ -117,7 +117,7 @@ Last result: **24** seats (General Election of 25 May 2014)
 | [12–13 April 2019](2019-04-13-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 20 | 17–21 | 17–21 | 17–21 | 17–21 |
 | [9–12 April 2019](2019-04-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21 | 19–22 | 18–22 | 18–23 | 18–23 |
 | [8–11 April 2019](2019-04-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21 | 19–24 | 19–24 | 19–24 | 17–25 |
-| [10–11 April 2019](2019-04-11-BVA.html) | BVA <br> Europe 1 and La Tribune | 20 | 20 | 20 | 20 | 20 |
+| [10–11 April 2019](2019-04-11-BVA.html) | BVA <br> Europe 1 and La Tribune | 20 | 20–21 | 20–23 | 18–23 | 18–23 |
 | [6–10 April 2019](2019-04-10-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20 | 19–23 | 18–23 | 18–23 | 17–23 |
 | [5–9 April 2019](2019-04-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20 | 18–20 | 18–21 | 18–21 | 18–22 |
 | [4–8 April 2019](2019-04-08-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 18 | 18 | 18–19 | 18–22 | 16–23 |
@@ -188,12 +188,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0% | 100% |  |
 | 17 | 2% | 99.9% |  |
-| 18 | 6% | 98% |  |
+| 18 | 7% | 98% |  |
 | 19 | 14% | 91% |  |
-| 20 | 30% | 77% | Median |
-| 21 | 45% | 47% |  |
-| 22 | 0.7% | 2% |  |
-| 23 | 0.8% | 0.8% |  |
+| 20 | 25% | 77% |  |
+| 21 | 49% | 52% | Median |
+| 22 | 0.7% | 3% |  |
+| 23 | 2% | 2% |  |
 | 24 | 0% | 0% | Last Result |
 
 
