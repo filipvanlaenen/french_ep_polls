@@ -137,7 +137,7 @@ Last result: **20** seats (General Election of 25 May 2014)
 | [22–23 March 2019](2019-03-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 12 | 12 | 12 | 12 |
 | [19–22 March 2019](2019-03-22-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 9–13 | 9–13 | 9–13 | 9–13 |
 | [19–22 March 2019](2019-03-22-BVA.html) | BVA <br> Europe 1 and La Tribune | 12 | 9–13 | 9–13 | 9–13 | 9–13 |
-| [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 11 | 11 | 11 | 11 | 11–12 |
+| [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 11 | 11 | 11 | 10–11 | 10–12 |
 | [18–21 March 2019](2019-03-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 13 | 13 | 12–13 | 11–14 |
 | [16–20 March 2019](2019-03-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 10 | 10 | 10–11 | 10–11 | 10–13 |
 | [15–19 March 2019](2019-03-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 10 | 10–13 | 10–13 | 10–13 | 10–13 |
@@ -187,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.2% | 100% |  |
-| 10 | 4% | 99.8% |  |
-| 11 | 41% | 96% |  |
+| 10 | 5% | 99.8% |  |
+| 11 | 40% | 95% |  |
 | 12 | 21% | 55% | Median |
 | 13 | 7% | 34% |  |
 | 14 | 20% | 27% |  |

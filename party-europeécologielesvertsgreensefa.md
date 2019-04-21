@@ -134,7 +134,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [22–23 March 2019](2019-03-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 6 | 6 | 6 | 6 | 6 |
 | [19–22 March 2019](2019-03-22-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [19–22 March 2019](2019-03-22-BVA.html) | BVA <br> Europe 1 and La Tribune | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 7 | 7 | 7 | 7 | 7 |
+| [15–21 March 2019](2019-03-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [18–21 March 2019](2019-03-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 7 | 7 | 6–8 |
 | [16–20 March 2019](2019-03-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6 | 6 | 6 | 6–7 | 6–8 |
 | [15–19 March 2019](2019-03-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
@@ -185,8 +185,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 14% | 100% |  |
 | 6 | 29% | 86% | Last Result |
-| 7 | 33% | 57% | Median |
-| 8 | 16% | 24% |  |
+| 7 | 29% | 57% | Median |
+| 8 | 20% | 28% |  |
 | 9 | 8% | 9% |  |
 | 10 | 1.2% | 1.2% |  |
 | 11 | 0% | 0% |  |
