@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 24 Apr 2019 06:56:55 +0200</pubDate>
+    <pubDate>Thu, 25 Apr 2019 11:17:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 20–24 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-24-Ifop-Fiducial.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.6–10.6%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.1–10.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.9–7.4%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 19.9–24.2%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 13.2–17.0%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 3.6–5.7%&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 18.5–22.7%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-24-Ifop-Fiducial.png"
+        length="371030"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 06:54:30 +0200</pubDate>
+      <dc:date>2019-04-25T06:54:30.614658+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 19–23 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-23-Ifop-Fiducial.html</link>
@@ -18,6 +28,16 @@
         type="image/png"/>
       <pubDate>Wed, 24 Apr 2019 06:56:55 +0200</pubDate>
       <dc:date>2019-04-24T06:56:55.291507+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Le CEVIPOF, La Fondation Jean Jaurès and Le Monde, 18–22 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-22-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.8–1.2%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.7–2.3%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.5–7.6%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 3.6–4.4%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.9–9.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 6.0–7.0%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 22.1–23.9%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.7–2.3%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12.8–14.2%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 4.1–5.0%&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 21.1–22.9%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0.8–1.2%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.8–1.2%&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 1.7–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-22-Ipsos.png"
+        length="307204"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 11:17:13 +0200</pubDate>
+      <dc:date>2019-04-25T11:17:13.072676+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 16–19 April 2019 – Seat Projections for the Parties</title>
@@ -609,6 +629,6 @@
       <pubDate>Fri, 12 Apr 2019 21:59:04 +0200</pubDate>
       <dc:date>2019-04-12T21:59:04.722511+02:00</dc:date>
     </item>
-    <dc:date>2019-04-24T06:56:55.291507+02:00</dc:date>
+    <dc:date>2019-04-25T11:17:13.072676+02:00</dc:date>
   </channel>
 </rss>
