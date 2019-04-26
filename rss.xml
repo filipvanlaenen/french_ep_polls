@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Apr 2019 11:17:13 +0200</pubDate>
+    <pubDate>Fri, 26 Apr 2019 23:03:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 20–24 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-24-Ifop-Fiducial.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-24-Ifop-Fiducial.png"
         length="371030"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2019 06:54:30 +0200</pubDate>
-      <dc:date>2019-04-25T06:54:30.614658+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2019 23:03:50 +0200</pubDate>
+      <dc:date>2019-04-26T23:03:50.050533+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 19–23 April 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-22-Ipsos.png"
         length="307204"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2019 11:17:13 +0200</pubDate>
-      <dc:date>2019-04-25T11:17:13.072676+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2019 21:25:45 +0200</pubDate>
+      <dc:date>2019-04-26T21:25:45.123566+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 16–19 April 2019 – Seat Projections for the Parties</title>
@@ -629,6 +629,6 @@
       <pubDate>Fri, 12 Apr 2019 21:59:04 +0200</pubDate>
       <dc:date>2019-04-12T21:59:04.722511+02:00</dc:date>
     </item>
-    <dc:date>2019-04-25T11:17:13.072676+02:00</dc:date>
+    <dc:date>2019-04-26T23:03:50.050533+02:00</dc:date>
   </channel>
 </rss>
