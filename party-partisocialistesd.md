@@ -11,9 +11,13 @@ Last result: **14.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.1% | 5.3–7.0% | 5.0–7.3% | 4.8–7.6% | 4.4–8.2% |
+| [23–26 April 2019](2019-04-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 5.5% | 4.8–6.4% | 4.6–6.6% | 4.4–6.8% | 4.1–7.3% |
+| [25–26 April 2019](2019-04-26-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.3–8.0% |
 | [20–24 April 2019](2019-04-24-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | 5.3–6.9% | 5.1–7.2% | 4.9–7.4% | 4.6–7.9% |
+| [17–23 April 2019](2019-04-23-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 5.8% | 5.2–6.5% | 5.0–6.8% | 4.8–6.9% | 4.6–7.3% |
 | [19–23 April 2019](2019-04-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | 5.2–6.9% | 5.0–7.1% | 4.8–7.4% | 4.5–7.8% |
 | [18–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 6.5% | 6.2–6.9% | 6.1–7.0% | 6.0–7.0% | 5.9–7.2% |
+| [15–21 April 2019](2019-04-21-BVA.html) | BVA <br> Europe 1 and La Tribune | 6.0% | 5.4–6.6% | 5.2–6.8% | 5.1–7.0% | 4.8–7.3% |
 | [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.5% | 5.7–7.4% | 5.5–7.7% | 5.3–7.9% | 4.9–8.4% |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.9% |
@@ -112,9 +116,13 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [20–24 April 2019](2019-04-24-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
-| [19–23 April 2019](2019-04-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [23–26 April 2019](2019-04-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [25–26 April 2019](2019-04-26-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 5 | 4–5 | 4–6 | 4–6 | 0–7 |
+| [20–24 April 2019](2019-04-24-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 5 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [17–23 April 2019](2019-04-23-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [19–23 April 2019](2019-04-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 6 | 4–6 | 0–7 | 0–7 | 0–7 |
 | [18–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [15–21 April 2019](2019-04-21-BVA.html) | BVA <br> Europe 1 and La Tribune | 5 | 5–6 | 5–6 | 5–6 | 0–6 |
 | [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0–4 | 0–4 | 0–6 |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 5 | 5 | 5 | 5 | 5 |

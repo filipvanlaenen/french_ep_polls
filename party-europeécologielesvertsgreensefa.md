@@ -11,9 +11,13 @@ Last result: **9.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.9% | 6.7–9.3% | 6.4–9.7% | 6.2–10.1% | 5.8–10.7% |
+| [23–26 April 2019](2019-04-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9.0% | 8.0–10.0% | 7.8–10.3% | 7.6–10.6% | 7.1–11.1% |
+| [25–26 April 2019](2019-04-26-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9.3% | 8.3–10.6% | 8.0–10.9% | 7.7–11.2% | 7.2–11.8% |
 | [20–24 April 2019](2019-04-24-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8.5% | 7.6–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
+| [17–23 April 2019](2019-04-23-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.8–8.0% | 5.5–8.4% |
 | [19–23 April 2019](2019-04-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8.5% | 7.6–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
 | [18–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 8.5% | 8.1–8.9% | 8.0–9.0% | 7.9–9.1% | 7.7–9.3% |
+| [15–21 April 2019](2019-04-21-BVA.html) | BVA <br> Europe 1 and La Tribune | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.6–9.4% |
 | [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8.5% | 7.6–9.6% | 7.4–9.9% | 7.1–10.1% | 6.7–10.7% |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.1–11.2% |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.6–10.7% | 7.1–11.2% |
@@ -109,9 +113,13 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 5–10 |
-| [20–24 April 2019](2019-04-24-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| [19–23 April 2019](2019-04-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
+| [23–26 April 2019](2019-04-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [25–26 April 2019](2019-04-26-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 8 | 8–9 | 8–10 | 7–10 | 6–10 |
+| [20–24 April 2019](2019-04-24-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [17–23 April 2019](2019-04-23-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [19–23 April 2019](2019-04-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [18–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [15–21 April 2019](2019-04-21-BVA.html) | BVA <br> Europe 1 and La Tribune | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–19 April 2019](2019-04-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [15–18 April 2019](2019-04-18-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 7 | 7–9 | 7–11 |
 | [13–17 April 2019](2019-04-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 8 | 8 |
