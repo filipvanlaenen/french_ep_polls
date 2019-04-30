@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 30 Apr 2019 16:09:10 +0200</pubDate>
+    <pubDate>Tue, 30 Apr 2019 20:49:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 23–26 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-26-Ifop-Fiducial.html#seats</link>
@@ -286,8 +286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-17-Ifop-Fiducial.png"
         length="385744"
         type="image/png"/>
-      <pubDate>Mon, 29 Apr 2019 18:13:04 +0200</pubDate>
-      <dc:date>2019-04-29T18:13:04.131084+02:00</dc:date>
+      <pubDate>Tue, 30 Apr 2019 20:49:28 +0200</pubDate>
+      <dc:date>2019-04-30T20:49:28.976524+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 12–16 April 2019 – Seat Projections for the Parties</title>
@@ -610,14 +610,34 @@
       <dc:date>2019-04-30T11:24:59.501269+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 30 March–3 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-03-Ifop-Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–6 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 20–25 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11–13 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 17–21 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-03-Ifop-Fiducial-seats.png"
+        length="347709"
+        type="image/png"/>
+      <pubDate>Tue, 30 Apr 2019 19:18:30 +0200</pubDate>
+      <dc:date>2019-04-30T19:18:30.685927+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 30 March–3 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-03-Ifop-Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-03-Ifop-Fiducial-coalitions-seats.png"
+        length="199597"
+        type="image/png"/>
+      <pubDate>Tue, 30 Apr 2019 19:18:30 +0200</pubDate>
+      <dc:date>2019-04-30T19:18:30.685927+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 30 March–3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-03-Ifop-Fiducial.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.8–3.5%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.1–10.1%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.2–9.0%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.4–6.8%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 20.8–25.3%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.3–14.9%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 4.4–6.8%&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 18.9–23.3%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 2.7–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-03-Ifop-Fiducial.png"
         length="382894"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 08:44:13 +0200</pubDate>
-      <dc:date>2019-04-06T08:44:13.303983+02:00</dc:date>
+      <pubDate>Tue, 30 Apr 2019 19:18:30 +0200</pubDate>
+      <dc:date>2019-04-30T19:18:30.685927+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 29 March–2 April 2019 – Seat Projections for the Parties</title>
@@ -959,6 +979,6 @@
       <pubDate>Fri, 12 Apr 2019 21:59:04 +0200</pubDate>
       <dc:date>2019-04-12T21:59:04.722511+02:00</dc:date>
     </item>
-    <dc:date>2019-04-30T16:09:10.967432+02:00</dc:date>
+    <dc:date>2019-04-30T20:49:28.976524+02:00</dc:date>
   </channel>
 </rss>
