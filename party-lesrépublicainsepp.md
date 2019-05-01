@@ -120,7 +120,7 @@ Last result: **20** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
-| [25–29 April 2019](2019-04-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 13 | 13 | 13–14 | 11–15 |
+| [25–29 April 2019](2019-04-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 12–13 | 12–14 | 11–15 | 11–15 |
 | [28–29 April 2019](2019-04-29-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 12–14 | 11–15 | 11–16 | 11–16 |
 | [27–28 April 2019](2019-04-28-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 14 | 13–14 | 13–14 | 13–14 | 12–16 |
 | [26–27 April 2019](2019-04-27-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 11–14 | 11–14 | 11–15 | 11–16 |
