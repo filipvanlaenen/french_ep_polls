@@ -125,15 +125,15 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| [29 April–2 May 2019](2019-05-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 8 | 7–8 |
-| [1–2 May 2019](2019-05-02-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9 | 9 | 9 | 7–9 | 7–9 |
-| [30 April–2 May 2019](2019-05-02-BVA.html) | BVA <br> Europe 1 and La Tribune | 8 | 8 | 8–12 | 6–12 | 6–12 |
-| [28 April–1 May 2019](2019-05-01-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 8 | 8 | 8 | 8 | 7–8 |
-| [24–30 April 2019](2019-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 6 | 6 | 6 | 6 |
-| [26–30 April 2019](2019-04-30-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7 | 7 | 7 | 7 |
-| [29–30 April 2019](2019-04-30-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9 | 9 | 9 | 9 | 8–9 |
+| [29 April–2 May 2019](2019-05-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
+| [1–2 May 2019](2019-05-02-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [30 April–2 May 2019](2019-05-02-BVA.html) | BVA <br> Europe 1 and La Tribune | 9 | 9 | 9 | 7–9 | 7–10 |
+| [28 April–1 May 2019](2019-05-01-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 8 | 8–9 | 6–9 | 6–9 | 6–10 |
+| [24–30 April 2019](2019-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 8 | 8 | 7–8 | 6–8 | 5–8 |
+| [26–30 April 2019](2019-04-30-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 8 | 8 | 8 | 8 | 7–8 |
+| [29–30 April 2019](2019-04-30-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 8 | 7–9 | 7–10 | 6–10 | 5–10 |
 | [25–29 April 2019](2019-04-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| [28–29 April 2019](2019-04-29-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 6 | 6 | 6 | 6–9 | 6–9 |
+| [28–29 April 2019](2019-04-29-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [27–28 April 2019](2019-04-28-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 7 | 7–8 | 7–10 | 7–10 | 7–10 |
 | [26–27 April 2019](2019-04-27-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [23–26 April 2019](2019-04-26-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 9 | 8–9 | 8–9 | 8–9 | 7–9 |
