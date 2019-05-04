@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 May 2019 13:25:34 +0200</pubDate>
+    <pubDate>Sat, 04 May 2019 17:53:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 29 April–2 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-02-Ifop-Fiducial.html#seats</link>
@@ -160,14 +160,34 @@
       <dc:date>2019-05-03T18:10:23.337138+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 26–30 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-30-Ifop-Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8–10 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 19–22 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 20–21 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-30-Ifop-Fiducial-seats.png"
+        length="292179"
+        type="image/png"/>
+      <pubDate>Sat, 04 May 2019 17:53:17 +0200</pubDate>
+      <dc:date>2019-05-04T17:53:17.645606+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 26–30 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-30-Ifop-Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-30-Ifop-Fiducial-coalitions-seats.png"
+        length="157100"
+        type="image/png"/>
+      <pubDate>Sat, 04 May 2019 17:53:17 +0200</pubDate>
+      <dc:date>2019-05-04T17:53:17.645606+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 26–30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-04-30-Ifop-Fiducial.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.8–3.4%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8.0–11.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.0–6.3%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 20.3–24.7%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12.7–16.4%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 4.0–6.3%&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 19.8–24.2%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 1.3–2.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 1.8–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-04-30-Ifop-Fiducial.png"
         length="370736"
         type="image/png"/>
-      <pubDate>Fri, 03 May 2019 21:02:14 +0200</pubDate>
-      <dc:date>2019-05-03T21:02:14.002506+02:00</dc:date>
+      <pubDate>Sat, 04 May 2019 17:53:17 +0200</pubDate>
+      <dc:date>2019-05-04T17:53:17.645606+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 29–30 April 2019 – Seat Projections for the Parties</title>
@@ -1359,6 +1379,6 @@
       <pubDate>Fri, 03 May 2019 09:54:58 +0200</pubDate>
       <dc:date>2019-05-03T09:54:58.190317+02:00</dc:date>
     </item>
-    <dc:date>2019-05-04T13:25:34.842246+02:00</dc:date>
+    <dc:date>2019-05-04T17:53:17.645606+02:00</dc:date>
   </channel>
 </rss>
