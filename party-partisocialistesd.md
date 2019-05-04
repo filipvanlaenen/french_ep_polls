@@ -129,7 +129,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [29 April–2 May 2019](2019-05-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
-| [1–2 May 2019](2019-05-02-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [1–2 May 2019](2019-05-02-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 5 | 0–5 | 0–5 | 0–6 | 0–7 |
 | [30 April–2 May 2019](2019-05-02-BVA.html) | BVA <br> Europe 1 and La Tribune | 5 | 5–6 | 4–6 | 0–6 | 0–7 |
 | [28 April–1 May 2019](2019-05-01-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
 | [24–30 April 2019](2019-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
