@@ -10,7 +10,7 @@ Last result: **24.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 19.7–23.3% | 19.2–23.8% | 18.8–24.2% | 18.0–25.0% |
+| N/A | [Poll Average](average.html) | 22.0% | 20.3–23.6% | 19.7–24.1% | 19.2–24.5% | 18.3–25.3% |
 | [3–4 May 2019](2019-05-04-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 20.5% | 19.0–22.2% | 18.6–22.7% | 18.2–23.1% | 17.5–23.9% |
 | [30 April–3 May 2019](2019-05-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 23.3% | 21.9–24.8% | 21.5–25.2% | 21.1–25.6% | 20.5–26.3% |
 | [2–3 May 2019](2019-05-03-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 20.0% | 18.5–21.6% | 18.0–22.1% | 17.7–22.5% | 17.0–23.3% |
@@ -51,7 +51,7 @@ Last result: **24.9%** (General Election of 25 May 2014)
 | [29 March–2 April 2019](2019-04-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20.5% | 19.1–21.9% | 18.8–22.3% | 18.4–22.7% | 17.8–23.4% |
 | [28 March–1 April 2019](2019-04-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.0% | 19.7–22.5% | 19.3–22.9% | 18.9–23.3% | 18.3–24.0% |
 | [26–29 March 2019](2019-03-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.0% | 19.6–22.5% | 19.3–22.9% | 18.9–23.3% | 18.3–24.0% |
-| [28–29 March 2019](2019-03-29-ELABE.html) | ELABE <br> BFMTV | 21.0% | N/A | N/A | N/A | N/A |
+| [28–29 March 2019](2019-03-29-ELABE.html) | ELABE <br> BFMTV | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
 | [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20.9% | 19.6–22.4% | 19.2–22.8% | 18.9–23.2% | 18.2–23.9% |
 | [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 20.3–22.8% | 20.0–23.1% | 19.7–23.4% | 19.1–24.1% |
 | [25–27 March 2019](2019-03-27-ELABE.html) | ELABE <br> BFMTV | 22.0% | 20.5–23.6% | 20.1–24.0% | 19.7–24.4% | 19.0–25.2% |
@@ -72,7 +72,7 @@ Last result: **24.9%** (General Election of 25 May 2014)
 | [8–12 March 2019](2019-03-12-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 20.1–23.0% | 19.7–23.4% | 19.4–23.7% | 18.7–24.4% |
 | [7–11 March 2019](2019-03-11-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21.5% | 20.1–23.0% | 19.8–23.4% | 19.4–23.8% | 18.8–24.5% |
 | [8–9 March 2019](2019-03-09-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 21.0% | 19.5–22.7% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
-| [5–8 March 2019](2019-03-08-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | N/A | N/A | N/A | N/A |
+| [5–8 March 2019](2019-03-08-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.9–24.3% | 19.3–25.0% |
 | [4–7 March 2019](2019-03-07-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 22.0% | N/A | N/A | N/A | N/A |
 | [20–27 February 2019](2019-02-27-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 22.0% | N/A | N/A | N/A | N/A |
 | [25–27 February 2019](2019-02-27-ELABE.html) | ELABE <br> BFMTV | 22.0% | N/A | N/A | N/A | N/A |
@@ -110,15 +110,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.4% | 99.9% |  |
-| 18.5–19.5% | 7% | 98% |  |
-| 19.5–20.5% | 15% | 92% |  |
-| 20.5–21.5% | 23% | 77% |  |
-| 21.5–22.5% | 31% | 54% | Median |
-| 22.5–23.5% | 16% | 23% |  |
-| 23.5–24.5% | 6% | 7% |  |
-| 24.5–25.5% | 1.2% | 1.3% | Last Result |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0.8% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.1% |  |
+| 19.5–20.5% | 8% | 96% |  |
+| 20.5–21.5% | 21% | 88% |  |
+| 21.5–22.5% | 38% | 67% | Median |
+| 22.5–23.5% | 19% | 29% |  |
+| 23.5–24.5% | 8% | 11% |  |
+| 24.5–25.5% | 2% | 2% | Last Result |
+| 25.5–26.5% | 0.3% | 0.3% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -130,7 +130,7 @@ Last result: **24** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–21 | 18–22 | 17–23 | 17–23 |
+| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–22 | 18–23 | 17–23 |
 | [3–4 May 2019](2019-05-04-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 19 | 17–22 | 17–22 | 17–23 | 16–23 |
 | [30 April–3 May 2019](2019-05-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 21 | 21–22 | 20–22 | 19–22 | 18–23 |
 | [2–3 May 2019](2019-05-03-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 19 | 18–20 | 17–21 | 16–21 | 16–22 |
@@ -171,7 +171,7 @@ Last result: **24** seats (General Election of 25 May 2014)
 | [29 March–2 April 2019](2019-04-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 19 | 17–19 | 17–19 | 17–20 | 16–21 |
 | [28 March–1 April 2019](2019-04-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20 | 18–20 | 18–21 | 17–21 | 17–23 |
 | [26–29 March 2019](2019-03-29-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 20 | 20 | 19–20 | 19–20 | 19–20 |
-| [28–29 March 2019](2019-03-29-ELABE.html) | ELABE <br> BFMTV |  |  |  |  |  |
+| [28–29 March 2019](2019-03-29-ELABE.html) | ELABE <br> BFMTV | 22 | 21–23 | 20–23 | 19–23 | 18–24 |
 | [25–28 March 2019](2019-03-28-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 18 | 18 | 18 | 18 | 18–19 |
 | [22–27 March 2019](2019-03-27-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 17 | 17–21 | 17–21 | 17–21 | 17–21 |
 | [25–27 March 2019](2019-03-27-ELABE.html) | ELABE <br> BFMTV | 20 | 19–22 | 18–22 | 17–23 | 17–23 |
@@ -230,14 +230,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 3% | 99.9% |  |
-| 18 | 13% | 96% |  |
-| 19 | 20% | 83% |  |
-| 20 | 24% | 63% | Median |
-| 21 | 30% | 39% |  |
-| 22 | 5% | 9% |  |
+| 16 | 0% | 100% |  |
+| 17 | 2% | 99.9% |  |
+| 18 | 3% | 98% |  |
+| 19 | 7% | 95% |  |
+| 20 | 28% | 89% |  |
+| 21 | 40% | 61% | Median |
+| 22 | 17% | 21% |  |
 | 23 | 4% | 4% |  |
-| 24 | 0% | 0% | Last Result |
+| 24 | 0.4% | 0.5% | Last Result |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
