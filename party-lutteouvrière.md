@@ -16,11 +16,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [4–7 May 2019](2019-05-07-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [6–7 May 2019](2019-05-07-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
 | [6–7 May 2019](2019-05-07-ELABE.html) | ELABE <br> BFMTV | 0.0% | N/A | N/A | N/A | N/A |
-| [4–6 May 2019](2019-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 1.0% | N/A | N/A | N/A | N/A |
-| [4–6 May 2019](2019-05-06-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.1% | N/A | N/A | N/A | N/A |
-| [5–6 May 2019](2019-05-06-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 1.6% | N/A | N/A | N/A | N/A |
+| [4–6 May 2019](2019-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% |
+| [4–6 May 2019](2019-05-06-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.5–2.3% |
+| [5–6 May 2019](2019-05-06-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
 | [3–4 May 2019](2019-05-04-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
-| [2–3 May 2019](2019-05-03-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 1.0% | N/A | N/A | N/A | N/A |
+| [2–3 May 2019](2019-05-03-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [30 April–3 May 2019](2019-05-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [2–3 May 2019](2019-05-03-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [29 April–2 May 2019](2019-05-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
@@ -137,11 +137,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [4–7 May 2019](2019-05-07-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [6–7 May 2019](2019-05-07-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0 | 0 | 0 | 0 |
 | [6–7 May 2019](2019-05-07-ELABE.html) | ELABE <br> BFMTV |  |  |  |  |  |
-| [4–6 May 2019](2019-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique |  |  |  |  |  |
-| [4–6 May 2019](2019-05-06-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
-| [5–6 May 2019](2019-05-06-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 |  |  |  |  |  |
+| [4–6 May 2019](2019-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
+| [4–6 May 2019](2019-05-06-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [5–6 May 2019](2019-05-06-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 May 2019](2019-05-04-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0 | 0 | 0 | 0 |
-| [2–3 May 2019](2019-05-03-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde |  |  |  |  |  |
+| [2–3 May 2019](2019-05-03-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 0 | 0 | 0 | 0 | 0 |
 | [30 April–3 May 2019](2019-05-03-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [2–3 May 2019](2019-05-03-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0 | 0 | 0 | 0 |
 | [29 April–2 May 2019](2019-05-02-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
