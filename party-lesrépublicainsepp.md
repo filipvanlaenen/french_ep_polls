@@ -146,10 +146,10 @@ Last result: **20** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
 | [10–11 May 2019](2019-05-11-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 11 | 10–12 | 9–14 | 9–14 | 9–15 |
-| [7–10 May 2019](2019-05-10-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 10–12 | 10–13 | 10–13 | 10–16 |
-| [9–10 May 2019](2019-05-10-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 12 | 12 | 12 | 12 |
-| [6–9 May 2019](2019-05-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 11 | 11 | 11 | 11 | 11 |
-| [8–9 May 2019](2019-05-09-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 13 | 10–13 | 10–13 | 10–16 | 10–16 |
+| [7–10 May 2019](2019-05-10-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 11–14 | 11–14 | 11–14 | 10–16 |
+| [9–10 May 2019](2019-05-10-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
+| [6–9 May 2019](2019-05-09-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 12–13 | 11–13 | 11–14 | 10–15 |
+| [8–9 May 2019](2019-05-09-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 11 | 11–12 | 11–12 | 11–12 | 11–14 |
 | [4–8 May 2019](2019-05-08-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
 | [7–8 May 2019](2019-05-08-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 13 | 12–15 | 12–15 | 12–15 | 11–15 |
 | [4–7 May 2019](2019-05-07-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
