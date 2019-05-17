@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 17 May 2019 08:33:29 +0200</pubDate>
+    <pubDate>Fri, 17 May 2019 12:30:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 11–15 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-Ifop-Fiducial.html</link>
@@ -20,14 +20,44 @@
       <dc:date>2019-05-17T08:33:29.655937+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 14–15 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-HarrisInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–12 seats&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 19–24 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10–15 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 20–25 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-HarrisInteractive-seats.png"
+        length="308399"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 12:09:58 +0200</pubDate>
+      <dc:date>2019-05-17T12:09:58.730099+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 14–15 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-HarrisInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-HarrisInteractive-coalitions-seats.png"
+        length="181332"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 12:09:58 +0200</pubDate>
+      <dc:date>2019-05-17T12:09:58.730099+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 14–15 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-HarrisInteractive.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.8–3.8%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8.1–11.8%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 3.9–6.7%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 20.2–25.3%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.4–15.6%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 21.2–26.4%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-HarrisInteractive.png"
         length="375476"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2019 08:26:20 +0200</pubDate>
-      <dc:date>2019-05-17T08:26:20.200943+02:00</dc:date>
+      <pubDate>Fri, 17 May 2019 12:09:58 +0200</pubDate>
+      <dc:date>2019-05-17T12:09:58.730099+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 10–14 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-14-Ifop-Fiducial.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.3–3.8%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.2–9.7%&lt;/li&gt;&lt;li&gt;Génération·s, le mouvement (S&amp;amp;D): 1.8–3.3%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.3–8.7%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.5–6.6%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (ALDE): 20.3–24.1%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (ALDE): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12.3–15.4%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 3.6–5.5%&lt;/li&gt;&lt;li&gt;Rassemblement national (EAPN): 20.8–24.6%&lt;/li&gt;&lt;li&gt;Les Patriotes (EFDD): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Mouvement des gilets jaunes (*): 0.6–1.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-14-Ifop-Fiducial.png"
+        length="357597"
+        type="image/png"/>
+      <pubDate>Fri, 17 May 2019 09:16:48 +0200</pubDate>
+      <dc:date>2019-05-17T09:16:48.122188+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 13–14 May 2019 – Voting Intentions</title>
@@ -76,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-12-HarrisInteractive.png"
         length="379347"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2019 08:01:56 +0200</pubDate>
-      <dc:date>2019-05-17T08:01:56.423091+02:00</dc:date>
+      <pubDate>Fri, 17 May 2019 12:30:01 +0200</pubDate>
+      <dc:date>2019-05-17T12:30:01.023884+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 10–11 May 2019 – Seat Projections for the Parties</title>
@@ -1959,6 +1989,6 @@
       <pubDate>Mon, 13 May 2019 06:59:58 +0200</pubDate>
       <dc:date>2019-05-13T06:59:58.332899+02:00</dc:date>
     </item>
-    <dc:date>2019-05-17T08:33:29.655937+02:00</dc:date>
+    <dc:date>2019-05-17T12:30:01.023884+02:00</dc:date>
   </channel>
 </rss>
