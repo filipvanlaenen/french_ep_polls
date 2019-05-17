@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 60 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | RN | LR | PS | LREM–MoDem | EELV | PCF | FI | Agir–UDI | DlF | LP | UPR | NPA | G·s | R! | LO | GJ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
