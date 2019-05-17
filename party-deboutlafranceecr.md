@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4.4% | 3.4–5.2% | 3.2–5.5% | 3.0–5.8% | 2.6–6.3% |
 | [11–15 May 2019](2019-05-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 4.0% | 3.5–4.6% | 3.4–4.7% | 3.3–4.9% | 3.0–5.2% |
 | [14–15 May 2019](2019-05-15-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.3% |
-| [10–14 May 2019](2019-05-14-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 4.5% | 3.9–5.2% | 3.7–5.3% | 3.6–5.5% | 3.3–5.9% |
+| [10–14 May 2019](2019-05-14-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 4.5% | 3.9–5.1% | 3.7–5.3% | 3.6–5.5% | 3.4–5.8% |
 | [13–14 May 2019](2019-05-14-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.6–4.9% | 2.4–5.4% |
 | [12–14 May 2019](2019-05-14-ELABE.html) | ELABE <br> BFMTV | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [9–13 May 2019](2019-05-13-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 4.5% | 3.9–5.3% | 3.7–5.6% | 3.5–5.8% | 3.3–6.2% |
@@ -152,7 +152,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–5 |
 | [11–15 May 2019](2019-05-15-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [14–15 May 2019](2019-05-15-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0 | 0 | 0 | 0–5 |
-| [10–14 May 2019](2019-05-14-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio |  |  |  |  |  |
+| [10–14 May 2019](2019-05-14-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13–14 May 2019](2019-05-14-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 0 | 0 | 0 | 0 | 0–4 |
 | [12–14 May 2019](2019-05-14-ELABE.html) | ELABE <br> BFMTV | 0 | 0 | 0 | 0 | 0 |
 | [9–13 May 2019](2019-05-13-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 0 | 0 | 0 | 0 | 0 |
