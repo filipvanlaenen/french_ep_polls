@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 11:53:58 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 20:56:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 14–17 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-17-Ifop-Fiducial.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-17-Ifop-Fiducial.png"
         length="337888"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2019 22:48:31 +0200</pubDate>
-      <dc:date>2019-05-17T22:48:31.205892+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 20:43:23 +0200</pubDate>
+      <dc:date>2019-05-18T20:43:23.783058+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 16–17 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-17-HarrisInteractive.png"
         length="370501"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2019 22:54:43 +0200</pubDate>
-      <dc:date>2019-05-17T22:54:43.867976+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 18:58:21 +0200</pubDate>
+      <dc:date>2019-05-18T18:58:21.21428+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 13–16 May 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-16-Ifop-Fiducial.png"
         length="339792"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 11:53:58 +0200</pubDate>
-      <dc:date>2019-05-18T11:53:58.300427+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 20:56:58 +0200</pubDate>
+      <dc:date>2019-05-18T20:56:58.025115+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for LCI, Le Figaro, RTL and TF1, 15–16 May 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-16-HarrisInteractive.png"
         length="370792"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 10:22:25 +0200</pubDate>
-      <dc:date>2019-05-18T10:22:25.310613+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 18:31:58 +0200</pubDate>
+      <dc:date>2019-05-18T18:31:58.405286+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OpinionWay–Tilder for Les Echos and Radio Classique, 8–15 May 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-15-OpinionWay–Tilder.png"
         length="350631"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 10:47:34 +0200</pubDate>
-      <dc:date>2019-05-18T10:47:34.976401+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 19:57:09 +0200</pubDate>
+      <dc:date>2019-05-18T19:57:09.791319+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 11–15 May 2019 – Seat Projections for the Parties</title>
@@ -2179,6 +2179,6 @@
       <pubDate>Mon, 13 May 2019 06:59:58 +0200</pubDate>
       <dc:date>2019-05-13T06:59:58.332899+02:00</dc:date>
     </item>
-    <dc:date>2019-05-18T11:53:58.300427+02:00</dc:date>
+    <dc:date>2019-05-18T20:56:58.025115+02:00</dc:date>
   </channel>
 </rss>
