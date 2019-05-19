@@ -35,13 +35,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#rassemblement-national-(eapn)">Rassemblement national (EAPN)</a> | 24 | 21 | 19–22 |19–23 |19–24 |18–25 |
-| <a href="#la-république-en-marche–mouvement-démocrate-(alde)">La République en marche–Mouvement démocrate (ALDE)</a> | 7 | 19 | 18–21 |18–22 |18–22 |17–22 |
-| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 13 | 11–13 |11–13 |11–13 |10–14 |
-| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 7 | 6–8 |6–8 |6–8 |5–8 |
-| <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 6 | 6–7 |5–7 |5–7 |5–7 |
+| <a href="#rassemblement-national-(eapn)">Rassemblement national (EAPN)</a> | 24 | 23 | 21–23 |20–23 |20–23 |19–24 |
+| <a href="#la-république-en-marche–mouvement-démocrate-(alde)">La République en marche–Mouvement démocrate (ALDE)</a> | 7 | 19 | 19–21 |19–22 |19–22 |18–23 |
+| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 13 | 11–13 |11–13 |11–13 |11–14 |
+| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 7 | 6–7 |6–8 |6–8 |6–9 |
+| <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 7 | 5–7 |4–7 |4–7 |4–8 |
 | <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 0 | 0–5 |0–5 |0–5 |0–5 |
-| <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0–4 |0–4 |0–4 |
+| <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0 |0 |0–4 |
 | <a href="#debout-la-france-(ecr)">Debout la France (ECR)</a> | 0 | 0 | 0 |0 |0 |0–4 |
 | <a href="#génération·s,-le-mouvement-(s&d)">Génération·s, le mouvement (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(alde)">Agir, la droite constructive–Union des démocrates et indépendants (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -58,16 +58,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 2% | 100% |  |
-| 19 | 27% | 98% |  |
-| 20 | 1.1% | 70% |  |
-| 21 | 43% | 69% | Median |
-| 22 | 20% | 26% |  |
-| 23 | 2% | 6% |  |
-| 24 | 3% | 4% | Last Result |
-| 25 | 0.9% | 0.9% |  |
-| 26 | 0.1% | 0.1% |  |
-| 27 | 0% | 0% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.8% | 99.9% |  |
+| 20 | 7% | 99.1% |  |
+| 21 | 12% | 92% |  |
+| 22 | 14% | 80% |  |
+| 23 | 64% | 66% | Median |
+| 24 | 2% | 2% | Last Result |
+| 25 | 0.2% | 0.2% |  |
+| 26 | 0% | 0% |  |
 
 ### La République en marche–Mouvement démocrate (ALDE)
 
@@ -87,13 +86,13 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.9% | 100% |  |
-| 18 | 28% | 99.1% |  |
-| 19 | 30% | 71% | Median |
-| 20 | 26% | 41% |  |
-| 21 | 7% | 15% |  |
-| 22 | 8% | 8% |  |
-| 23 | 0.2% | 0.3% |  |
+| 17 | 0.3% | 100% |  |
+| 18 | 2% | 99.7% |  |
+| 19 | 75% | 98% | Median |
+| 20 | 10% | 22% |  |
+| 21 | 3% | 12% |  |
+| 22 | 8% | 9% |  |
+| 23 | 0.3% | 0.5% |  |
 | 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
@@ -105,13 +104,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.1% | 100% |  |
-| 11 | 14% | 98.9% |  |
-| 12 | 4% | 85% |  |
-| 13 | 80% | 82% | Median |
+| 10 | 0.2% | 100% |  |
+| 11 | 11% | 99.8% |  |
+| 12 | 10% | 89% |  |
+| 13 | 76% | 78% | Median |
 | 14 | 2% | 2% |  |
-| 15 | 0.2% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 15 | 0.1% | 0.2% |  |
+| 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
@@ -129,11 +128,11 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.7% | 100% |  |
-| 6 | 13% | 99.3% |  |
-| 7 | 60% | 87% | Median |
-| 8 | 27% | 27% |  |
-| 9 | 0.3% | 0.4% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 17% | 99.5% |  |
+| 7 | 75% | 83% | Median |
+| 8 | 6% | 8% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
 
 ### Europe Écologie Les Verts (Greens/EFA)
@@ -144,11 +143,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% |  |
-| 5 | 8% | 99.9% |  |
-| 6 | 49% | 92% | Last Result, Median |
-| 7 | 43% | 43% |  |
-| 8 | 0.3% | 0.3% |  |
+| 4 | 7% | 100% |  |
+| 5 | 10% | 93% |  |
+| 6 | 13% | 83% | Last Result |
+| 7 | 68% | 70% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 ### Parti socialiste (S&D)
@@ -159,13 +158,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Median |
-| 1 | 0% | 48% |  |
-| 2 | 0% | 48% |  |
-| 3 | 0% | 48% |  |
-| 4 | 12% | 48% |  |
-| 5 | 35% | 36% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 76% | 100% | Median |
+| 1 | 0% | 24% |  |
+| 2 | 0% | 24% |  |
+| 3 | 0% | 24% |  |
+| 4 | 13% | 24% |  |
+| 5 | 11% | 11% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -182,12 +181,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Median |
-| 1 | 0% | 6% | Last Result |
-| 2 | 0% | 6% |  |
-| 3 | 0% | 6% |  |
-| 4 | 6% | 6% |  |
-| 5 | 0.1% | 0.1% |  |
+| 0 | 99.2% | 100% | Median |
+| 1 | 0% | 0.8% | Last Result |
+| 2 | 0% | 0.8% |  |
+| 3 | 0% | 0.8% |  |
+| 4 | 0.6% | 0.8% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Debout la France (ECR)
@@ -198,12 +197,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0% | 0.6% |  |
-| 2 | 0% | 0.6% |  |
-| 3 | 0% | 0.6% |  |
-| 4 | 0.2% | 0.6% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 0% | 1.1% |  |
+| 2 | 0% | 1.1% |  |
+| 3 | 0% | 1.1% |  |
+| 4 | 1.0% | 1.1% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 ### Génération·s, le mouvement (S&D)
@@ -275,10 +274,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Rassemblement national (EAPN) | 24 | 21 | 0% | 19–22 | 19–23 | 19–24 | 18–25 |
-| La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | 7 | 19 | 0% | 18–21 | 18–22 | 18–22 | 17–22 |
-| Les Républicains (EPP) | 20 | 13 | 0% | 11–13 | 11–13 | 11–13 | 10–14 |
-| Europe Écologie Les Verts (Greens/EFA) | 6 | 6 | 0% | 6–7 | 5–7 | 5–7 | 5–7 |
+| Rassemblement national (EAPN) | 24 | 23 | 0% | 21–23 | 20–23 | 20–23 | 19–24 |
+| La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE) | 7 | 19 | 0% | 19–21 | 19–22 | 19–22 | 18–23 |
+| Les Républicains (EPP) | 20 | 13 | 0% | 11–13 | 11–13 | 11–13 | 11–14 |
+| Europe Écologie Les Verts (Greens/EFA) | 6 | 7 | 0% | 5–7 | 4–7 | 4–7 | 4–8 |
 | Parti socialiste (S&D) – Génération·s, le mouvement (S&D) | 13 | 0 | 0% | 0–5 | 0–5 | 0–5 | 0–5 |
 | Debout la France (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0–4 |
 | Les Patriotes (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -289,16 +288,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 2% | 100% |  |
-| 19 | 27% | 98% |  |
-| 20 | 1.1% | 70% |  |
-| 21 | 43% | 69% | Median |
-| 22 | 20% | 26% |  |
-| 23 | 2% | 6% |  |
-| 24 | 3% | 4% | Last Result |
-| 25 | 0.9% | 0.9% |  |
-| 26 | 0.1% | 0.1% |  |
-| 27 | 0% | 0% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.8% | 99.9% |  |
+| 20 | 7% | 99.1% |  |
+| 21 | 12% | 92% |  |
+| 22 | 14% | 80% |  |
+| 23 | 64% | 66% | Median |
+| 24 | 2% | 2% | Last Result |
+| 25 | 0.2% | 0.2% |  |
+| 26 | 0% | 0% |  |
 
 ### La République en marche–Mouvement démocrate (ALDE) – Agir, la droite constructive–Union des démocrates et indépendants (ALDE)
 
@@ -316,13 +314,13 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.9% | 100% |  |
-| 18 | 28% | 99.1% |  |
-| 19 | 30% | 71% | Median |
-| 20 | 26% | 41% |  |
-| 21 | 7% | 15% |  |
-| 22 | 8% | 8% |  |
-| 23 | 0.2% | 0.3% |  |
+| 17 | 0.3% | 100% |  |
+| 18 | 2% | 99.7% |  |
+| 19 | 75% | 98% | Median |
+| 20 | 10% | 22% |  |
+| 21 | 3% | 12% |  |
+| 22 | 8% | 9% |  |
+| 23 | 0.3% | 0.5% |  |
 | 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
@@ -332,13 +330,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.1% | 100% |  |
-| 11 | 14% | 98.9% |  |
-| 12 | 4% | 85% |  |
-| 13 | 80% | 82% | Median |
+| 10 | 0.2% | 100% |  |
+| 11 | 11% | 99.8% |  |
+| 12 | 10% | 89% |  |
+| 13 | 76% | 78% | Median |
 | 14 | 2% | 2% |  |
-| 15 | 0.2% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 15 | 0.1% | 0.2% |  |
+| 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
@@ -350,11 +348,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% |  |
-| 5 | 8% | 99.9% |  |
-| 6 | 49% | 92% | Last Result, Median |
-| 7 | 43% | 43% |  |
-| 8 | 0.3% | 0.3% |  |
+| 4 | 7% | 100% |  |
+| 5 | 10% | 93% |  |
+| 6 | 13% | 83% | Last Result |
+| 7 | 68% | 70% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 ### Parti socialiste (S&D) – Génération·s, le mouvement (S&D)
@@ -363,13 +361,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Median |
-| 1 | 0% | 48% |  |
-| 2 | 0% | 48% |  |
-| 3 | 0% | 48% |  |
-| 4 | 12% | 48% |  |
-| 5 | 35% | 36% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 76% | 100% | Median |
+| 1 | 0% | 24% |  |
+| 2 | 0% | 24% |  |
+| 3 | 0% | 24% |  |
+| 4 | 13% | 24% |  |
+| 5 | 11% | 11% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -384,12 +382,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0% | 0.6% |  |
-| 2 | 0% | 0.6% |  |
-| 3 | 0% | 0.6% |  |
-| 4 | 0.2% | 0.6% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 0% | 1.1% |  |
+| 2 | 0% | 1.1% |  |
+| 3 | 0% | 1.1% |  |
+| 4 | 1.0% | 1.1% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 ### Les Patriotes (EFDD)
@@ -412,6 +410,6 @@
 ### Calculations
 
 + **Sample size:** 1917
-+ **Simulations done:** 131,072
-+ **Error estimate:** 3.67%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.27%
 
