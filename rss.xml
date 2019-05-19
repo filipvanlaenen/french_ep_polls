@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 20:56:58 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 23:18:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 14–17 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-05-17-Ifop-Fiducial.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-05-17-HarrisInteractive.png"
         length="370501"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 18:58:21 +0200</pubDate>
-      <dc:date>2019-05-18T18:58:21.21428+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 23:18:18 +0200</pubDate>
+      <dc:date>2019-05-18T23:18:18.937976+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews, Paris Match and Sud Radio, 13–16 May 2019 – Voting Intentions</title>
@@ -2179,6 +2179,6 @@
       <pubDate>Mon, 13 May 2019 06:59:58 +0200</pubDate>
       <dc:date>2019-05-13T06:59:58.332899+02:00</dc:date>
     </item>
-    <dc:date>2019-05-18T20:56:58.025115+02:00</dc:date>
+    <dc:date>2019-05-18T23:18:18.937976+02:00</dc:date>
   </channel>
 </rss>
