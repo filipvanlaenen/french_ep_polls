@@ -163,7 +163,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 7 | 7–10 | 6–11 | 6–11 | 6–12 |
 | [16–20 May 2019](2019-05-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
 | [19–20 May 2019](2019-05-20-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 10 | 8–11 | 8–11 | 8–12 | 7–13 |
-| [18–19 May 2019](2019-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [18–19 May 2019](2019-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 11 | 8–11 | 7–11 | 7–11 | 7–11 |
 | [17–18 May 2019](2019-05-18-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 9 | 9–12 | 8–12 | 7–12 | 7–12 |
 | [14–17 May 2019](2019-05-17-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [14–17 May 2019](2019-05-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
