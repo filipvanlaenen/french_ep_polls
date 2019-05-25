@@ -10,7 +10,17 @@ Last result: **20.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.2–14.2% | 10.8–14.5% | 10.5–14.9% | 9.9–15.6% |
+| N/A | [Poll Average](average.html) | 13.0% | 11.6–14.4% | 11.1–14.9% | 10.8–15.3% | 10.1–16.2% |
+| [19–23 May 2019](2019-05-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13.7% | 12.5–15.0% | 12.2–15.4% | 11.9–15.7% | 11.4–16.4% |
+| [22–23 May 2019](2019-05-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12.2% | 11.0–13.6% | 10.6–14.0% | 10.3–14.4% | 9.8–15.1% |
+| [20–22 May 2019](2019-05-22-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 12.8% | 11.7–14.1% | 11.3–14.4% | 11.1–14.7% | 10.5–15.4% |
+| [18–22 May 2019](2019-05-22-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13.8% | 12.6–15.1% | 12.3–15.5% | 12.0–15.8% | 11.4–16.5% |
+| [21–22 May 2019](2019-05-22-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12.9% | 11.6–14.3% | 11.3–14.7% | 11.0–15.1% | 10.4–15.8% |
+| [17–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 13.1% | 12.5–13.8% | 12.3–14.0% | 12.1–14.2% | 11.8–14.6% |
+| [17–21 May 2019](2019-05-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13.7% | 12.5–15.0% | 12.1–15.4% | 11.9–15.8% | 11.3–16.4% |
+| [20–21 May 2019](2019-05-21-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
+| [19–21 May 2019](2019-05-21-ELABE.html) | ELABE <br> BFMTV | 12.5% | 11.2–14.0% | 10.8–14.4% | 10.5–14.8% | 9.9–15.5% |
+| [20–21 May 2019](2019-05-21-BVA.html) | BVA <br> Europe 1 and La Tribune | 13.3% | 11.8–15.2% | 11.3–15.7% | 10.9–16.2% | 10.2–17.1% |
 | [16–20 May 2019](2019-05-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 13.0% | 12.2–13.8% | 11.9–14.1% | 11.8–14.3% | 11.4–14.7% |
 | [19–20 May 2019](2019-05-20-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12.8% | 11.6–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.8% |
 | [18–19 May 2019](2019-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12.7% | 11.5–14.2% | 11.1–14.6% | 10.8–14.9% | 10.2–15.7% |
@@ -142,14 +152,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 3% | 99.9% |  |
-| 10.5–11.5% | 12% | 97% |  |
-| 11.5–12.5% | 21% | 85% |  |
-| 12.5–13.5% | 38% | 64% | Median |
-| 13.5–14.5% | 21% | 26% |  |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.6% | 0.6% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 1.3% | 99.9% |  |
+| 10.5–11.5% | 8% | 98.6% |  |
+| 11.5–12.5% | 23% | 90% |  |
+| 12.5–13.5% | 37% | 67% | Median |
+| 13.5–14.5% | 21% | 30% |  |
+| 14.5–15.5% | 7% | 8% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.2% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
@@ -164,11 +174,21 @@ Last result: **20** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 9–13 | 9–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–14 | 9–14 | 9–15 |
+| [19–23 May 2019](2019-05-23-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 11 | 11–13 | 11–14 | 10–14 | 10–15 |
+| [22–23 May 2019](2019-05-23-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 10 | 9–14 | 9–14 | 9–14 | 9–14 |
+| [20–22 May 2019](2019-05-22-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
+| [18–22 May 2019](2019-05-22-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 11 | 11–13 | 11–14 | 11–14 | 10–15 |
+| [21–22 May 2019](2019-05-22-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 14 | 12–14 | 12–14 | 11–14 | 11–14 |
+| [17–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 12 | 12 | 11–12 | 11–12 | 11–12 |
+| [17–21 May 2019](2019-05-21-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 14 | 13–14 | 13–14 | 11–14 | 11–14 |
+| [20–21 May 2019](2019-05-21-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 10 | 10–11 | 10–11 | 10–11 | 10–12 |
+| [19–21 May 2019](2019-05-21-ELABE.html) | ELABE <br> BFMTV | 13 | 11–13 | 11–13 | 10–15 | 9–15 |
+| [20–21 May 2019](2019-05-21-BVA.html) | BVA <br> Europe 1 and La Tribune | 13 | 11–14 | 11–14 | 10–14 | 9–15 |
 | [16–20 May 2019](2019-05-20-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [19–20 May 2019](2019-05-20-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 11 | 11–13 | 10–13 | 10–14 | 9–15 |
 | [18–19 May 2019](2019-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 11–13 | 10–13 | 10–14 | 8–15 |
-| [17–18 May 2019](2019-05-18-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 13 | 12–13 | 10–13 | 10–15 | 9–15 |
+| [17–18 May 2019](2019-05-18-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 11–14 | 11–14 | 11–14 | 9–14 |
 | [14–17 May 2019](2019-05-17-Ipsos.html) | Ipsos <br> Le CEVIPOF, La Fondation Jean Jaurès and Le Monde | 12 | 11–12 | 11–12 | 11–13 | 11–13 |
 | [14–17 May 2019](2019-05-17-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews, Paris Match and Sud Radio | 12 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [16–17 May 2019](2019-05-17-HarrisInteractive.html) | Harris Interactive <br> LCI, Le Figaro, RTL and TF1 | 12 | 10–14 | 9–14 | 9–14 | 9–15 |
@@ -296,15 +316,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 9% | 100% |  |
-| 10 | 6% | 91% |  |
-| 11 | 34% | 84% |  |
-| 12 | 32% | 51% | Median |
-| 13 | 16% | 18% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.2% | 0.3% |  |
+| 9 | 3% | 100% |  |
+| 10 | 10% | 97% |  |
+| 11 | 20% | 86% |  |
+| 12 | 34% | 66% | Median |
+| 13 | 21% | 32% |  |
+| 14 | 11% | 12% |  |
+| 15 | 0.7% | 0.9% |  |
 | 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% | Last Result |
