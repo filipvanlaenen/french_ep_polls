@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 30 Dec 2019 12:29:33 +0100</pubDate>
+    <pubDate>Mon, 30 Dec 2019 13:52:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop for Le Journal du Dimanch, 28–30 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-10-30-Ifop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–11 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–25 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (RE): 0 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 22–25 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-10-30-Ifop-seats.png"
+        length="272655"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 13:08:28 +0100</pubDate>
+      <dc:date>2019-12-30T13:08:28.548836+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop for Le Journal du Dimanch, 28–30 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-10-30-Ifop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-10-30-Ifop-coalitions-seats.png"
+        length="149897"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 13:08:28 +0100</pubDate>
+      <dc:date>2019-12-30T13:08:28.548836+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop for Le Journal du Dimanch, 28–30 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2019-10-30-Ifop.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-10-30-Ifop.png"
         length="326843"
         type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 12:29:33 +0100</pubDate>
-      <dc:date>2019-12-30T12:29:33.631545+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 13:08:28 +0100</pubDate>
+      <dc:date>2019-12-30T13:08:28.548836+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV, 28–29 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-10-29-ELABE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4–7 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 20–26 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–6 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 21–26 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-10-29-ELABE-seats.png"
+        length="241753"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 13:52:55 +0100</pubDate>
+      <dc:date>2019-12-30T13:52:55.453567+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV, 28–29 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2019-10-29-ELABE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-10-29-ELABE-coalitions-seats.png"
+        length="173310"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 13:52:55 +0100</pubDate>
+      <dc:date>2019-12-30T13:52:55.453567+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ELABE for BFMTV, 28–29 October 2019 – Voting Intentions</title>
@@ -26,9 +66,9 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2019-10-29-ELABE.png"
         length="256232"
         type="image/png"/>
-      <pubDate>Mon, 30 Dec 2019 12:05:56 +0100</pubDate>
-      <dc:date>2019-12-30T12:05:56.627833+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 13:52:55 +0100</pubDate>
+      <dc:date>2019-12-30T13:52:55.453567+01:00</dc:date>
     </item>
-    <dc:date>2019-12-30T12:29:33.631545+01:00</dc:date>
+    <dc:date>2019-12-30T13:52:55.453567+01:00</dc:date>
   </channel>
 </rss>
