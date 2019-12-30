@@ -47,9 +47,9 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanch | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–10 |
+| [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanch | 8 | 7–8 | 7–8 | 7–9 | 6–10 |
+| [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 
 ### Probability Mass Function
 
@@ -59,13 +59,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 7% | 99.8% |  |
-| 6 | 33% | 93% |  |
-| 7 | 16% | 59% | Median |
-| 8 | 44% | 44% |  |
-| 9 | 0.4% | 0.4% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 7% | 99.7% |  |
+| 6 | 27% | 92% |  |
+| 7 | 36% | 65% | Median |
+| 8 | 26% | 29% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
