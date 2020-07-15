@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>null</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Mon, 30 Dec 2019 23:31:51 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop for Le Journal du Dimanch, 28–30 October 2019 – Voting Intentions</title>
+      <link>null/2019-10-30-Ifop.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ifop for Le Journal du Dimanch, 28–30 October 2019<br/><img src="null/2019-10-30-Ifop.png"/><br/>Details on null/2019-10-30-Ifop.html]]></description>
+      <enclosure url="null/2019-10-30-Ifop.png" length="326913" type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 17:24:05 +0100</pubDate>
+      <dc:date>2019-12-30T17:24:05.018593+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV, 28–29 October 2019 – Voting Intentions</title>
+      <link>null/2019-10-29-ELABE.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ELABE for BFMTV, 28–29 October 2019<br/><img src="null/2019-10-29-ELABE.png"/><br/>Details on null/2019-10-29-ELABE.html]]></description>
+      <enclosure url="null/2019-10-29-ELABE.png" length="256286" type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
+      <dc:date>2019-12-30T17:44:22.333846+01:00</dc:date>
+    </item>
+  </channel>
+</rss>
