@@ -10,8 +10,11 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 10.4–13.8% | 10.0–14.3% | 9.7–14.7% | 9.2–15.5% |
-| [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanch | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.4% |
+| N/A | [Poll Average](average.html) | 12.0% | 10.6–13.5% | 10.2–13.9% | 9.8–14.3% | 9.2–15.2% |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 12.2% | 11.2–13.4% | 10.9–13.8% | 10.6–14.1% | 10.2–14.6% |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 12.0% | 10.5–13.9% | 10.0–14.4% | 9.7–14.9% | 9.0–15.8% |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 11.5% | 10.3–12.9% | 9.9–13.3% | 9.6–13.6% | 9.1–14.3% |
+| [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 11.0% | 10.0–12.2% | 9.7–12.5% | 9.5–12.8% | 9.0–13.4% |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 12.9% | 11.6–14.3% | 11.2–14.7% | 10.9–15.1% | 10.3–15.8% |
 
 ### Probability Mass Function
@@ -21,15 +24,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 1.5% | 100% |  |
-| 9.5–10.5% | 12% | 98% |  |
-| 10.5–11.5% | 27% | 86% |  |
-| 11.5–12.5% | 25% | 60% | Median |
-| 12.5–13.5% | 20% | 34% |  |
-| 13.5–14.5% | 11% | 14% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.4% | 0.5% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 1.2% | 99.9% |  |
+| 9.5–10.5% | 8% | 98.7% |  |
+| 10.5–11.5% | 25% | 91% |  |
+| 11.5–12.5% | 35% | 66% | Median |
+| 12.5–13.5% | 22% | 31% |  |
+| 13.5–14.5% | 7% | 9% |  |
+| 14.5–15.5% | 1.4% | 2% |  |
+| 15.5–16.5% | 0.3% | 0.3% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -41,8 +44,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
-| [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanch | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 8–14 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 10 | 10–12 | 9–12 | 9–13 | 8–13 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 10 | 10–11 | 10–11 | 8–12 | 8–14 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 10 | 9–12 | 8–12 | 8–12 | 7–14 |
+| [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 
 ### Probability Mass Function
@@ -59,14 +65,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 7% | 100% |  |
-| 9 | 24% | 93% |  |
-| 10 | 34% | 69% | Median |
-| 11 | 23% | 36% |  |
-| 12 | 10% | 13% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.6% | 0.7% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 3% | 99.6% |  |
+| 9 | 8% | 96% |  |
+| 10 | 51% | 89% | Median |
+| 11 | 17% | 37% |  |
+| 12 | 18% | 21% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.7% | 0.8% |  |
 | 15 | 0% | 0% |  |
 
 
