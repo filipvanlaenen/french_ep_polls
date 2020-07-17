@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Jul 2020 19:20:01 +0200</pubDate>
+    <pubDate>Fri, 17 Jul 2020 18:19:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Harris Interactive for CommStrat, 2–3 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-07-03-HarrisInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23–27 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–6 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20–24 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-07-03-HarrisInteractive-seats.png"
+        length="284378"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 18:19:45 +0200</pubDate>
+      <dc:date>2020-07-17T18:19:45.939905+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for CommStrat, 2–3 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-07-03-HarrisInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-07-03-HarrisInteractive-coalitions-seats.png"
+        length="202538"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 18:19:45 +0200</pubDate>
+      <dc:date>2020-07-17T18:19:45.939905+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Harris Interactive for CommStrat, 2–3 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2020-07-03-HarrisInteractive.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-07-03-HarrisInteractive.png"
         length="339701"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 18:03:29 +0200</pubDate>
-      <dc:date>2020-07-16T18:03:29.831547+02:00</dc:date>
+      <pubDate>Fri, 17 Jul 2020 18:19:45 +0200</pubDate>
+      <dc:date>2020-07-17T18:19:45.939905+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV, 30 June–1 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-07-01-ELABE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–9 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23–30 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–12 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–6 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20–25 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-07-01-ELABE-seats.png"
+        length="286262"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 17:25:49 +0200</pubDate>
+      <dc:date>2020-07-17T17:25:49.315204+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV, 30 June–1 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-07-01-ELABE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-07-01-ELABE-coalitions-seats.png"
+        length="208930"
+        type="image/png"/>
+      <pubDate>Fri, 17 Jul 2020 17:25:49 +0200</pubDate>
+      <dc:date>2020-07-17T17:25:49.315204+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ELABE for BFMTV, 30 June–1 July 2020 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-07-01-ELABE.png"
         length="357935"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 18:40:05 +0200</pubDate>
-      <dc:date>2020-07-16T18:40:05.111224+02:00</dc:date>
+      <pubDate>Fri, 17 Jul 2020 17:25:49 +0200</pubDate>
+      <dc:date>2020-07-17T17:25:49.315204+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews and Sud Radio, 18–19 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-06-19-Ifop-Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–27 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (RE): 0 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 22–27 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-06-19-Ifop-Fiducial-seats.png"
+        length="353245"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jul 2020 23:19:32 +0200</pubDate>
+      <dc:date>2020-07-16T23:19:32.584593+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for CNews and Sud Radio, 18–19 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-06-19-Ifop-Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-06-19-Ifop-Fiducial-coalitions-seats.png"
+        length="218384"
+        type="image/png"/>
+      <pubDate>Thu, 16 Jul 2020 23:19:32 +0200</pubDate>
+      <dc:date>2020-07-16T23:19:32.584593+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for CNews and Sud Radio, 18–19 June 2020 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-06-19-Ifop-Fiducial.png"
         length="433328"
         type="image/png"/>
-      <pubDate>Thu, 16 Jul 2020 19:20:01 +0200</pubDate>
-      <dc:date>2020-07-16T19:20:01.549534+02:00</dc:date>
+      <pubDate>Thu, 16 Jul 2020 23:19:32 +0200</pubDate>
+      <dc:date>2020-07-16T23:19:32.584593+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop for Le Journal du Dimanche, 28–30 October 2019 – Seat Projections for the Parties</title>
@@ -99,6 +159,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22.333846+01:00</dc:date>
     </item>
-    <dc:date>2020-07-16T19:20:01.549534+02:00</dc:date>
+    <dc:date>2020-07-17T18:19:45.939905+02:00</dc:date>
   </channel>
 </rss>
