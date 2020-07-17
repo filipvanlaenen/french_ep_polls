@@ -61,10 +61,10 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–29 | 22–29 | 22–29 | 21–29 |
-| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
-| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 28 | 25–29 | 24–29 | 24–29 | 23–31 |
-| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 24 | 22–25 | 22–26 | 21–26 | 21–26 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–29 | 21–29 | 21–30 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 26 | 24–29 | 24–29 | 23–30 | 23–31 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 24 | 21–26 | 21–27 | 21–27 | 21–27 |
 | [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 25 | 22–26 | 22–26 | 22–26 | 22–28 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 24 | 23–27 | 22–27 | 22–28 | 21–28 |
 
@@ -90,17 +90,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.9% | 100% |  |
-| 22 | 5% | 99.1% |  |
-| 23 | 17% | 94% |  |
-| 24 | 16% | 77% |  |
-| 25 | 17% | 62% | Median |
-| 26 | 10% | 44% |  |
-| 27 | 11% | 34% |  |
-| 28 | 7% | 23% |  |
-| 29 | 16% | 16% |  |
-| 30 | 0.2% | 0.4% |  |
-| 31 | 0.1% | 0.2% |  |
+| 21 | 7% | 100% |  |
+| 22 | 5% | 93% |  |
+| 23 | 7% | 88% |  |
+| 24 | 13% | 81% |  |
+| 25 | 31% | 68% | Median |
+| 26 | 19% | 37% |  |
+| 27 | 10% | 18% |  |
+| 28 | 3% | 8% |  |
+| 29 | 4% | 5% |  |
+| 30 | 0.5% | 0.9% |  |
+| 31 | 0.3% | 0.4% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 

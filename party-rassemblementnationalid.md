@@ -47,10 +47,10 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–27 | 20–27 | 20–27 | 19–28 |
-| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 22 | 20–23 | 20–23 | 20–24 | 19–25 |
-| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 21 | 20–22 | 20–23 | 19–24 | 19–26 |
-| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 23 | 21–27 | 21–27 | 20–27 | 20–28 |
+| N/A | [Poll Average](average.html) | 23 | 21–27 | 20–27 | 20–27 | 19–28 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 22 | 20–24 | 20–24 | 20–25 | 18–28 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 26 | 23–27 | 23–27 | 22–27 | 21–29 |
 | [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 24 | 24–26 | 24–26 | 23–27 | 22–28 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 25 | 23–27 | 22–27 | 22–27 | 21–28 |
 
@@ -63,17 +63,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.2% | 100% |  |
-| 19 | 1.1% | 99.8% |  |
-| 20 | 22% | 98.7% |  |
-| 21 | 10% | 77% |  |
-| 22 | 43% | 67% | Median |
-| 23 | 6% | 24% |  |
-| 24 | 2% | 18% | Last Result |
-| 25 | 1.3% | 16% |  |
-| 26 | 0.3% | 15% |  |
-| 27 | 14% | 14% |  |
-| 28 | 0.7% | 0.8% |  |
-| 29 | 0% | 0.1% |  |
+| 19 | 0.4% | 99.7% |  |
+| 20 | 5% | 99.3% |  |
+| 21 | 22% | 95% |  |
+| 22 | 21% | 73% |  |
+| 23 | 13% | 52% | Median |
+| 24 | 12% | 39% | Last Result |
+| 25 | 8% | 26% |  |
+| 26 | 7% | 18% |  |
+| 27 | 10% | 11% |  |
+| 28 | 0.5% | 0.8% |  |
+| 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
 

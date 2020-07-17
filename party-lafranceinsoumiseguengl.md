@@ -44,10 +44,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 8–14 |
-| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 10 | 10–12 | 9–12 | 9–13 | 8–13 |
-| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 10 | 10–11 | 10–11 | 8–12 | 8–14 |
-| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 10 | 9–12 | 8–12 | 8–12 | 7–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–12 | 8–13 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 11 | 10–11 | 9–12 | 9–12 | 9–13 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 10 | 9–12 | 9–12 | 8–12 | 8–14 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 10 | 8–12 | 8–12 | 8–12 | 8–13 |
 | [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 
@@ -65,14 +65,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 3% | 99.6% |  |
-| 9 | 8% | 96% |  |
-| 10 | 51% | 89% | Median |
-| 11 | 17% | 37% |  |
-| 12 | 18% | 21% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0.7% | 0.8% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 8% | 99.9% |  |
+| 9 | 13% | 91% |  |
+| 10 | 39% | 78% | Median |
+| 11 | 26% | 40% |  |
+| 12 | 12% | 14% |  |
+| 13 | 1.2% | 2% |  |
+| 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 

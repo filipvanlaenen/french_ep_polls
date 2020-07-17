@@ -44,10 +44,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
-| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
-| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 5 | 4–5 | 0–5 | 0–6 | 0–6 |
-| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 5 | 0–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
 
@@ -59,14 +59,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0% | 84% |  |
-| 4 | 14% | 84% |  |
-| 5 | 60% | 70% | Median |
-| 6 | 10% | 10% |  |
-| 7 | 0.1% | 0.1% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 0% | 73% |  |
+| 2 | 0% | 73% |  |
+| 3 | 0% | 73% |  |
+| 4 | 18% | 73% |  |
+| 5 | 48% | 55% | Median |
+| 6 | 7% | 8% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 

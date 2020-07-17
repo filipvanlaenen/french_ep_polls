@@ -48,10 +48,10 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 9–11 | 8–12 | 8–12 | 8–13 |
-| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
-| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 9 | 9–10 | 8–11 | 8–12 | 7–13 |
-| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 10 | 9–11 | 9–11 | 8–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 
@@ -64,14 +64,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.3% | 100% |  |
-| 8 | 7% | 99.7% |  |
-| 9 | 49% | 93% | Median |
-| 10 | 25% | 44% |  |
-| 11 | 13% | 18% |  |
-| 12 | 4% | 5% |  |
-| 13 | 0.9% | 0.9% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 8 | 4% | 99.7% |  |
+| 9 | 23% | 96% |  |
+| 10 | 42% | 73% | Median |
+| 11 | 16% | 31% |  |
+| 12 | 14% | 15% |  |
+| 13 | 0.5% | 0.7% |  |
+| 14 | 0.1% | 0.2% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |

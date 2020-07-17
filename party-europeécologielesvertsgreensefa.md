@@ -42,10 +42,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 4–9 | 4–10 |
-| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 7 | 7–8 | 6–8 | 6–8 | 5–9 |
-| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 6 | 5–8 | 5–9 | 5–10 | 5–10 |
-| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 7 | 5–9 | 4–9 | 4–9 | 4–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
+| [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [28–30 October 2019](2019-10-30-Ifop.html) | Ifop <br> Le Journal du Dimanche | 8 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [28–29 October 2019](2019-10-29-ELABE.html) | ELABE <br> BFMTV | 6 | 5–7 | 4–7 | 4–7 | 0–8 |
 
@@ -57,14 +57,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% |  |
-| 5 | 9% | 97% |  |
-| 6 | 23% | 88% | Last Result |
-| 7 | 32% | 65% | Median |
-| 8 | 23% | 33% |  |
-| 9 | 9% | 10% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 2% | 99.8% |  |
+| 6 | 34% | 97% | Last Result |
+| 7 | 40% | 63% | Median |
+| 8 | 18% | 23% |  |
+| 9 | 4% | 5% |  |
+| 10 | 0.4% | 0.4% |  |
+| 11 | 0% | 0% |  |
 
 
