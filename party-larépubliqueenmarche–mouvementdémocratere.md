@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.7% | 26.2–31.5% | 25.6–32.5% | 25.0–33.2% | 24.1–34.7% |
+| N/A | [Poll Average](average.html) | 24.2% | 22.9–25.5% | 22.5–25.8% | 22.2–26.2% | 21.7–26.8% |
+| [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 24.1% | 22.9–25.5% | 22.5–25.8% | 22.2–26.2% | 21.6–26.8% |
 | [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 28.8% | 27.3–30.3% | 26.8–30.8% | 26.5–31.2% | 25.8–31.9% |
 | [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 30.4% | 28.1–32.9% | 27.4–33.6% | 26.9–34.2% | 25.8–35.5% |
 | [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.9% | 23.5–30.8% |
@@ -34,23 +35,15 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.0% | 99.8% |  |
-| 24.5–25.5% | 4% | 98.8% |  |
-| 25.5–26.5% | 9% | 95% |  |
-| 26.5–27.5% | 15% | 86% |  |
-| 27.5–28.5% | 19% | 72% |  |
-| 28.5–29.5% | 19% | 52% | Median |
-| 29.5–30.5% | 14% | 33% |  |
-| 30.5–31.5% | 9% | 19% |  |
-| 31.5–32.5% | 5% | 10% |  |
-| 32.5–33.5% | 3% | 5% |  |
-| 33.5–34.5% | 1.2% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.6% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.4% | 100% |  |
+| 21.5–22.5% | 5% | 99.6% |  |
+| 22.5–23.5% | 22% | 95% |  |
+| 23.5–24.5% | 38% | 73% | Median |
+| 24.5–25.5% | 26% | 35% |  |
+| 25.5–26.5% | 8% | 9% |  |
+| 26.5–27.5% | 0.9% | 1.0% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -61,7 +54,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–29 | 21–29 | 21–30 |
+| N/A | [Poll Average](average.html) | 21 | 20–24 | 20–24 | 19–24 | 19–24 |
+| [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 21 | 20–24 | 20–24 | 19–24 | 19–24 |
 | [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 26 | 24–29 | 24–29 | 23–30 | 23–31 |
 | [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 24 | 21–26 | 21–27 | 21–27 | 21–27 |
@@ -87,21 +81,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 7% | 100% |  |
-| 22 | 5% | 93% |  |
-| 23 | 7% | 88% |  |
-| 24 | 13% | 81% |  |
-| 25 | 31% | 68% | Median |
-| 26 | 19% | 37% |  |
-| 27 | 10% | 18% |  |
-| 28 | 3% | 8% |  |
-| 29 | 4% | 5% |  |
-| 30 | 0.5% | 0.9% |  |
-| 31 | 0.3% | 0.4% |  |
-| 32 | 0.1% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 3% | 99.7% |  |
+| 20 | 32% | 97% |  |
+| 21 | 27% | 65% | Median |
+| 22 | 6% | 38% |  |
+| 23 | 7% | 31% |  |
+| 24 | 24% | 25% |  |
+| 25 | 0% | 0% |  |
 
 
