@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 15 Oct 2020 22:37:54 +0200</pubDate>
+    <pubDate>Sat, 17 Oct 2020 20:50:29 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for Le Journal du Dimanche and Sud Radio, 28 September–1 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-10-01-Ifop-Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–7 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–23 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (RE): 0 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12–14 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 5 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 21–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-10-01-Ifop-Fiducial-seats.png"
+        length="298110"
+        type="image/png"/>
+      <pubDate>Sat, 17 Oct 2020 20:50:29 +0200</pubDate>
+      <dc:date>2020-10-17T20:50:29.590153+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop-Fiducial for Le Journal du Dimanche and Sud Radio, 28 September–1 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2020-10-01-Ifop-Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-10-01-Ifop-Fiducial-coalitions-seats.png"
+        length="165794"
+        type="image/png"/>
+      <pubDate>Sat, 17 Oct 2020 20:50:29 +0200</pubDate>
+      <dc:date>2020-10-17T20:50:29.590153+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop-Fiducial for Le Journal du Dimanche and Sud Radio, 28 September–1 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2020-10-01-Ifop-Fiducial.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2020-10-01-Ifop-Fiducial.png"
         length="413300"
         type="image/png"/>
-      <pubDate>Thu, 15 Oct 2020 22:37:54 +0200</pubDate>
-      <dc:date>2020-10-15T22:37:54.292377+02:00</dc:date>
+      <pubDate>Sat, 17 Oct 2020 20:50:29 +0200</pubDate>
+      <dc:date>2020-10-17T20:50:29.590153+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for CommStrat, 2–3 July 2020 – Seat Projections for the Parties</title>
@@ -169,6 +189,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22.333846+01:00</dc:date>
     </item>
-    <dc:date>2020-10-15T22:37:54.292377+02:00</dc:date>
+    <dc:date>2020-10-17T20:50:29.590153+02:00</dc:date>
   </channel>
 </rss>
