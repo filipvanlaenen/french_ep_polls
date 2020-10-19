@@ -41,8 +41,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
-| [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 6 | 6–7 | 5–7 |
+| [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 6 | 6 | 6 | 6–7 | 5–7 |
 | [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [18–19 June 2020](2020-06-19-Ifop-Fiducial.html) | Ifop-Fiducial <br> CNews and Sud Radio | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -57,11 +57,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 11% | 100% |  |
-| 6 | 14% | 89% | Last Result |
-| 7 | 33% | 75% | Median |
-| 8 | 42% | 42% |  |
-| 9 | 0.8% | 0.8% |  |
-| 10 | 0% | 0% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 96% | 99.4% | Last Result, Median |
+| 7 | 2% | 3% |  |
+| 8 | 0.5% | 0.5% |  |
+| 9 | 0% | 0% |  |
 
 
