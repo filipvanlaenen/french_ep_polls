@@ -10,7 +10,9 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 22.9–25.5% | 22.5–25.8% | 22.2–26.2% | 21.7–26.8% |
+| N/A | [Poll Average](average.html) | 24.6% | 22.7–26.7% | 22.3–27.3% | 21.9–27.8% | 21.2–28.8% |
+| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 23.7% | 22.3–25.2% | 21.9–25.7% | 21.6–26.0% | 20.9–26.8% |
 | [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 24.1% | 22.9–25.5% | 22.5–25.8% | 22.2–26.2% | 21.6–26.8% |
 | [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 28.8% | 27.3–30.3% | 26.8–30.8% | 26.5–31.2% | 25.8–31.9% |
 | [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 30.4% | 28.1–32.9% | 27.4–33.6% | 26.9–34.2% | 25.8–35.5% |
@@ -34,16 +36,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.4% | 100% |  |
-| 21.5–22.5% | 5% | 99.6% |  |
-| 22.5–23.5% | 22% | 95% |  |
-| 23.5–24.5% | 38% | 73% | Median |
-| 24.5–25.5% | 26% | 35% |  |
-| 25.5–26.5% | 8% | 9% |  |
-| 26.5–27.5% | 0.9% | 1.0% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 1.1% | 99.9% |  |
+| 21.5–22.5% | 7% | 98.8% |  |
+| 22.5–23.5% | 17% | 92% |  |
+| 23.5–24.5% | 25% | 75% |  |
+| 24.5–25.5% | 22% | 50% | Median |
+| 25.5–26.5% | 16% | 28% |  |
+| 26.5–27.5% | 8% | 12% |  |
+| 27.5–28.5% | 3% | 4% |  |
+| 28.5–29.5% | 0.7% | 0.8% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -54,7 +58,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 23 | 22–23 | 21–23 | 20–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 18–23 | 18–24 |
+| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 23 | 23 | 22–23 | 21–23 | 20–23 |
 | [2–3 July 2020](2020-07-03-HarrisInteractive.html) | Harris Interactive <br> CommStrat | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [30 June–1 July 2020](2020-07-01-ELABE.html) | ELABE <br> BFMTV | 26 | 24–29 | 24–29 | 23–30 | 23–31 |
@@ -80,14 +86,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0.2% | 100% |  |
-| 20 | 0.4% | 99.8% |  |
-| 21 | 2% | 99.4% |  |
-| 22 | 2% | 97% |  |
-| 23 | 95% | 95% | Median |
-| 24 | 0.3% | 0.4% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 10% | 99.6% |  |
+| 19 | 15% | 90% |  |
+| 20 | 27% | 74% | Median |
+| 21 | 31% | 47% |  |
+| 22 | 10% | 16% |  |
+| 23 | 5% | 6% |  |
+| 24 | 1.1% | 1.2% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
