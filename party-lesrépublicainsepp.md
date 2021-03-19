@@ -10,7 +10,8 @@ Last result: **20.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.8% | 13.5–16.2% | 13.1–16.6% | 12.8–16.9% | 12.2–17.6% |
+| N/A | [Poll Average](average.html) | 14.1% | 12.6–15.7% | 12.2–16.2% | 11.8–16.6% | 11.1–17.4% |
+| [3–4 March 2021](2021-03-04-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
 | [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 15.0% | 13.8–16.3% | 13.5–16.6% | 13.2–16.9% | 12.7–17.6% |
 | [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 14.1% | 13.0–15.2% | 12.8–15.5% | 12.5–15.7% | 12.1–16.3% |
@@ -26,15 +27,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.3% | 99.9% |  |
-| 12.5–13.5% | 9% | 98.6% |  |
-| 13.5–14.5% | 28% | 89% |  |
-| 14.5–15.5% | 36% | 61% | Median |
-| 15.5–16.5% | 20% | 25% |  |
-| 16.5–17.5% | 5% | 5% |  |
-| 17.5–18.5% | 0.6% | 0.6% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 1.3% | 99.9% |  |
+| 11.5–12.5% | 8% | 98.6% |  |
+| 12.5–13.5% | 23% | 90% |  |
+| 13.5–14.5% | 31% | 67% | Median |
+| 14.5–15.5% | 23% | 36% |  |
+| 15.5–16.5% | 10% | 13% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.3% | 0.4% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
@@ -48,7 +50,8 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [3–4 March 2021](2021-03-04-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 10 | 10–12 | 10–12 | 9–12 | 9–14 |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 13 | 11–14 | 11–14 | 11–14 | 10–14 |
 | [28 September–1 October 2020](2020-10-01-Ifop-Fiducial.html) | Ifop-Fiducial <br> Le Journal du Dimanche and Sud Radio | 14 | 14 | 13–14 | 12–14 | 11–14 |
@@ -66,13 +69,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.4% | 100% |  |
-| 10 | 8% | 99.6% |  |
-| 11 | 22% | 92% |  |
-| 12 | 29% | 70% | Median |
-| 13 | 33% | 41% |  |
-| 14 | 8% | 9% |  |
-| 15 | 0.4% | 0.4% |  |
+| 9 | 2% | 100% |  |
+| 10 | 40% | 98% |  |
+| 11 | 18% | 58% | Median |
+| 12 | 25% | 40% |  |
+| 13 | 12% | 14% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.2% | 0.3% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
