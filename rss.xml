@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 12 Feb 2021 18:23:10 +0100</pubDate>
+    <pubDate>Fri, 19 Mar 2021 19:24:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Harris Interactive for CommStrat and L’Opinion, 3–4 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–7 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–6 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 20–24 seats&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (RE): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0–6 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 19–24 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive-seats.png"
+        length="356225"
+        type="image/png"/>
+      <pubDate>Fri, 19 Mar 2021 19:24:59 +0100</pubDate>
+      <dc:date>2021-03-19T19:24:59.712953+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for CommStrat and L’Opinion, 3–4 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive-coalitions-seats.png"
+        length="234861"
+        type="image/png"/>
+      <pubDate>Fri, 19 Mar 2021 19:24:59 +0100</pubDate>
+      <dc:date>2021-03-19T19:24:59.712953+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for CommStrat and L’Opinion, 3–4 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5.1–8.2%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22.9–28.3%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive.png"
+        length="425173"
+        type="image/png"/>
+      <pubDate>Fri, 19 Mar 2021 19:24:59 +0100</pubDate>
+      <dc:date>2021-03-19T19:24:59.712953+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for FranceInfo and L’Obs, 27–28 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2021-01-28-Ipsos.html#seats</link>
@@ -249,6 +279,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22.333846+01:00</dc:date>
     </item>
-    <dc:date>2021-02-12T18:23:10.721672+01:00</dc:date>
+    <dc:date>2021-03-19T19:24:59.712953+01:00</dc:date>
   </channel>
 </rss>
