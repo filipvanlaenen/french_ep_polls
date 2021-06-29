@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 19 Mar 2021 19:24:59 +0100</pubDate>
+    <pubDate>Mon, 28 Jun 2021 21:11:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Harris Interactive, 20–21 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-06-21-HarrisInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8.5–11.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.2–9.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5.7–8.6%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 25.5–30.5%&lt;/li&gt;&lt;li&gt;Agir, la droite constructive–Union des démocrates et indépendants (RE): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8.5–11.8%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 3.0–5.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 25.1–30.0%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.6–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-06-21-HarrisInteractive.png"
+        length="418361"
+        type="image/png"/>
+      <pubDate>Mon, 28 Jun 2021 21:11:41 +0200</pubDate>
+      <dc:date>2021-06-28T21:11:41.343221+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Harris Interactive for CommStrat and L’Opinion, 3–4 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2021-03-04-HarrisInteractive.html#seats</link>
@@ -279,6 +289,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22.333846+01:00</dc:date>
     </item>
-    <dc:date>2021-03-19T19:24:59.712953+01:00</dc:date>
+    <dc:date>2021-06-28T21:11:41.343221+02:00</dc:date>
   </channel>
 </rss>
