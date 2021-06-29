@@ -10,7 +10,17 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 23.6–27.4% | 23.1–27.9% | 22.7–28.4% | 21.9–29.3% |
+| N/A | [Poll Average](average.html) | 27.5% | 25.9–29.1% | 25.5–29.6% | 25.1–30.0% | 24.4–30.8% |
+| [20–21 June 2021](2021-06-21-HarrisInteractive.html) | Harris Interactive | 27.5% | 25.9–29.1% | 25.5–29.6% | 25.1–30.0% | 24.4–30.8% |
+| [4–7 June 2021](2021-06-07-HarrisInteractive.html) | Harris Interactive | 28.0% | N/A | N/A | N/A | N/A |
+| [28–31 May 2021](2021-05-31-HarrisInteractive.html) | Harris Interactive | 28.0% | N/A | N/A | N/A | N/A |
+| [21–24 May 2021](2021-05-24-HarrisInteractive.html) | Harris Interactive | 27.0% | N/A | N/A | N/A | N/A |
+| [18–20 May 2021](2021-05-20-Ifop.html) | Ifop | 29.3% | N/A | N/A | N/A | N/A |
+| [14–17 May 2021](2021-05-17-HarrisInteractive.html) | Harris Interactive | 29.0% | N/A | N/A | N/A | N/A |
+| [16–19 April 2021](2021-04-19-HarrisInteractive.html) | Harris Interactive | 25.9% | N/A | N/A | N/A | N/A |
+| [9–15 April 2021](2021-04-15-Ipsos.html) | Ipsos | 27.5% | N/A | N/A | N/A | N/A |
+| [12–14 April 2021](2021-04-14-Elabe.html) | Elabe | 28.0% | N/A | N/A | N/A | N/A |
+| [2–8 April 2021](2021-04-08-Ifop.html) | Ifop | 27.0% | N/A | N/A | N/A | N/A |
 | [3–4 March 2021](2021-03-04-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
 | [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 26.2% | 24.8–27.8% | 24.3–28.2% | 24.0–28.6% | 23.3–29.4% |
@@ -27,18 +37,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 2% | 99.8% |  |
-| 22.5–23.5% | 7% | 98% |  |
-| 23.5–24.5% | 17% | 91% |  |
-| 24.5–25.5% | 26% | 74% | Last Result, Median |
-| 25.5–26.5% | 25% | 48% |  |
-| 26.5–27.5% | 15% | 23% |  |
-| 27.5–28.5% | 6% | 8% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.3% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.7% | 99.9% |  |
+| 24.5–25.5% | 5% | 99.2% | Last Result |
+| 25.5–26.5% | 17% | 94% |  |
+| 26.5–27.5% | 30% | 78% |  |
+| 27.5–28.5% | 28% | 48% | Median |
+| 28.5–29.5% | 15% | 20% |  |
+| 29.5–30.5% | 4% | 5% |  |
+| 30.5–31.5% | 0.8% | 0.8% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,7 +58,17 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–23 | 19–24 | 19–24 | 18–24 |
+| N/A | [Poll Average](average.html) | 25 | 25 | 25 | 25 | 25 |
+| [20–21 June 2021](2021-06-21-HarrisInteractive.html) | Harris Interactive | 25 | 25 | 25 | 25 | 25 |
+| [4–7 June 2021](2021-06-07-HarrisInteractive.html) | Harris Interactive |  |  |  |  |  |
+| [28–31 May 2021](2021-05-31-HarrisInteractive.html) | Harris Interactive |  |  |  |  |  |
+| [21–24 May 2021](2021-05-24-HarrisInteractive.html) | Harris Interactive |  |  |  |  |  |
+| [18–20 May 2021](2021-05-20-Ifop.html) | Ifop |  |  |  |  |  |
+| [14–17 May 2021](2021-05-17-HarrisInteractive.html) | Harris Interactive |  |  |  |  |  |
+| [16–19 April 2021](2021-04-19-HarrisInteractive.html) | Harris Interactive |  |  |  |  |  |
+| [9–15 April 2021](2021-04-15-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [12–14 April 2021](2021-04-14-Elabe.html) | Elabe |  |  |  |  |  |
+| [2–8 April 2021](2021-04-08-Ifop.html) | Ifop |  |  |  |  |  |
 | [3–4 March 2021](2021-03-04-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 22 | 21–22 | 20–23 | 19–24 | 19–24 |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 21 | 20–23 | 19–24 | 19–24 | 18–24 |
 | [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 22 | 21–23 | 20–23 | 20–24 | 19–25 |
@@ -68,15 +87,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
-| 18 | 1.0% | 99.9% |  |
-| 19 | 5% | 99.0% |  |
-| 20 | 10% | 94% |  |
-| 21 | 21% | 84% |  |
-| 22 | 50% | 63% | Median |
-| 23 | 8% | 13% |  |
-| 24 | 5% | 6% | Last Result |
-| 25 | 0.3% | 0.3% |  |
-| 26 | 0% | 0% |  |
+| 22 | 0.3% | 100% |  |
+| 23 | 0.1% | 99.7% |  |
+| 24 | 0% | 99.6% | Last Result |
+| 25 | 99.5% | 99.6% | Median |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
