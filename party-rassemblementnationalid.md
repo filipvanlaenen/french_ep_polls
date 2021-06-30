@@ -61,8 +61,8 @@ Last result: **24** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
 | [20–21 June 2021](2021-06-21-HarrisInteractive.html) | Harris Interactive | 25 | 22–25 | 22–25 | 22–25 | 22–26 |
-| [4–7 June 2021](2021-06-07-HarrisInteractive.html) | Harris Interactive | 26 | 23–27 | 23–27 | 23–27 | 23–28 |
-| [28–31 May 2021](2021-05-31-HarrisInteractive.html) | Harris Interactive | 24 | 23–26 | 23–28 | 23–28 | 23–29 |
+| [4–7 June 2021](2021-06-07-HarrisInteractive.html) | Harris Interactive | 25 | 23–27 | 23–27 | 23–27 | 23–29 |
+| [28–31 May 2021](2021-05-31-HarrisInteractive.html) | Harris Interactive | 25 | 24–26 | 23–26 | 23–27 | 22–28 |
 | [21–24 May 2021](2021-05-24-HarrisInteractive.html) | Harris Interactive | 25 | 23–26 | 23–27 | 22–28 | 21–28 |
 | [18–20 May 2021](2021-05-20-Ifop.html) | Ifop | 26 | 24–28 | 24–28 | 24–28 | 23–29 |
 | [14–17 May 2021](2021-05-17-HarrisInteractive.html) | Harris Interactive | 27 | 25–29 | 25–29 | 24–30 | 24–30 |
