@@ -69,7 +69,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [16–19 April 2021](2021-04-19-HarrisInteractive.html) | Harris Interactive | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [9–15 April 2021](2021-04-15-Ipsos.html) | Ipsos | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [12–14 April 2021](2021-04-14-Elabe.html) | Elabe | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [2–8 April 2021](2021-04-08-Ifop.html) | Ifop | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [2–8 April 2021](2021-04-08-Ifop.html) | Ifop | 6 | 6–7 | 5–7 | 5–7 | 4–8 |
 | [3–4 March 2021](2021-03-04-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 6 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos <br> FranceInfo and L’Obs | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [19–21 January 2021](2021-01-21-HarrisInteractive.html) | Harris Interactive <br> CommStrat and L’Opinion | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
