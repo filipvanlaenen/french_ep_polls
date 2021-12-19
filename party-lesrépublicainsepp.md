@@ -13,7 +13,7 @@ Last result: **20.8%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17.3% | 15.1–19.7% | 13.8–20.4% | 12.9–21.0% | 11.5–22.0% |
 | [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 17.2% | 15.9–18.6% | 15.5–19.0% | 15.2–19.4% | 14.6–20.1% |
 | [12–15 December 2021](2021-12-15-Cluster17.html) | Cluster17 | 18.0% | 16.6–19.5% | 16.2–20.0% | 15.9–20.3% | 15.2–21.1% |
-| [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 16.8% | 16.2–17.5% | 16.0–17.6% | 15.9–17.8% | 15.5–18.2% |
+| [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 16.8% | 16.2–17.5% | 16.0–17.6% | 15.9–17.8% | 15.6–18.1% |
 | [10–13 December 2021](2021-12-13-HarrisInteractive.html) | Harris Interactive <br> Challenges | 16.8% | 15.8–17.8% | 15.5–18.1% | 15.2–18.4% | 14.8–18.9% |
 | [8–9 December 2021](2021-12-09-OpinionWay.html) | OpinionWay <br> Mieux voter | 16.9% | N/A | N/A | N/A | N/A |
 | [7–9 December 2021](2021-12-09-Odoxa.html) | Odoxa <br> L’Obs and Mascaret | 19.0% | 17.7–20.3% | 17.4–20.7% | 17.1–21.1% | 16.5–21.7% |
@@ -28,9 +28,9 @@ Last result: **20.8%** (General Election of 26 May 2019)
 | [26–29 November 2021](2021-11-29-HarrisInteractive.html) | Harris Interactive <br> Challenges | 10.9% | 10.1–11.8% | 9.8–12.1% | 9.6–12.3% | 9.3–12.8% |
 | [23–24 November 2021](2021-11-24-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 8.9% | 7.9–10.1% | 7.7–10.4% | 7.4–10.7% | 7.0–11.3% |
 | [19–22 November 2021](2021-11-22-HarrisInteractive.html) | Harris Interactive <br> Challenges | 10.9% | N/A | N/A | N/A | N/A |
-| [15–17 November 2021](2021-11-17-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 11.0% | N/A | N/A | N/A | N/A |
+| [15–17 November 2021](2021-11-17-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 11.0% | 9.9–12.2% | 9.6–12.6% | 9.3–12.9% | 8.8–13.5% |
 | [12–15 November 2021](2021-11-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 9.9% | N/A | N/A | N/A | N/A |
-| [12–15 November 2021](2021-11-15-BVA.html) | BVA <br> RTL and Orange | 9.1% | N/A | N/A | N/A | N/A |
+| [12–15 November 2021](2021-11-15-BVA.html) | BVA <br> RTL and Orange | 9.1% | 7.9–10.6% | 7.5–11.1% | 7.3–11.4% | 6.7–12.2% |
 | [10–11 November 2021](2021-11-11-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 10.9% | N/A | N/A | N/A | N/A |
 | [5–8 November 2021](2021-11-08-HarrisInteractive.html) | Harris Interactive <br> Challenges | 9.9% | N/A | N/A | N/A | N/A |
 | [28–30 October 2021](2021-10-30-HarrisInteractive.html) | Harris Interactive <br> Challenges | 9.9% | N/A | N/A | N/A | N/A |
@@ -38,8 +38,8 @@ Last result: **20.8%** (General Election of 26 May 2019)
 | [22–25 October 2021](2021-10-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 9.9% | N/A | N/A | N/A | N/A |
 | [18–20 October 2021](2021-10-20-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 8.0% | N/A | N/A | N/A | N/A |
 | [15–18 October 2021](2021-10-18-HarrisInteractive.html) | Harris Interactive <br> Challenges | 9.9% | N/A | N/A | N/A | N/A |
-| [7–13 October 2021](2021-10-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 10.0% | N/A | N/A | N/A | N/A |
-| [5–11 October 2021](2021-10-11-Odoxa.html) | Odoxa <br> L’Obs | 13.0% | N/A | N/A | N/A | N/A |
+| [7–13 October 2021](2021-10-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 10.0% | 9.6–10.4% | 9.5–10.5% | 9.4–10.7% | 9.2–10.9% |
+| [5–11 October 2021](2021-10-11-Odoxa.html) | Odoxa <br> L’Obs | 13.0% | 12.1–13.9% | 11.8–14.2% | 11.6–14.4% | 11.2–14.9% |
 | [8–11 October 2021](2021-10-11-HarrisInteractive.html) | Harris Interactive <br> Challenges | 10.8% | N/A | N/A | N/A | N/A |
 | [7–11 October 2021](2021-10-11-BVA.html) | BVA <br> RTL and Orange | 10.0% | N/A | N/A | N/A | N/A |
 | [5–6 October 2021](2021-10-06-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 8.0% | N/A | N/A | N/A | N/A |
@@ -107,10 +107,10 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 11–19 | 10–20 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 11–19 | 10–19 |
 | [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 15 | 15–16 | 14–16 | 13–17 | 13–19 |
 | [12–15 December 2021](2021-12-15-Cluster17.html) | Cluster17 | 17 | 16–17 | 16–17 | 16–18 | 15–20 |
-| [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde |  |  |  |  |  |
+| [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
 | [10–13 December 2021](2021-12-13-HarrisInteractive.html) | Harris Interactive <br> Challenges | 15 | 15 | 15 | 15 | 15–16 |
 | [8–9 December 2021](2021-12-09-OpinionWay.html) | OpinionWay <br> Mieux voter |  |  |  |  |  |
 | [7–9 December 2021](2021-12-09-Odoxa.html) | Odoxa <br> L’Obs and Mascaret | 17 | 16–18 | 16–19 | 16–19 | 14–21 |
@@ -125,9 +125,9 @@ Last result: **20** seats (General Election of 26 May 2019)
 | [26–29 November 2021](2021-11-29-HarrisInteractive.html) | Harris Interactive <br> Challenges | 10 | 9–10 | 9–10 | 9–11 | 8–11 |
 | [23–24 November 2021](2021-11-24-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 7 | 7–8 | 7–9 | 6–10 | 6–10 |
 | [19–22 November 2021](2021-11-22-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
-| [15–17 November 2021](2021-11-17-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique |  |  |  |  |  |
+| [15–17 November 2021](2021-11-17-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 9 | 9–10 | 9–10 | 9–10 | 8–12 |
 | [12–15 November 2021](2021-11-15-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
-| [12–15 November 2021](2021-11-15-BVA.html) | BVA <br> RTL and Orange |  |  |  |  |  |
+| [12–15 November 2021](2021-11-15-BVA.html) | BVA <br> RTL and Orange | 6 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [10–11 November 2021](2021-11-11-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR |  |  |  |  |  |
 | [5–8 November 2021](2021-11-08-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
 | [28–30 October 2021](2021-10-30-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
@@ -135,8 +135,8 @@ Last result: **20** seats (General Election of 26 May 2019)
 | [22–25 October 2021](2021-10-25-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
 | [18–20 October 2021](2021-10-20-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique |  |  |  |  |  |
 | [15–18 October 2021](2021-10-18-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
-| [7–13 October 2021](2021-10-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde |  |  |  |  |  |
-| [5–11 October 2021](2021-10-11-Odoxa.html) | Odoxa <br> L’Obs |  |  |  |  |  |
+| [7–13 October 2021](2021-10-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [5–11 October 2021](2021-10-11-Odoxa.html) | Odoxa <br> L’Obs | 14 | 13–14 | 12–14 | 11–14 | 11–14 |
 | [8–11 October 2021](2021-10-11-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
 | [7–11 October 2021](2021-10-11-BVA.html) | BVA <br> RTL and Orange |  |  |  |  |  |
 | [5–6 October 2021](2021-10-06-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR |  |  |  |  |  |
@@ -182,15 +182,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
 | 10 | 0.5% | 99.9% |  |
-| 11 | 3% | 99.3% |  |
+| 11 | 2% | 99.4% |  |
 | 12 | 5% | 97% |  |
-| 13 | 7% | 91% |  |
-| 14 | 5% | 84% |  |
-| 15 | 27% | 79% |  |
-| 16 | 15% | 51% | Median |
-| 17 | 21% | 37% |  |
-| 18 | 6% | 15% |  |
-| 19 | 8% | 9% |  |
+| 13 | 6% | 92% |  |
+| 14 | 5% | 86% |  |
+| 15 | 29% | 81% |  |
+| 16 | 19% | 52% | Median |
+| 17 | 19% | 33% |  |
+| 18 | 6% | 14% |  |
+| 19 | 8% | 8% |  |
 | 20 | 0.3% | 0.5% | Last Result |
 | 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
