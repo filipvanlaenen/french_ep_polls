@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 Dec 2021 21:46:02 +0100</pubDate>
+    <pubDate>Sun, 19 Dec 2021 11:05:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by OpinionWay for Les Echos, CNews and Radio Classique, 13–15 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2021-12-15-OpinionWay.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Sat, 18 Dec 2021 19:04:29 +0100</pubDate>
       <dc:date>2021-12-18T19:04:29.352009+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-12-13-IpsosandSopraSteria.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–8 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–23 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 15–16 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 12–14 seats&lt;/li&gt;&lt;li&gt;L’Engagement (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (*): 12–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-12-13-IpsosandSopraSteria-seats.png"
+        length="293267"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:13:32 +0100</pubDate>
+      <dc:date>2021-12-19T10:13:32.476963+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-12-13-IpsosandSopraSteria.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-12-13-IpsosandSopraSteria-coalitions-seats.png"
+        length="186084"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:13:32 +0100</pubDate>
+      <dc:date>2021-12-19T10:13:32.476963+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-12-13-IpsosandSopraSteria.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.3–0.7%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.2–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.6–2.4%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.7–9.1%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.7–9.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 3.9–5.0%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22.6–24.8%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.8–1.3%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 15.9–17.8%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.5–3.4%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 13.5–15.3%&lt;/li&gt;&lt;li&gt;L’Engagement (*): 1.2–1.8%&lt;/li&gt;&lt;li&gt;Reconquête (*): 13.5–15.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-12-13-IpsosandSopraSteria.png"
+        length="381140"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:13:32 +0100</pubDate>
+      <dc:date>2021-12-19T10:13:32.476963+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for Challenges, 10–13 December 2021 – Seat Projections for the Parties</title>
@@ -338,6 +368,126 @@
         type="image/png"/>
       <pubDate>Sat, 18 Dec 2021 20:52:53 +0100</pubDate>
       <dc:date>2021-12-18T20:52:53.339899+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for Les Echos, CNews and Radio Classique, 15–17 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-17-OpinionWay.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5–6 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 20–23 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9–10 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 17–19 seats&lt;/li&gt;&lt;li&gt;L’Engagement (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (*): 9–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-17-OpinionWay-seats.png"
+        length="289950"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:23:25 +0100</pubDate>
+      <dc:date>2021-12-19T10:23:25.837123+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for Les Echos, CNews and Radio Classique, 15–17 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-17-OpinionWay.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-17-OpinionWay-coalitions-seats.png"
+        length="189113"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:23:25 +0100</pubDate>
+      <dc:date>2021-12-19T10:23:25.837123+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for Les Echos, CNews and Radio Classique, 15–17 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-17-OpinionWay.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–3.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.5–10.7%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.6–9.6%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.7–7.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21.6–26.4%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 17.8–22.3%&lt;/li&gt;&lt;li&gt;L’Engagement (*): 2.2–4.2%&lt;/li&gt;&lt;li&gt;Reconquête (*): 10.3–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-17-OpinionWay.png"
+        length="407344"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:23:25 +0100</pubDate>
+      <dc:date>2021-12-19T10:23:25.837123+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BVA for RTL and Orange, 12–15 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-15-BVA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 4–8 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–9 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–6 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–27 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14–20 seats&lt;/li&gt;&lt;li&gt;L’Engagement (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (*): 11–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-15-BVA-seats.png"
+        length="333293"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:34:23 +0100</pubDate>
+      <dc:date>2021-12-19T10:34:23.3246+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BVA for RTL and Orange, 12–15 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-15-BVA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-15-BVA-coalitions-seats.png"
+        length="246795"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:34:23 +0100</pubDate>
+      <dc:date>2021-12-19T10:34:23.3246+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BVA for RTL and Orange, 12–15 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-15-BVA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.8–2.6%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.6–4.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 5.8–9.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.3–10.2%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 3.7–6.9%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23.1–29.5%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.5–2.1%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.3–11.4%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.6–4.0%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 15.5–21.1%&lt;/li&gt;&lt;li&gt;L’Engagement (*): 1.2–3.3%&lt;/li&gt;&lt;li&gt;Reconquête (*): 12.8–17.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-15-BVA.png"
+        length="426482"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:34:23 +0100</pubDate>
+      <dc:date>2021-12-19T10:34:23.3246+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-10-13-IpsosandSopraSteria.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–8 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8–9 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23–25 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14–16 seats&lt;/li&gt;&lt;li&gt;L’Engagement (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (*): 13–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-10-13-IpsosandSopraSteria-seats.png"
+        length="302801"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:54:03 +0100</pubDate>
+      <dc:date>2021-12-19T10:54:03.022853+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-10-13-IpsosandSopraSteria.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-10-13-IpsosandSopraSteria-coalitions-seats.png"
+        length="198192"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:54:03 +0100</pubDate>
+      <dc:date>2021-12-19T10:54:03.022853+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-10-13-IpsosandSopraSteria.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.8–1.2%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.8–1.2%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.7–2.3%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.4–8.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8.9–10.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.6–5.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 24.6–26.4%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.8–1.2%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9.4–10.7%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.7–3.4%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 15.2–16.8%&lt;/li&gt;&lt;li&gt;L’Engagement (*): 1.7–2.3%&lt;/li&gt;&lt;li&gt;Reconquête (*): 15.2–16.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-10-13-IpsosandSopraSteria.png"
+        length="364821"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 10:54:03 +0100</pubDate>
+      <dc:date>2021-12-19T10:54:03.022853+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for L’Obs, 5–11 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-10-11-Odoxa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22–26 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 19–23 seats&lt;/li&gt;&lt;li&gt;L’Engagement (*): 0–5 seats&lt;/li&gt;&lt;li&gt;Reconquête (*): 9–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-10-11-Odoxa-seats.png"
+        length="302377"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 11:05:24 +0100</pubDate>
+      <dc:date>2021-12-19T11:05:24.010255+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for L’Obs, 5–11 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-10-11-Odoxa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-10-11-Odoxa-coalitions-seats.png"
+        length="205557"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 11:05:24 +0100</pubDate>
+      <dc:date>2021-12-19T11:05:24.010255+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for L’Obs, 5–11 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-10-11-Odoxa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.1–2.1%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.4–3.8%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.5–8.7%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.1–6.0%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 3.2–4.9%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23.2–26.8%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 11.6–14.4%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.4–3.8%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 19.3–22.7%&lt;/li&gt;&lt;li&gt;L’Engagement (*): 3.7–5.4%&lt;/li&gt;&lt;li&gt;Reconquête (*): 9.3–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-10-11-Odoxa.png"
+        length="376281"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 11:05:24 +0100</pubDate>
+      <dc:date>2021-12-19T11:05:24.010255+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive, 20–21 June 2021 – Seat Projections for the Parties</title>
@@ -909,6 +1059,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2021-12-18T21:46:02.401703+01:00</dc:date>
+    <dc:date>2021-12-19T11:05:24.010255+01:00</dc:date>
   </channel>
 </rss>
