@@ -19,7 +19,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–13 December 2021](2021-12-13-HarrisInteractive.html) | Harris Interactive <br> Challenges | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.7% |
 | [8–9 December 2021](2021-12-09-OpinionWay.html) | OpinionWay <br> Mieux voter | 0.3% | N/A | N/A | N/A | N/A |
 | [7–9 December 2021](2021-12-09-Odoxa.html) | Odoxa <br> L’Obs and Mascaret | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
-| [5 November–8 December 2021](2021-12-08-Odoxa.html) | Odoxa <br> Saegus and L’Obs | 1.0% | N/A | N/A | N/A | N/A |
 | [6–8 December 2021](2021-12-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [4–8 December 2021](2021-12-08-Cluster17.html) | Cluster17 | 0.5% | N/A | N/A | N/A | N/A |
 | [6–8 December 2021](2021-12-08-BVA.html) | BVA <br> RTL and Orange | 0.5% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% | 0.1–1.7% |
@@ -36,6 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–15 November 2021](2021-11-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 1.0% | N/A | N/A | N/A | N/A |
 | [12–15 November 2021](2021-11-15-BVA.html) | BVA <br> RTL and Orange | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.5% |
 | [10–11 November 2021](2021-11-11-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 1.0% | N/A | N/A | N/A | N/A |
+| [5–8 November 2021](2021-11-08-Odoxa.html) | Odoxa <br> Saegus and L’Obs | 1.0% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [5–8 November 2021](2021-11-08-HarrisInteractive.html) | Harris Interactive <br> Challenges | 1.0% | N/A | N/A | N/A | N/A |
 | [3–5 November 2021](2021-11-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and LCI | 0.5% | N/A | N/A | N/A | N/A |
 | [28–30 October 2021](2021-10-30-HarrisInteractive.html) | Harris Interactive <br> Challenges | 1.0% | N/A | N/A | N/A | N/A |
@@ -115,7 +115,6 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–13 December 2021](2021-12-13-HarrisInteractive.html) | Harris Interactive <br> Challenges | 0 | 0 | 0 | 0 | 0 |
 | [8–9 December 2021](2021-12-09-OpinionWay.html) | OpinionWay <br> Mieux voter |  |  |  |  |  |
 | [7–9 December 2021](2021-12-09-Odoxa.html) | Odoxa <br> L’Obs and Mascaret | 0 | 0 | 0 | 0 | 0 |
-| [5 November–8 December 2021](2021-12-08-Odoxa.html) | Odoxa <br> Saegus and L’Obs |  |  |  |  |  |
 | [6–8 December 2021](2021-12-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 0 | 0 | 0 | 0 | 0 |
 | [4–8 December 2021](2021-12-08-Cluster17.html) | Cluster17 |  |  |  |  |  |
 | [6–8 December 2021](2021-12-08-BVA.html) | BVA <br> RTL and Orange | 0 | 0 | 0 | 0 | 0 |
@@ -132,6 +131,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–15 November 2021](2021-11-15-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
 | [12–15 November 2021](2021-11-15-BVA.html) | BVA <br> RTL and Orange | 0 | 0 | 0 | 0 | 0 |
 | [10–11 November 2021](2021-11-11-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR |  |  |  |  |  |
+| [5–8 November 2021](2021-11-08-Odoxa.html) | Odoxa <br> Saegus and L’Obs | 0 | 0 | 0 | 0 | 0 |
 | [5–8 November 2021](2021-11-08-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
 | [3–5 November 2021](2021-11-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and LCI |  |  |  |  |  |
 | [28–30 October 2021](2021-10-30-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
