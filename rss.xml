@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 Dec 2021 21:11:13 +0100</pubDate>
+    <pubDate>Sat, 25 Dec 2021 17:01:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 17–20 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2021-12-20-Elabe.html#seats</link>
@@ -518,6 +518,36 @@
         type="image/png"/>
       <pubDate>Sun, 19 Dec 2021 10:34:23 +0100</pubDate>
       <dc:date>2021-12-19T10:34:23.3246+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Saegus and L’Obs, 5–8 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-08-Odoxa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–9 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–7 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–25 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 15–18 seats&lt;/li&gt;&lt;li&gt;L’Engagement (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (*): 12–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-08-Odoxa-seats.png"
+        length="316164"
+        type="image/png"/>
+      <pubDate>Sat, 25 Dec 2021 17:01:49 +0100</pubDate>
+      <dc:date>2021-12-25T17:01:49.193382+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Saegus and L’Obs, 5–8 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-08-Odoxa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-08-Odoxa-coalitions-seats.png"
+        length="215368"
+        type="image/png"/>
+      <pubDate>Sat, 25 Dec 2021 17:01:49 +0100</pubDate>
+      <dc:date>2021-12-25T17:01:49.193382+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Saegus and L’Obs, 5–8 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2021-11-08-Odoxa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.9–3.3%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.5–2.7%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.3–9.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5.5–7.6%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.1–6.1%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23.1–26.9%&lt;/li&gt;&lt;li&gt;Résistons! (*): 1.1–2.2%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.8–10.3%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 16.9–20.2%&lt;/li&gt;&lt;li&gt;L’Engagement (*): 1.5–2.7%&lt;/li&gt;&lt;li&gt;Reconquête (*): 13.0–16.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2021-11-08-Odoxa.png"
+        length="401578"
+        type="image/png"/>
+      <pubDate>Sat, 25 Dec 2021 17:01:49 +0100</pubDate>
+      <dc:date>2021-12-25T17:01:49.193382+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 7–13 October 2021 – Seat Projections for the Parties</title>
@@ -1149,6 +1179,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2021-12-22T21:11:13.174794+01:00</dc:date>
+    <dc:date>2021-12-25T17:01:49.193382+01:00</dc:date>
   </channel>
 </rss>
