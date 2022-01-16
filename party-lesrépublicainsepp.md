@@ -10,7 +10,7 @@ Last result: **20.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 14.2–18.2% | 13.7–18.7% | 13.3–19.2% | 12.7–20.0% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.1–18.0% | 13.6–18.6% | 13.3–19.1% | 12.7–20.0% |
 | [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 18.1% | 16.9–19.4% | 16.5–19.7% | 16.2–20.1% | 15.7–20.7% |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16.9% | N/A | N/A | N/A | N/A |
 | [9–12 January 2022](2022-01-12-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16.0% | N/A | N/A | N/A | N/A |
@@ -32,7 +32,6 @@ Last result: **20.8%** (General Election of 26 May 2019)
 | [27–31 December 2021](2021-12-31-Cluster17.html) | Cluster17 <br> Marianne | 15.0% | 13.9–16.1% | 13.6–16.4% | 13.3–16.7% | 12.8–17.3% |
 | [19–22 December 2021](2021-12-22-Cluster17.html) | Cluster17 | 16.2% | N/A | N/A | N/A | N/A |
 | [17–20 December 2021](2021-12-20-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 17.0% | 15.7–18.4% | 15.3–18.8% | 15.0–19.1% | 14.4–19.8% |
-| [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 17.2% | 15.9–18.6% | 15.5–19.0% | 15.2–19.4% | 14.6–20.1% |
 | [14–15 December 2021](2021-12-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.7–20.4% | 15.0–21.2% |
 | [12–15 December 2021](2021-12-15-Cluster17.html) | Cluster17 | 18.0% | 16.6–19.5% | 16.2–20.0% | 15.9–20.3% | 15.2–21.1% |
 | [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 16.8% | 16.2–17.5% | 16.0–17.6% | 15.9–17.8% | 15.6–18.1% |
@@ -115,13 +114,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.3% | 100% |  |
 | 12.5–13.5% | 4% | 99.7% |  |
-| 13.5–14.5% | 11% | 96% |  |
-| 14.5–15.5% | 19% | 86% |  |
-| 15.5–16.5% | 28% | 66% | Median |
-| 16.5–17.5% | 21% | 39% |  |
-| 17.5–18.5% | 12% | 18% |  |
-| 18.5–19.5% | 5% | 6% |  |
-| 19.5–20.5% | 1.1% | 1.2% |  |
+| 13.5–14.5% | 12% | 96% |  |
+| 14.5–15.5% | 21% | 84% |  |
+| 15.5–16.5% | 28% | 62% | Median |
+| 16.5–17.5% | 18% | 34% |  |
+| 17.5–18.5% | 10% | 16% |  |
+| 18.5–19.5% | 4% | 6% |  |
+| 19.5–20.5% | 1.0% | 1.2% |  |
 | 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -156,7 +155,6 @@ Last result: **20** seats (General Election of 26 May 2019)
 | [27–31 December 2021](2021-12-31-Cluster17.html) | Cluster17 <br> Marianne | 16 | 14–16 | 14–16 | 14–16 | 13–16 |
 | [19–22 December 2021](2021-12-22-Cluster17.html) | Cluster17 |  |  |  |  |  |
 | [17–20 December 2021](2021-12-20-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 15 | 15 | 15 | 15–16 | 15–16 |
-| [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 15 | 15–16 | 14–16 | 13–17 | 13–19 |
 | [14–15 December 2021](2021-12-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 16 | 15–17 | 13–18 | 13–18 | 13–18 |
 | [12–15 December 2021](2021-12-15-Cluster17.html) | Cluster17 | 17 | 16–17 | 16–17 | 16–18 | 15–20 |
 | [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
@@ -239,14 +237,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
-| 12 | 7% | 99.8% |  |
-| 13 | 8% | 93% |  |
-| 14 | 24% | 84% |  |
-| 15 | 37% | 60% | Median |
-| 16 | 15% | 24% |  |
+| 12 | 8% | 99.8% |  |
+| 13 | 9% | 92% |  |
+| 14 | 27% | 83% |  |
+| 15 | 35% | 56% | Median |
+| 16 | 12% | 21% |  |
 | 17 | 4% | 9% |  |
 | 18 | 5% | 5% |  |
-| 19 | 0.2% | 0.2% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% | Last Result |
 
 

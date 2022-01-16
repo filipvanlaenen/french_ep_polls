@@ -32,7 +32,6 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27–31 December 2021](2021-12-31-Cluster17.html) | Cluster17 <br> Marianne | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.4–6.0% |
 | [19–22 December 2021](2021-12-22-Cluster17.html) | Cluster17 | 7.1% | N/A | N/A | N/A | N/A |
 | [17–20 December 2021](2021-12-20-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 0.0% | N/A | N/A | N/A | N/A |
-| [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2021](2021-12-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 December 2021](2021-12-15-Cluster17.html) | Cluster17 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 0.0% | N/A | N/A | N/A | N/A |
@@ -153,7 +152,6 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–31 December 2021](2021-12-31-Cluster17.html) | Cluster17 <br> Marianne | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [19–22 December 2021](2021-12-22-Cluster17.html) | Cluster17 |  |  |  |  |  |
 | [17–20 December 2021](2021-12-20-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR |  |  |  |  |  |
-| [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique |  |  |  |  |  |
 | [14–15 December 2021](2021-12-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio |  |  |  |  |  |
 | [12–15 December 2021](2021-12-15-Cluster17.html) | Cluster17 |  |  |  |  |  |
 | [7–13 December 2021](2021-12-13-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde |  |  |  |  |  |
