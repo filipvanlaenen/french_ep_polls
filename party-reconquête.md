@@ -142,20 +142,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 9–14 | 8–14 |
-| [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–14 | 8–14 |
+| [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [9–12 January 2022](2022-01-12-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [8–11 January 2022](2022-01-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [10–11 January 2022](2022-01-11-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 13 | 10–14 | 10–14 | 10–14 | 10–14 |
 | [7–10 January 2022](2022-01-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [6–10 January 2022](2022-01-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 11 | 11–12 | 10–12 | 10–13 | 10–14 |
-| [7–10 January 2022](2022-01-10-HarrisInteractive.html) | Harris Interactive <br> Challenges | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
+| [7–10 January 2022](2022-01-10-HarrisInteractive.html) | Harris Interactive <br> Challenges | 13 | 12–13 | 12–14 | 12–14 | 11–14 |
 | [4–8 January 2022](2022-01-08-Cluster17.html) | Cluster17 <br> Marianne | 12 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [4–7 January 2022](2022-01-07-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [3–6 January 2022](2022-01-06-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [5–6 January 2022](2022-01-06-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 10 | 9–13 | 9–13 | 8–14 | 8–14 |
-| [5–6 January 2022](2022-01-06-BVA.html) | BVA <br> RTL and Orange | 10 | 10–12 | 9–12 | 9–12 | 8–13 |
+| [5–6 January 2022](2022-01-06-BVA.html) | BVA <br> RTL and Orange | 10 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [2–5 January 2022](2022-01-05-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [3–5 January 2022](2022-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro |  |  |  |  |  |
 | [2–4 January 2022](2022-01-04-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
@@ -255,13 +255,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.9% | 100% |  |
-| 9 | 3% | 99.1% |  |
-| 10 | 26% | 96% |  |
+| 8 | 0.7% | 100% |  |
+| 9 | 8% | 99.3% |  |
+| 10 | 22% | 92% |  |
 | 11 | 18% | 70% |  |
-| 12 | 29% | 52% | Median |
-| 13 | 14% | 24% |  |
-| 14 | 9% | 10% |  |
+| 12 | 25% | 52% | Median |
+| 13 | 16% | 27% |  |
+| 14 | 11% | 11% |  |
 | 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
 
