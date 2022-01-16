@@ -10,7 +10,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.9–18.4% | 14.5–18.9% | 14.2–19.3% | 13.5–20.2% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.9–18.4% | 14.5–18.9% | 14.2–19.3% | 13.6–20.2% |
 | [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 18.1% | 16.9–19.4% | 16.5–19.7% | 16.2–20.1% | 15.7–20.7% |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 17.9% | N/A | N/A | N/A | N/A |
 | [9–12 January 2022](2022-01-12-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 18.0% | N/A | N/A | N/A | N/A |
@@ -30,7 +30,6 @@ Last result: **24.9%** (General Election of 26 May 2019)
 | [2–3 January 2022](2022-01-03-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16.0% | N/A | N/A | N/A | N/A |
 | [28–31 December 2021](2021-12-31-HarrisInteractive.html) | Harris Interactive <br> Challenges | 15.9% | 14.9–16.9% | 14.6–17.2% | 14.4–17.5% | 14.0–18.0% |
 | [27–31 December 2021](2021-12-31-Cluster17.html) | Cluster17 <br> Marianne | 14.5% | 13.4–15.6% | 13.1–16.0% | 12.9–16.2% | 12.4–16.8% |
-| [21–22 December 2021](2021-12-22-OpinionWay.html) | OpinionWay <br> VSD | 15.9% | 14.6–17.5% | 14.2–17.9% | 13.8–18.3% | 13.2–19.0% |
 | [19–22 December 2021](2021-12-22-Cluster17.html) | Cluster17 | 13.1% | N/A | N/A | N/A | N/A |
 | [17–20 December 2021](2021-12-20-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 15.9% | 14.7–17.3% | 14.3–17.7% | 14.0–18.0% | 13.4–18.7% |
 | [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 16.1% | 14.8–17.5% | 14.5–17.9% | 14.2–18.3% | 13.6–19.0% |
@@ -114,11 +113,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 5% | 99.5% |  |
-| 14.5–15.5% | 18% | 94% |  |
-| 15.5–16.5% | 28% | 76% | Median |
-| 16.5–17.5% | 24% | 48% |  |
+| 12.5–13.5% | 0.4% | 100% |  |
+| 13.5–14.5% | 5% | 99.6% |  |
+| 14.5–15.5% | 17% | 95% |  |
+| 15.5–16.5% | 28% | 77% |  |
+| 16.5–17.5% | 25% | 49% | Median |
 | 17.5–18.5% | 16% | 24% |  |
 | 18.5–19.5% | 7% | 8% |  |
 | 19.5–20.5% | 2% | 2% |  |
@@ -137,7 +136,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 13–18 | 13–19 |
 | [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [9–12 January 2022](2022-01-12-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
@@ -157,7 +156,6 @@ Last result: **24** seats (General Election of 26 May 2019)
 | [2–3 January 2022](2022-01-03-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [28–31 December 2021](2021-12-31-HarrisInteractive.html) | Harris Interactive <br> Challenges | 16 | 16 | 15–16 | 15–16 | 14–16 |
 | [27–31 December 2021](2021-12-31-Cluster17.html) | Cluster17 <br> Marianne | 14 | 14–15 | 14–15 | 13–15 | 12–16 |
-| [21–22 December 2021](2021-12-22-OpinionWay.html) | OpinionWay <br> VSD | 14 | 13–16 | 13–17 | 13–18 | 12–18 |
 | [19–22 December 2021](2021-12-22-Cluster17.html) | Cluster17 |  |  |  |  |  |
 | [17–20 December 2021](2021-12-20-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 13 | 13 | 13–14 | 13–16 | 13–17 |
 | [13–15 December 2021](2021-12-15-OpinionWay.html) | OpinionWay <br> Les Echos, CNews and Radio Classique | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
@@ -242,14 +240,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.6% | 100% |  |
-| 13 | 13% | 99.4% |  |
-| 14 | 18% | 87% |  |
-| 15 | 27% | 69% | Median |
-| 16 | 20% | 42% |  |
-| 17 | 16% | 22% |  |
-| 18 | 6% | 6% |  |
-| 19 | 0.6% | 0.7% |  |
+| 12 | 0.5% | 100% |  |
+| 13 | 11% | 99.5% |  |
+| 14 | 15% | 88% |  |
+| 15 | 33% | 73% | Median |
+| 16 | 19% | 40% |  |
+| 17 | 15% | 21% |  |
+| 18 | 5% | 6% |  |
+| 19 | 0.6% | 0.6% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
