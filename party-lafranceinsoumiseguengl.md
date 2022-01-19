@@ -10,7 +10,10 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 7.9–12.1% | 7.5–12.7% | 7.2–13.1% | 6.6–13.8% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.0–12.1% | 7.6–12.7% | 7.2–13.1% | 6.6–13.8% |
+| [15–17 January 2022](2022-01-17-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.5% |
+| [13–17 January 2022](2022-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [11–15 January 2022](2022-01-15-Cluster17.html) | Cluster17 <br> Marianne | 12.5% | 11.6–13.5% | 11.3–13.7% | 11.1–14.0% | 10.7–14.5% |
 | [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.6% | 8.2–12.1% |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 9.0% | N/A | N/A | N/A | N/A |
 | [9–12 January 2022](2022-01-12-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 9.0% | N/A | N/A | N/A | N/A |
@@ -115,15 +118,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 5% | 99.6% | Last Result |
-| 7.5–8.5% | 15% | 95% |  |
-| 8.5–9.5% | 22% | 79% |  |
-| 9.5–10.5% | 24% | 57% | Median |
-| 10.5–11.5% | 18% | 33% |  |
-| 11.5–12.5% | 9% | 15% |  |
+| 6.5–7.5% | 4% | 99.6% | Last Result |
+| 7.5–8.5% | 14% | 95% |  |
+| 8.5–9.5% | 22% | 82% |  |
+| 9.5–10.5% | 25% | 59% | Median |
+| 10.5–11.5% | 19% | 34% |  |
+| 11.5–12.5% | 9% | 16% |  |
 | 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 0.9% | 0.9% |  |
+| 13.5–14.5% | 1.0% | 1.0% |  |
 | 14.5–15.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -134,7 +138,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–11 | 7–12 | 6–12 | 6–13 |
+| N/A | [Poll Average](average.html) | 10 | 7–13 | 7–13 | 6–13 | 6–13 |
+| [15–17 January 2022](2022-01-17-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10 | 9–10 | 9–10 | 9–10 | 8–12 |
+| [13–17 January 2022](2022-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 10 | 7–10 | 7–10 | 7–10 | 6–10 |
+| [11–15 January 2022](2022-01-15-Cluster17.html) | Cluster17 <br> Marianne | 13 | 12–13 | 12–13 | 11–13 | 10–14 |
 | [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 9 | 9–10 | 9–10 | 8–10 | 7–10 |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [9–12 January 2022](2022-01-12-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
@@ -245,14 +252,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
 | 6 | 4% | 99.6% |  |
-| 7 | 13% | 96% |  |
-| 8 | 24% | 83% |  |
-| 9 | 22% | 59% | Median |
-| 10 | 19% | 37% |  |
-| 11 | 13% | 18% |  |
-| 12 | 3% | 5% |  |
-| 13 | 1.4% | 2% |  |
-| 14 | 0.2% | 0.2% |  |
+| 7 | 12% | 96% |  |
+| 8 | 17% | 84% |  |
+| 9 | 16% | 67% |  |
+| 10 | 33% | 51% | Median |
+| 11 | 5% | 18% |  |
+| 12 | 3% | 13% |  |
+| 13 | 10% | 10% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 
