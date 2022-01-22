@@ -165,7 +165,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–17 January 2022](2022-01-17-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10 | 10 | 10 | 10–11 | 9–12 |
 | [13–17 January 2022](2022-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 11 | 10–13 | 10–13 | 10–13 | 9–15 |
 | [14–17 January 2022](2022-01-17-HarrisInteractive.html) | Harris Interactive <br> Challenges | 12 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [11–15 January 2022](2022-01-15-Cluster17.html) | Cluster17 <br> Marianne | 13 | 13–14 | 13–14 | 13–14 | 12–15 |
+| [11–15 January 2022](2022-01-15-Cluster17.html) | Cluster17 <br> Marianne | 13 | 13–14 | 13–14 | 13–15 | 12–15 |
 | [11–14 January 2022](2022-01-14-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [11–14 January 2022](2022-01-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [10–13 January 2022](2022-01-13-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
@@ -287,9 +287,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 19% | 95% |  |
 | 11 | 14% | 76% |  |
 | 12 | 34% | 61% | Median |
-| 13 | 18% | 28% |  |
-| 14 | 9% | 9% |  |
-| 15 | 0.7% | 0.7% |  |
+| 13 | 19% | 28% |  |
+| 14 | 8% | 9% |  |
+| 15 | 0.9% | 1.0% |  |
 | 16 | 0% | 0% |  |
 
 
