@@ -13,7 +13,7 @@
 | La République en marche–Mouvement démocrate (RE) | 9.9% | 26.0% | 24.3–27.8% |23.8–28.3% |23.4–28.7% |22.6–29.6% |
 | Les Républicains (EPP) | 20.8% | 17.9% | 16.5–19.5% |16.1–20.0% |15.7–20.4% |15.1–21.2% |
 | Rassemblement national (ID) | 24.9% | 15.9% | 14.6–17.5% |14.2–17.9% |13.8–18.3% |13.2–19.0% |
-| Reconquête (*) | 0.0% | 11.9% | 10.7–13.3% |10.4–13.7% |10.1–14.0% |9.5–14.7% |
+| Reconquête (NI) | 0.0% | 11.9% | 10.7–13.3% |10.4–13.7% |10.1–14.0% |9.5–14.7% |
 | La France insoumise (GUE/NGL) | 6.6% | 8.0% | 7.0–9.2% |6.8–9.5% |6.5–9.8% |6.1–10.4% |
 | Europe Écologie Les Verts (Greens/EFA) | 9.0% | 6.0% | 5.2–7.1% |4.9–7.4% |4.7–7.6% |4.3–8.2% |
 | Parti socialiste (S&D) | 14.0% | 4.0% | 3.3–4.9% |3.1–5.2% |3.0–5.4% |2.7–5.8% |
@@ -39,7 +39,7 @@
 | <a href="#la-république-en-marche–mouvement-démocrate-(re)">La République en marche–Mouvement démocrate (RE)</a> | 7 | 24 | 23–26 |22–27 |22–27 |21–29 |
 | <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 16 | 15–19 |14–20 |14–20 |13–21 |
 | <a href="#rassemblement-national-(id)">Rassemblement national (ID)</a> | 24 | 14 | 13–16 |13–17 |13–18 |12–18 |
-| <a href="#reconquête-(*)">Reconquête (*)</a> | 0 | 10 | 10–13 |9–14 |9–14 |9–15 |
+| <a href="#reconquête-(ni)">Reconquête (NI)</a> | 0 | 10 | 10–13 |9–14 |9–14 |9–15 |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 7 | 6–9 |6–9 |5–10 |5–10 |
 | <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 5 | 0–7 |0–7 |0–7 |0–8 |
 | <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 0 | 0 |0–4 |0–5 |0–5 |
@@ -125,11 +125,11 @@
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% | Last Result |
 
-### Reconquête (*)
+### Reconquête (NI)
 
-*For a full overview of the results for this party, see the [Reconquête (*)](party-reconquête.html) page.*
+*For a full overview of the results for this party, see the [Reconquête (NI)](party-reconquêteni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-22-OpinionWay-seats-pmf-reconquête.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-12-22-OpinionWay-seats-pmf-reconquêteni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

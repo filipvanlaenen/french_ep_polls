@@ -13,7 +13,7 @@
 | La République en marche–Mouvement démocrate (RE) | 9.9% | 23.9% | 22.7–25.1% |22.4–25.4% |22.1–25.7% |21.6–26.3% |
 | Les Républicains (EPP) | 20.8% | 15.9% | 14.9–16.9% |14.6–17.2% |14.4–17.5% |14.0–18.0% |
 | Rassemblement national (ID) | 24.9% | 15.9% | 14.9–16.9% |14.6–17.2% |14.4–17.5% |14.0–18.0% |
-| Reconquête (*) | 0.0% | 15.9% | 14.9–16.9% |14.6–17.2% |14.4–17.5% |14.0–18.0% |
+| Reconquête (NI) | 0.0% | 15.9% | 14.9–16.9% |14.6–17.2% |14.4–17.5% |14.0–18.0% |
 | La France insoumise (GUE/NGL) | 6.6% | 9.9% | 9.2–10.8% |8.9–11.1% |8.7–11.3% |8.4–11.7% |
 | Europe Écologie Les Verts (Greens/EFA) | 9.0% | 7.0% | 6.3–7.7% |6.1–7.9% |6.0–8.1% |5.7–8.5% |
 | Parti socialiste (S&D) | 14.0% | 4.0% | 3.5–4.6% |3.4–4.8% |3.2–4.9% |3.0–5.2% |
@@ -41,7 +41,7 @@
 | <a href="#la-république-en-marche–mouvement-démocrate-(re)">La République en marche–Mouvement démocrate (RE)</a> | 7 | 20 | 20 |20–22 |20–22 |19–23 |
 | <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 14 | 14 |14 |14–15 |13–15 |
 | <a href="#rassemblement-national-(id)">Rassemblement national (ID)</a> | 24 | 16 | 16 |15–16 |15–16 |14–16 |
-| <a href="#reconquête-(*)">Reconquête (*)</a> | 0 | 14 | 14 |13–14 |13–14 |12–15 |
+| <a href="#reconquête-(ni)">Reconquête (NI)</a> | 0 | 14 | 14 |13–14 |13–14 |12–15 |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 9 | 9 |9 |9 |8–10 |
 | <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 6 | 6 |6 |5–6 |5–8 |
 | <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 0 | 0 |0 |0 |0–4 |
@@ -120,11 +120,11 @@
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% | Last Result |
 
-### Reconquête (*)
+### Reconquête (NI)
 
-*For a full overview of the results for this party, see the [Reconquête (*)](party-reconquête.html) page.*
+*For a full overview of the results for this party, see the [Reconquête (NI)](party-reconquêteni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-31-HarrisInteractive-seats-pmf-reconquête.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-12-31-HarrisInteractive-seats-pmf-reconquêteni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -298,10 +298,10 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Rassemblement national (ID) | 24 | 16 | 0% | 16 | 15–16 | 15–16 | 14–16 |
 | Les Républicains (EPP) | 20 | 14 | 0% | 14 | 14 | 14–15 | 13–15 |
+| Reconquête (NI) – Les Patriotes (NI) | 0 | 14 | 0% | 14 | 13–14 | 13–14 | 12–15 |
 | La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) | 2 | 9 | 0% | 9 | 9 | 9 | 8–10 |
 | Europe Écologie Les Verts (Greens/EFA) | 6 | 6 | 0% | 6 | 6 | 5–6 | 5–8 |
 | Debout la France (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Les Patriotes (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Rassemblement national (ID)
 
@@ -338,6 +338,31 @@
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% | Last Result |
 
+### Reconquête (NI) – Les Patriotes (NI)
+
+![Graph with seats probability mass function not yet produced](2021-12-31-HarrisInteractive-coalitions-seats-pmf-rec–lp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 8% | 99.1% |  |
+| 14 | 90% | 91% | Median |
+| 15 | 1.0% | 1.3% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
+
 ### La France insoumise (GUE/NGL) – Parti communiste français (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL)
 
 ![Graph with seats probability mass function not yet produced](2021-12-31-HarrisInteractive-coalitions-seats-pmf-fi–pcf–npa.png "Seats Probability Mass Function")
@@ -372,14 +397,6 @@
 ### Debout la France (ECR)
 
 ![Graph with seats probability mass function not yet produced](2021-12-31-HarrisInteractive-coalitions-seats-pmf-dlf.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Les Patriotes (NI)
-
-![Graph with seats probability mass function not yet produced](2021-12-31-HarrisInteractive-coalitions-seats-pmf-lp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
