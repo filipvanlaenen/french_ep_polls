@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jan 2022 10:31:31 +0100</pubDate>
+    <pubDate>Sat, 29 Jan 2022 11:00:57 +0100</pubDate>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 25–28 January 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-OpinionWayandKéaPartners.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 29 Jan 2022 10:19:16 +0100</pubDate>
       <dc:date>2022-01-29T10:19:16.803642+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for Paris Match, LCI and Sud Radio, 25–28 January 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-Ifop–Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–10 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–6 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 20–25 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 13–18 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14–19 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 10–13 seats&lt;/li&gt;&lt;li&gt;Walwari (*): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-Ifop–Fiducial-seats.png"
+        length="334836"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jan 2022 10:45:51 +0100</pubDate>
+      <dc:date>2022-01-29T10:45:51.182341+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for Paris Match, LCI and Sud Radio, 25–28 January 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-Ifop–Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-Ifop–Fiducial-coalitions-seats.png"
+        length="251637"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jan 2022 10:45:51 +0100</pubDate>
+      <dc:date>2022-01-29T10:45:51.182341+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for Paris Match, LCI and Sud Radio, 25–28 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-Ifop–Fiducial.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.0–0.5%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.2–4.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8.1–11.0%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.4–6.7%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 2.6–4.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21.9–26.2%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 14.6–18.4%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 11.8–15.3%&lt;/li&gt;&lt;li&gt;Walwari (*): 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-01-28-Ifop–Fiducial.png"
+        length="408758"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jan 2022 10:45:51 +0100</pubDate>
+      <dc:date>2022-01-29T10:45:51.182341+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 24–27 January 2022 – Seat Projections for the Parties</title>
@@ -218,6 +248,36 @@
         type="image/png"/>
       <pubDate>Wed, 26 Jan 2022 17:32:42 +0100</pubDate>
       <dc:date>2022-01-26T17:32:42.875484+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, 21–24 January 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-24-HarrisInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8–9 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–24 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 13–16 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 16–17 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 12–14 seats&lt;/li&gt;&lt;li&gt;Walwari (*): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-01-24-HarrisInteractive-seats.png"
+        length="327137"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jan 2022 11:00:57 +0100</pubDate>
+      <dc:date>2022-01-29T11:00:57.469996+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, 21–24 January 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-24-HarrisInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-01-24-HarrisInteractive-coalitions-seats.png"
+        length="205855"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jan 2022 11:00:57 +0100</pubDate>
+      <dc:date>2022-01-29T11:00:57.469996+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, 21–24 January 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-01-24-HarrisInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.0–0.4%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.5–2.6%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8.9–11.2%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.2–5.9%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 2.4–3.7%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22.3–25.7%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 13.6–16.4%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.5–2.6%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 15.5–18.5%&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.0–0.4%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 12.6–15.4%&lt;/li&gt;&lt;li&gt;Walwari (*): 4.2–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-01-24-HarrisInteractive.png"
+        length="423329"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jan 2022 11:00:57 +0100</pubDate>
+      <dc:date>2022-01-29T11:00:57.469996+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Cluster17 for Marianne, 18–22 January 2022 – Seat Projections for the Parties</title>
@@ -1869,6 +1929,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-01-29T10:31:31.042447+01:00</dc:date>
+    <dc:date>2022-01-29T11:00:57.469996+01:00</dc:date>
   </channel>
 </rss>
