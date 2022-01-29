@@ -10,14 +10,20 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 22.2–25.8% | 21.6–26.3% | 21.2–26.8% | 20.5–27.8% |
+| N/A | [Poll Average](average.html) | 24.3% | 22.1–25.6% | 21.5–26.0% | 21.2–26.4% | 20.5–27.2% |
+| [25–28 January 2022](2022-01-28-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 23.9% | 22.6–25.4% | 22.2–25.8% | 21.9–26.1% | 21.3–26.8% |
+| [25–28 January 2022](2022-01-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24.0% | N/A | N/A | N/A | N/A |
 | [24–27 January 2022](2022-01-27-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24.0% | 22.6–25.4% | 22.3–25.8% | 21.9–26.2% | 21.3–26.9% |
+| [24–27 January 2022](2022-01-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24.5% | N/A | N/A | N/A | N/A |
+| [23–26 January 2022](2022-01-26-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 25.0% | N/A | N/A | N/A | N/A |
 | [21–26 January 2022](2022-01-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24.5% | 23.1–26.0% | 22.7–26.4% | 22.4–26.7% | 21.7–27.5% |
 | [24–26 January 2022](2022-01-26-Elabe.html) | Elabe <br> BFMTV, L'Express and SFR | 24.0% | 22.5–25.6% | 22.1–26.1% | 21.7–26.5% | 21.0–27.3% |
+| [24–26 January 2022](2022-01-26-BVA.html) | BVA <br> RTL and Orange | 23.9% | 22.1–25.8% | 21.7–26.3% | 21.2–26.7% | 20.4–27.7% |
 | [22–25 January 2022](2022-01-25-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 25.0% | 23.7–26.4% | 23.3–26.8% | 23.0–27.2% | 22.3–27.8% |
 | [21–25 January 2022](2022-01-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24.5% | 23.1–25.9% | 22.7–26.4% | 22.4–26.7% | 21.7–27.4% |
 | [21–24 January 2022](2022-01-24-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24.9% | N/A | N/A | N/A | N/A |
 | [20–24 January 2022](2022-01-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24.5% | N/A | N/A | N/A | N/A |
+| [21–24 January 2022](2022-01-24-HarrisInteractive.html) | Harris Interactive <br> Challenges | 23.9% | N/A | N/A | N/A | N/A |
 | [18–22 January 2022](2022-01-22-Cluster17.html) | Cluster17 <br> Marianne | 22.0% | 21.0–23.1% | 20.7–23.4% | 20.4–23.7% | 20.0–24.2% |
 | [18–21 January 2022](2022-01-21-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24.9% | 23.6–26.4% | 23.2–26.7% | 22.9–27.1% | 22.2–27.8% |
 | [18–21 January 2022](2022-01-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 25.5% | 24.1–27.0% | 23.7–27.4% | 23.3–27.8% | 22.7–28.5% |
@@ -147,17 +153,16 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.5% | 100% |  |
-| 20.5–21.5% | 4% | 99.5% |  |
-| 21.5–22.5% | 10% | 95% |  |
-| 22.5–23.5% | 15% | 86% |  |
-| 23.5–24.5% | 25% | 71% | Median |
-| 24.5–25.5% | 31% | 46% |  |
-| 25.5–26.5% | 12% | 15% |  |
-| 26.5–27.5% | 3% | 4% |  |
-| 27.5–28.5% | 0.6% | 0.7% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.6% | 100% |  |
+| 20.5–21.5% | 4% | 99.4% |  |
+| 21.5–22.5% | 11% | 95% |  |
+| 22.5–23.5% | 16% | 84% |  |
+| 23.5–24.5% | 26% | 67% | Median |
+| 24.5–25.5% | 30% | 42% |  |
+| 25.5–26.5% | 10% | 12% |  |
+| 26.5–27.5% | 2% | 2% |  |
+| 27.5–28.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,14 +173,20 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
+| N/A | [Poll Average](average.html) | 22 | 21–24 | 21–25 | 20–25 | 19–26 |
+| [25–28 January 2022](2022-01-28-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22 | 21–23 | 21–23 | 20–24 | 20–25 |
+| [25–28 January 2022](2022-01-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [24–27 January 2022](2022-01-27-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22 | 21–23 | 21–23 | 21–23 | 21–24 |
+| [24–27 January 2022](2022-01-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
+| [23–26 January 2022](2022-01-26-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [21–26 January 2022](2022-01-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24 | 21–24 | 21–24 | 20–24 | 20–27 |
 | [24–26 January 2022](2022-01-26-Elabe.html) | Elabe <br> BFMTV, L'Express and SFR | 23 | 21–25 | 21–25 | 21–25 | 21–25 |
+| [24–26 January 2022](2022-01-26-BVA.html) | BVA <br> RTL and Orange | 21 | 20–24 | 20–25 | 19–25 | 18–26 |
 | [22–25 January 2022](2022-01-25-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 23 | 22–25 | 21–25 | 21–25 | 20–27 |
 | [21–25 January 2022](2022-01-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 23 | 22–24 | 22–25 | 21–25 | 20–26 |
 | [21–24 January 2022](2022-01-24-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [20–24 January 2022](2022-01-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
+| [21–24 January 2022](2022-01-24-HarrisInteractive.html) | Harris Interactive <br> Challenges |  |  |  |  |  |
 | [18–22 January 2022](2022-01-22-Cluster17.html) | Cluster17 <br> Marianne | 21 | 20–21 | 20–21 | 19–21 | 19–22 |
 | [18–21 January 2022](2022-01-21-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24 | 23–24 | 22–24 | 22–24 | 21–24 |
 | [18–21 January 2022](2022-01-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 22 | 22–23 | 21–24 | 21–25 | 21–25 |
@@ -308,15 +319,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.1% | 100% |  |
-| 19 | 0.7% | 99.9% |  |
-| 20 | 3% | 99.3% |  |
-| 21 | 32% | 97% |  |
-| 22 | 14% | 64% |  |
-| 23 | 20% | 50% | Median |
-| 24 | 21% | 30% |  |
-| 25 | 8% | 10% |  |
-| 26 | 1.3% | 2% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 0.9% | 99.8% |  |
+| 20 | 4% | 98.9% |  |
+| 21 | 34% | 95% |  |
+| 22 | 19% | 61% | Median |
+| 23 | 20% | 42% |  |
+| 24 | 13% | 23% |  |
+| 25 | 9% | 9% |  |
+| 26 | 0.4% | 0.6% |  |
 | 27 | 0.2% | 0.2% |  |
 | 28 | 0% | 0% |  |
 
