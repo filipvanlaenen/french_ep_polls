@@ -173,8 +173,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–24 | 21–25 | 20–25 | 19–25 |
-| [25–28 January 2022](2022-01-28-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22 | 21–23 | 21–23 | 20–24 | 20–25 |
+| N/A | [Poll Average](average.html) | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
+| [25–28 January 2022](2022-01-28-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22 | 21–23 | 21–24 | 20–25 | 20–27 |
 | [25–28 January 2022](2022-01-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 23 | 21–24 | 21–24 | 20–25 | 19–25 |
 | [24–27 January 2022](2022-01-27-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22 | 21–23 | 21–23 | 21–23 | 21–24 |
 | [24–27 January 2022](2022-01-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
@@ -322,13 +322,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.2% | 100% |  |
 | 19 | 1.1% | 99.8% |  |
 | 20 | 4% | 98.8% |  |
-| 21 | 29% | 95% |  |
-| 22 | 16% | 66% | Median |
-| 23 | 18% | 49% |  |
-| 24 | 22% | 31% |  |
-| 25 | 9% | 9% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0.1% | 0.1% |  |
+| 21 | 31% | 95% |  |
+| 22 | 12% | 65% |  |
+| 23 | 20% | 52% | Median |
+| 24 | 22% | 32% |  |
+| 25 | 9% | 10% |  |
+| 26 | 0.4% | 0.7% |  |
+| 27 | 0.3% | 0.3% |  |
 | 28 | 0% | 0% |  |
 
 

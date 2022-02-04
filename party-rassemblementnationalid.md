@@ -168,7 +168,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–18 | 13–20 | 13–20 | 13–20 |
-| [25–28 January 2022](2022-01-28-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 15 | 15–17 | 14–17 | 13–17 | 13–18 |
+| [25–28 January 2022](2022-01-28-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 15 | 14–17 | 14–18 | 14–19 | 13–19 |
 | [25–28 January 2022](2022-01-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 16 | 15–17 | 14–18 | 14–19 | 14–20 |
 | [24–27 January 2022](2022-01-27-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 15 | 14–16 | 14–18 | 14–18 | 14–18 |
 | [24–27 January 2022](2022-01-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
@@ -304,12 +304,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.4% | 100% |  |
 | 13 | 15% | 99.6% |  |
-| 14 | 10% | 85% |  |
-| 15 | 19% | 74% |  |
-| 16 | 18% | 55% | Median |
-| 17 | 23% | 37% |  |
-| 18 | 7% | 14% |  |
-| 19 | 0.6% | 6% |  |
+| 14 | 12% | 85% |  |
+| 15 | 18% | 72% |  |
+| 16 | 18% | 54% | Median |
+| 17 | 22% | 36% |  |
+| 18 | 8% | 14% |  |
+| 19 | 0.9% | 7% |  |
 | 20 | 6% | 6% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
