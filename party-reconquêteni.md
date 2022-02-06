@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.4% | 12.0–14.9% | 11.5–15.2% | 11.1–15.6% | 10.4–16.2% |
+| N/A | [Poll Average](average.html) | 13.7% | 12.0–15.1% | 11.5–15.5% | 11.1–15.8% | 10.4–16.6% |
 | [1–4 February 2022](2022-02-04-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 13.8% | 12.8–15.0% | 12.5–15.3% | 12.2–15.6% | 11.8–16.2% |
 | [1–4 February 2022](2022-02-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 13.5% | 12.4–14.7% | 12.1–15.0% | 11.8–15.3% | 11.3–15.9% |
 | [31 January–3 February 2022](2022-02-03-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.4–15.8% | 11.9–16.3% |
+| [1–3 February 2022](2022-02-03-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 14.0% | 12.6–15.8% | 12.1–16.2% | 11.8–16.7% | 11.1–17.5% |
 | [31 January–3 February 2022](2022-02-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 14.0% | N/A | N/A | N/A | N/A |
 | [30 January–2 February 2022](2022-02-02-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 13.9% | N/A | N/A | N/A | N/A |
 | [29 January–2 February 2022](2022-02-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.6% |
@@ -167,14 +168,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 4% | 99.3% |  |
-| 11.5–12.5% | 14% | 95% |  |
-| 12.5–13.5% | 36% | 81% | Median |
-| 13.5–14.5% | 29% | 45% |  |
-| 14.5–15.5% | 14% | 16% |  |
-| 15.5–16.5% | 2% | 3% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 10.5–11.5% | 5% | 99.2% |  |
+| 11.5–12.5% | 13% | 95% |  |
+| 12.5–13.5% | 27% | 81% |  |
+| 13.5–14.5% | 33% | 54% | Median |
+| 14.5–15.5% | 17% | 21% |  |
+| 15.5–16.5% | 4% | 4% |  |
+| 16.5–17.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -189,6 +191,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 February 2022](2022-02-04-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 12 | 12 | 12 | 12–13 | 12–14 |
 | [1–4 February 2022](2022-02-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 12 | 10–13 | 10–14 | 10–14 | 10–15 |
 | [31 January–3 February 2022](2022-02-03-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
+| [1–3 February 2022](2022-02-03-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 12 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [31 January–3 February 2022](2022-02-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [30 January–2 February 2022](2022-02-02-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [29 January–2 February 2022](2022-02-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
@@ -345,9 +348,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.5% | 100% |  |
 | 10 | 4% | 99.5% |  |
 | 11 | 14% | 95% |  |
-| 12 | 46% | 81% | Median |
+| 12 | 46% | 82% | Median |
 | 13 | 32% | 35% |  |
-| 14 | 3% | 3% |  |
+| 14 | 3% | 4% |  |
 | 15 | 0.5% | 0.6% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
