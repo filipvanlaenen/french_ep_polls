@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% | 0.2–1.9% |
+| [18–21 February 2022](2022-02-21-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 February 2022](2022-02-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 February 2022](2022-02-18-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 February 2022](2022-02-18-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [14–17 February 2022](2022-02-17-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
@@ -204,6 +206,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–21 February 2022](2022-02-21-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
+| [17–21 February 2022](2022-02-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [15–18 February 2022](2022-02-18-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [15–18 February 2022](2022-02-18-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [14–17 February 2022](2022-02-17-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
