@@ -10,7 +10,9 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.4% | 14.8–18.1% | 14.4–18.6% | 14.1–19.0% | 13.1–19.9% |
+| N/A | [Poll Average](average.html) | 16.4% | 14.8–18.1% | 14.4–18.5% | 14.0–19.0% | 13.1–19.9% |
+| [19–22 February 2022](2022-02-22-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 17.0% | 15.9–18.3% | 15.5–18.6% | 15.3–18.9% | 14.7–19.5% |
+| [18–22 February 2022](2022-02-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 16.0% | 14.8–17.2% | 14.5–17.6% | 14.2–17.9% | 13.6–18.5% |
 | [18–21 February 2022](2022-02-21-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 17.0% | 15.8–18.2% | 15.5–18.6% | 15.2–18.9% | 14.7–19.5% |
 | [17–21 February 2022](2022-02-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 16.5% | 15.3–17.8% | 15.0–18.1% | 14.7–18.4% | 14.1–19.1% |
 | [15–18 February 2022](2022-02-18-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 15.0% | 13.9–16.2% | 13.6–16.5% | 13.3–16.8% | 12.8–17.4% |
@@ -194,11 +196,11 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 1.0% | 99.9% |  |
-| 13.5–14.5% | 5% | 98.9% |  |
-| 14.5–15.5% | 21% | 94% |  |
-| 15.5–16.5% | 26% | 73% | Median |
-| 16.5–17.5% | 27% | 47% |  |
-| 17.5–18.5% | 15% | 20% |  |
+| 13.5–14.5% | 6% | 98.9% |  |
+| 14.5–15.5% | 22% | 93% |  |
+| 15.5–16.5% | 27% | 71% | Median |
+| 16.5–17.5% | 26% | 44% |  |
+| 17.5–18.5% | 14% | 19% |  |
 | 18.5–19.5% | 4% | 5% |  |
 | 19.5–20.5% | 0.8% | 0.9% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
@@ -217,6 +219,8 @@ Last result: **24** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
+| [19–22 February 2022](2022-02-22-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16 | 15–18 | 14–18 | 13–18 | 13–19 |
+| [18–22 February 2022](2022-02-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
 | [18–21 February 2022](2022-02-21-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–21 February 2022](2022-02-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 15 | 14–15 | 14–16 | 13–16 | 12–17 |
 | [15–18 February 2022](2022-02-18-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
@@ -400,14 +404,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.3% | 100% |  |
-| 12 | 0.5% | 99.7% |  |
-| 13 | 6% | 99.3% |  |
-| 14 | 30% | 93% |  |
-| 15 | 27% | 63% | Median |
-| 16 | 24% | 36% |  |
-| 17 | 7% | 12% |  |
-| 18 | 5% | 6% |  |
-| 19 | 0.4% | 0.5% |  |
+| 12 | 0.9% | 99.7% |  |
+| 13 | 9% | 98.8% |  |
+| 14 | 31% | 90% |  |
+| 15 | 23% | 60% | Median |
+| 16 | 25% | 37% |  |
+| 17 | 5% | 11% |  |
+| 18 | 6% | 6% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0.1% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
