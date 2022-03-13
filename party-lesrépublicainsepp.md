@@ -46,7 +46,7 @@ Last result: **20.8%** (General Election of 26 May 2019)
 | [21–24 February 2022](2022-02-24-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.4–15.8% | 11.9–16.3% |
 | [21–24 February 2022](2022-02-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 14.0% | 12.9–15.2% | 12.6–15.5% | 12.3–15.8% | 11.8–16.4% |
 | [20–23 February 2022](2022-02-23-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 14.0% | 12.9–15.1% | 12.6–15.5% | 12.4–15.7% | 11.9–16.3% |
-| [21–23 February 2022](2022-02-23-KantarandEpoka.html) | Kantar and Epoka | 12.0% | N/A | N/A | N/A | N/A |
+| [21–23 February 2022](2022-02-23-KantarandEpoka.html) | Kantar and Epoka | 12.0% | 11.0–13.1% | 10.7–13.4% | 10.4–13.7% | 10.0–14.3% |
 | [19–23 February 2022](2022-02-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 14.5% | 13.4–15.7% | 13.1–16.1% | 12.8–16.4% | 12.3–17.0% |
 | [20–23 February 2022](2022-02-23-Cluster17.html) | Cluster17 | 13.0% | 12.2–13.9% | 11.9–14.1% | 11.8–14.4% | 11.4–14.8% |
 | [19–22 February 2022](2022-02-22-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 14.0% | 13.0–15.2% | 12.7–15.5% | 12.4–15.8% | 11.9–16.4% |
@@ -293,7 +293,7 @@ Last result: **20** seats (General Election of 26 May 2019)
 | [21–24 February 2022](2022-02-24-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 13 | 11–15 | 11–15 | 11–15 | 11–15 |
 | [21–24 February 2022](2022-02-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 13 | 11–15 | 11–15 | 11–15 | 11–15 |
 | [20–23 February 2022](2022-02-23-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 12 | 12–14 | 12–14 | 12–16 | 12–16 |
-| [21–23 February 2022](2022-02-23-KantarandEpoka.html) | Kantar and Epoka |  |  |  |  |  |
+| [21–23 February 2022](2022-02-23-KantarandEpoka.html) | Kantar and Epoka | 12 | 11–12 | 10–12 | 10–13 | 10–14 |
 | [19–23 February 2022](2022-02-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 15 | 12–15 | 11–15 | 11–15 | 11–15 |
 | [20–23 February 2022](2022-02-23-Cluster17.html) | Cluster17 | 13 | 13 | 13 | 11–13 | 10–14 |
 | [19–22 February 2022](2022-02-22-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
