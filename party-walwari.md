@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% | 2.0–4.5% |
+| [9–12 March 2022](2022-03-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2022](2022-03-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 March 2022](2022-03-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [7–10 March 2022](2022-03-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
@@ -251,6 +252,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–12 March 2022](2022-03-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde |  |  |  |  |  |
 | [8–11 March 2022](2022-03-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [8–11 March 2022](2022-03-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [7–10 March 2022](2022-03-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |

@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.9% | 24.8–32.6% | 24.0–33.6% | 23.4–34.3% | 22.3–35.4% |
+| N/A | [Poll Average](average.html) | 29.9% | 24.8–32.7% | 24.0–33.6% | 23.4–34.3% | 22.3–35.4% |
+| [9–12 March 2022](2022-03-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 30.5% | 29.1–32.0% | 28.7–32.4% | 28.3–32.8% | 27.6–33.5% |
 | [8–11 March 2022](2022-03-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 29.4% | 28.0–30.8% | 27.6–31.2% | 27.2–31.6% | 26.6–32.3% |
 | [8–11 March 2022](2022-03-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 31.0% | 29.5–32.6% | 29.1–33.0% | 28.7–33.4% | 28.0–34.2% |
 | [7–10 March 2022](2022-03-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 30.0% | N/A | N/A | N/A | N/A |
@@ -251,14 +252,14 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 6% | 91% |  |
 | 25.5–26.5% | 4% | 85% |  |
 | 26.5–27.5% | 4% | 81% |  |
-| 27.5–28.5% | 7% | 76% |  |
+| 27.5–28.5% | 8% | 76% |  |
 | 28.5–29.5% | 13% | 69% |  |
-| 29.5–30.5% | 19% | 56% | Median |
-| 30.5–31.5% | 18% | 37% |  |
-| 31.5–32.5% | 9% | 20% |  |
-| 32.5–33.5% | 5% | 10% |  |
+| 29.5–30.5% | 18% | 55% | Median |
+| 30.5–31.5% | 17% | 37% |  |
+| 31.5–32.5% | 10% | 21% |  |
+| 32.5–33.5% | 5% | 11% |  |
 | 33.5–34.5% | 3% | 5% |  |
-| 34.5–35.5% | 1.4% | 2% |  |
+| 34.5–35.5% | 1.5% | 2% |  |
 | 35.5–36.5% | 0.4% | 0.4% |  |
 | 36.5–37.5% | 0% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
@@ -273,6 +274,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 22–31 | 22–32 | 22–33 | 21–36 |
+| [9–12 March 2022](2022-03-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 27 | 25–29 | 25–29 | 25–29 | 25–31 |
 | [8–11 March 2022](2022-03-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 26 | 24–27 | 23–28 | 23–28 | 23–29 |
 | [8–11 March 2022](2022-03-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 28 | 26–28 | 26–29 | 25–29 | 24–30 |
 | [7–10 March 2022](2022-03-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
@@ -515,12 +517,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 9% | 98.8% |  |
 | 23 | 4% | 89% |  |
 | 24 | 5% | 85% |  |
-| 25 | 7% | 80% |  |
-| 26 | 14% | 73% |  |
-| 27 | 18% | 59% | Median |
-| 28 | 21% | 41% |  |
-| 29 | 6% | 20% |  |
-| 30 | 3% | 14% |  |
+| 25 | 9% | 80% |  |
+| 26 | 16% | 71% |  |
+| 27 | 17% | 55% | Median |
+| 28 | 16% | 39% |  |
+| 29 | 8% | 23% |  |
+| 30 | 3% | 15% |  |
 | 31 | 4% | 12% |  |
 | 32 | 5% | 8% |  |
 | 33 | 2% | 3% |  |

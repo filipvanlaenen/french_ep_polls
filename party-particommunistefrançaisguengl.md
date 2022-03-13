@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.6% | 2.6–5.0% | 2.4–5.3% | 2.2–5.8% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.6% | 2.5–5.0% | 2.4–5.3% | 2.2–5.8% |
+| [9–12 March 2022](2022-03-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.3% |
 | [8–11 March 2022](2022-03-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 2.9% | 2.5–3.5% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [8–11 March 2022](2022-03-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
 | [7–10 March 2022](2022-03-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 4.0% | N/A | N/A | N/A | N/A |
@@ -234,10 +235,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 44% | 96% |  |
-| 3.5–4.5% | 40% | 52% | Median |
-| 4.5–5.5% | 10% | 11% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 51% | 95% | Median |
+| 3.5–4.5% | 33% | 44% |  |
+| 4.5–5.5% | 9% | 11% |  |
 | 5.5–6.5% | 1.2% | 1.2% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
 | 7.5–8.5% | 0% | 0% |  |
@@ -252,6 +253,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–5 | 0–5 |
+| [9–12 March 2022](2022-03-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF, FJJ and Le Monde | 0 | 0 | 0 | 0 | 0 |
 | [8–11 March 2022](2022-03-11-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
 | [8–11 March 2022](2022-03-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [7–10 March 2022](2022-03-10-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
