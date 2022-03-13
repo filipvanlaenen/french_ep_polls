@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Mar 2022 19:12:13 +0100</pubDate>
+    <pubDate>Sun, 13 Mar 2022 10:33:12 +0100</pubDate>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 8–11 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-11-OpinionWayandKéaPartners.html#seats</link>
@@ -758,6 +758,36 @@
         type="image/png"/>
       <pubDate>Thu, 24 Feb 2022 17:03:45 +0100</pubDate>
       <dc:date>2022-02-24T17:03:45.175187+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Epoka, 21–23 February 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-02-23-KantarandEpoka.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22–26 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14–18 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 13–17 seats&lt;/li&gt;&lt;li&gt;Walwari (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-02-23-KantarandEpoka-seats.png"
+        length="317315"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 10:33:12 +0100</pubDate>
+      <dc:date>2022-03-13T10:33:12.893084+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Epoka, 21–23 February 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-02-23-KantarandEpoka.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-02-23-KantarandEpoka-coalitions-seats.png"
+        length="205943"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 10:33:12 +0100</pubDate>
+      <dc:date>2022-03-13T10:33:12.893084+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Epoka, 21–23 February 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-02-23-KantarandEpoka.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 3.1–5.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10.4–13.7%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 3.1–5.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22.8–27.2%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10.4–13.7%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14.7–18.5%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 14.7–18.5%&lt;/li&gt;&lt;li&gt;Walwari (*): 1.8–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-02-23-KantarandEpoka.png"
+        length="425322"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 10:33:12 +0100</pubDate>
+      <dc:date>2022-03-13T10:33:12.893084+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for Paris Match, LCI and Sud Radio, 19–23 February 2022 – Seat Projections for the Parties</title>
@@ -3819,6 +3849,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-03-12T19:12:13.179462+01:00</dc:date>
+    <dc:date>2022-03-13T10:33:12.893084+01:00</dc:date>
   </channel>
 </rss>
