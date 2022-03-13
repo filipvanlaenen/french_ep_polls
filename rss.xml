@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 13 Mar 2022 10:33:12 +0100</pubDate>
+    <pubDate>Sun, 13 Mar 2022 18:30:36 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 9–12 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-12-IpsosandSopraSteria.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–7 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 25–29 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 13–16 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 10–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-12-IpsosandSopraSteria-seats.png"
+        length="289920"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 18:30:36 +0100</pubDate>
+      <dc:date>2022-03-13T18:30:36.406523+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 9–12 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-12-IpsosandSopraSteria.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-12-IpsosandSopraSteria-coalitions-seats.png"
+        length="195327"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 18:30:36 +0100</pubDate>
+      <dc:date>2022-03-13T18:30:36.406523+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF, FJJ and Le Monde, 9–12 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-12-IpsosandSopraSteria.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.3–4.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10.5–13.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5.4–7.8%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.8–3.4%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 28.3–32.8%&lt;/li&gt;&lt;li&gt;Résistons! (*): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 9.6–12.6%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14.3–17.8%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 11.9–15.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-12-IpsosandSopraSteria.png"
+        length="381425"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 18:30:36 +0100</pubDate>
+      <dc:date>2022-03-13T18:30:36.406523+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 8–11 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-11-OpinionWayandKéaPartners.html#seats</link>
@@ -3849,6 +3879,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-03-13T10:33:12.893084+01:00</dc:date>
+    <dc:date>2022-03-13T18:30:36.406523+01:00</dc:date>
   </channel>
 </rss>
