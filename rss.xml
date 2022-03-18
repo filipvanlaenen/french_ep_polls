@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 17 Mar 2022 21:20:16 +0100</pubDate>
+    <pubDate>Fri, 18 Mar 2022 06:50:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 13–16 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-OpinionWayandKéaPartners.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2022-03-17T21:13:07.146264+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 15–16 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-Elabe.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11–15 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 26–31 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–12 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 14–19 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 8–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-Elabe-seats.png"
+        length="296093"
+        type="image/png"/>
+      <pubDate>Fri, 18 Mar 2022 06:50:24 +0100</pubDate>
+      <dc:date>2022-03-18T06:50:24.505437+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 15–16 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-Elabe.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-Elabe-coalitions-seats.png"
+        length="204039"
+        type="image/png"/>
+      <pubDate>Fri, 18 Mar 2022 06:50:24 +0100</pubDate>
+      <dc:date>2022-03-18T06:50:24.505437+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 15–16 March 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-Elabe.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.7–4.5%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 12.3–15.9%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.0–2.3%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 28.7–33.4%&lt;/li&gt;&lt;li&gt;Résistons! (*): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 10.0–13.2%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 9.0–12.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-16-Elabe.png"
         length="376227"
         type="image/png"/>
-      <pubDate>Thu, 17 Mar 2022 21:20:16 +0100</pubDate>
-      <dc:date>2022-03-17T21:20:16.240132+01:00</dc:date>
+      <pubDate>Fri, 18 Mar 2022 06:50:24 +0100</pubDate>
+      <dc:date>2022-03-18T06:50:24.505437+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OpinionWay for CNews, 14–15 March 2022 – Seat Projections for the Parties</title>
@@ -4129,6 +4149,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-03-17T21:20:16.240132+01:00</dc:date>
+    <dc:date>2022-03-18T06:50:24.505437+01:00</dc:date>
   </channel>
 </rss>
