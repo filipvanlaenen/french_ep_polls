@@ -268,7 +268,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–16 March 2022](2022-03-16-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13–16 March 2022](2022-03-16-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–16 March 2022](2022-03-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [15–16 March 2022](2022-03-16-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 0 | 0 | 0 | 0–4 | 0–4 |
+| [15–16 March 2022](2022-03-16-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 0 | 0 | 0 | 0 | 0–4 |
 | [12–15 March 2022](2022-03-15-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [14–15 March 2022](2022-03-15-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [11–15 March 2022](2022-03-15-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 0 | 0 | 0–4 | 0–4 | 0–5 |

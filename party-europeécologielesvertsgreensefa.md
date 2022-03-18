@@ -270,7 +270,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [13–16 March 2022](2022-03-16-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
 | [13–16 March 2022](2022-03-16-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 6 | 4–7 | 4–7 | 0–7 | 0–8 |
 | [12–16 March 2022](2022-03-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 5 | 0–5 | 0–7 | 0–7 | 0–7 |
-| [15–16 March 2022](2022-03-16-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [15–16 March 2022](2022-03-16-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–15 March 2022](2022-03-15-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [14–15 March 2022](2022-03-15-OpinionWay.html) | OpinionWay <br> CNews | 6 | 5–6 | 4–6 | 4–6 | 0–7 |
 | [11–15 March 2022](2022-03-15-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 5 | 5–6 | 5–7 | 5–7 | 0–7 |
@@ -505,11 +505,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 0% | 67% |  |
-| 2 | 0% | 67% |  |
-| 3 | 0% | 67% |  |
-| 4 | 18% | 67% | Median |
+| 0 | 35% | 100% |  |
+| 1 | 0% | 65% |  |
+| 2 | 0% | 65% |  |
+| 3 | 0% | 65% |  |
+| 4 | 16% | 65% | Median |
 | 5 | 34% | 49% |  |
 | 6 | 12% | 14% | Last Result |
 | 7 | 2% | 2% |  |
