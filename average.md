@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [13–16 March 2022](2022-03-16-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 15–19% <br> 14–18 | 10–13% <br> 8–12 | 2–4% <br> 0 | 27–31% <br> 24–30 | 5–7% <br> 0–7 | 3–5% <br> 0–4 | 10–14% <br> 9–12 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 0% <br> 0 | N/A <br> N/A | 10–14% <br> 9–13 | N/A <br> N/A | N/A <br> N/A |
 | [13–16 March 2022](2022-03-16-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 14–18% <br> 13–17 | 9–13% <br> 7–11 | 2–4% <br> 0 | 28–34% <br> 26–32 | 5–8% <br> 0–7 | 3–5% <br> 0–4 | 9–13% <br> 7–12 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 10–14% <br> 9–13 | N/A <br> N/A | N/A <br> N/A |
 | [12–16 March 2022](2022-03-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 16–20% <br> 13–20 | 9–13% <br> 8–11 | 1–3% <br> 0 | 27–33% <br> 24–30 | 4–7% <br> 0–7 | 3–6% <br> 0–4 | 10–14% <br> 8–12 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 11–15% <br> 10–14 | N/A <br> N/A | N/A <br> N/A |
-| [15–16 March 2022](2022-03-16-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 16–20% <br> 14–18 | 10–13% <br> 8–12 | 1–2% <br> 0 | 29–33% <br> 26–31 | 4–6% <br> 0–5 | 3–5% <br> 0–4 | 12–16% <br> 11–15 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 9–12% <br> 7–11 | N/A <br> N/A | N/A <br> N/A |
+| [15–16 March 2022](2022-03-16-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 16–20% <br> 14–19 | 10–13% <br> 8–12 | 1–2% <br> 0 | 29–33% <br> 26–31 | 4–6% <br> 0–5 | 3–5% <br> 0 | 12–16% <br> 11–15 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 9–12% <br> 8–11 | N/A <br> N/A | N/A <br> N/A |
 | [14–15 March 2022](2022-03-15-OpinionWay.html) | OpinionWay <br> CNews | 17–21% <br> 16–19 | 8–12% <br> 7–11 | 1–3% <br> 0 | 27–33% <br> 25–29 | 5–8% <br> 4–6 | 3–5% <br> 0–5 | 10–14% <br> 9–11 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 9–13% <br> 8–11 | N/A <br> N/A | N/A <br> N/A |
 | [11–14 March 2022](2022-03-14-HarrisInteractive.html) | Harris Interactive <br> Challenges | 18–21% <br> 16–20 | 9–12% <br> 7–11 | 2–3% <br> 0 | 28–32% <br> 25–31 | 4–6% <br> 0–5 | 2–4% <br> 0 | 12–15% <br> 10–14 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 10–12% <br> 8–11 | N/A <br> N/A | N/A <br> N/A |
 | [9–11 March 2022](2022-03-11-Odoxa.html) | Odoxa <br> L’Obs and Mascaret | 18–21% <br> 18–20 | 10–12% <br> 9–12 | 1–2% <br> 0 | 27–32% <br> 26–30 | 4–6% <br> 0–4 | 3–4% <br> 0 | 10–13% <br> 9–12 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 10–12% <br> 10–12 | N/A <br> N/A | N/A <br> N/A |
@@ -343,9 +343,9 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 2% | 99.9% |  |
 | 13 | 8% | 98% |  |
 | 14 | 12% | 90% |  |
-| 15 | 20% | 77% |  |
-| 16 | 18% | 57% | Median |
-| 17 | 19% | 39% |  |
+| 15 | 19% | 77% |  |
+| 16 | 17% | 59% | Median |
+| 17 | 21% | 42% |  |
 | 18 | 6% | 20% |  |
 | 19 | 10% | 14% |  |
 | 20 | 3% | 4% |  |
@@ -365,9 +365,9 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 2% | 100% |  |
 | 8 | 15% | 98% |  |
 | 9 | 20% | 82% |  |
-| 10 | 28% | 63% | Median |
+| 10 | 27% | 62% | Median |
 | 11 | 20% | 35% |  |
-| 12 | 12% | 14% |  |
+| 12 | 12% | 15% |  |
 | 13 | 2% | 3% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
@@ -426,15 +426,15 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 0% | 100% |  |
 | 23 | 1.3% | 100% |  |
 | 24 | 3% | 98.7% |  |
-| 25 | 8% | 96% |  |
-| 26 | 21% | 88% |  |
-| 27 | 18% | 67% | Median |
+| 25 | 9% | 96% |  |
+| 26 | 20% | 88% |  |
+| 27 | 19% | 67% | Median |
 | 28 | 21% | 48% |  |
 | 29 | 14% | 27% |  |
-| 30 | 10% | 14% |  |
+| 30 | 8% | 13% |  |
 | 31 | 3% | 4% |  |
 | 32 | 1.1% | 2% |  |
-| 33 | 0.5% | 0.5% |  |
+| 33 | 0.4% | 0.4% |  |
 | 34 | 0% | 0% |  |
 
 ### Europe Écologie Les Verts (Greens/EFA)
@@ -445,11 +445,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 0% | 67% |  |
-| 2 | 0% | 67% |  |
-| 3 | 0% | 67% |  |
-| 4 | 18% | 67% | Median |
+| 0 | 35% | 100% |  |
+| 1 | 0% | 65% |  |
+| 2 | 0% | 65% |  |
+| 3 | 0% | 65% |  |
+| 4 | 16% | 65% | Median |
 | 5 | 34% | 49% |  |
 | 6 | 12% | 14% | Last Result |
 | 7 | 2% | 2% |  |
@@ -492,10 +492,11 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 26% | 87% |  |
 | 11 | 28% | 61% | Median |
 | 12 | 18% | 33% |  |
-| 13 | 12% | 15% |  |
-| 14 | 3% | 3% |  |
-| 15 | 0.4% | 0.4% |  |
-| 16 | 0% | 0% |  |
+| 13 | 11% | 15% |  |
+| 14 | 4% | 4% |  |
+| 15 | 0.3% | 0.5% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 
 ### Agir, la droite constructive–Union des démocrates et indépendants (RE)
 
@@ -582,10 +583,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 4% | 99.6% |  |
-| 9 | 9% | 95% |  |
-| 10 | 23% | 86% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 3% | 99.8% |  |
+| 9 | 9% | 97% |  |
+| 10 | 25% | 88% |  |
 | 11 | 26% | 63% | Median |
 | 12 | 22% | 37% |  |
 | 13 | 12% | 15% |  |
@@ -648,15 +649,15 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 0% | 100% |  |
 | 23 | 1.3% | 100% |  |
 | 24 | 3% | 98.7% |  |
-| 25 | 8% | 96% |  |
-| 26 | 21% | 88% |  |
-| 27 | 18% | 67% | Median |
+| 25 | 9% | 96% |  |
+| 26 | 20% | 88% |  |
+| 27 | 19% | 67% | Median |
 | 28 | 21% | 48% |  |
 | 29 | 14% | 27% |  |
-| 30 | 10% | 14% |  |
+| 30 | 8% | 13% |  |
 | 31 | 3% | 4% |  |
 | 32 | 1.1% | 2% |  |
-| 33 | 0.5% | 0.5% |  |
+| 33 | 0.4% | 0.4% |  |
 | 34 | 0% | 0% |  |
 
 ### Rassemblement national (ID)
@@ -669,9 +670,9 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 2% | 99.9% |  |
 | 13 | 8% | 98% |  |
 | 14 | 12% | 90% |  |
-| 15 | 20% | 77% |  |
-| 16 | 18% | 57% | Median |
-| 17 | 19% | 39% |  |
+| 15 | 19% | 77% |  |
+| 16 | 17% | 59% | Median |
+| 17 | 21% | 42% |  |
 | 18 | 6% | 20% |  |
 | 19 | 10% | 14% |  |
 | 20 | 3% | 4% |  |
@@ -696,11 +697,11 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 9% | 97% |  |
 | 10 | 23% | 88% |  |
 | 11 | 23% | 65% | Median |
-| 12 | 18% | 42% |  |
-| 13 | 13% | 23% |  |
-| 14 | 5% | 11% |  |
+| 12 | 18% | 41% |  |
+| 13 | 12% | 23% |  |
+| 14 | 6% | 11% |  |
 | 15 | 5% | 6% |  |
-| 16 | 0.6% | 0.6% |  |
+| 16 | 0.7% | 0.7% |  |
 | 17 | 0% | 0% |  |
 
 ### Les Patriotes (NI) – Reconquête (NI)
@@ -716,10 +717,10 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 4% | 99.6% |  |
-| 9 | 9% | 95% |  |
-| 10 | 23% | 86% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 3% | 99.8% |  |
+| 9 | 9% | 97% |  |
+| 10 | 25% | 88% |  |
 | 11 | 26% | 63% | Median |
 | 12 | 22% | 37% |  |
 | 13 | 12% | 15% |  |
@@ -736,9 +737,9 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 2% | 100% |  |
 | 8 | 15% | 98% |  |
 | 9 | 20% | 82% |  |
-| 10 | 28% | 63% | Median |
+| 10 | 27% | 62% | Median |
 | 11 | 20% | 35% |  |
-| 12 | 12% | 14% |  |
+| 12 | 12% | 15% |  |
 | 13 | 2% | 3% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
@@ -754,11 +755,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% |  |
-| 1 | 0% | 67% |  |
-| 2 | 0% | 67% |  |
-| 3 | 0% | 67% |  |
-| 4 | 18% | 67% | Median |
+| 0 | 35% | 100% |  |
+| 1 | 0% | 65% |  |
+| 2 | 0% | 65% |  |
+| 3 | 0% | 65% |  |
+| 4 | 16% | 65% | Median |
 | 5 | 34% | 49% |  |
 | 6 | 12% | 14% | Last Result |
 | 7 | 2% | 2% |  |
@@ -806,6 +807,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 9,961,472
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 3.26%
