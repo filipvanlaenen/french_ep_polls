@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/french_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-04-01T17:48:17.731551+02:00</updated>
+  <updated>2022-04-01T18:33:30.679077+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lutte Ouvrière (*): 0.6–1.6%, 0 seats</li><li>Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.6%, 0 seats</li><li>Parti communiste français (GUE/NGL): 2.2–3.9%, 0 seats</li><li>La France insoumise (GUE/NGL): 13.3–16.8%, 13–16 seats</li><li>Europe Écologie Les Verts (Greens/EFA): 4.0–6.2%, 0–5 seats</li><li>Parti socialiste (S&amp;D): 2.2–3.9%, 0 seats</li><li>La République en marche–Mouvement démocrate (RE): 25.8–30.3%, 24–29 seats</li><li>Résistons! (*): 2.2–3.9%, 0 seats</li><li>Les Républicains (EPP): 7.7–10.5%, 8–9 seats</li><li>Debout la France (ECR): 1.4–2.9%, 0 seats</li><li>Rassemblement national (ID): 18.1–22.0%, 17–20 seats</li><li>Reconquête (NI): 8.6–11.6%, 8–10 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/french_ep_polls/2022-04-01-OpinionWayandKéaPartners.html</id>
@@ -70,6 +70,14 @@
     <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 28–30 March 2022</title>
     <updated>2022-04-01T17:48:17.731551+02:00</updated>
     <dc:date>2022-04-01T17:48:17.731551+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lutte Ouvrière (*): 0.3–0.9%, 0 seats</li><li>Nouveau Parti anticapitaliste (GUE/NGL): 0.7–1.5%, 0 seats</li><li>Parti communiste français (GUE/NGL): 2.4–3.8%, 0 seats</li><li>La France insoumise (GUE/NGL): 13.6–16.5%, 13–14 seats</li><li>Europe Écologie Les Verts (Greens/EFA): 4.2–5.9%, 4 seats</li><li>Parti socialiste (S&amp;D): 2.0–3.2%, 0 seats</li><li>La République en marche–Mouvement démocrate (RE): 26.7–30.3%, 25 seats</li><li>Résistons! (*): 1.5–2.7%, 0 seats</li><li>Les Républicains (EPP): 8.4–10.7%, 8–9 seats</li><li>Debout la France (ECR): 1.5–2.7%, 0 seats</li><li>Rassemblement national (ID): 19.4–22.7%, 20 seats</li><li>Reconquête (NI): 8.8–11.2%, 8–9 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/french_ep_polls/2022-03-28-HarrisInteractive.html</id>
+    <link href="https://filipvanlaenen.github.io/french_ep_polls/2022-03-28-HarrisInteractive.html"/>
+    <title>Opinion Poll by Harris Interactive for Challenges, 25–28 March 2022</title>
+    <updated>2022-04-01T18:33:30.679077+02:00</updated>
+    <dc:date>2022-04-01T18:33:30.679077+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lutte Ouvrière (*): 0.3–1.0%, 0 seats</li><li>Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.6%, 0 seats</li><li>Parti communiste français (GUE/NGL): 2.7–4.5%, 0 seats</li><li>La France insoumise (GUE/NGL): 12.9–16.2%, 11–16 seats</li><li>Europe Écologie Les Verts (Greens/EFA): 5.0–7.3%, 0–7 seats</li><li>Parti socialiste (S&amp;D): 1.8–3.4%, 0 seats</li><li>La République en marche–Mouvement démocrate (RE): 26.4–30.7%, 24–30 seats</li><li>Résistons! (*): 1.8–3.4%, 0 seats</li><li>Les Républicains (EPP): 8.7–11.5%, 8–11 seats</li><li>Debout la France (ECR): 1.8–3.4%, 0 seats</li><li>Rassemblement national (ID): 15.8–19.4%, 14–18 seats</li><li>Reconquête (NI): 9.6–12.6%, 8–11 seats</li></ul></div></content>
@@ -1303,5 +1311,5 @@
     <updated>2019-12-30T17:44:22+01:00</updated>
     <dc:date>2019-12-30T17:44:22+01:00</dc:date>
   </entry>
-  <dc:date>2022-04-01T17:48:17.731551+02:00</dc:date>
+  <dc:date>2022-04-01T18:33:30.679077+02:00</dc:date>
 </feed>
