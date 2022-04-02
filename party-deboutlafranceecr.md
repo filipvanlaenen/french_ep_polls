@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.1% | 1.3–3.4% | 1.3–3.6% | 1.1–4.0% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.6–3.1% | 1.5–3.3% | 1.3–3.5% | 1.1–4.0% |
+| [30 March–2 April 2022](2022-04-02-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% |
 | [29 March–1 April 2022](2022-04-01-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% |
+| [29 March–1 April 2022](2022-04-01-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 1.5% | N/A | N/A | N/A | N/A |
+| [29 March–1 April 2022](2022-04-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [31 March–1 April 2022](2022-04-01-Ifop.html) | Ifop <br> JDD | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
+| [31 March–1 April 2022](2022-04-01-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.8% |
 | [28–31 March 2022](2022-03-31-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
 | [30–31 March 2022](2022-03-31-OpinionWay.html) | OpinionWay <br> CNews | 2.9% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [28–31 March 2022](2022-03-31-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
@@ -300,11 +305,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 53% | 88% | Median |
-| 2.5–3.5% | 32% | 35% |  |
-| 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 60% | 93% | Median |
+| 2.5–3.5% | 31% | 33% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -317,7 +322,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 March–2 April 2022](2022-04-02-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 0 | 0 | 0 | 0 | 0 |
 | [29 March–1 April 2022](2022-04-01-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
+| [29 March–1 April 2022](2022-04-01-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien |  |  |  |  |  |
+| [29 March–1 April 2022](2022-04-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [31 March–1 April 2022](2022-04-01-Ifop.html) | Ifop <br> JDD | 0 | 0 | 0 | 0 | 0 |
+| [31 March–1 April 2022](2022-04-01-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 0 | 0 | 0 | 0 | 0 |
 | [28–31 March 2022](2022-03-31-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
 | [30–31 March 2022](2022-03-31-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0 | 0 | 0 |
 | [28–31 March 2022](2022-03-31-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 0 | 0 | 0 | 0 | 0 |
