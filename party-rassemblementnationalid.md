@@ -10,7 +10,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 18.5–22.5% | 17.9–23.0% | 17.5–23.4% | 16.8–24.3% |
+| N/A | [Poll Average](average.html) | 21.0% | 18.5–22.6% | 17.8–23.1% | 17.4–23.5% | 16.7–24.4% |
 | [30 March–2 April 2022](2022-04-02-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 21.0% | 19.8–22.2% | 19.5–22.6% | 19.2–22.8% | 18.7–23.4% |
 | [29 March–1 April 2022](2022-04-01-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
 | [29 March–1 April 2022](2022-04-01-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 20.0% | N/A | N/A | N/A | N/A |
@@ -299,16 +299,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
 | 16.5–17.5% | 3% | 99.7% |  |
-| 17.5–18.5% | 8% | 97% |  |
-| 18.5–19.5% | 13% | 89% |  |
-| 19.5–20.5% | 21% | 77% |  |
-| 20.5–21.5% | 27% | 55% | Median |
-| 21.5–22.5% | 19% | 28% |  |
-| 22.5–23.5% | 7% | 9% |  |
+| 17.5–18.5% | 7% | 97% |  |
+| 18.5–19.5% | 8% | 90% |  |
+| 19.5–20.5% | 18% | 81% |  |
+| 20.5–21.5% | 30% | 64% | Median |
+| 21.5–22.5% | 23% | 34% |  |
+| 22.5–23.5% | 9% | 11% |  |
 | 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.2% | 0.3% | Last Result |
+| 24.5–25.5% | 0.3% | 0.3% | Last Result |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -320,7 +320,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–21 | 16–22 | 15–23 |
+| N/A | [Poll Average](average.html) | 20 | 17–20 | 16–22 | 16–23 | 15–23 |
 | [30 March–2 April 2022](2022-04-02-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 19 | 18–19 | 18–19 | 18–19 | 17–21 |
 | [29 March–1 April 2022](2022-04-01-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20 | 19–20 | 18–20 | 17–20 | 16–20 |
 | [29 March–1 April 2022](2022-04-01-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien |  |  |  |  |  |
@@ -610,17 +610,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.3% | 100% |  |
-| 15 | 0.3% | 99.7% |  |
-| 16 | 5% | 99.4% |  |
-| 17 | 6% | 95% |  |
-| 18 | 6% | 89% |  |
-| 19 | 35% | 83% | Median |
-| 20 | 40% | 48% |  |
-| 21 | 3% | 8% |  |
-| 22 | 2% | 5% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.1% | Last Result |
+| 14 | 0.4% | 100% |  |
+| 15 | 0.3% | 99.6% |  |
+| 16 | 6% | 99.3% |  |
+| 17 | 6% | 94% |  |
+| 18 | 5% | 88% |  |
+| 19 | 26% | 82% |  |
+| 20 | 47% | 57% | Median |
+| 21 | 4% | 9% |  |
+| 22 | 3% | 6% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.2% | 0.2% | Last Result |
 | 25 | 0% | 0% |  |
 
 
