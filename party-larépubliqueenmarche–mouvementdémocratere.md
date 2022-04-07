@@ -40,7 +40,7 @@ Last result: **9.9%** (General Election of 26 May 2019)
 | [28–31 March 2022](2022-03-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 28.0% | 27.0–29.1% | 26.7–29.4% | 26.4–29.6% | 25.9–30.2% |
 | [29–31 March 2022](2022-03-31-Cluster17.html) | Cluster17 | 27.0% | 25.9–28.2% | 25.6–28.5% | 25.3–28.8% | 24.8–29.3% |
 | [30–31 March 2022](2022-03-31-BVA.html) | BVA <br> RTL and Orange | 27.0% | 25.6–28.5% | 25.1–28.9% | 24.8–29.3% | 24.1–30.0% |
-| [27–30 March 2022](2022-03-30-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 28.0% | 26.6–29.4% | 26.2–29.9% | 25.8–30.2% | 25.2–31.0% |
+| [27–30 March 2022](2022-03-30-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 28.0% | 26.6–29.4% | 26.2–29.9% | 25.8–30.2% | 25.2–30.9% |
 | [27–30 March 2022](2022-03-30-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 27.0% | N/A | N/A | N/A | N/A |
 | [26–30 March 2022](2022-03-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 28.0% | N/A | N/A | N/A | N/A |
 | [28–30 March 2022](2022-03-30-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 28.0% | 26.6–29.5% | 26.2–30.0% | 25.8–30.3% | 25.1–31.1% |
@@ -51,7 +51,7 @@ Last result: **9.9%** (General Election of 26 May 2019)
 | [24–28 March 2022](2022-03-28-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 27.5% | N/A | N/A | N/A | N/A |
 | [25–28 March 2022](2022-03-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 27.9% | N/A | N/A | N/A | N/A |
 | [25–28 March 2022](2022-03-28-HarrisInteractive.html) | Harris Interactive <br> Challenges | 28.5% | 27.3–29.7% | 27.0–30.0% | 26.7–30.3% | 26.1–30.9% |
-| [26–27 March 2022](2022-03-27-OpinionWay.html) | OpinionWay <br> CNews | 27.0% | N/A | N/A | N/A | N/A |
+| [26–27 March 2022](2022-03-27-OpinionWay.html) | OpinionWay <br> CNews | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.4–29.7% | 23.6–30.6% |
 | [25–27 March 2022](2022-03-27-Cluster17.html) | Cluster17 | 27.0% | N/A | N/A | N/A | N/A |
 | [23–26 March 2022](2022-03-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 28.5% | 27.1–29.9% | 26.7–30.3% | 26.4–30.7% | 25.8–31.4% |
 | [22–25 March 2022](2022-03-25-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 27.0% | 25.6–28.4% | 25.2–28.9% | 24.9–29.2% | 24.2–29.9% |
@@ -384,7 +384,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [28–31 March 2022](2022-03-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 25 | 25–26 | 24–27 | 24–27 | 24–28 |
 | [29–31 March 2022](2022-03-31-Cluster17.html) | Cluster17 | 28 | 24–28 | 24–28 | 24–28 | 22–28 |
 | [30–31 March 2022](2022-03-31-BVA.html) | BVA <br> RTL and Orange | 25 | 25–27 | 25–27 | 24–27 | 23–28 |
-| [27–30 March 2022](2022-03-30-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
+| [27–30 March 2022](2022-03-30-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
 | [27–30 March 2022](2022-03-30-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien |  |  |  |  |  |
 | [26–30 March 2022](2022-03-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [28–30 March 2022](2022-03-30-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 28 | 27–28 | 25–28 | 25–28 | 24–29 |
@@ -395,7 +395,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [24–28 March 2022](2022-03-28-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien |  |  |  |  |  |
 | [25–28 March 2022](2022-03-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [25–28 March 2022](2022-03-28-HarrisInteractive.html) | Harris Interactive <br> Challenges | 25 | 25 | 25 | 25 | 24–28 |
-| [26–27 March 2022](2022-03-27-OpinionWay.html) | OpinionWay <br> CNews |  |  |  |  |  |
+| [26–27 March 2022](2022-03-27-OpinionWay.html) | OpinionWay <br> CNews | 25 | 24–26 | 22–27 | 21–27 | 21–29 |
 | [25–27 March 2022](2022-03-27-Cluster17.html) | Cluster17 |  |  |  |  |  |
 | [23–26 March 2022](2022-03-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 27 | 24–30 | 24–30 | 24–30 | 23–31 |
 | [22–25 March 2022](2022-03-25-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24 | 23–25 | 23–26 | 23–27 | 23–28 |
