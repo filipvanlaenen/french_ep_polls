@@ -10,7 +10,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.3% | 20.1–24.2% | 19.6–24.6% | 19.3–25.0% | 18.6–25.6% |
+| N/A | [Poll Average](average.html) | 22.6% | 20.2–24.7% | 19.7–25.2% | 19.3–25.8% | 18.7–26.9% |
 | [4–7 April 2022](2022-04-07-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22.0% | 20.8–23.2% | 20.5–23.5% | 20.2–23.8% | 19.7–24.4% |
 | [5–7 April 2022](2022-04-07-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 23.0% | 21.7–24.4% | 21.4–24.7% | 21.1–25.1% | 20.5–25.7% |
 | [3–7 April 2022](2022-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24.0% | 23.0–25.0% | 22.7–25.3% | 22.5–25.6% | 22.0–26.0% |
@@ -23,27 +23,24 @@ Last result: **24.9%** (General Election of 26 May 2019)
 | [4–5 April 2022](2022-04-05-KantarandEpoka.html) | Kantar and Epoka | 23.0% | 21.6–24.5% | 21.2–24.9% | 20.9–25.3% | 20.2–26.0% |
 | [2–5 April 2022](2022-04-05-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 20.5% | 19.3–21.8% | 18.9–22.2% | 18.6–22.5% | 18.1–23.2% |
 | [1–5 April 2022](2022-04-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 23.0% | 22.0–24.0% | 21.8–24.3% | 21.5–24.6% | 21.1–25.0% |
-| [4–5 April 2022](2022-04-05-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 23.0% | N/A | N/A | N/A | N/A |
+| [4–5 April 2022](2022-04-05-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 23.0% | 21.7–24.4% | 21.3–24.8% | 21.0–25.2% | 20.3–25.9% |
 | [1–4 April 2022](2022-04-04-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22.0% | N/A | N/A | N/A | N/A |
 | [1–4 April 2022](2022-04-04-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 21.0% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2022](2022-04-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 22.0% | N/A | N/A | N/A | N/A |
 | [1–4 April 2022](2022-04-04-HarrisInteractive.html) | Harris Interactive <br> Challenges | 23.0% | 21.9–24.1% | 21.6–24.4% | 21.4–24.7% | 20.9–25.2% |
 | [2–4 April 2022](2022-04-04-Cluster17.html) | Cluster17 | 20.0% | 19.1–21.0% | 18.8–21.3% | 18.6–21.5% | 18.1–22.0% |
-| [2–3 April 2022](2022-04-03-OpinionWay.html) | OpinionWay <br> CNews | 22.0% | 20.4–23.6% | 20.0–24.1% | 19.6–24.5% | 18.9–25.3% |
 | [30 March–2 April 2022](2022-04-02-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 21.0% | 19.8–22.2% | 19.5–22.6% | 19.2–22.8% | 18.7–23.4% |
 | [29 March–1 April 2022](2022-04-01-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
 | [29 March–1 April 2022](2022-04-01-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 20.0% | N/A | N/A | N/A | N/A |
 | [29 March–1 April 2022](2022-04-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 21.5% | 20.5–22.5% | 20.3–22.8% | 20.1–23.0% | 19.6–23.5% |
 | [31 March–1 April 2022](2022-04-01-Ifop.html) | Ifop <br> JDD | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.9–24.2% | 19.3–25.0% |
 | [31 March–1 April 2022](2022-04-01-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 22.0% | 20.6–23.5% | 20.2–23.9% | 19.9–24.3% | 19.2–25.0% |
-| [28–31 March 2022](2022-03-31-YouGov.html) | YouGov | 25.0% | N/A | N/A | N/A | N/A |
-| [28–31 March 2022](2022-03-31-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
-| [30–31 March 2022](2022-03-31-OpinionWay.html) | OpinionWay <br> CNews | 20.8% | 19.3–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.2% |
+| [28–31 March 2022](2022-03-31-YouGov.html) | YouGov | 25.0% | 23.6–26.6% | 23.2–27.0% | 22.8–27.3% | 22.2–28.1% |
 | [28–31 March 2022](2022-03-31-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 20.0% | 18.8–21.3% | 18.5–21.6% | 18.2–21.9% | 17.6–22.6% |
 | [28–31 March 2022](2022-03-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 21.0% | 20.1–22.0% | 19.8–22.3% | 19.6–22.5% | 19.1–23.0% |
 | [29–31 March 2022](2022-03-31-Cluster17.html) | Cluster17 | 18.0% | 17.1–19.0% | 16.8–19.3% | 16.6–19.6% | 16.1–20.1% |
 | [30–31 March 2022](2022-03-31-BVA.html) | BVA <br> RTL and Orange | 20.9% | 19.6–22.3% | 19.3–22.7% | 19.0–23.1% | 18.4–23.8% |
-| [27–30 March 2022](2022-03-30-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20.0% | N/A | N/A | N/A | N/A |
+| [27–30 March 2022](2022-03-30-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20.0% | 18.8–21.4% | 18.4–21.7% | 18.2–22.0% | 17.6–22.7% |
 | [27–30 March 2022](2022-03-30-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 20.5% | N/A | N/A | N/A | N/A |
 | [26–30 March 2022](2022-03-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 21.5% | N/A | N/A | N/A | N/A |
 | [28–30 March 2022](2022-03-30-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 21.0% | 19.7–22.4% | 19.4–22.8% | 19.1–23.2% | 18.5–23.8% |
@@ -325,16 +322,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.4% | 100% |  |
-| 18.5–19.5% | 4% | 99.6% |  |
-| 19.5–20.5% | 12% | 96% |  |
-| 20.5–21.5% | 18% | 84% |  |
-| 21.5–22.5% | 22% | 66% | Median |
-| 22.5–23.5% | 23% | 44% |  |
-| 23.5–24.5% | 16% | 21% |  |
-| 24.5–25.5% | 5% | 6% | Last Result |
-| 25.5–26.5% | 0.6% | 0.7% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 4% | 99.7% |  |
+| 19.5–20.5% | 10% | 96% |  |
+| 20.5–21.5% | 15% | 86% |  |
+| 21.5–22.5% | 20% | 71% |  |
+| 22.5–23.5% | 23% | 52% | Median |
+| 23.5–24.5% | 18% | 29% |  |
+| 24.5–25.5% | 8% | 11% | Last Result |
+| 25.5–26.5% | 3% | 3% |  |
+| 26.5–27.5% | 0.7% | 0.9% |  |
+| 27.5–28.5% | 0.1% | 0.1% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -345,7 +344,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–23 | 17–25 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 19–23 | 18–25 |
 | [4–7 April 2022](2022-04-07-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [5–7 April 2022](2022-04-07-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 21 | 19–22 | 19–22 | 19–22 | 17–23 |
 | [3–7 April 2022](2022-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 22 | 21–23 | 21–23 | 21–23 | 20–24 |
@@ -353,27 +352,24 @@ Last result: **24** seats (General Election of 26 May 2019)
 | [5–6 April 2022](2022-04-06-Odoxa.html) | Odoxa <br> L’Obs and Mascaret | 22 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [4–6 April 2022](2022-04-06-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 20 | 19–21 | 19–21 | 19–22 | 18–23 |
 | [2–6 April 2022](2022-04-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 22 | 22–23 | 22–23 | 22–23 | 20–23 |
-| [4–6 April 2022](2022-04-06-AtlasIntel.html) | AtlasIntel | 20 | 19–21 | 18–22 | 17–22 | 16–23 |
+| [4–6 April 2022](2022-04-06-AtlasIntel.html) | AtlasIntel | 20 | 19–21 | 18–21 | 18–22 | 17–23 |
 | [2–5 April 2022](2022-04-05-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20 | 20–23 | 19–23 | 19–23 | 18–23 |
-| [4–5 April 2022](2022-04-05-KantarandEpoka.html) | Kantar and Epoka | 21 | 19–22 | 19–24 | 19–24 | 18–24 |
+| [4–5 April 2022](2022-04-05-KantarandEpoka.html) | Kantar and Epoka | 23 | 20–23 | 19–23 | 19–24 | 18–24 |
 | [2–5 April 2022](2022-04-05-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [1–5 April 2022](2022-04-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 21 | 20–23 | 20–23 | 20–23 | 19–23 |
-| [4–5 April 2022](2022-04-05-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR |  |  |  |  |  |
+| [4–5 April 2022](2022-04-05-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 21 | 21–23 | 21–23 | 20–23 | 19–23 |
 | [1–4 April 2022](2022-04-04-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique |  |  |  |  |  |
 | [1–4 April 2022](2022-04-04-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien |  |  |  |  |  |
 | [31 March–4 April 2022](2022-04-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio |  |  |  |  |  |
 | [1–4 April 2022](2022-04-04-HarrisInteractive.html) | Harris Interactive <br> Challenges | 21 | 21 | 20–22 | 20–22 | 19–22 |
 | [2–4 April 2022](2022-04-04-Cluster17.html) | Cluster17 | 19 | 19 | 19 | 19 | 18–20 |
-| [2–3 April 2022](2022-04-03-OpinionWay.html) | OpinionWay <br> CNews | 21 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [30 March–2 April 2022](2022-04-02-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 19 | 18–19 | 18–19 | 18–19 | 17–21 |
 | [29 March–1 April 2022](2022-04-01-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 20 | 19–20 | 18–20 | 17–20 | 16–20 |
 | [29 March–1 April 2022](2022-04-01-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien |  |  |  |  |  |
 | [29 March–1 April 2022](2022-04-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 19 | 19–20 | 19–20 | 19–21 | 18–22 |
 | [31 March–1 April 2022](2022-04-01-Ifop.html) | Ifop <br> JDD | 20 | 18–22 | 18–22 | 18–23 | 18–24 |
 | [31 March–1 April 2022](2022-04-01-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 20 | 20–23 | 19–23 | 19–23 | 18–24 |
-| [28–31 March 2022](2022-03-31-YouGov.html) | YouGov |  |  |  |  |  |
-| [28–31 March 2022](2022-03-31-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 18 | 17–21 | 17–21 | 17–21 | 16–21 |
-| [30–31 March 2022](2022-03-31-OpinionWay.html) | OpinionWay <br> CNews | 20 | 19–20 | 19–21 | 18–21 | 17–23 |
+| [28–31 March 2022](2022-03-31-YouGov.html) | YouGov | 22 | 21–23 | 21–24 | 21–25 | 20–25 |
 | [28–31 March 2022](2022-03-31-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 16 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [28–31 March 2022](2022-03-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [29–31 March 2022](2022-03-31-Cluster17.html) | Cluster17 | 16 | 16–17 | 15–17 | 14–18 | 14–18 |
@@ -661,16 +657,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.2% | 100% |  |
-| 17 | 0.4% | 99.8% |  |
-| 18 | 4% | 99.5% |  |
-| 19 | 19% | 96% |  |
-| 20 | 20% | 77% |  |
-| 21 | 34% | 57% | Median |
-| 22 | 14% | 24% |  |
-| 23 | 7% | 9% |  |
-| 24 | 1.2% | 2% | Last Result |
-| 25 | 0.8% | 0.9% |  |
+| 17 | 0.2% | 100% |  |
+| 18 | 2% | 99.8% |  |
+| 19 | 17% | 98% |  |
+| 20 | 17% | 81% |  |
+| 21 | 30% | 64% | Median |
+| 22 | 18% | 34% |  |
+| 23 | 14% | 16% |  |
+| 24 | 1.3% | 2% | Last Result |
+| 25 | 0.9% | 1.0% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
