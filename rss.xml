@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Apr 2022 21:47:51 +0200</pubDate>
+    <pubDate>Thu, 07 Apr 2022 22:19:36 +0200</pubDate>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 4–7 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-07-OpinionWayandKéaPartners.html#seats</link>
@@ -220,14 +220,34 @@
       <dc:date>2022-04-07T20:39:16.734413+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AtlasIntel, 4–6 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-06-AtlasIntel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 15–20 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23–28 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 0–5 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 18–22 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 10–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-06-AtlasIntel-seats.png"
+        length="298348"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 21:53:05 +0200</pubDate>
+      <dc:date>2022-04-07T21:53:05.617673+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AtlasIntel, 4–6 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-06-AtlasIntel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-06-AtlasIntel-coalitions-seats.png"
+        length="213063"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 21:53:05 +0200</pubDate>
+      <dc:date>2022-04-07T21:53:05.617673+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AtlasIntel, 4–6 April 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-06-AtlasIntel.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.4–1.1%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.2–0.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.6–3.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 16.4–19.9%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 3.9–5.8%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.7–3.1%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 25.0–29.0%&lt;/li&gt;&lt;li&gt;Résistons! (*): 0.9–1.9%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 4.2–6.2%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.2–3.7%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 19.0–22.6%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 10.3–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-06-AtlasIntel.png"
         length="370565"
         type="image/png"/>
-      <pubDate>Thu, 07 Apr 2022 21:47:51 +0200</pubDate>
-      <dc:date>2022-04-07T21:47:51.068607+02:00</dc:date>
+      <pubDate>Thu, 07 Apr 2022 21:53:05 +0200</pubDate>
+      <dc:date>2022-04-07T21:53:05.617673+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 2–5 April 2022 – Seat Projections for the Parties</title>
@@ -260,14 +280,34 @@
       <dc:date>2022-04-05T20:08:20.745141+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar and Epoka, 4–5 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-KantarandEpoka.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 14–17 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 21–26 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 19–24 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 9–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-KantarandEpoka-seats.png"
+        length="295959"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 21:57:33 +0200</pubDate>
+      <dc:date>2022-04-07T21:57:33.549463+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar and Epoka, 4–5 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-KantarandEpoka.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-KantarandEpoka-coalitions-seats.png"
+        length="210065"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 21:57:33 +0200</pubDate>
+      <dc:date>2022-04-07T21:57:33.549463+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar and Epoka, 4–5 April 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-KantarandEpoka.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.2–4.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 14.1–18.0%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.0–6.3%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.8–3.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22.8–27.3%&lt;/li&gt;&lt;li&gt;Résistons! (*): 2.2–4.1%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.7–9.6%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20.9–25.3%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 9.4–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-KantarandEpoka.png"
         length="385180"
         type="image/png"/>
-      <pubDate>Thu, 07 Apr 2022 20:45:53 +0200</pubDate>
-      <dc:date>2022-04-07T20:45:53.97558+02:00</dc:date>
+      <pubDate>Thu, 07 Apr 2022 21:57:33 +0200</pubDate>
+      <dc:date>2022-04-07T21:57:33.549463+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos and Sopra Steria for France Info and Le Parisien, 2–5 April 2022 – Seat Projections for the Parties</title>
@@ -330,6 +370,36 @@
       <dc:date>2022-04-05T20:33:32.439036+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 4–5 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-Elabe.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 14–15 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 25–27 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20–23 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 7–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-Elabe-seats.png"
+        length="283990"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 22:09:19 +0200</pubDate>
+      <dc:date>2022-04-07T22:09:19.181394+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 4–5 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-Elabe.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-Elabe-coalitions-seats.png"
+        length="182748"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 22:09:19 +0200</pubDate>
+      <dc:date>2022-04-07T22:09:19.181394+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Elabe for BFMTV, L’Express and SFR, 4–5 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-Elabe.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.3–1.0%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.8–3.4%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13.7–17.4%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 25.8–30.3%&lt;/li&gt;&lt;li&gt;Résistons! (*): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 21.0–25.2%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 7.6–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-05-Elabe.png"
+        length="379445"
+        type="image/png"/>
+      <pubDate>Thu, 07 Apr 2022 22:09:19 +0200</pubDate>
+      <dc:date>2022-04-07T22:09:19.181394+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Harris Interactive for Challenges, 1–4 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-04-HarrisInteractive.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 15–17 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22–26 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20–22 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 8–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -388,36 +458,6 @@
         type="image/png"/>
       <pubDate>Tue, 05 Apr 2022 20:59:34 +0200</pubDate>
       <dc:date>2022-04-05T20:59:34.704488+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OpinionWay for CNews, 2–3 April 2022 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-03-OpinionWay.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0–5 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 10–15 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–6 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23–28 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 18–22 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 7–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-03-OpinionWay-seats.png"
-        length="312058"
-        type="image/png"/>
-      <pubDate>Tue, 05 Apr 2022 21:10:49 +0200</pubDate>
-      <dc:date>2022-04-05T21:10:49.126237+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OpinionWay for CNews, 2–3 April 2022 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-03-OpinionWay.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-03-OpinionWay-coalitions-seats.png"
-        length="229842"
-        type="image/png"/>
-      <pubDate>Tue, 05 Apr 2022 21:10:49 +0200</pubDate>
-      <dc:date>2022-04-05T21:10:49.126237+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OpinionWay for CNews, 2–3 April 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-03-OpinionWay.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.0–0.5%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 3.0–5.4%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 12.1–16.2%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.7–7.5%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.3–3.0%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Résistons! (*): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 19.6–24.5%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 7.4–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-03-OpinionWay.png"
-        length="390827"
-        type="image/png"/>
-      <pubDate>Tue, 05 Apr 2022 21:10:49 +0200</pubDate>
-      <dc:date>2022-04-05T21:10:49.126237+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos and Sopra Steria for France Info and Le Parisien, 30 March–2 April 2022 – Seat Projections for the Parties</title>
@@ -570,64 +610,34 @@
       <dc:date>2022-04-02T19:40:15.927988+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 28–31 March 2022 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWayandKéaPartners.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11–15 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 23–29 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 17–21 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 8–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWayandKéaPartners-seats.png"
-        length="308620"
+      <title>Opinion Poll by YouGov, 28–31 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11–15 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4–6 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22–26 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 21–25 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-YouGov-seats.png"
+        length="293584"
         type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 18:52:07 +0200</pubDate>
-      <dc:date>2022-04-04T18:52:07.206964+02:00</dc:date>
+      <pubDate>Thu, 07 Apr 2022 22:19:36 +0200</pubDate>
+      <dc:date>2022-04-07T22:19:36.274964+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 28–31 March 2022 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWayandKéaPartners.html#coalitions</link>
+      <title>Opinion Poll by YouGov, 28–31 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-YouGov.html#coalitions</link>
       <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWayandKéaPartners-coalitions-seats.png"
-        length="219087"
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-YouGov-coalitions-seats.png"
+        length="201939"
         type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 18:52:07 +0200</pubDate>
-      <dc:date>2022-04-04T18:52:07.206964+02:00</dc:date>
+      <pubDate>Thu, 07 Apr 2022 22:19:36 +0200</pubDate>
+      <dc:date>2022-04-07T22:19:36.274964+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 28–31 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWayandKéaPartners.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.3–4.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13.3–16.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.4–2.8%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 25.8–30.3%&lt;/li&gt;&lt;li&gt;Résistons! (*): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8.6–11.6%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 18.1–22.0%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 8.6–11.6%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWayandKéaPartners.png"
-        length="388377"
+      <title>Opinion Poll by YouGov, 28–31 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-YouGov.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.0–0.5%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13.2–16.9%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.9–7.4%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0.6–1.6%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 24.8–29.4%&lt;/li&gt;&lt;li&gt;Résistons! (*): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 22.8–27.3%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 7.6–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-YouGov.png"
+        length="373618"
         type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 18:52:07 +0200</pubDate>
-      <dc:date>2022-04-04T18:52:07.206964+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OpinionWay for CNews, 30–31 March 2022 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWay.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13–16 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 24–26 seats&lt;/li&gt;&lt;li&gt;Résistons! (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 18–21 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 8–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWay-seats.png"
-        length="290593"
-        type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 19:02:32 +0200</pubDate>
-      <dc:date>2022-04-04T19:02:32.228742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OpinionWay for CNews, 30–31 March 2022 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWay.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWay-coalitions-seats.png"
-        length="192753"
-        type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 19:02:32 +0200</pubDate>
-      <dc:date>2022-04-04T19:02:32.228742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OpinionWay for CNews, 30–31 March 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWay.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 3.0–5.3%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 12.9–17.2%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 3.8–6.4%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 1.3–3.0%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 24.2–29.5%&lt;/li&gt;&lt;li&gt;Résistons! (*): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8.2–11.8%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 18.4–23.4%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 8.2–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-03-31-OpinionWay.png"
-        length="394555"
-        type="image/png"/>
-      <pubDate>Mon, 04 Apr 2022 19:02:32 +0200</pubDate>
-      <dc:date>2022-04-04T19:02:32.228742+02:00</dc:date>
+      <pubDate>Thu, 07 Apr 2022 22:19:36 +0200</pubDate>
+      <dc:date>2022-04-07T22:19:36.274964+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos and Sopra Steria for France Info and Le Parisien, 28–31 March 2022 – Seat Projections for the Parties</title>
@@ -5429,6 +5439,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-04-07T21:47:51.068607+02:00</dc:date>
+    <dc:date>2022-04-07T22:19:36.274964+02:00</dc:date>
   </channel>
 </rss>
