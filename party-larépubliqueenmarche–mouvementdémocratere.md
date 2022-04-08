@@ -10,13 +10,13 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.3% | 24.7–27.9% | 24.3–28.4% | 23.8–28.8% | 23.0–29.5% |
+| N/A | [Poll Average](average.html) | 26.3% | 24.8–27.9% | 24.3–28.3% | 23.9–28.7% | 23.0–29.5% |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–27.9% | 23.5–28.6% |
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 26.5% | 25.2–27.9% | 24.8–28.3% | 24.5–28.7% | 23.8–29.3% |
 | [5–8 April 2022](2022-04-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 26.0% | 25.0–27.0% | 24.7–27.3% | 24.4–27.6% | 24.0–28.1% |
 | [7–8 April 2022](2022-04-08-HarrisInteractive.html) | Harris Interactive <br> Challenges | 27.0% | 25.7–28.3% | 25.3–28.7% | 25.0–29.1% | 24.4–29.7% |
 | [7–8 April 2022](2022-04-08-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 26.0% | 24.7–27.4% | 24.3–27.8% | 24.0–28.2% | 23.4–28.9% |
-| [6–8 April 2022](2022-04-08-Cluster17.html) | Cluster17 | 26.0% | N/A | N/A | N/A | N/A |
+| [6–8 April 2022](2022-04-08-Cluster17.html) | Cluster17 | 26.0% | 25.0–27.0% | 24.7–27.3% | 24.5–27.6% | 24.0–28.1% |
 | [4–7 April 2022](2022-04-07-YouGov.html) | YouGov | 26.0% | 24.7–27.4% | 24.4–27.8% | 24.0–28.1% | 23.4–28.8% |
 | [4–7 April 2022](2022-04-07-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–27.9% | 23.5–28.6% |
 | [5–7 April 2022](2022-04-07-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 26.5% | 25.2–27.9% | 24.8–28.3% | 24.5–28.7% | 23.8–29.3% |
@@ -344,13 +344,13 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.3% | 99.8% |  |
-| 23.5–24.5% | 6% | 98% |  |
-| 24.5–25.5% | 18% | 92% |  |
-| 25.5–26.5% | 31% | 74% | Median |
-| 26.5–27.5% | 27% | 43% |  |
-| 27.5–28.5% | 12% | 16% |  |
-| 28.5–29.5% | 3% | 4% |  |
+| 22.5–23.5% | 1.2% | 99.8% |  |
+| 23.5–24.5% | 6% | 98.6% |  |
+| 24.5–25.5% | 19% | 93% |  |
+| 25.5–26.5% | 33% | 74% | Median |
+| 26.5–27.5% | 26% | 41% |  |
+| 27.5–28.5% | 12% | 15% |  |
+| 28.5–29.5% | 3% | 3% |  |
 | 29.5–30.5% | 0.4% | 0.4% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
@@ -368,8 +368,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [5–8 April 2022](2022-04-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24 | 23–24 | 23–24 | 22–24 | 22–25 |
 | [7–8 April 2022](2022-04-08-HarrisInteractive.html) | Harris Interactive <br> Challenges | 25 | 23–26 | 23–27 | 23–27 | 23–28 |
-| [7–8 April 2022](2022-04-08-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 24 | 24 | 23–25 | 22–26 | 21–26 |
-| [6–8 April 2022](2022-04-08-Cluster17.html) | Cluster17 |  |  |  |  |  |
+| [7–8 April 2022](2022-04-08-Elabe.html) | Elabe <br> BFMTV, L’Express and SFR | 24 | 23–26 | 23–27 | 23–27 | 22–27 |
+| [6–8 April 2022](2022-04-08-Cluster17.html) | Cluster17 | 25 | 24–26 | 24–26 | 23–26 | 23–26 |
 | [4–7 April 2022](2022-04-07-YouGov.html) | YouGov | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [4–7 April 2022](2022-04-07-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 25 | 23–26 | 22–26 | 22–27 | 21–27 |
 | [5–7 April 2022](2022-04-07-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 24 | 23–25 | 22–25 | 21–26 | 21–27 |
@@ -700,16 +700,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 6% | 99.9% |  |
+| 21 | 5% | 99.9% |  |
 | 22 | 3% | 94% |  |
-| 23 | 16% | 91% |  |
-| 24 | 22% | 74% |  |
-| 25 | 25% | 52% | Median |
+| 23 | 18% | 91% |  |
+| 24 | 23% | 73% |  |
+| 25 | 23% | 50% | Median |
 | 26 | 19% | 27% |  |
-| 27 | 3% | 8% |  |
-| 28 | 1.2% | 5% |  |
-| 29 | 4% | 4% |  |
-| 30 | 0% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 27 | 4% | 8% |  |
+| 28 | 1.0% | 4% |  |
+| 29 | 3% | 3% |  |
+| 30 | 0% | 0% |  |
 
 
