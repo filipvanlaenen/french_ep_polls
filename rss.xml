@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Apr 2022 12:26:18 +0200</pubDate>
+    <pubDate>Wed, 27 Apr 2022 18:53:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, 24–25 April 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 15–18 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–8 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 19–23 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 18–22 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive-seats.png"
+        length="281863"
+        type="image/png"/>
+      <pubDate>Wed, 27 Apr 2022 18:53:08 +0200</pubDate>
+      <dc:date>2022-04-27T18:53:08.159164+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, 24–25 April 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive-coalitions-seats.png"
+        length="228270"
+        type="image/png"/>
+      <pubDate>Wed, 27 Apr 2022 18:53:08 +0200</pubDate>
+      <dc:date>2022-04-27T18:53:08.159164+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, 24–25 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.3–3.8%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 17.3–20.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 4.1–6.0%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 22.2–25.9%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 21.2–24.9%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 5.9–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive.png"
+        length="337289"
+        type="image/png"/>
+      <pubDate>Wed, 27 Apr 2022 18:53:08 +0200</pubDate>
+      <dc:date>2022-04-27T18:53:08.159164+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OpinionWay and Kéa Partners for Les Échos and Radio Classique, 5–8 April 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-04-08-OpinionWayandKéaPartners.html#seats</link>
@@ -5829,6 +5859,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-04-09T12:26:18.783466+02:00</dc:date>
+    <dc:date>2022-04-27T18:53:08.159164+02:00</dc:date>
   </channel>
 </rss>
