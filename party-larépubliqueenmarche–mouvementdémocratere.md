@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.3% | 24.8–28.0% | 24.3–28.4% | 23.9–28.8% | 23.1–29.7% |
+| N/A | [Poll Average](average.html) | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
+| [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–27.9% | 23.5–28.6% |
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 26.5% | 25.2–27.9% | 24.8–28.3% | 24.5–28.7% | 23.8–29.3% |
 | [5–8 April 2022](2022-04-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 26.0% | 25.0–27.0% | 24.7–27.3% | 24.4–27.6% | 24.0–28.1% |
@@ -343,18 +344,14 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.1% | 99.8% |  |
-| 23.5–24.5% | 6% | 98.7% |  |
-| 24.5–25.5% | 18% | 93% |  |
-| 25.5–26.5% | 32% | 75% | Median |
-| 26.5–27.5% | 26% | 43% |  |
-| 27.5–28.5% | 12% | 17% |  |
-| 28.5–29.5% | 4% | 4% |  |
-| 29.5–30.5% | 0.6% | 0.6% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.3% | 100% |  |
+| 21.5–22.5% | 5% | 99.7% |  |
+| 22.5–23.5% | 24% | 94% |  |
+| 23.5–24.5% | 41% | 70% | Median |
+| 24.5–25.5% | 24% | 29% |  |
+| 25.5–26.5% | 5% | 6% |  |
+| 26.5–27.5% | 0.4% | 0.5% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -365,7 +362,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 21–27 | 21–29 | 21–29 |
+| N/A | [Poll Average](average.html) | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
+| [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [5–8 April 2022](2022-04-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> Paris Match, LCI and Sud Radio | 24 | 23–24 | 23–24 | 22–24 | 22–25 |
@@ -700,18 +698,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0.1% | 100% |  |
-| 21 | 5% | 99.9% |  |
-| 22 | 3% | 95% |  |
-| 23 | 19% | 92% |  |
-| 24 | 24% | 73% | Median |
-| 25 | 22% | 48% |  |
-| 26 | 18% | 26% |  |
-| 27 | 4% | 8% |  |
-| 28 | 1.1% | 4% |  |
-| 29 | 3% | 3% |  |
-| 30 | 0% | 0% |  |
+| 18 | 1.0% | 100% |  |
+| 19 | 4% | 99.0% |  |
+| 20 | 36% | 95% |  |
+| 21 | 40% | 59% | Median |
+| 22 | 15% | 19% |  |
+| 23 | 3% | 4% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0% | 0% |  |
 
 
