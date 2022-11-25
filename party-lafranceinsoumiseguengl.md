@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.0% | 17.9–20.1% | 17.6–20.5% | 17.4–20.8% | 16.8–21.3% |
+| N/A | [Poll Average](average.html) | 24.8% | 23.4–26.2% | 23.1–26.6% | 22.8–27.0% | 22.2–27.8% |
+| [4–6 November 2022](2022-11-06-Cluster17.html) | Cluster17 | 24.5% | 23.3–25.8% | 23.0–26.1% | 22.7–26.4% | 22.2–27.0% |
+| [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 25.0% | 23.5–26.5% | 23.1–27.0% | 22.8–27.3% | 22.1–28.1% |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 19.0% | 17.9–20.1% | 17.6–20.5% | 17.3–20.8% | 16.8–21.3% |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 17.0% | 16.0–18.1% | 15.7–18.4% | 15.4–18.7% | 14.9–19.2% |
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 16.5% | 15.4–17.7% | 15.1–18.0% | 14.8–18.4% | 14.3–18.9% |
@@ -342,14 +344,21 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 4% | 99.8% |  |
-| 17.5–18.5% | 25% | 96% |  |
-| 18.5–19.5% | 44% | 71% | Median |
-| 19.5–20.5% | 23% | 27% |  |
-| 20.5–21.5% | 4% | 4% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 1.4% | 99.9% |  |
+| 22.5–23.5% | 11% | 98% |  |
+| 23.5–24.5% | 30% | 88% |  |
+| 24.5–25.5% | 34% | 58% | Median |
+| 25.5–26.5% | 18% | 24% |  |
+| 26.5–27.5% | 5% | 6% |  |
+| 27.5–28.5% | 0.8% | 0.9% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -360,7 +369,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| N/A | [Poll Average](average.html) | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| [4–6 November 2022](2022-11-06-Cluster17.html) | Cluster17 | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 15 | 14–17 | 13–17 | 13–17 | 13–17 |
@@ -698,13 +709,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.8% | 100% |  |
-| 15 | 10% | 99.2% |  |
-| 16 | 42% | 89% | Median |
-| 17 | 40% | 47% |  |
-| 18 | 6% | 8% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0.2% | 100% |  |
+| 18 | 4% | 99.8% |  |
+| 19 | 21% | 96% |  |
+| 20 | 37% | 75% | Median |
+| 21 | 27% | 38% |  |
+| 22 | 9% | 11% |  |
+| 23 | 1.3% | 1.4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
