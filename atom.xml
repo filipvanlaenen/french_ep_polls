@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/french_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-04-27T18:53:08.159164+02:00</updated>
+  <updated>2022-11-25T18:12:17.651263+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lutte Ouvrière (*): 1.0–2.1%, 0 seats</li><li>La France insoumise (GUE/NGL): 22.7–26.4%, 18–22 seats</li><li>La République en marche–Mouvement démocrate (RE): 23.2–26.9%, 19–23 seats</li><li>Les Républicains (EPP): 9.3–11.9%, 7–10 seats</li><li>Rassemblement national (ID): 18.3–21.8%, 15–18 seats</li><li>Reconquête (NI): 4.1–6.0%, 0–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/french_ep_polls/2022-11-06-Cluster17.html</id>
+    <link href="https://filipvanlaenen.github.io/french_ep_polls/2022-11-06-Cluster17.html"/>
+    <title>Opinion Poll by Cluster17, 4–6 November 2022</title>
+    <updated>2022-11-25T18:05:10.181156+01:00</updated>
+    <dc:date>2022-11-25T18:05:10.181156+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>La France insoumise (GUE/NGL): 22.8–27.3%, 18–22 seats</li><li>La République en marche–Mouvement démocrate (RE): 24.7–29.4%, 20–24 seats</li><li>Les Républicains (EPP): 9.5–12.8%, 7–10 seats</li><li>Rassemblement national (ID): 18.9–23.2%, 15–19 seats</li><li>Reconquête (NI): 4.4–6.8%, 0–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/french_ep_polls/2022-11-04-Ifop–Fiducial.html</id>
+    <link href="https://filipvanlaenen.github.io/french_ep_polls/2022-11-04-Ifop–Fiducial.html"/>
+    <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 2–4 November 2022</title>
+    <updated>2022-11-25T18:12:17.651263+01:00</updated>
+    <dc:date>2022-11-25T18:12:17.651263+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lutte Ouvrière (*): 0.6–1.5%, 0 seats</li><li>Parti communiste français (GUE/NGL): 2.3–3.8%, 0 seats</li><li>La France insoumise (GUE/NGL): 17.3–20.8%, 15–18 seats</li><li>Europe Écologie Les Verts (Greens/EFA): 6.9–9.3%, 6–8 seats</li><li>Parti socialiste (S&amp;D): 4.1–6.0%, 0–5 seats</li><li>La République en marche–Mouvement démocrate (RE): 22.2–25.9%, 19–23 seats</li><li>Les Républicains (EPP): 6.9–9.3%, 6–8 seats</li><li>Debout la France (ECR): 0.6–1.5%, 0 seats</li><li>Rassemblement national (ID): 21.2–24.9%, 18–22 seats</li><li>Reconquête (NI): 5.9–8.2%, 5–7 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/french_ep_polls/2022-04-25-HarrisInteractive.html</id>
@@ -1559,5 +1575,5 @@
     <updated>2019-12-30T17:44:22+01:00</updated>
     <dc:date>2019-12-30T17:44:22+01:00</dc:date>
   </entry>
-  <dc:date>2022-04-27T18:53:08.159164+02:00</dc:date>
+  <dc:date>2022-11-25T18:12:17.651263+01:00</dc:date>
 </feed>
