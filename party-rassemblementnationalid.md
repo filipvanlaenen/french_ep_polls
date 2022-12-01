@@ -10,8 +10,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.5% | 19.2–22.0% | 18.8–22.5% | 18.5–22.9% | 18.0–23.6% |
-| [4–6 November 2022](2022-11-06-Cluster17.html) | Cluster17 | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.3% |
+| N/A | [Poll Average](average.html) | 21.0% | 19.6–22.4% | 19.3–22.8% | 18.9–23.2% | 18.3–23.9% |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 21.0% | 19.6–22.4% | 19.3–22.8% | 18.9–23.2% | 18.3–23.9% |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 22.0% | 20.8–23.2% | 20.5–23.5% | 20.2–23.8% | 19.7–24.4% |
@@ -335,16 +334,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 3% | 99.9% |  |
-| 18.5–19.5% | 17% | 97% |  |
-| 19.5–20.5% | 34% | 81% | Median |
-| 20.5–21.5% | 29% | 47% |  |
-| 21.5–22.5% | 13% | 18% |  |
-| 22.5–23.5% | 4% | 4% |  |
-| 23.5–24.5% | 0.6% | 0.6% |  |
-| 24.5–25.5% | 0% | 0% | Last Result |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.9% | 100% |  |
+| 18.5–19.5% | 8% | 99.0% |  |
+| 19.5–20.5% | 25% | 91% |  |
+| 20.5–21.5% | 36% | 67% | Median |
+| 21.5–22.5% | 23% | 31% |  |
+| 22.5–23.5% | 7% | 8% |  |
+| 23.5–24.5% | 1.1% | 1.2% |  |
+| 24.5–25.5% | 0.1% | 0.1% | Last Result |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -356,9 +354,8 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [4–6 November 2022](2022-11-06-Cluster17.html) | Cluster17 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 21 | 19–21 | 19–22 | 19–22 | 17–23 |
 | [6–8 April 2022](2022-04-08-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> France Info and Le Parisien | 21 | 20–23 | 20–23 | 20–24 | 19–24 |
@@ -683,14 +680,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.6% | 100% |  |
-| 15 | 10% | 99.4% |  |
-| 16 | 35% | 89% |  |
-| 17 | 36% | 55% | Median |
-| 18 | 16% | 18% |  |
-| 19 | 3% | 3% |  |
-| 20 | 0.2% | 0.3% |  |
-| 21 | 0% | 0% |  |
+| 15 | 0.5% | 100% |  |
+| 16 | 15% | 99.5% |  |
+| 17 | 36% | 84% | Median |
+| 18 | 34% | 48% |  |
+| 19 | 12% | 14% |  |
+| 20 | 1.4% | 2% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% | Last Result |
