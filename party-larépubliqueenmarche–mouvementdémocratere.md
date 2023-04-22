@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 24.5–27.5% | 24.1–28.0% | 23.8–28.4% | 23.1–29.1% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.5–22.7% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
+| [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 21.0% | 19.5–22.7% | 19.1–23.1% | 18.7–23.5% | 18.0–24.4% |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 26.0% | 24.5–27.6% | 24.1–28.0% | 23.8–28.4% | 23.1–29.1% |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 26.0% | 24.8–27.3% | 24.4–27.6% | 24.1–27.9% | 23.5–28.6% |
@@ -341,21 +342,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 1.4% | 99.9% |  |
-| 23.5–24.5% | 9% | 98% |  |
-| 24.5–25.5% | 24% | 90% |  |
-| 25.5–26.5% | 33% | 66% | Median |
-| 26.5–27.5% | 23% | 33% |  |
-| 27.5–28.5% | 8% | 10% |  |
-| 28.5–29.5% | 2% | 2% |  |
-| 29.5–30.5% | 0.2% | 0.2% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 2% | 99.9% |  |
+| 18.5–19.5% | 9% | 98% |  |
+| 19.5–20.5% | 23% | 89% |  |
+| 20.5–21.5% | 32% | 66% | Median |
+| 21.5–22.5% | 23% | 35% |  |
+| 22.5–23.5% | 9% | 12% |  |
+| 23.5–24.5% | 2% | 2% |  |
+| 24.5–25.5% | 0.3% | 0.3% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -366,7 +362,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
+| [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
 | [5–8 April 2022](2022-04-08-OpinionWayandKéaPartners.html) | OpinionWay and Kéa Partners <br> Les Échos and Radio Classique | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
@@ -700,17 +697,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0.2% | 100% |  |
-| 20 | 5% | 99.7% |  |
-| 21 | 23% | 95% |  |
-| 22 | 39% | 72% | Median |
-| 23 | 21% | 32% |  |
-| 24 | 10% | 11% |  |
-| 25 | 1.3% | 1.4% |  |
-| 26 | 0% | 0% |  |
+| 15 | 0.5% | 100% |  |
+| 16 | 6% | 99.5% |  |
+| 17 | 20% | 94% |  |
+| 18 | 42% | 73% | Median |
+| 19 | 20% | 31% |  |
+| 20 | 7% | 11% |  |
+| 21 | 3% | 4% |  |
+| 22 | 0.4% | 0.5% |  |
+| 23 | 0% | 0% |  |
 
 
