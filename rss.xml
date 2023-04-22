@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 01 Dec 2022 16:32:30 +0100</pubDate>
+    <pubDate>Sat, 22 Apr 2023 19:37:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 20–21 March 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-03-21-Ifop–Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6–9 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 16–21 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20–25 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-03-21-Ifop–Fiducial-seats.png"
+        length="280654"
+        type="image/png"/>
+      <pubDate>Sat, 22 Apr 2023 19:37:58 +0200</pubDate>
+      <dc:date>2023-04-22T19:37:58.957322+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 20–21 March 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-03-21-Ifop–Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-03-21-Ifop–Fiducial-coalitions-seats.png"
+        length="226261"
+        type="image/png"/>
+      <pubDate>Sat, 22 Apr 2023 19:37:58 +0200</pubDate>
+      <dc:date>2023-04-22T19:37:58.957322+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 20–21 March 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-03-21-Ifop–Fiducial.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.1–4.2%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9.3–13.0%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.4–10.8%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 5.7–8.7%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 18.7–23.5%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 8.3–11.9%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 3.9–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-03-21-Ifop–Fiducial.png"
+        length="349571"
+        type="image/png"/>
+      <pubDate>Sat, 22 Apr 2023 19:37:58 +0200</pubDate>
+      <dc:date>2023-04-22T19:37:58.957322+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 2–4 November 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2022-11-04-Ifop–Fiducial.html#seats</link>
@@ -5889,6 +5919,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2022-12-01T16:32:30.649465+01:00</dc:date>
+    <dc:date>2023-04-22T19:37:58.957322+02:00</dc:date>
   </channel>
 </rss>
