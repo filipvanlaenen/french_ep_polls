@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.1% | 19.5–22.7% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
+| N/A | [Poll Average](average.html) | 19.0% | 17.7–20.4% | 17.3–20.9% | 17.0–21.2% | 16.3–21.9% |
+| [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 19.0% | 17.7–20.5% | 17.3–20.9% | 17.0–21.2% | 16.3–21.9% |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 21.0% | 19.5–22.7% | 19.1–23.1% | 18.7–23.5% | 18.0–24.4% |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 26.0% | 24.5–27.6% | 24.1–28.0% | 23.8–28.4% | 23.1–29.1% |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.7–26.5% |
@@ -341,17 +342,15 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 2% | 99.9% |  |
-| 18.5–19.5% | 9% | 98% |  |
-| 19.5–20.5% | 23% | 89% |  |
-| 20.5–21.5% | 32% | 66% | Median |
-| 21.5–22.5% | 23% | 35% |  |
-| 22.5–23.5% | 9% | 12% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.3% | 0.3% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 15.5–16.5% | 0.8% | 100% |  |
+| 16.5–17.5% | 7% | 99.1% |  |
+| 17.5–18.5% | 25% | 92% |  |
+| 18.5–19.5% | 36% | 68% | Median |
+| 19.5–20.5% | 23% | 32% |  |
+| 20.5–21.5% | 7% | 9% |  |
+| 21.5–22.5% | 1.1% | 1.2% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -362,7 +361,8 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
@@ -696,15 +696,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.5% | 100% |  |
-| 16 | 6% | 99.5% |  |
-| 17 | 20% | 94% |  |
-| 18 | 42% | 73% | Median |
-| 19 | 20% | 31% |  |
-| 20 | 7% | 11% |  |
-| 21 | 3% | 4% |  |
-| 22 | 0.4% | 0.5% |  |
-| 23 | 0% | 0% |  |
+| 14 | 1.4% | 100% |  |
+| 15 | 26% | 98.6% |  |
+| 16 | 21% | 73% |  |
+| 17 | 39% | 52% | Median |
+| 18 | 10% | 13% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
