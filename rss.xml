@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 May 2023 21:37:55 +0200</pubDate>
+    <pubDate>Sat, 24 Jun 2023 21:22:01 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Cluster17 for Le Point, 17–19 May 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-05-19-Cluster17.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8–11 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 16–20 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 20–24 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-05-19-Cluster17-seats.png"
+        length="264912"
+        type="image/png"/>
+      <pubDate>Sat, 24 Jun 2023 21:22:01 +0200</pubDate>
+      <dc:date>2023-06-24T21:22:01.410318+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for Le Point, 17–19 May 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-05-19-Cluster17.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-05-19-Cluster17-coalitions-seats.png"
+        length="208731"
+        type="image/png"/>
+      <pubDate>Sat, 24 Jun 2023 21:22:01 +0200</pubDate>
+      <dc:date>2023-06-24T21:22:01.410318+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for Le Point, 17–19 May 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-05-19-Cluster17.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lutte Ouvrière (*): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 3.2–5.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 9.6–12.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 9.6–12.6%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 7.7–10.4%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 17.7–21.4%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.4–8.8%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 22.0–26.0%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 5.4–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-05-19-Cluster17.png"
+        length="343939"
+        type="image/png"/>
+      <pubDate>Sat, 24 Jun 2023 21:22:01 +0200</pubDate>
+      <dc:date>2023-06-24T21:22:01.410318+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 10–11 May 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2023-05-11-Ifop–Fiducial.html#seats</link>
@@ -5949,6 +5979,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2023-05-20T21:37:55.439357+02:00</dc:date>
+    <dc:date>2023-06-24T21:22:01.410318+02:00</dc:date>
   </channel>
 </rss>
