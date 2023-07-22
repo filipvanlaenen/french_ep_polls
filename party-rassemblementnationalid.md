@@ -10,7 +10,9 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.5% | 23.0–26.2% | 22.6–26.6% | 22.3–27.1% | 21.6–27.9% |
+| N/A | [Poll Average](average.html) | 24.7% | 23.5–27.0% | 23.2–27.5% | 23.0–28.0% | 22.5–28.8% |
+| [19–21 June 2023](2023-06-21-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 24.0% | 23.2–24.8% | 23.0–25.1% | 22.8–25.3% | 22.4–25.7% |
+| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 26.0% | 24.5–27.5% | 24.1–28.0% | 23.7–28.3% | 23.1–29.1% |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 24.0% | 22.7–25.3% | 22.3–25.7% | 22.0–26.0% | 21.4–26.7% |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 25.0% | 23.5–26.6% | 23.1–27.1% | 22.8–27.5% | 22.1–28.2% |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 26.0% | 24.3–27.7% | 23.8–28.2% | 23.4–28.7% | 22.7–29.5% |
@@ -337,17 +339,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.4% | 100% |  |
-| 21.5–22.5% | 4% | 99.6% |  |
-| 22.5–23.5% | 17% | 95% |  |
-| 23.5–24.5% | 31% | 79% | Median |
-| 24.5–25.5% | 27% | 48% | Last Result |
-| 25.5–26.5% | 15% | 21% |  |
-| 26.5–27.5% | 5% | 6% |  |
-| 27.5–28.5% | 0.9% | 1.0% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.5% | 100% |  |
+| 22.5–23.5% | 12% | 99.5% |  |
+| 23.5–24.5% | 33% | 88% |  |
+| 24.5–25.5% | 21% | 54% | Last Result, Median |
+| 25.5–26.5% | 17% | 33% |  |
+| 26.5–27.5% | 11% | 16% |  |
+| 27.5–28.5% | 4% | 5% |  |
+| 28.5–29.5% | 0.8% | 0.8% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -358,7 +360,9 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
+| N/A | [Poll Average](average.html) | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [19–21 June 2023](2023-06-21-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 21 | 21–23 | 21–23 | 20–23 | 20–23 |
+| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 22 | 21–24 | 20–24 | 20–24 | 19–24 |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–23 | 21–24 | 20–25 | 20–26 |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 21–25 | 20–25 | 19–26 |
@@ -687,14 +691,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.6% | 100% |  |
-| 20 | 5% | 99.4% |  |
-| 21 | 30% | 94% |  |
-| 22 | 34% | 64% | Median |
-| 23 | 18% | 30% |  |
-| 24 | 9% | 12% | Last Result |
-| 25 | 2% | 3% |  |
-| 26 | 0.4% | 0.5% |  |
+| 20 | 2% | 100% |  |
+| 21 | 26% | 98% |  |
+| 22 | 27% | 72% | Median |
+| 23 | 22% | 44% |  |
+| 24 | 17% | 23% | Last Result |
+| 25 | 5% | 6% |  |
+| 26 | 1.3% | 1.4% |  |
 | 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
