@@ -10,8 +10,9 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.7% | 23.5–27.0% | 23.2–27.5% | 23.0–28.0% | 22.5–28.8% |
-| [19–21 June 2023](2023-06-21-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 24.0% | 23.2–24.8% | 23.0–25.1% | 22.8–25.3% | 22.4–25.7% |
+| N/A | [Poll Average](average.html) | 25.2% | 23.6–27.4% | 23.3–27.9% | 23.0–28.3% | 22.6–29.2% |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
+| [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 24.0% | 23.2–24.8% | 23.0–25.1% | 22.8–25.3% | 22.4–25.7% |
 | [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 26.0% | 24.5–27.5% | 24.1–28.0% | 23.7–28.3% | 23.1–29.1% |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 24.0% | 22.7–25.3% | 22.3–25.7% | 22.0–26.0% | 21.4–26.7% |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 25.0% | 23.5–26.6% | 23.1–27.1% | 22.8–27.5% | 22.1–28.2% |
@@ -341,14 +342,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.5% | 100% |  |
-| 22.5–23.5% | 12% | 99.5% |  |
-| 23.5–24.5% | 33% | 88% |  |
-| 24.5–25.5% | 21% | 54% | Last Result, Median |
-| 25.5–26.5% | 17% | 33% |  |
-| 26.5–27.5% | 11% | 16% |  |
-| 27.5–28.5% | 4% | 5% |  |
-| 28.5–29.5% | 0.8% | 0.8% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 9% | 99.5% |  |
+| 23.5–24.5% | 26% | 91% |  |
+| 24.5–25.5% | 22% | 65% | Last Result, Median |
+| 25.5–26.5% | 21% | 43% |  |
+| 26.5–27.5% | 15% | 22% |  |
+| 27.5–28.5% | 6% | 8% |  |
+| 28.5–29.5% | 2% | 2% |  |
+| 29.5–30.5% | 0.2% | 0.3% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
 
@@ -360,8 +361,9 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
-| [19–21 June 2023](2023-06-21-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 21 | 21–23 | 21–23 | 20–23 | 20–23 |
+| N/A | [Poll Average](average.html) | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
+| [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 21 | 21–23 | 21–23 | 20–23 | 20–23 |
 | [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 22 | 21–24 | 20–24 | 20–24 | 19–24 |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–23 | 21–24 | 20–25 | 20–26 |
@@ -691,14 +693,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 2% | 100% |  |
-| 21 | 26% | 98% |  |
-| 22 | 27% | 72% | Median |
-| 23 | 22% | 44% |  |
-| 24 | 17% | 23% | Last Result |
+| 19 | 0.1% | 100% |  |
+| 20 | 2% | 99.9% |  |
+| 21 | 19% | 98% |  |
+| 22 | 23% | 79% |  |
+| 23 | 32% | 56% | Median |
+| 24 | 17% | 24% | Last Result |
 | 25 | 5% | 6% |  |
-| 26 | 1.3% | 1.4% |  |
-| 27 | 0.1% | 0.1% |  |
+| 26 | 1.2% | 1.4% |  |
+| 27 | 0.2% | 0.2% |  |
 | 28 | 0% | 0% |  |
 
 

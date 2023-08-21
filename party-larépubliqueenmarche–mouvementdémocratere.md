@@ -10,8 +10,9 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 20.4–23.4% | 20.2–24.0% | 20.0–24.4% | 19.6–25.2% |
-| [19–21 June 2023](2023-06-21-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 21.0% | 20.3–21.8% | 20.0–22.0% | 19.9–22.2% | 19.5–22.6% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.4–23.1% | 18.8–23.7% | 18.3–24.2% | 17.4–25.0% |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 17.0–23.5% |
+| [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 21.0% | 20.3–21.8% | 20.0–22.0% | 19.9–22.2% | 19.5–22.6% |
 | [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 22.5% | 21.1–24.0% | 20.7–24.4% | 20.4–24.8% | 19.7–25.5% |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 19.5% | 18.3–20.7% | 18.0–21.1% | 17.7–21.4% | 17.1–22.0% |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 19.0% | 17.7–20.5% | 17.3–20.9% | 17.0–21.2% | 16.3–21.9% |
@@ -345,17 +346,17 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.5% | 100% |  |
-| 19.5–20.5% | 12% | 99.5% |  |
-| 20.5–21.5% | 38% | 87% |  |
-| 21.5–22.5% | 25% | 49% | Median |
-| 22.5–23.5% | 15% | 24% |  |
-| 23.5–24.5% | 7% | 9% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 3% | 99.4% |  |
+| 18.5–19.5% | 8% | 96% |  |
+| 19.5–20.5% | 18% | 88% |  |
+| 20.5–21.5% | 33% | 70% | Median |
+| 21.5–22.5% | 20% | 37% |  |
+| 22.5–23.5% | 11% | 17% |  |
+| 23.5–24.5% | 5% | 6% |  |
+| 24.5–25.5% | 1.1% | 1.2% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -367,8 +368,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
-| [19–21 June 2023](2023-06-21-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
+| [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
 | [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 17 | 17–19 | 16–20 | 16–20 | 15–20 |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
@@ -706,15 +708,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.7% | 100% |  |
-| 18 | 20% | 99.3% |  |
-| 19 | 40% | 79% | Median |
-| 20 | 31% | 39% |  |
-| 21 | 6% | 8% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.3% | 0.4% |  |
+| 15 | 1.4% | 99.9% |  |
+| 16 | 5% | 98.5% |  |
+| 17 | 10% | 94% |  |
+| 18 | 22% | 84% |  |
+| 19 | 32% | 62% | Median |
+| 20 | 24% | 30% |  |
+| 21 | 4% | 6% |  |
+| 22 | 1.4% | 2% |  |
+| 23 | 0.2% | 0.3% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
