@@ -362,11 +362,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 0–7 | 0–7 | 0–8 |
-| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 0–6 | 0–7 | 0–8 |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 5 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -698,11 +698,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 94% |  |
 | 2 | 0% | 94% |  |
 | 3 | 0% | 94% |  |
-| 4 | 11% | 94% |  |
-| 5 | 38% | 83% | Median |
-| 6 | 35% | 45% |  |
-| 7 | 9% | 10% |  |
-| 8 | 1.1% | 1.1% |  |
+| 4 | 10% | 94% |  |
+| 5 | 50% | 85% | Median |
+| 6 | 31% | 35% |  |
+| 7 | 2% | 4% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 

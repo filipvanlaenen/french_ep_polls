@@ -361,12 +361,12 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
-| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
-| [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 21 | 21–23 | 21–23 | 20–23 | 20–23 |
-| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
-| [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 22 | 21–24 | 20–24 | 20–24 | 19–24 |
-| [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–23 | 21–24 | 20–25 | 20–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–25 | 21–26 | 21–27 |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 23 | 23–25 | 22–25 | 22–25 | 20–26 |
+| [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 22 | 21–23 | 21–23 | 21–24 | 21–24 |
+| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
+| [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
+| [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 21–25 | 20–25 | 19–26 |
 | [2–4 November 2022](2022-11-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [24–25 April 2022](2022-04-25-HarrisInteractive.html) | Harris Interactive <br> Challenges | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
@@ -693,15 +693,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.1% | 100% |  |
-| 20 | 2% | 99.9% |  |
-| 21 | 19% | 98% |  |
-| 22 | 23% | 79% |  |
-| 23 | 32% | 56% | Median |
-| 24 | 17% | 24% | Last Result |
-| 25 | 5% | 6% |  |
-| 26 | 1.2% | 1.4% |  |
-| 27 | 0.2% | 0.2% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 10% | 99.7% |  |
+| 22 | 19% | 90% |  |
+| 23 | 45% | 71% | Median |
+| 24 | 15% | 26% | Last Result |
+| 25 | 9% | 11% |  |
+| 26 | 2% | 3% |  |
+| 27 | 0.7% | 0.8% |  |
 | 28 | 0% | 0% |  |
 
 

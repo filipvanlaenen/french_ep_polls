@@ -359,7 +359,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0 | 0 | 0–4 | 0–4 |
 | [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0 | 0 | 0 | 0 | 0 |
 | [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 0 | 0 | 0 | 0 | 0 |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
@@ -695,7 +695,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 2% |  |
 | 3 | 0% | 2% |  |
 | 4 | 2% | 2% |  |
-| 5 | 0.2% | 0.2% |  |
+| 5 | 0% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 
