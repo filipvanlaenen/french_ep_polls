@@ -10,7 +10,8 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.1% | 23.4–26.8% | 23.0–27.2% | 22.6–27.7% | 21.8–28.5% |
+| N/A | [Poll Average](average.html) | 28.0% | 26.5–29.5% | 26.1–29.9% | 25.8–30.3% | 25.1–31.0% |
+| [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 28.0% | 26.5–29.5% | 26.1–29.9% | 25.8–30.3% | 25.1–31.0% |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 25.0% | 23.4–26.8% | 23.0–27.2% | 22.6–27.7% | 21.8–28.5% |
 | [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
 | [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 24.0% | 23.2–24.8% | 23.0–25.1% | 22.8–25.3% | 22.4–25.7% |
@@ -341,17 +342,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 2% | 99.8% |  |
-| 22.5–23.5% | 9% | 98% |  |
-| 23.5–24.5% | 23% | 88% |  |
-| 24.5–25.5% | 30% | 66% | Last Result, Median |
-| 25.5–26.5% | 23% | 36% |  |
-| 26.5–27.5% | 10% | 13% |  |
-| 27.5–28.5% | 3% | 3% |  |
-| 28.5–29.5% | 0.4% | 0.4% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 1.4% | 99.9% | Last Result |
+| 25.5–26.5% | 9% | 98.5% |  |
+| 26.5–27.5% | 25% | 90% |  |
+| 27.5–28.5% | 33% | 65% | Median |
+| 28.5–29.5% | 23% | 32% |  |
+| 29.5–30.5% | 8% | 9% |  |
+| 30.5–31.5% | 1.4% | 2% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -362,7 +363,8 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 22–26 | 21–26 | 20–26 | 20–27 |
+| N/A | [Poll Average](average.html) | 25 | 24–27 | 24–28 | 23–28 | 22–29 |
+| [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 25 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 23 | 22–26 | 21–26 | 20–26 | 20–27 |
 | [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 23 | 23–25 | 22–25 | 22–25 | 20–26 |
 | [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 22 | 21–23 | 21–23 | 21–24 | 21–24 |
@@ -695,16 +697,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 0.4% | 100% |  |
-| 20 | 3% | 99.6% |  |
-| 21 | 6% | 97% |  |
-| 22 | 26% | 91% |  |
-| 23 | 19% | 64% | Median |
-| 24 | 30% | 45% | Last Result |
-| 25 | 5% | 15% |  |
-| 26 | 9% | 10% |  |
-| 27 | 1.0% | 1.1% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 22 | 1.0% | 100% |  |
+| 23 | 4% | 99.0% |  |
+| 24 | 16% | 95% | Last Result |
+| 25 | 32% | 79% | Median |
+| 26 | 17% | 47% |  |
+| 27 | 24% | 30% |  |
+| 28 | 4% | 6% |  |
+| 29 | 1.3% | 2% |  |
+| 30 | 0.3% | 0.3% |  |
+| 31 | 0% | 0% |  |
 
 
