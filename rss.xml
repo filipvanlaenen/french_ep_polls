@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 22 Oct 2023 16:08:25 +0200</pubDate>
+    <pubDate>Sat, 18 Nov 2023 12:44:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for La Tribune Dimanche, 9–10 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-11-10-IpsosandSopraSteria.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–9 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Reconquête (NI): 0–6 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 8–11 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 17–21 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8–11 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 24–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-11-10-IpsosandSopraSteria-seats.png"
+        length="279182"
+        type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 12:44:30 +0100</pubDate>
+      <dc:date>2023-11-18T12:44:30.583731+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for La Tribune Dimanche, 9–10 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-11-10-IpsosandSopraSteria.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-11-10-IpsosandSopraSteria-coalitions-seats.png"
+        length="221907"
+        type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 12:44:30 +0100</pubDate>
+      <dc:date>2023-11-18T12:44:30.583731+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for La Tribune Dimanche, 9–10 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-11-10-IpsosandSopraSteria.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.1–10.1%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5.1–7.6%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Reconquête (NI): 4.9–7.4%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 8.8–12.0%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 19.0–23.2%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8.8–12.0%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 26.7–31.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-11-10-IpsosandSopraSteria.png"
+        length="340889"
+        type="image/png"/>
+      <pubDate>Sat, 18 Nov 2023 12:44:30 +0100</pubDate>
+      <dc:date>2023-11-18T12:44:30.583731+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for Le Figaro and Sud Radio, 12–13 October 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2023-10-13-Ifop–Fiducial.html#seats</link>
@@ -6109,6 +6139,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2023-10-22T16:08:25.531693+02:00</dc:date>
+    <dc:date>2023-11-18T12:44:30.583731+01:00</dc:date>
   </channel>
 </rss>
