@@ -10,7 +10,8 @@ Last result: **14.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 8.4–11.0% | 8.1–11.4% | 7.8–11.7% | 7.4–12.3% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.3–11.0% | 8.0–11.4% | 7.8–11.7% | 7.3–12.3% |
+| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 9.0% | 8.0–10.1% | 7.7–10.4% | 7.5–10.7% | 7.1–11.2% |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 10.3% | 9.3–11.4% | 9.0–11.7% | 8.8–12.0% | 8.3–12.5% |
 | [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.5% | 7.2–11.0% |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.8% | 7.0–11.4% |
@@ -344,11 +345,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.9% | 100% |  |
-| 7.5–8.5% | 13% | 99.1% |  |
-| 8.5–9.5% | 33% | 86% |  |
-| 9.5–10.5% | 33% | 53% | Median |
-| 10.5–11.5% | 17% | 20% |  |
+| 6.5–7.5% | 1.3% | 100% |  |
+| 7.5–8.5% | 13% | 98.7% |  |
+| 8.5–9.5% | 32% | 86% |  |
+| 9.5–10.5% | 33% | 54% | Median |
+| 10.5–11.5% | 17% | 21% |  |
 | 11.5–12.5% | 3% | 3% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% | Last Result |
@@ -363,6 +364,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
@@ -697,13 +699,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 1.2% | 100% |  |
-| 7 | 18% | 98.8% |  |
-| 8 | 36% | 81% | Median |
-| 9 | 33% | 45% |  |
-| 10 | 10% | 12% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 21% | 99.4% |  |
+| 8 | 31% | 78% | Median |
+| 9 | 29% | 47% |  |
+| 10 | 16% | 18% |  |
 | 11 | 2% | 2% |  |
-| 12 | 0% | 0% |  |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 
 

@@ -12,14 +12,14 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Rassemblement national (ID) | 24.9% | 29.0% | 27.5–30.6% |27.0–31.0% |26.7–31.4% |25.9–32.2% |
 | La République en marche–Mouvement démocrate (RE) | 9.9% | 21.0% | 19.7–22.5% |19.3–22.9% |19.0–23.2% |18.4–23.9% |
-| Parti socialiste (S&D) | 14.0% | 10.3% | 9.3–11.4% |9.0–11.7% |8.8–12.0% |8.3–12.5% |
 | Europe Écologie Les Verts (Greens/EFA) | 9.0% | 10.3% | 9.3–11.4% |9.0–11.7% |8.8–12.0% |8.3–12.5% |
+| Parti socialiste (S&D) | 14.0% | 10.3% | 9.3–11.4% |9.0–11.7% |8.8–12.0% |8.3–12.5% |
 | La France insoumise (GUE/NGL) | 6.6% | 8.5% | 7.6–9.5% |7.4–9.8% |7.1–10.1% |6.8–10.6% |
 | Les Républicains (EPP) | 20.8% | 6.2% | 5.5–7.1% |5.3–7.4% |5.1–7.6% |4.7–8.1% |
 | Reconquête (NI) | 0.0% | 6.0% | 5.3–6.9% |5.1–7.2% |4.9–7.4% |4.6–7.8% |
-| Parti communiste français (GUE/NGL) | 6.6% | 2.0% | 1.6–2.6% |1.5–2.7% |1.4–2.9% |1.2–3.2% |
-| Lutte Ouvrière (*) | 0.0% | 2.0% | 1.6–2.6% |1.5–2.7% |1.4–2.9% |1.2–3.2% |
 | Debout la France (ECR) | 0.0% | 2.0% | 1.6–2.6% |1.5–2.7% |1.4–2.9% |1.2–3.2% |
+| Lutte Ouvrière (*) | 0.0% | 2.0% | 1.6–2.6% |1.5–2.7% |1.4–2.9% |1.2–3.2% |
+| Parti communiste français (GUE/NGL) | 6.6% | 2.0% | 1.6–2.6% |1.5–2.7% |1.4–2.9% |1.2–3.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -35,14 +35,14 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#rassemblement-national-(id)">Rassemblement national (ID)</a> | 24 | 26 | 25–28 |25–28 |24–29 |24–30 |
 | <a href="#la-république-en-marche–mouvement-démocrate-(re)">La République en marche–Mouvement démocrate (RE)</a> | 7 | 19 | 18–20 |17–21 |17–21 |16–22 |
-| <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 9 | 8–10 |8–10 |8–11 |7–11 |
 | <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 9 | 8–10 |8–10 |8–11 |7–11 |
+| <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 9 | 8–10 |8–10 |8–11 |7–11 |
 | <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 7 | 7–8 |6–9 |6–9 |6–9 |
 | <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 5 | 5–6 |4–6 |4–7 |0–7 |
 | <a href="#reconquête-(ni)">Reconquête (NI)</a> | 0 | 5 | 4–6 |4–6 |0–6 |0–7 |
-| <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0 |0 |0 |
-| <a href="#lutte-ouvrière-(*)">Lutte Ouvrière (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#debout-la-france-(ecr)">Debout la France (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#lutte-ouvrière-(*)">Lutte Ouvrière (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0 |0 |0 |
 
 ### Rassemblement national (ID)
 
@@ -90,22 +90,6 @@
 | 23 | 0.2% | 0.2% |  |
 | 24 | 0% | 0% |  |
 
-### Parti socialiste (S&D)
-
-*For a full overview of the results for this party, see the [Parti socialiste (S&D)](party-partisocialistesd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2023-11-10-IpsosandSopraSteria-seats-pmf-partisocialistesd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.9% | 100% |  |
-| 8 | 28% | 99.1% |  |
-| 9 | 48% | 71% | Median |
-| 10 | 19% | 23% |  |
-| 11 | 3% | 4% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% | Last Result |
-
 ### Europe Écologie Les Verts (Greens/EFA)
 
 *For a full overview of the results for this party, see the [Europe Écologie Les Verts (Greens/EFA)](party-europeécologielesvertsgreensefa.html) page.*
@@ -115,13 +99,29 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0% | 100% | Last Result |
+| 7 | 0.9% | 100% |  |
+| 8 | 28% | 99.1% |  |
+| 9 | 48% | 71% | Median |
+| 10 | 19% | 23% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
+
+### Parti socialiste (S&D)
+
+*For a full overview of the results for this party, see the [Parti socialiste (S&D)](party-partisocialistesd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-11-10-IpsosandSopraSteria-seats-pmf-partisocialistesd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 2% | 100% |  |
 | 8 | 28% | 98% |  |
 | 9 | 38% | 70% | Median |
 | 10 | 29% | 33% |  |
 | 11 | 3% | 3% |  |
 | 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 13 | 0% | 0% | Last Result |
 
 ### La France insoumise (GUE/NGL)
 
@@ -191,16 +191,15 @@
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
-### Parti communiste français (GUE/NGL)
+### Debout la France (ECR)
 
-*For a full overview of the results for this party, see the [Parti communiste français (GUE/NGL)](party-particommunistefrançaisguengl.html) page.*
+*For a full overview of the results for this party, see the [Debout la France (ECR)](party-deboutlafranceecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-11-10-IpsosandSopraSteria-seats-pmf-particommunistefrançaisguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-11-10-IpsosandSopraSteria-seats-pmf-deboutlafranceecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Lutte Ouvrière (*)
 
@@ -212,15 +211,16 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Debout la France (ECR)
+### Parti communiste français (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Debout la France (ECR)](party-deboutlafranceecr.html) page.*
+*For a full overview of the results for this party, see the [Parti communiste français (GUE/NGL)](party-particommunistefrançaisguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-11-10-IpsosandSopraSteria-seats-pmf-deboutlafranceecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-11-10-IpsosandSopraSteria-seats-pmf-particommunistefrançaisguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 
 ## Coalitions
@@ -260,11 +260,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0% | 100% | Last Result |
-| 7 | 2% | 100% |  |
-| 8 | 28% | 98% |  |
-| 9 | 38% | 70% | Median |
-| 10 | 29% | 33% |  |
-| 11 | 3% | 3% |  |
+| 7 | 0.9% | 100% |  |
+| 8 | 28% | 99.1% |  |
+| 9 | 48% | 71% | Median |
+| 10 | 19% | 23% |  |
+| 11 | 3% | 4% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
