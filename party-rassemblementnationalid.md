@@ -10,7 +10,13 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.6% | 26.7–31.8% | 26.0–32.5% | 25.4–33.1% | 24.5–34.1% |
+| N/A | [Poll Average](average.html) | 29.0% | 27.1–31.2% | 26.6–31.8% | 26.1–32.4% | 25.3–33.5% |
+| [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.8% |
+| [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 30.1% | 28.1–32.1% | 27.6–32.7% | 27.1–33.2% | 26.2–34.2% |
+| [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 28.0% | 26.4–29.7% | 26.0–30.2% | 25.6–30.6% | 24.8–31.4% |
+| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 28.5% | 26.9–30.3% | 26.4–30.7% | 26.0–31.2% | 25.3–32.0% |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 28.5% | 27.0–30.1% | 26.6–30.5% | 26.2–30.9% | 25.5–31.7% |
+| [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 28.0% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27.0% | 25.4–28.6% | 25.0–29.1% | 24.6–29.5% | 23.9–30.3% |
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 28.0% | 27.5–28.5% | 27.3–28.7% | 27.2–28.8% | 26.9–29.1% |
@@ -21,7 +27,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 25.0% | 23.4–26.8% | 23.0–27.2% | 22.6–27.7% | 21.8–28.5% |
 | [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.8% | 22.6–29.7% |
 | [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 24.0% | 23.2–24.8% | 23.0–25.1% | 22.8–25.3% | 22.4–25.7% |
-| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 26.0% | 24.5–27.5% | 24.1–28.0% | 23.7–28.3% | 23.1–29.1% |
+| [19–21 June 2023](2023-06-21-ELABE.html) | ELABE | 26.0% | N/A | N/A | N/A | N/A |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 24.0% | 22.7–25.3% | 22.3–25.7% | 22.0–26.0% | 21.4–26.7% |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 25.0% | 23.5–26.6% | 23.1–27.1% | 22.8–27.5% | 22.1–28.2% |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 26.0% | 24.3–27.7% | 23.8–28.2% | 23.4–28.7% | 22.7–29.5% |
@@ -349,18 +355,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.5% | 100% |  |
-| 24.5–25.5% | 2% | 99.5% | Last Result |
-| 25.5–26.5% | 6% | 97% |  |
-| 26.5–27.5% | 12% | 91% |  |
-| 27.5–28.5% | 28% | 79% |  |
-| 28.5–29.5% | 13% | 51% | Median |
-| 29.5–30.5% | 13% | 38% |  |
-| 30.5–31.5% | 12% | 25% |  |
-| 31.5–32.5% | 8% | 13% |  |
-| 32.5–33.5% | 3% | 5% |  |
-| 33.5–34.5% | 1.0% | 1.3% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 0.7% | 99.9% | Last Result |
+| 25.5–26.5% | 4% | 99.2% |  |
+| 26.5–27.5% | 13% | 95% |  |
+| 27.5–28.5% | 22% | 83% |  |
+| 28.5–29.5% | 25% | 61% | Median |
+| 29.5–30.5% | 18% | 36% |  |
+| 30.5–31.5% | 11% | 18% |  |
+| 31.5–32.5% | 5% | 7% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -372,7 +378,13 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–30 | 24–31 | 24–32 | 23–33 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 24–30 | 23–31 | 22–32 |
+| [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 29 | 26–31 | 26–31 | 26–32 | 25–33 |
+| [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
+| [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 25 | 23–27 | 23–27 | 23–27 | 22–28 |
+| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
+| [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 26 | 24–27 | 24–27 | 23–28 | 23–29 |
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 30 | 28–32 | 27–32 | 26–33 | 26–33 |
 | [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 26 | 25–26 | 25–26 | 25–26 | 25–27 |
@@ -383,7 +395,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 23 | 22–26 | 21–26 | 20–26 | 20–27 |
 | [4–5 July 2023](2023-07-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 23 | 23–25 | 22–25 | 22–25 | 20–26 |
 | [16–26 June 2023](2023-06-26-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 22 | 21–23 | 21–23 | 21–24 | 21–24 |
-| [19–21 June 2023](2023-06-21-Elabe.html) | Elabe | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
+| [19–21 June 2023](2023-06-21-ELABE.html) | ELABE |  |  |  |  |  |
 | [17–19 May 2023](2023-05-19-Cluster17.html) | Cluster17 <br> Le Point | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
 | [10–11 May 2023](2023-05-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [20–21 March 2023](2023-03-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD and Sud Radio | 22 | 21–24 | 21–25 | 20–25 | 19–26 |
@@ -712,18 +724,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.9% | 99.9% |  |
-| 24 | 6% | 99.0% | Last Result |
-| 25 | 18% | 93% |  |
-| 26 | 19% | 74% |  |
-| 27 | 19% | 55% | Median |
-| 28 | 11% | 36% |  |
-| 29 | 10% | 25% |  |
-| 30 | 8% | 15% |  |
-| 31 | 4% | 7% |  |
-| 32 | 3% | 3% |  |
-| 33 | 0.7% | 0.8% |  |
+| 22 | 0.5% | 100% |  |
+| 23 | 3% | 99.5% |  |
+| 24 | 10% | 96% | Last Result |
+| 25 | 18% | 86% |  |
+| 26 | 21% | 68% | Median |
+| 27 | 14% | 47% |  |
+| 28 | 14% | 33% |  |
+| 29 | 13% | 19% |  |
+| 30 | 3% | 6% |  |
+| 31 | 3% | 4% |  |
+| 32 | 0.6% | 0.8% |  |
+| 33 | 0.1% | 0.2% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
 
