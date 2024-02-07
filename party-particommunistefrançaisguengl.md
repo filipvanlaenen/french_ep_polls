@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.0–4.2% | 1.8–4.6% | 1.6–4.9% | 1.3–5.5% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.1–4.4% | 1.8–4.7% | 1.6–5.0% | 1.3–5.5% |
+| [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 4.0% | 3.3–5.0% | 3.1–5.3% | 2.9–5.5% | 2.6–6.0% |
 | [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.5% |
@@ -21,7 +23,7 @@ Last result: **6.6%** (General Election of 26 May 2019)
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.7% |
 | [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 3.0% | 2.8–3.2% | 2.7–3.3% | 2.7–3.3% | 2.6–3.4% |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
-| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.4% |
+| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 2.9% | 2.4–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.4% |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
 | [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
@@ -356,11 +358,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 23% | 98% |  |
-| 2.5–3.5% | 49% | 75% | Median |
-| 3.5–4.5% | 21% | 26% |  |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.4% | 0.5% |  |
+| 1.5–2.5% | 19% | 98% |  |
+| 2.5–3.5% | 44% | 79% | Median |
+| 3.5–4.5% | 29% | 36% |  |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
 
 
@@ -372,7 +374,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–5 |
+| [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0 | 0 | 0 | 0–5 | 0–5 |
+| [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 0 | 0 | 0 | 0 | 0–4 |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 0 | 0 | 0 | 0 | 0 |
@@ -718,12 +722,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 0% | 3% | Last Result |
-| 2 | 0% | 3% |  |
-| 3 | 0% | 3% |  |
-| 4 | 3% | 3% |  |
-| 5 | 0.6% | 0.6% |  |
-| 6 | 0% | 0% |  |
+| 0 | 99.0% | 100% | Median |
+| 1 | 0% | 1.0% | Last Result |
+| 2 | 0% | 1.0% |  |
+| 3 | 0% | 1.0% |  |
+| 4 | 0.4% | 1.0% |  |
+| 5 | 0.5% | 0.6% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
