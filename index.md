@@ -2,16 +2,17 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | RN | LR | PS | LREM–MoDem | EELV | PCF | FI | Agir–UDI | DlF | LP | UPR | NPA | G·s | R! | LO | GJ | REC | LE | W | PRG–Con |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 24.9% <br> 24 | 20.8% <br> 20 | 14.0% <br> 13 | 9.9% <br> 7 | 9.0% <br> 6 | 6.6% <br> 1 | 6.6% <br> 1 | 2.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–32% <br> 23–31 | 5–10% <br> 4–8 | 7–12% <br> 6–11 | 16–22% <br> 15–21 | 7–11% <br> 6–10 | 2–5% <br> 0–4 | 6–9% <br> 5–8 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 4–8% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 27–33% <br> 26–32 | 5–8% <br> 0–7 | 6–10% <br> 6–9 | 18–23% <br> 16–21 | 7–11% <br> 6–10 | 1–3% <br> 0 | 6–9% <br> 5–8 | N/A <br> N/A | 3–5% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–9% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 27–33% <br> 25–31 | 6–9% <br> 5–9 | 7–11% <br> 6–10 | 17–23% <br> 16–22 | 7–11% <br> 7–10 | 3–6% <br> 0–5 | 5–8% <br> 4–7 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 0–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 26–31% <br> 23–27 | 7–10% <br> 5–8 | 9–13% <br> 8–11 | 17–21% <br> 15–19 | 7–10% <br> 5–8 | 2–4% <br> 0 | 6–9% <br> 5–7 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 5–7% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 26–31% <br> 24–28 | 6–9% <br> 5–7 | 9–13% <br> 8–11 | 16–20% <br> 14–18 | 7–10% <br> 6–8 | 2–4% <br> 0 | 6–9% <br> 5–8 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 6–9% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 26–31% <br> 24–29 | 7–10% <br> 6–9 | 8–11% <br> 7–10 | 16–20% <br> 15–18 | 7–10% <br> 6–9 | 2–4% <br> 0 | 6–9% <br> 5–8 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| 26 May 2019 | General Election | 24.9% <br> 24 | 20.8% <br> 20 | 14.0% <br> 13 | 9.9% <br> 7 | 9.0% <br> 6 | 6.6% <br> 1 | 6.6% <br> 1 | 2.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | RN | LR | PS | LREM–MoDem | EELV | PCF | FI | Agir–UDI | DlF | LP | UPR | NPA | G·s | R! | LO | GJ | REC | LE | W | PRG–Con | PRG | ÉAC | LO–NPA | PA | AR |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 24.9% <br> 24 | 20.8% <br> 20 | 14.0% <br> 13 | 9.9% <br> 7 | 9.0% <br> 6 | 6.6% <br> 1 | 6.6% <br> 1 | 2.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 25–33% <br> 24–32 | 5–10% <br> 4–9 | 7–12% <br> 6–11 | 16–22% <br> 15–21 | 5–10% <br> 0–9 | 2–5% <br> 0 | 6–9% <br> 5–9 | N/A <br> N/A | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 4–8% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 0–2% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 0–2% <br> 0 |
+| [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 24–30% <br> 23–29 | 7–10% <br> 6–9 | 8–12% <br> 7–11 | 18–23% <br> 16–23 | 5–8% <br> 0–7 | 3–5% <br> 0–5 | 7–10% <br> 6–9 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 6–9% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 |
+| [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 29–34% <br> 28–32 | 5–8% <br> 5–7 | 8–11% <br> 8–10 | 17–21% <br> 16–19 | 6–8% <br> 6–7 | 3–5% <br> 0 | 6–9% <br> 6–8 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 |
+| [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 27–33% <br> 26–32 | 5–8% <br> 0–7 | 6–10% <br> 6–9 | 18–23% <br> 16–21 | 7–11% <br> 6–10 | 1–3% <br> 0 | 6–9% <br> 5–8 | N/A <br> N/A | 3–5% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 6–9% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 26–31% <br> 24–29 | 7–10% <br> 5–9 | 9–13% <br> 9–12 | 17–21% <br> 16–20 | 7–10% <br> 5–9 | 2–4% <br> 0 | 6–9% <br> 5–7 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 5–7% <br> 0–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 |
+| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 26–31% <br> 27 | 6–9% <br> 6 | 9–13% <br> 10 | 16–20% <br> 17 | 7–10% <br> 8 | 2–4% <br> 0 | 6–9% <br> 7 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 6–9% <br> 6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 26–31% <br> 24–29 | 7–10% <br> 6–9 | 8–11% <br> 7–10 | 16–20% <br> 15–18 | 7–10% <br> 6–9 | 2–4% <br> 0 | 6–9% <br> 5–8 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 24.9% <br> 24 | 20.8% <br> 20 | 14.0% <br> 13 | 9.9% <br> 7 | 9.0% <br> 6 | 6.6% <br> 1 | 6.6% <br> 1 | 2.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -34,10 +35,15 @@ Only polls for which at least the sample size has been published are included in
 + **R!:** Résistons! (*)
 + **LO:** Lutte Ouvrière (*)
 + **GJ:** Mouvement des gilets jaunes (*)
-+ **REC:** Reconquête (NI)
++ **REC:** Reconquête (ECR)
 + **LE:** L’Engagement (*)
 + **W:** Walwari (*)
-+ **PRG–Con:** Parti radical de gauche–La Convention (*)
++ **PRG–Con:** Parti radical de gauche–La Convention (S&D)
++ **PRG:** Parti radical de gauche (S&D)
++ **ÉAC:** Écologie au centre (Greens/EFA)
++ **LO–NPA:** Lutte Ouvrière–Nouveau Parti anticapitaliste (GUE/NGL)
++ **PA:** Parti animaliste (GUE/NGL)
++ **AR:** Alliance Rurale (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
