@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 07 Feb 2024 23:00:38 +0100</pubDate>
+    <pubDate>Thu, 08 Feb 2024 20:44:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by OpinionWay–Tilder for Les Echos, 17–18 January 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-18-OpinionWay–Tilder.html#seats</link>
@@ -130,14 +130,124 @@
       <dc:date>2024-02-07T22:57:04.60341+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Cluster17 for Le Point, 13–14 January 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-14-Cluster17.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Rassemblement national (ID): 25–28 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 9–12 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 16–18 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7–8 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 6–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-01-14-Cluster17-seats.png"
+        length="297574"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 19:41:57 +0100</pubDate>
+      <dc:date>2024-02-08T19:41:57.280704+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Cluster17 for Le Point, 13–14 January 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-14-Cluster17.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-01-14-Cluster17-coalitions-seats.png"
+        length="191484"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 19:41:57 +0100</pubDate>
+      <dc:date>2024-02-08T19:41:57.280704+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Cluster17 for Le Point, 13–14 January 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-14-Cluster17.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Rassemblement national (ID): 26.0–31.2%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 9.4–12.9%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 16.0–20.3%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 6.6–9.7%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0.9–2.3%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.1–4.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.2–9.2%&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 5.7–8.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-01-14-Cluster17.png"
         length="403805"
         type="image/png"/>
-      <pubDate>Wed, 07 Feb 2024 23:00:38 +0100</pubDate>
-      <dc:date>2024-02-07T23:00:38.876013+01:00</dc:date>
+      <pubDate>Thu, 08 Feb 2024 19:41:57 +0100</pubDate>
+      <dc:date>2024-02-08T19:41:57.280704+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 10–12 January 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-12-ELABE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 24–30 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 8–11 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 16–19 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7–10 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-01-12-ELABE-seats.png"
+        length="334920"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 19:58:24 +0100</pubDate>
+      <dc:date>2024-02-08T19:58:24.664086+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 10–12 January 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-12-ELABE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-01-12-ELABE-coalitions-seats.png"
+        length="223745"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 19:58:24 +0100</pubDate>
+      <dc:date>2024-02-08T19:58:24.664086+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 10–12 January 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-01-12-ELABE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alliance Rurale (*): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 26.2–30.9%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 8.1–11.2%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 16.1–20.1%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.1–10.1%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 7.1–10.1%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.2–4.0%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.2–9.0%&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 4.0–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-01-12-ELABE.png"
+        length="420523"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 19:58:24 +0100</pubDate>
+      <dc:date>2024-02-08T19:58:24.664086+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 13–14 December 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-12-14-Odoxa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 27–32 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 7–10 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 18–22 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–6 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 4–7 seats&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 0–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-12-14-Odoxa-seats.png"
+        length="312740"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 20:12:23 +0100</pubDate>
+      <dc:date>2024-02-08T20:12:23.599462+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 13–14 December 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-12-14-Odoxa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-12-14-Odoxa-coalitions-seats.png"
+        length="237242"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 20:12:23 +0100</pubDate>
+      <dc:date>2024-02-08T20:12:23.599462+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 13–14 December 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-12-14-Odoxa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alliance Rurale (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 7.3–10.9%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 18.6–23.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.1–4.2%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 4.7–7.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-12-14-Odoxa.png"
+        length="379318"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 20:12:23 +0100</pubDate>
+      <dc:date>2024-02-08T20:12:23.599462+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF and Le Monde, 29 November–12 December 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-12-12-IpsosandSopraSteria.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière–Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 25–27 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 9–10 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 17–19 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 8–9 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 5–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-12-12-IpsosandSopraSteria-seats.png"
+        length="295544"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 20:44:45 +0100</pubDate>
+      <dc:date>2024-02-08T20:44:45.872771+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF and Le Monde, 29 November–12 December 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-12-12-IpsosandSopraSteria.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-12-12-IpsosandSopraSteria-coalitions-seats.png"
+        length="186153"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 20:44:45 +0100</pubDate>
+      <dc:date>2024-02-08T20:44:45.872771+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos and Sopra Steria for CEVIPOF and Le Monde, 29 November–12 December 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2023-12-12-IpsosandSopraSteria.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Alliance Rurale (*): 0.4–0.7%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière–Nouveau Parti anticapitaliste (GUE/NGL): 1.3–1.7%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 27.2–28.8%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 10.0–11.1%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 19.3–20.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.5–8.5%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.4–0.7%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 2.2–2.8%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 9.0–10.1%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.7–3.3%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.0–8.0%&lt;/li&gt;&lt;li&gt;Reconquête (ECR): 6.1–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2023-12-12-IpsosandSopraSteria.png"
+        length="352571"
+        type="image/png"/>
+      <pubDate>Thu, 08 Feb 2024 20:44:45 +0100</pubDate>
+      <dc:date>2024-02-08T20:44:45.872771+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for JDD and Sud Radio, 20–21 March 2023 – Seat Projections for the Parties</title>
@@ -6049,6 +6159,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2024-02-07T23:00:38.876013+01:00</dc:date>
+    <dc:date>2024-02-08T20:44:45.872771+01:00</dc:date>
   </channel>
 </rss>
