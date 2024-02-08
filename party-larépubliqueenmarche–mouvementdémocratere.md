@@ -382,18 +382,18 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–20 | 15–20 | 15–21 | 14–23 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 16–21 | 15–23 |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 18 | 17–21 | 17–23 | 16–23 | 15–24 |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 19 | 17–20 | 17–21 | 16–21 | 16–23 |
 | [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 19 | 17–20 | 17–21 | 16–22 | 16–22 |
 | [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 19 | 17–20 | 17–20 | 16–20 | 15–21 |
-| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 17 | 17 | 17 | 16–17 | 16–17 |
-| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 18 | 17–19 | 17–20 | 16–21 | 16–21 |
-| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 18 | 18–19 | 18–19 | 18–19 | 17–19 |
+| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 19 | 18–21 | 18–21 | 18–22 | 17–23 |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 18 | 18–19 | 18–19 | 17–19 | 17–20 |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 16 | 15–18 | 15–19 | 14–19 | 14–19 |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 19 | 17–19 | 17–20 | 16–20 | 15–21 |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
@@ -736,14 +736,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 1.5% | 99.9% |  |
-| 15 | 9% | 98% |  |
-| 16 | 13% | 89% |  |
-| 17 | 22% | 76% |  |
-| 18 | 19% | 55% | Median |
-| 19 | 20% | 35% |  |
-| 20 | 10% | 15% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.7% | 99.9% |  |
+| 16 | 16% | 99.2% |  |
+| 17 | 25% | 84% |  |
+| 18 | 22% | 58% | Median |
+| 19 | 21% | 36% |  |
+| 20 | 11% | 15% |  |
 | 21 | 3% | 5% |  |
 | 22 | 0.6% | 2% |  |
 | 23 | 0.9% | 1.0% |  |

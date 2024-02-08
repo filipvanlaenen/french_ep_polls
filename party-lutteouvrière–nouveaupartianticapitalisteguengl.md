@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 0.5% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 0.0% | N/A | N/A | N/A | N/A |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 1.5% | N/A | N/A | N/A | N/A |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 1.5% | 1.4–1.7% | 1.3–1.7% | 1.3–1.7% | 1.2–1.8% |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 1.5% | N/A | N/A | N/A | N/A |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 2.0% | N/A | N/A | N/A | N/A |
@@ -381,7 +381,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde |  |  |  |  |  |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0 | 0 | 0 | 0 | 0 |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio |  |  |  |  |  |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche |  |  |  |  |  |

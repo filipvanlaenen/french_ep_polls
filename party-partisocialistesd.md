@@ -383,12 +383,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
-| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 10 | 10 | 10 | 10–12 | 9–12 |
-| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
+| [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 10 | 10 | 10–12 | 9–12 | 9–12 |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 10 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -727,12 +727,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 4% | 99.8% |  |
-| 7 | 12% | 96% |  |
-| 8 | 27% | 84% |  |
-| 9 | 26% | 58% | Median |
-| 10 | 22% | 32% |  |
-| 11 | 8% | 10% |  |
+| 7 | 10% | 96% |  |
+| 8 | 18% | 86% |  |
+| 9 | 30% | 69% | Median |
+| 10 | 29% | 38% |  |
+| 11 | 7% | 9% |  |
 | 12 | 2% | 2% |  |
-| 13 | 0% | 0% | Last Result |
+| 13 | 0.1% | 0.1% | Last Result |
+| 14 | 0% | 0% |  |
 
 

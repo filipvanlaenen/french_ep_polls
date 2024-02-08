@@ -10,18 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.3% | 0.3–1.5% | 0.3–1.6% | 0.2–1.9% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.2% | 0.3–1.4% | 0.3–1.5% | 0.2–1.8% |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 0.0% | N/A | N/A | N/A | N/A |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
-| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.5% | N/A | N/A | N/A | N/A |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.5% | 0.3–0.9% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
-| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 0.5% | N/A | N/A | N/A | N/A |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0.5% | N/A | N/A | N/A | N/A |
+| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0.5% | 0.4–0.6% | 0.4–0.6% | 0.4–0.7% | 0.4–0.7% |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 0.0% | N/A | N/A | N/A | N/A |
@@ -356,9 +356,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 26% | 100% | Last Result |
-| 0.5–1.5% | 71% | 74% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 34% | 100% | Last Result |
+| 0.5–1.5% | 64% | 66% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -377,11 +377,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–15 January 2024](2024-01-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [12–15 January 2024](2024-01-15-HarrisInteractive.html) | Harris Interactive <br> Challenges | 0 | 0 | 0 | 0 | 0 |
 | [13–14 January 2024](2024-01-14-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
-| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
+| [10–12 January 2024](2024-01-12-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
-| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde |  |  |  |  |  |
+| [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0 | 0 | 0 |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0 | 0 | 0 | 0 | 0 |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio |  |  |  |  |  |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche |  |  |  |  |  |

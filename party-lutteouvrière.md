@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0.0% | 1.4–1.7% | 1.3–1.7% | 1.3–1.7% | 1.2–1.8% |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0.0% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.8% |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 0.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.2% |
@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–5 January 2024](2024-01-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Itinérant |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0 | 0 | 0 | 0 | 0 |
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0 | 0 | 0 |
-| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 0 | 0 | 0 | 0 | 0 |
+| [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde |  |  |  |  |  |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0 | 0 | 0 | 0 | 0 |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
