@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.1–4.4% | 1.8–4.7% | 1.6–5.0% | 1.3–5.5% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.0–4.4% | 1.8–4.7% | 1.6–5.0% | 1.3–5.5% |
+| [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 2.5% | 2.1–3.2% | 1.9–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -358,9 +360,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 19% | 98% |  |
-| 2.5–3.5% | 44% | 79% | Median |
-| 3.5–4.5% | 29% | 36% |  |
+| 1.5–2.5% | 25% | 98% |  |
+| 2.5–3.5% | 40% | 73% | Median |
+| 3.5–4.5% | 27% | 34% |  |
 | 4.5–5.5% | 7% | 7% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
@@ -375,6 +377,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–5 |
+| [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
+| [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 0 | 0 | 0 | 0–5 | 0–5 |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 0 | 0 | 0 | 0 | 0–4 |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
