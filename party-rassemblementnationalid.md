@@ -10,9 +10,12 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.7% | 26.3–32.1% | 25.8–32.8% | 25.3–33.4% | 24.3–34.6% |
+| N/A | [Poll Average](average.html) | 28.9% | 26.3–33.6% | 25.7–34.7% | 25.1–35.7% | 24.2–37.4% |
+| [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 26.9% | 25.1–28.7% | 24.6–29.2% | 24.2–29.7% | 23.4–30.6% |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 27.5% | 26.0–29.1% | 25.6–29.5% | 25.2–29.9% | 24.5–30.6% |
+| [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 28.5% | 26.9–30.1% | 26.5–30.5% | 26.1–30.9% | 25.4–31.7% |
 | [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 31.7% | 29.8–33.6% | 29.3–34.1% | 28.9–34.6% | 28.0–35.6% |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 33.0% | 30.3–35.9% | 29.6–36.7% | 28.9–37.4% | 27.7–38.8% |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27.0% | 25.3–28.8% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 31.0% | 29.4–32.7% | 29.0–33.1% | 28.6–33.5% | 27.8–34.3% |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.8% |
@@ -25,7 +28,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 28.0% | 27.5–28.5% | 27.3–28.7% | 27.2–28.8% | 26.9–29.1% |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 30.0% | 28.3–31.9% | 27.8–32.4% | 27.3–32.9% | 26.5–33.8% |
-| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27.9% | 26.4–29.7% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
+| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27.8% | 26.4–29.7% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 29.0% | 27.5–30.6% | 27.0–31.0% | 26.7–31.4% | 25.9–32.2% |
 | [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 28.0% | 26.5–29.5% | 26.1–29.9% | 25.8–30.3% | 25.1–31.0% |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 25.0% | 23.4–26.8% | 23.0–27.2% | 22.6–27.7% | 21.8–28.5% |
@@ -360,20 +363,23 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.6% | 99.9% |  |
-| 24.5–25.5% | 3% | 99.3% | Last Result |
+| 23.5–24.5% | 0.8% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.0% | Last Result |
 | 25.5–26.5% | 9% | 96% |  |
-| 26.5–27.5% | 16% | 87% |  |
-| 27.5–28.5% | 19% | 71% |  |
-| 28.5–29.5% | 15% | 52% | Median |
-| 29.5–30.5% | 12% | 37% |  |
-| 30.5–31.5% | 11% | 26% |  |
-| 31.5–32.5% | 8% | 15% |  |
-| 32.5–33.5% | 4% | 7% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.5% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 26.5–27.5% | 15% | 87% |  |
+| 27.5–28.5% | 16% | 71% |  |
+| 28.5–29.5% | 12% | 55% | Median |
+| 29.5–30.5% | 8% | 43% |  |
+| 30.5–31.5% | 8% | 35% |  |
+| 31.5–32.5% | 9% | 26% |  |
+| 32.5–33.5% | 7% | 18% |  |
+| 33.5–34.5% | 5% | 10% |  |
+| 34.5–35.5% | 3% | 6% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.7% | 1.2% |  |
+| 37.5–38.5% | 0.3% | 0.4% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -384,9 +390,12 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 25–31 | 25–32 | 24–32 | 23–33 |
+| N/A | [Poll Average](average.html) | 30 | 27–33 | 26–33 | 25–33 | 24–36 |
+| [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 27 | 25–28 | 24–28 | 24–28 | 23–28 |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 31 | 28–31 | 27–31 | 26–31 | 25–31 |
+| [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 29 | 26–29 | 26–29 | 25–29 | 25–29 |
 | [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 30 | 28–32 | 28–33 | 27–33 | 26–34 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 33 | 31–34 | 29–36 | 28–36 | 26–39 |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27 | 25–29 | 23–29 | 23–29 | 22–30 |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 30 | 29–32 | 28–32 | 28–32 | 27–32 |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 29 | 26–31 | 26–31 | 26–32 | 25–33 |
@@ -734,19 +743,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 0.9% | 99.8% |  |
-| 24 | 2% | 98.9% | Last Result |
-| 25 | 10% | 97% |  |
-| 26 | 9% | 87% |  |
-| 27 | 14% | 79% |  |
-| 28 | 12% | 64% |  |
-| 29 | 16% | 53% | Median |
-| 30 | 12% | 37% |  |
-| 31 | 20% | 26% |  |
-| 32 | 5% | 6% |  |
-| 33 | 0.8% | 1.1% |  |
-| 34 | 0.3% | 0.3% |  |
-| 35 | 0% | 0% |  |
+| 23 | 0.2% | 100% |  |
+| 24 | 0.8% | 99.8% | Last Result |
+| 25 | 3% | 98.9% |  |
+| 26 | 2% | 96% |  |
+| 27 | 12% | 94% |  |
+| 28 | 9% | 82% |  |
+| 29 | 22% | 73% |  |
+| 30 | 9% | 51% | Median |
+| 31 | 21% | 41% |  |
+| 32 | 2% | 21% |  |
+| 33 | 16% | 18% |  |
+| 34 | 1.1% | 2% |  |
+| 35 | 0.3% | 1.4% |  |
+| 36 | 0.9% | 1.1% |  |
+| 37 | 0.1% | 0.2% |  |
+| 38 | 0% | 0.2% |  |
+| 39 | 0.1% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 

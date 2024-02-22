@@ -10,9 +10,12 @@ Last result: **14.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 7.9–11.6% | 7.5–12.0% | 7.1–12.4% | 6.4–13.1% |
+| N/A | [Poll Average](average.html) | 9.3% | 7.6–10.9% | 7.2–11.3% | 6.9–11.7% | 6.3–12.4% |
+| [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9.0% | 8.1–10.0% | 7.8–10.3% | 7.6–10.6% | 7.2–11.1% |
+| [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 10.2% | 9.2–11.3% | 8.9–11.6% | 8.7–11.9% | 8.2–12.5% |
 | [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 9.0% | 7.5–10.9% | 7.0–11.4% | 6.7–11.9% | 6.0–12.9% |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 9.5% | 8.5–10.6% | 8.3–10.9% | 8.0–11.2% | 7.6–11.7% |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
@@ -359,16 +362,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 5% | 99.3% |  |
-| 7.5–8.5% | 14% | 94% |  |
-| 8.5–9.5% | 24% | 80% |  |
-| 9.5–10.5% | 25% | 57% | Median |
-| 10.5–11.5% | 20% | 31% |  |
-| 11.5–12.5% | 9% | 11% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.1% | 0.2% | Last Result |
-| 14.5–15.5% | 0% | 0% |  |
+| 5.5–6.5% | 1.2% | 100% |  |
+| 6.5–7.5% | 8% | 98.8% |  |
+| 7.5–8.5% | 20% | 91% |  |
+| 8.5–9.5% | 29% | 71% | Median |
+| 9.5–10.5% | 26% | 42% |  |
+| 10.5–11.5% | 13% | 16% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.4% |  |
+| 13.5–14.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -379,9 +381,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–10 | 8–11 | 7–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 7–11 | 6–11 |
+| [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 10 | 9–10 | 8–10 | 8–11 | 7–11 |
+| [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 10 | 10 | 10 | 9–11 | 8–11 |
 | [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 8 | 8–9 | 7–9 | 7–9 | 6–9 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 8 | 8–9 | 7–9 | 6–10 | 6–11 |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 9 | 7–11 | 7–11 | 7–11 | 7–12 |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 8 | 8–9 | 8–9 | 8–10 | 6–10 |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
@@ -729,14 +734,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.3% | 100% |  |
-| 7 | 4% | 99.6% |  |
-| 8 | 26% | 96% |  |
-| 9 | 19% | 70% |  |
-| 10 | 42% | 51% | Median |
-| 11 | 6% | 9% |  |
-| 12 | 2% | 2% |  |
-| 13 | 0.1% | 0.1% | Last Result |
-| 14 | 0% | 0% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0.8% | 99.9% |  |
+| 7 | 4% | 99.2% |  |
+| 8 | 42% | 96% |  |
+| 9 | 14% | 54% | Median |
+| 10 | 37% | 40% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% | Last Result |
 
 
