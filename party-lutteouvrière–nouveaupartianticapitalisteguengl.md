@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.3% | 0.3–1.4% | 0.3–1.6% | 0.2–1.8% |
+| [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.9% |
+| [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0.5% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% | 0.1–1.7% |
+| [21–22 February 2024](2024-02-22-Odoxa.html) | Odoxa <br> Public Sénat | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
@@ -361,9 +365,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 84% | 99.8% | Median |
-| 1.5–2.5% | 16% | 16% |  |
+| 0.0–0.5% | 20% | 100% | Last Result |
+| 0.5–1.5% | 78% | 80% | Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -376,6 +380,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 0 | 0 | 0 | 0 | 0 |
+| [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL |  |  |  |  |  |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0 | 0 | 0 |
+| [21–22 February 2024](2024-02-22-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
 | [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique |  |  |  |  |  |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
 | [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
