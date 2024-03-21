@@ -10,7 +10,14 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.5% | 26.6–32.4% | 25.9–33.2% | 25.4–33.9% | 24.4–35.1% |
+| N/A | [Poll Average](average.html) | 30.0% | 27.4–32.9% | 26.5–33.8% | 25.8–34.5% | 24.6–35.7% |
+| [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 30.0% | 28.7–31.3% | 28.4–31.7% | 28.1–32.0% | 27.5–32.6% |
+| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 27.0% | 25.2–28.8% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
+| [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.8–32.4% | 26.0–33.3% |
+| [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 32.9% | 31.1–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 29.5% | N/A | N/A | N/A | N/A |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 31.0% | N/A | N/A | N/A | N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 30.6% | N/A | N/A | N/A | N/A |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 29.0% | 27.5–30.6% | 27.0–31.1% | 26.6–31.5% | 25.9–32.3% |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 30.0% | 28.4–31.6% | 28.0–32.1% | 27.6–32.5% | 26.9–33.3% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 31.6% | 29.4–33.8% | 28.8–34.5% | 28.3–35.0% | 27.3–36.1% |
@@ -32,7 +39,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 | [13–14 December 2023](2023-12-14-Odoxa.html) | Odoxa <br> Public Sénat | 31.0% | 29.1–32.9% | 28.6–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [29 November–12 December 2023](2023-12-12-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> CEVIPOF and Le Monde | 28.0% | 27.5–28.5% | 27.3–28.7% | 27.2–28.8% | 26.9–29.1% |
 | [8–11 December 2023](2023-12-11-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 30.0% | 28.3–31.9% | 27.8–32.4% | 27.3–32.9% | 26.5–33.8% |
-| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27.8% | 26.4–29.7% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
+| [15–16 November 2023](2023-11-16-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 27.9% | 26.4–29.7% | 26.0–30.1% | 25.6–30.5% | 24.9–31.3% |
 | [9–10 November 2023](2023-11-10-IpsosandSopraSteria.html) | Ipsos and Sopra Steria <br> La Tribune Dimanche | 29.0% | 27.5–30.6% | 27.0–31.0% | 26.7–31.4% | 25.9–32.2% |
 | [12–13 October 2023](2023-10-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 28.0% | 26.5–29.5% | 26.1–29.9% | 25.8–30.3% | 25.1–31.0% |
 | [30–31 August 2023](2023-08-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 25.0% | 23.4–26.8% | 23.0–27.2% | 22.6–27.7% | 21.8–28.5% |
@@ -367,20 +374,21 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.6% | 99.9% |  |
-| 24.5–25.5% | 2% | 99.3% | Last Result |
-| 25.5–26.5% | 6% | 97% |  |
-| 26.5–27.5% | 11% | 91% |  |
-| 27.5–28.5% | 14% | 80% |  |
-| 28.5–29.5% | 16% | 66% |  |
-| 29.5–30.5% | 17% | 50% | Median |
-| 30.5–31.5% | 14% | 33% |  |
-| 31.5–32.5% | 10% | 19% |  |
-| 32.5–33.5% | 6% | 9% |  |
-| 33.5–34.5% | 2% | 4% |  |
-| 34.5–35.5% | 0.8% | 1.0% |  |
-| 35.5–36.5% | 0.2% | 0.2% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.4% | 99.9% |  |
+| 24.5–25.5% | 1.4% | 99.5% | Last Result |
+| 25.5–26.5% | 3% | 98% |  |
+| 26.5–27.5% | 6% | 95% |  |
+| 27.5–28.5% | 11% | 88% |  |
+| 28.5–29.5% | 19% | 77% |  |
+| 29.5–30.5% | 21% | 59% | Median |
+| 30.5–31.5% | 16% | 38% |  |
+| 31.5–32.5% | 10% | 22% |  |
+| 32.5–33.5% | 6% | 12% |  |
+| 33.5–34.5% | 4% | 6% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.5% | 0.7% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -391,7 +399,14 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 27–32 | 25–33 | 25–33 | 24–35 |
+| N/A | [Poll Average](average.html) | 28 | 27–33 | 26–35 | 25–37 | 24–37 |
+| [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 28 | 27–28 | 27–28 | 27–29 | 26–30 |
+| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 28 | 26–30 | 24–30 | 23–30 | 22–31 |
+| [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 28 | 27–29 | 27–31 | 27–31 | 26–32 |
+| [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 33 | 29–37 | 29–37 | 29–37 | 28–39 |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde |  |  |  |  |  |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 27 | 25–27 | 25–27 | 25–28 | 24–30 |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 28 | 25–30 | 25–31 | 25–32 | 25–34 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 32 | 29–35 | 28–35 | 27–35 | 26–37 |
@@ -748,21 +763,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.8% | 99.8% | Last Result |
-| 25 | 5% | 99.0% |  |
-| 26 | 2% | 94% |  |
-| 27 | 33% | 92% |  |
-| 28 | 16% | 59% | Median |
-| 29 | 6% | 44% |  |
-| 30 | 10% | 38% |  |
-| 31 | 17% | 27% |  |
-| 32 | 2% | 10% |  |
-| 33 | 6% | 8% |  |
-| 34 | 0.7% | 2% |  |
-| 35 | 1.3% | 1.5% |  |
-| 36 | 0.1% | 0.2% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.2% | 99.9% |  |
+| 24 | 0.5% | 99.6% | Last Result |
+| 25 | 4% | 99.1% |  |
+| 26 | 4% | 95% |  |
+| 27 | 32% | 92% |  |
+| 28 | 24% | 60% | Median |
+| 29 | 9% | 36% |  |
+| 30 | 7% | 27% |  |
+| 31 | 4% | 20% |  |
+| 32 | 2% | 16% |  |
+| 33 | 6% | 14% |  |
+| 34 | 2% | 7% |  |
+| 35 | 1.4% | 6% |  |
+| 36 | 0.7% | 4% |  |
+| 37 | 3% | 3% |  |
+| 38 | 0.1% | 0.2% |  |
+| 39 | 0.1% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 

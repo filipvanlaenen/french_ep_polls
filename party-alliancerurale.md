@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.4% | 0.1–1.6% | 0.1–1.7% | 0.1–2.0% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.9% | 0.2–2.2% | 0.1–2.5% | 0.1–2.9% |
+| [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% | 0.5–1.7% |
+| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 1.0% | N/A | N/A | N/A | N/A |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 0.5% | N/A | N/A | N/A | N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | N/A | N/A | N/A | N/A |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 0.1% | 0.1–0.4% | 0.0–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0.0% | N/A | N/A | N/A | N/A |
@@ -365,10 +372,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 25% | 100% | Last Result |
-| 0.5–1.5% | 69% | 75% | Median |
-| 1.5–2.5% | 5% | 5% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 22% | 100% | Last Result |
+| 0.5–1.5% | 62% | 78% | Median |
+| 1.5–2.5% | 15% | 17% |  |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -380,6 +388,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0 | 0 | 0 | 0 | 0 |
+| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
+| [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
+| [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 0 | 0 | 0 | 0 | 0 |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde |  |  |  |  |  |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 0 | 0 | 0 | 0 | 0 |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy |  |  |  |  |  |
