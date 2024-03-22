@@ -10,13 +10,13 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.0% | 27.4–32.9% | 26.5–33.8% | 25.8–34.5% | 24.6–35.7% |
+| N/A | [Poll Average](average.html) | 30.1% | 27.6–32.5% | 26.7–33.5% | 26.0–34.3% | 24.7–35.6% |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 30.0% | 28.7–31.3% | 28.4–31.7% | 28.1–32.0% | 27.5–32.6% |
 | [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 27.0% | 25.2–28.8% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.8–32.4% | 26.0–33.3% |
 | [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 32.9% | 31.1–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
-| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 29.5% | N/A | N/A | N/A | N/A |
-| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 31.0% | N/A | N/A | N/A | N/A |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 29.5% | 28.0–31.1% | 27.6–31.5% | 27.3–31.9% | 26.6–32.6% |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 31.0% | 30.5–31.6% | 30.3–31.7% | 30.2–31.9% | 29.9–32.1% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 30.6% | N/A | N/A | N/A | N/A |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 29.0% | 27.5–30.6% | 27.0–31.1% | 26.6–31.5% | 25.9–32.3% |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 30.0% | 28.4–31.6% | 28.0–32.1% | 27.6–32.5% | 26.9–33.3% |
@@ -372,21 +372,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.4% | 99.9% |  |
-| 24.5–25.5% | 1.4% | 99.5% | Last Result |
-| 25.5–26.5% | 3% | 98% |  |
-| 26.5–27.5% | 6% | 95% |  |
-| 27.5–28.5% | 11% | 88% |  |
-| 28.5–29.5% | 19% | 77% |  |
-| 29.5–30.5% | 21% | 59% | Median |
-| 30.5–31.5% | 16% | 38% |  |
-| 31.5–32.5% | 10% | 22% |  |
-| 32.5–33.5% | 6% | 12% |  |
-| 33.5–34.5% | 4% | 6% |  |
-| 34.5–35.5% | 2% | 2% |  |
-| 35.5–36.5% | 0.5% | 0.7% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0.3% | 99.9% |  |
+| 24.5–25.5% | 1.1% | 99.6% | Last Result |
+| 25.5–26.5% | 3% | 98.5% |  |
+| 26.5–27.5% | 5% | 96% |  |
+| 27.5–28.5% | 11% | 90% |  |
+| 28.5–29.5% | 18% | 80% |  |
+| 29.5–30.5% | 21% | 62% | Median |
+| 30.5–31.5% | 22% | 41% |  |
+| 31.5–32.5% | 9% | 19% |  |
+| 32.5–33.5% | 5% | 10% |  |
+| 33.5–34.5% | 3% | 5% |  |
+| 34.5–35.5% | 1.3% | 2% |  |
+| 35.5–36.5% | 0.4% | 0.5% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
 
@@ -399,13 +398,13 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 27–33 | 26–35 | 25–37 | 24–37 |
+| N/A | [Poll Average](average.html) | 28 | 27–33 | 26–34 | 25–37 | 24–37 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 28 | 27–28 | 27–28 | 27–29 | 26–30 |
 | [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 28 | 26–30 | 24–30 | 23–30 | 22–31 |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 28 | 27–29 | 27–31 | 27–31 | 26–32 |
 | [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 33 | 29–37 | 29–37 | 29–37 | 28–39 |
-| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
-| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde |  |  |  |  |  |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 31 | 28–32 | 28–32 | 26–32 | 25–32 |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 30 | 28–31 | 28–32 | 28–32 | 28–32 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 27 | 25–27 | 25–27 | 25–28 | 24–30 |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 28 | 25–30 | 25–31 | 25–32 | 25–34 |
@@ -765,19 +764,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
 | 23 | 0.2% | 99.9% |  |
-| 24 | 0.5% | 99.6% | Last Result |
-| 25 | 4% | 99.1% |  |
-| 26 | 4% | 95% |  |
-| 27 | 32% | 92% |  |
-| 28 | 24% | 60% | Median |
-| 29 | 9% | 36% |  |
-| 30 | 7% | 27% |  |
-| 31 | 4% | 20% |  |
-| 32 | 2% | 16% |  |
-| 33 | 6% | 14% |  |
-| 34 | 2% | 7% |  |
-| 35 | 1.4% | 6% |  |
-| 36 | 0.7% | 4% |  |
+| 24 | 0.4% | 99.7% | Last Result |
+| 25 | 3% | 99.3% |  |
+| 26 | 3% | 96% |  |
+| 27 | 25% | 93% |  |
+| 28 | 25% | 68% | Median |
+| 29 | 9% | 42% |  |
+| 30 | 9% | 34% |  |
+| 31 | 10% | 25% |  |
+| 32 | 4% | 15% |  |
+| 33 | 5% | 11% |  |
+| 34 | 2% | 6% |  |
+| 35 | 1.1% | 4% |  |
+| 36 | 0.5% | 3% |  |
 | 37 | 3% | 3% |  |
 | 38 | 0.1% | 0.2% |  |
 | 39 | 0.1% | 0.1% |  |
