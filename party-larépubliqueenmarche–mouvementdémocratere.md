@@ -10,7 +10,11 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.1% | 16.0–20.4% | 15.1–21.1% | 14.4–21.6% | 13.3–22.6% |
+| N/A | [Poll Average](average.html) | 18.5% | 16.4–21.4% | 16.0–22.0% | 15.6–22.5% | 14.9–23.4% |
+| [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 17.0% | 16.0–18.0% | 15.7–18.4% | 15.5–18.6% | 15.0–19.1% |
+| [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 20.0% | 18.7–21.4% | 18.4–21.8% | 18.1–22.1% | 17.5–22.8% |
+| [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 18.0% | N/A | N/A | N/A | N/A |
+| [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 21.0% | 19.5–22.7% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 18.0% | 16.9–19.1% | 16.7–19.4% | 16.4–19.7% | 15.9–20.2% |
 | [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 17.0–23.5% |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
@@ -374,20 +378,21 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% | Last Result |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.7% | 99.9% |  |
-| 13.5–14.5% | 2% | 99.2% |  |
-| 14.5–15.5% | 4% | 97% |  |
-| 15.5–16.5% | 9% | 93% |  |
-| 16.5–17.5% | 16% | 84% |  |
-| 17.5–18.5% | 29% | 68% | Median |
-| 18.5–19.5% | 18% | 39% |  |
-| 19.5–20.5% | 12% | 21% |  |
-| 20.5–21.5% | 6% | 9% |  |
-| 21.5–22.5% | 2% | 3% |  |
-| 22.5–23.5% | 0.5% | 0.6% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 2% | 99.8% |  |
+| 15.5–16.5% | 9% | 98% |  |
+| 16.5–17.5% | 17% | 88% |  |
+| 17.5–18.5% | 23% | 72% |  |
+| 18.5–19.5% | 13% | 49% | Median |
+| 19.5–20.5% | 15% | 36% |  |
+| 20.5–21.5% | 13% | 21% |  |
+| 21.5–22.5% | 6% | 8% |  |
+| 22.5–23.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.4% | 0.4% |  |
 | 24.5–25.5% | 0% | 0% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -398,7 +403,11 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–20 | 15–21 | 14–22 | 14–23 |
+| N/A | [Poll Average](average.html) | 17 | 16–20 | 16–21 | 15–22 | 14–23 |
+| [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 16 | 15–17 | 15–17 | 15–17 | 13–18 |
+| [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 17 | 17–20 | 17–21 | 17–21 | 17–22 |
+| [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 19 | 19 | 19 | 19 | 17–23 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 16 | 16–17 | 16–18 | 16–18 | 15–18 |
 | [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 19 | 18–20 | 18–22 | 18–22 | 17–24 |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 17 | 16–18 | 16–18 | 14–18 | 14–20 |
@@ -767,20 +776,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 0.2% | 99.9% |  |
-| 14 | 4% | 99.7% |  |
-| 15 | 6% | 96% |  |
-| 16 | 23% | 90% |  |
-| 17 | 28% | 67% | Median |
-| 18 | 19% | 39% |  |
-| 19 | 6% | 20% |  |
-| 20 | 9% | 14% |  |
-| 21 | 3% | 5% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.6% | 0.8% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.5% | 99.9% |  |
+| 15 | 4% | 99.4% |  |
+| 16 | 14% | 95% |  |
+| 17 | 35% | 81% | Median |
+| 18 | 10% | 46% |  |
+| 19 | 19% | 37% |  |
+| 20 | 10% | 17% |  |
+| 21 | 4% | 8% |  |
+| 22 | 3% | 4% |  |
+| 23 | 0.9% | 1.1% |  |
 | 24 | 0.1% | 0.2% |  |
-| 25 | 0% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
