@@ -10,7 +10,9 @@ Last result: **20.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.0–8.4% | 5.7–8.8% | 5.3–9.1% | 4.8–9.8% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.4–8.6% | 6.2–9.0% | 6.0–9.3% | 5.5–9.9% |
+| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 7.5% | 6.6–8.5% | 6.4–8.8% | 6.2–9.0% | 5.8–9.5% |
+| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 7.0% | 6.3–7.7% | 6.1–7.9% | 6.0–8.1% | 5.7–8.5% |
 | [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 8.0% | 7.1–8.9% | 6.9–9.2% | 6.7–9.4% | 6.3–9.9% |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 7.0% | N/A | N/A | N/A | N/A |
@@ -376,14 +378,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 4% | 99.8% |  |
-| 5.5–6.5% | 18% | 96% |  |
-| 6.5–7.5% | 47% | 78% | Median |
-| 7.5–8.5% | 23% | 31% |  |
-| 8.5–9.5% | 7% | 8% |  |
-| 9.5–10.5% | 0.9% | 0.9% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.6% | 100% |  |
+| 5.5–6.5% | 13% | 99.4% |  |
+| 6.5–7.5% | 42% | 86% | Median |
+| 7.5–8.5% | 33% | 44% |  |
+| 8.5–9.5% | 10% | 11% |  |
+| 9.5–10.5% | 1.2% | 1.3% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -405,7 +406,9 @@ Last result: **20** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 0–8 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
+| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 6–7 | 5–7 | 5–8 | 0–8 |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 8 | 7–8 | 7–9 | 5–9 | 5–9 |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
@@ -773,15 +776,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 0% | 94% |  |
-| 2 | 0% | 94% |  |
-| 3 | 0% | 94% |  |
-| 4 | 0% | 94% |  |
-| 5 | 8% | 94% |  |
-| 6 | 17% | 86% |  |
-| 7 | 52% | 70% | Median |
-| 8 | 16% | 18% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 9% | 99.9% |  |
+| 6 | 23% | 91% |  |
+| 7 | 44% | 68% | Median |
+| 8 | 22% | 24% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |

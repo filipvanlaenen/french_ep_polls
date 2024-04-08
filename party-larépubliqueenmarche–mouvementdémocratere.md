@@ -10,7 +10,9 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.5% | 16.4–21.4% | 16.0–22.0% | 15.6–22.5% | 14.9–23.4% |
+| N/A | [Poll Average](average.html) | 18.2% | 16.0–20.8% | 15.6–21.3% | 15.2–21.8% | 14.5–22.7% |
+| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 19.0% | 17.7–20.4% | 17.3–20.8% | 17.0–21.2% | 16.4–21.9% |
+| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16.5% | 15.3–17.8% | 15.0–18.1% | 14.7–18.5% | 14.1–19.1% |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 17.0% | 16.0–18.0% | 15.7–18.4% | 15.5–18.6% | 15.0–19.1% |
 | [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 20.0% | 18.7–21.4% | 18.4–21.8% | 18.1–22.1% | 17.5–22.8% |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 18.0% | N/A | N/A | N/A | N/A |
@@ -380,19 +382,18 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 2% | 99.8% |  |
-| 15.5–16.5% | 9% | 98% |  |
-| 16.5–17.5% | 17% | 88% |  |
-| 17.5–18.5% | 23% | 72% |  |
-| 18.5–19.5% | 13% | 49% | Median |
-| 19.5–20.5% | 15% | 36% |  |
-| 20.5–21.5% | 13% | 21% |  |
-| 21.5–22.5% | 6% | 8% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0.5% | 100% |  |
+| 14.5–15.5% | 4% | 99.5% |  |
+| 15.5–16.5% | 14% | 95% |  |
+| 16.5–17.5% | 20% | 81% |  |
+| 17.5–18.5% | 16% | 61% | Median |
+| 18.5–19.5% | 16% | 44% |  |
+| 19.5–20.5% | 15% | 28% |  |
+| 20.5–21.5% | 9% | 13% |  |
+| 21.5–22.5% | 3% | 4% |  |
+| 22.5–23.5% | 0.6% | 0.6% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
-| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -403,7 +404,9 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–20 | 16–21 | 15–22 | 14–23 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 15–21 | 14–22 |
+| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 17 | 17–18 | 16–18 | 16–18 | 15–20 |
+| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 17 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 16 | 15–17 | 15–17 | 15–17 | 13–18 |
 | [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 17 | 17–20 | 17–21 | 17–21 | 17–22 |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
@@ -777,20 +780,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 0.5% | 99.9% |  |
-| 15 | 4% | 99.4% |  |
-| 16 | 14% | 95% |  |
-| 17 | 35% | 81% | Median |
-| 18 | 10% | 46% |  |
-| 19 | 19% | 37% |  |
-| 20 | 10% | 17% |  |
-| 21 | 4% | 8% |  |
-| 22 | 3% | 4% |  |
-| 23 | 0.9% | 1.1% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 0.8% | 99.8% |  |
+| 15 | 9% | 98.9% |  |
+| 16 | 14% | 90% |  |
+| 17 | 48% | 76% | Median |
+| 18 | 11% | 27% |  |
+| 19 | 8% | 16% |  |
+| 20 | 6% | 8% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.9% | 1.1% |  |
+| 23 | 0.1% | 0.2% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0.1% |  |
-| 27 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
 
 
