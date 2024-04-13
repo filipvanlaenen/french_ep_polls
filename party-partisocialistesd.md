@@ -398,11 +398,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–13 | 8–13 | 8–14 |
-| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
-| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
-| [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
-| [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 10 | 9–12 | 9–12 | 9–14 | 8–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
+| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 9 | 9–11 | 8–12 | 8–12 | 8–12 |
+| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
+| [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 10 | 10–12 | 10–12 | 10–12 | 10–14 |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12 | 12 | 12 | 10–12 | 9–12 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
@@ -769,13 +769,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.2% | 100% |  |
-| 8 | 3% | 99.8% |  |
-| 9 | 17% | 97% |  |
-| 10 | 36% | 80% | Median |
-| 11 | 24% | 45% |  |
-| 12 | 13% | 21% |  |
-| 13 | 7% | 8% | Last Result |
-| 14 | 0.9% | 0.9% |  |
+| 8 | 2% | 99.8% |  |
+| 9 | 17% | 98% |  |
+| 10 | 37% | 81% | Median |
+| 11 | 19% | 44% |  |
+| 12 | 20% | 26% |  |
+| 13 | 6% | 6% | Last Result |
+| 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 

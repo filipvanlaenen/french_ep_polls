@@ -397,11 +397,11 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 0–10 |
-| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5–6 | 5–6 | 5–6 | 0–6 |
-| [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 6 | 5–6 | 0–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–8 | 4–9 | 4–10 |
+| [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
+| [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 4 | 4–5 | 4–5 | 4–6 | 4–7 |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 6 | 6 | 6–7 | 6–7 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -767,17 +767,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% |  |
-| 1 | 0% | 98.8% |  |
-| 2 | 0% | 98.8% |  |
-| 3 | 0% | 98.8% |  |
-| 4 | 0.3% | 98.8% |  |
-| 5 | 23% | 98.5% |  |
-| 6 | 28% | 75% | Last Result, Median |
-| 7 | 19% | 47% |  |
-| 8 | 24% | 28% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0.5% | 0.6% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 11% | 99.9% |  |
+| 5 | 20% | 89% |  |
+| 6 | 19% | 69% | Last Result |
+| 7 | 23% | 50% | Median |
+| 8 | 22% | 27% |  |
+| 9 | 3% | 4% |  |
+| 10 | 0.9% | 0.9% |  |
 | 11 | 0% | 0% |  |
 
 
