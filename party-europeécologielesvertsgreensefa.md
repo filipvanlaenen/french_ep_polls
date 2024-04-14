@@ -397,7 +397,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 4–9 | 4–10 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–9 | 4–9 | 4–10 |
 | [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -406,10 +406,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 6 | 6–7 | 5–7 | 5–8 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
-| [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
-| [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 7 | 6–8 | 5–8 | 5–9 | 0–9 |
-| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 10 | 8–10 | 8–10 | 8–11 | 8–11 |
-| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
+| [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 10 | 9–10 | 8–10 | 8–11 | 7–11 |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 9 | 8–9 | 8–9 | 7–9 | 6–9 |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
@@ -772,12 +772,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.9% |  |
 | 3 | 0% | 99.9% |  |
 | 4 | 11% | 99.9% |  |
-| 5 | 19% | 89% |  |
-| 6 | 20% | 70% | Last Result, Median |
-| 7 | 26% | 50% |  |
-| 8 | 19% | 24% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0.8% | 0.8% |  |
+| 5 | 18% | 89% |  |
+| 6 | 20% | 70% | Last Result |
+| 7 | 26% | 50% | Median |
+| 8 | 18% | 24% |  |
+| 9 | 4% | 6% |  |
+| 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 

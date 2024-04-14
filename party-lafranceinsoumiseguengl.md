@@ -398,7 +398,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 0–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 0–9 |
 | [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 6 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
@@ -409,8 +409,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 5–6 | 0–7 | 0–7 | 0–8 |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 5 | 5–7 | 0–7 | 0–8 | 0–8 |
-| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 7–8 | 7–9 | 7–9 | 6–10 |
-| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [1–6 March 2024](2024-03-06-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 7 | 7 | 6–9 | 6–9 | 6–9 |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 7 | 5–8 | 5–8 | 5–8 | 0–9 |
@@ -774,11 +774,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 99.0% |  |
 | 4 | 0% | 99.0% |  |
 | 5 | 7% | 99.0% |  |
-| 6 | 23% | 92% |  |
-| 7 | 39% | 68% | Median |
-| 8 | 26% | 30% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0.2% | 0.3% |  |
+| 6 | 22% | 92% |  |
+| 7 | 40% | 69% | Median |
+| 8 | 23% | 29% |  |
+| 9 | 6% | 7% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
