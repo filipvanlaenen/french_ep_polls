@@ -399,15 +399,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 0–6 | 0–6 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 0–6 | 0–8 | 0–8 |
 | [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
 | [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5–6 | 5–6 | 0–6 | 0–7 |
 | [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 6 | 5–6 | 5–6 | 5–6 | 0–6 |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 5 | 5 | 5–6 | 0–7 |
+| [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 0–6 | 0–6 | 0–7 | 0–7 |
+| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 0–6 | 0–7 | 0–7 | 0–8 |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 6 | 5–8 | 0–8 | 0–8 | 0–8 |
 | [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0–5 | 0–5 | 0–6 |
@@ -769,14 +769,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 10% | 89% |  |
-| 5 | 35% | 80% | Median |
-| 6 | 41% | 45% |  |
-| 7 | 1.1% | 4% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 0% | 92% |  |
+| 3 | 0% | 92% |  |
+| 4 | 10% | 92% |  |
+| 5 | 36% | 82% | Median |
+| 6 | 41% | 46% |  |
+| 7 | 2% | 5% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 

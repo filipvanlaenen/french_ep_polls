@@ -404,15 +404,15 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 27–31 | 26–31 | 26–32 | 24–33 |
+| N/A | [Poll Average](average.html) | 28 | 27–31 | 26–31 | 25–32 | 23–33 |
 | [5–7 April 2024](2024-04-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 31 | 28–33 | 28–33 | 28–33 | 27–33 |
 | [2–4 April 2024](2024-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 27 | 27–30 | 27–31 | 27–31 | 26–33 |
 | [28–29 March 2024](2024-03-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 28 | 27–30 | 27–30 | 27–32 | 27–32 |
 | [27–28 March 2024](2024-03-28-BVA.html) | BVA <br> RTL | 27 | 27–28 | 27–28 | 27–28 | 27–28 |
 | [22–25 March 2024](2024-03-25-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 26 | 26 | 26 | 26–29 | 26–30 |
+| [19–20 March 2024](2024-03-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 26 | 26–31 | 26–31 | 26–31 | 26–34 |
 | [15–18 March 2024](2024-03-18-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 28 | 27–28 | 27–28 | 27–29 | 26–30 |
-| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 28 | 26–30 | 24–30 | 23–30 | 22–31 |
+| [13–14 March 2024](2024-03-14-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 27 | 25–30 | 24–30 | 23–30 | 22–31 |
 | [8–9 March 2024](2024-03-09-Cluster17.html) | Cluster17 <br> Le Point | 28 | 27–29 | 27–31 | 27–31 | 26–32 |
 | [26 February–7 March 2024](2024-03-07-YouGov.html) | YouGov <br> HuffPost | 33 | 29–37 | 29–37 | 29–37 | 28–39 |
 | [5–7 March 2024](2024-03-07-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 31 | 28–32 | 28–32 | 26–32 | 25–32 |
@@ -774,17 +774,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.2% | 100% |  |
-| 23 | 0.3% | 99.8% |  |
-| 24 | 0.5% | 99.5% | Last Result |
-| 25 | 0.5% | 99.0% |  |
-| 26 | 4% | 98.5% |  |
-| 27 | 34% | 95% |  |
-| 28 | 26% | 61% | Median |
-| 29 | 9% | 35% |  |
-| 30 | 14% | 26% |  |
-| 31 | 10% | 13% |  |
-| 32 | 1.2% | 3% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.4% | 99.9% |  |
+| 24 | 0.5% | 99.4% | Last Result |
+| 25 | 2% | 98.9% |  |
+| 26 | 3% | 96% |  |
+| 27 | 36% | 94% |  |
+| 28 | 25% | 58% | Median |
+| 29 | 8% | 33% |  |
+| 30 | 12% | 24% |  |
+| 31 | 9% | 13% |  |
+| 32 | 1.3% | 3% |  |
 | 33 | 2% | 2% |  |
 | 34 | 0% | 0% |  |
 
