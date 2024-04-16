@@ -420,8 +420,8 @@ Last result: **24** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [29 February–1 March 2024](2024-03-01-Ifop–Fiducial.html) | Ifop–Fiducial <br> JDD | 27 | 25–27 | 25–27 | 25–28 | 24–30 |
 | [27–28 February 2024](2024-02-28-BVA.html) | BVA <br> RTL | 28 | 25–30 | 25–31 | 25–32 | 25–34 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 32 | 29–35 | 28–35 | 27–35 | 26–37 |
-| [21–22 February 2024](2024-02-22-Odoxa.html) | Odoxa <br> Public Sénat | 27 | 27–28 | 26–29 | 26–29 | 24–30 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 31 | 29–34 | 28–35 | 27–35 | 26–37 |
+| [21–22 February 2024](2024-02-22-Odoxa.html) | Odoxa <br> Public Sénat | 27 | 27–30 | 26–30 | 26–30 | 24–31 |
 | [14–15 February 2024](2024-02-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 27 | 25–28 | 24–28 | 24–28 | 23–28 |
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 31 | 28–31 | 27–31 | 26–31 | 25–31 |
 | [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 29 | 26–29 | 26–29 | 25–29 | 25–29 |
