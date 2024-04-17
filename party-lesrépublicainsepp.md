@@ -428,7 +428,7 @@ Last result: **20** seats (General Election of 26 May 2019)
 | [7–9 February 2024](2024-02-09-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [7–8 February 2024](2024-02-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [29 January–7 February 2024](2024-02-07-YouGov.html) | YouGov | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 8 | 7–8 | 6–9 | 6–10 | 5–12 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 8 | 7–9 | 6–9 | 6–10 | 5–12 |
 | [17–18 January 2024](2024-01-18-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [16–17 January 2024](2024-01-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Nouvel Economiste | 5 | 5–6 | 5–6 | 5–7 | 0–7 |
 | [8–15 January 2024](2024-01-15-YouGov.html) | YouGov | 5 | 4–6 | 0–6 | 0–7 | 0–7 |
