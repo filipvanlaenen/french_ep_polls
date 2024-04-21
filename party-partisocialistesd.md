@@ -415,7 +415,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–14 | 10–15 | 9–15 | 9–15 |
-| [15–18 April 2024](2024-04-18-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 10 | 9–12 | 9–12 | 9–12 | 9–12 |
+| [15–18 April 2024](2024-04-18-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [16–17 April 2024](2024-04-17-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [13–17 April 2024](2024-04-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [12–16 April 2024](2024-04-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
@@ -801,10 +801,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
-| 9 | 3% | 99.9% |  |
-| 10 | 25% | 97% |  |
-| 11 | 26% | 72% | Median |
-| 12 | 16% | 46% |  |
+| 9 | 2% | 99.9% |  |
+| 10 | 24% | 97% |  |
+| 11 | 27% | 73% | Median |
+| 12 | 17% | 46% |  |
 | 13 | 17% | 29% | Last Result |
 | 14 | 7% | 12% |  |
 | 15 | 6% | 6% |  |
