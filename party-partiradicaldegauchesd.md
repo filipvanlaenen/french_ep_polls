@@ -10,7 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.1–1.0% | 0.1–1.2% | 0.1–1.4% | 0.0–1.7% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.1% | 0.1–1.3% | 0.1–1.4% | 0.1–1.8% |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.5% | N/A | N/A | N/A | N/A |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
+| [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
+| [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 0.1% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% | 0.0–0.7% |
+| [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.1% | N/A | N/A | N/A | N/A |
+| [23–25 April 2024](2024-04-25-Cluster17.html) | Cluster17 <br> Le Point | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [23–24 April 2024](2024-04-24-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 0.3% | N/A | N/A | N/A | N/A |
+| [19–24 April 2024](2024-04-24-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 0.5% | 0.4–0.6% | 0.4–0.6% | 0.4–0.7% | 0.3–0.7% |
 | [20–24 April 2024](2024-04-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.1% | 0.1–0.4% | 0.1–0.5% | 0.0–0.5% | 0.0–0.7% |
 | [19–23 April 2024](2024-04-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
 | [18–22 April 2024](2024-04-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
@@ -400,9 +410,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 60% | 100% | Last Result, Median |
-| 0.5–1.5% | 39% | 40% |  |
-| 1.5–2.5% | 1.2% | 1.2% |  |
+| 0.0–0.5% | 58% | 100% | Last Result |
+| 0.5–1.5% | 41% | 42% | Median |
+| 1.5–2.5% | 1.5% | 1.5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -415,6 +425,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0 | 0 | 0 |
+| [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 0 | 0 | 0 | 0 | 0 |
+| [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
+| [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [23–25 April 2024](2024-04-25-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
+| [23–24 April 2024](2024-04-24-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
+| [19–24 April 2024](2024-04-24-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 0 | 0 | 0 | 0 | 0 |
 | [20–24 April 2024](2024-04-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [19–23 April 2024](2024-04-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [18–22 April 2024](2024-04-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |

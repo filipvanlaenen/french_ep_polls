@@ -10,7 +10,17 @@ Last result: **14.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.4% | 10.9–13.8% | 10.5–14.2% | 10.2–14.5% | 9.6–15.2% |
+| N/A | [Poll Average](average.html) | 12.8% | 11.2–14.3% | 10.9–14.7% | 10.5–15.2% | 9.9–16.2% |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 13.0% | N/A | N/A | N/A | N/A |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14.5% | N/A | N/A | N/A | N/A |
+| [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 12.0% | 10.8–13.5% | 10.5–13.9% | 10.2–14.2% | 9.6–14.9% |
+| [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14.0% | 12.8–15.3% | 12.5–15.6% | 12.2–15.9% | 11.7–16.6% |
+| [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 13.0% | 11.9–14.2% | 11.6–14.5% | 11.3–14.8% | 10.8–15.4% |
+| [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 14.0% | 12.7–15.5% | 12.3–16.0% | 12.0–16.3% | 11.4–17.1% |
+| [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 13.0% | N/A | N/A | N/A | N/A |
+| [23–25 April 2024](2024-04-25-Cluster17.html) | Cluster17 <br> Le Point | 12.5% | 11.4–13.9% | 11.0–14.3% | 10.8–14.6% | 10.2–15.2% |
+| [23–24 April 2024](2024-04-24-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 13.0% | N/A | N/A | N/A | N/A |
+| [19–24 April 2024](2024-04-24-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 14.0% | 13.6–14.4% | 13.4–14.6% | 13.4–14.7% | 13.1–14.9% |
 | [20–24 April 2024](2024-04-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12.5% | 11.4–13.7% | 11.1–14.1% | 10.8–14.4% | 10.3–15.0% |
 | [19–23 April 2024](2024-04-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12.0% | N/A | N/A | N/A | N/A |
 | [18–22 April 2024](2024-04-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12.0% | N/A | N/A | N/A | N/A |
@@ -401,15 +411,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.4% | 100% |  |
-| 9.5–10.5% | 5% | 99.6% |  |
-| 10.5–11.5% | 18% | 95% |  |
-| 11.5–12.5% | 32% | 76% | Median |
-| 12.5–13.5% | 30% | 45% |  |
-| 13.5–14.5% | 12% | 14% | Last Result |
-| 14.5–15.5% | 2% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 13% | 97% |  |
+| 11.5–12.5% | 26% | 84% |  |
+| 12.5–13.5% | 26% | 58% | Median |
+| 13.5–14.5% | 25% | 32% | Last Result |
+| 14.5–15.5% | 5% | 7% |  |
+| 15.5–16.5% | 1.3% | 1.5% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -420,7 +431,17 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 10–14 | 9–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–15 | 9–16 |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 12 | 10–12 | 9–12 | 9–15 | 9–15 |
+| [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 13 | 12–13 | 11–13 | 11–14 | 11–15 |
+| [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 12 | 12 | 11–12 | 11–12 | 11–12 |
+| [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 12 | 12–15 | 11–15 | 10–16 | 9–17 |
+| [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [23–25 April 2024](2024-04-25-Cluster17.html) | Cluster17 <br> Le Point | 12 | 11–13 | 11–14 | 11–15 | 10–15 |
+| [23–24 April 2024](2024-04-24-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
+| [19–24 April 2024](2024-04-24-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 13 | 13 | 13 | 12–13 | 12–13 |
 | [20–24 April 2024](2024-04-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
 | [19–23 April 2024](2024-04-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [18–22 April 2024](2024-04-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
@@ -812,13 +833,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.6% | 100% |  |
-| 10 | 18% | 99.4% |  |
-| 11 | 31% | 82% |  |
-| 12 | 24% | 51% | Median |
-| 13 | 22% | 27% | Last Result |
-| 14 | 5% | 5% |  |
-| 15 | 0.2% | 0.2% |  |
-| 16 | 0% | 0% |  |
+| 9 | 1.3% | 100% |  |
+| 10 | 7% | 98.6% |  |
+| 11 | 21% | 91% |  |
+| 12 | 42% | 71% | Median |
+| 13 | 22% | 29% | Last Result |
+| 14 | 4% | 7% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.2% | 0.5% |  |
+| 17 | 0.3% | 0.3% |  |
+| 18 | 0% | 0% |  |
 
 
