@@ -10,9 +10,9 @@ Last result: **9.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.7–8.6% | 5.3–9.0% | 5.1–9.4% | 4.6–10.0% |
-| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6.0% | N/A | N/A | N/A | N/A |
-| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.8% | 5.6–8.5% | 5.4–9.0% | 5.1–9.3% | 4.7–9.9% |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.1–7.0% | 4.8–7.4% |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7.5% | 6.7–8.5% | 6.4–8.8% | 6.2–9.1% | 5.8–9.6% |
 | [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 8.0% | 7.1–9.1% | 6.9–9.4% | 6.7–9.6% | 6.3–10.1% |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
@@ -411,13 +411,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 7% | 99.6% |  |
-| 5.5–6.5% | 32% | 92% |  |
-| 6.5–7.5% | 29% | 60% | Median |
-| 7.5–8.5% | 19% | 30% |  |
-| 8.5–9.5% | 10% | 11% | Last Result |
-| 9.5–10.5% | 2% | 2% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 8% | 99.7% |  |
+| 5.5–6.5% | 34% | 92% |  |
+| 6.5–7.5% | 29% | 58% | Median |
+| 7.5–8.5% | 19% | 29% |  |
+| 8.5–9.5% | 9% | 10% | Last Result |
+| 9.5–10.5% | 1.3% | 1.3% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -430,9 +430,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 0–9 |
-| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 0–9 | 0–9 |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5–6 | 0–6 | 0–6 | 0–7 |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7 | 5–7 | 5–7 | 5–8 | 5–9 |
 | [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 7 | 7 | 7–9 | 7–9 | 7–9 |
@@ -832,17 +832,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 0% | 98% |  |
-| 4 | 0.3% | 98% |  |
-| 5 | 26% | 98% |  |
-| 6 | 28% | 72% | Last Result, Median |
-| 7 | 25% | 44% |  |
-| 8 | 16% | 20% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.5% | 0.5% |  |
+| 0 | 3% | 100% |  |
+| 1 | 0% | 97% |  |
+| 2 | 0% | 97% |  |
+| 3 | 0% | 97% |  |
+| 4 | 0.2% | 97% |  |
+| 5 | 30% | 97% |  |
+| 6 | 25% | 67% | Last Result, Median |
+| 7 | 26% | 42% |  |
+| 8 | 13% | 16% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |
 
 

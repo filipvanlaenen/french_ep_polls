@@ -10,9 +10,9 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.4% | 28.1–32.5% | 27.5–33.0% | 27.0–33.6% | 26.0–34.8% |
-| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 31.0% | N/A | N/A | N/A | N/A |
-| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 30.7% | 28.3–32.6% | 27.7–33.1% | 27.1–33.6% | 26.1–34.7% |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 31.0% | 29.8–32.3% | 29.4–32.6% | 29.1–32.9% | 28.6–33.5% |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.5% | 29.9–33.2% | 29.5–33.7% | 29.1–34.1% | 28.3–34.9% |
 | [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.5% | 29.9–33.2% | 29.5–33.7% | 29.1–34.1% | 28.3–34.9% |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 31.0% | 29.5–32.6% | 29.1–33.1% | 28.7–33.5% | 28.0–34.3% |
@@ -411,17 +411,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.2% | 100% | Last Result |
-| 25.5–26.5% | 1.1% | 99.8% |  |
-| 26.5–27.5% | 4% | 98.7% |  |
-| 27.5–28.5% | 10% | 94% |  |
-| 28.5–29.5% | 17% | 84% |  |
-| 29.5–30.5% | 19% | 67% | Median |
-| 30.5–31.5% | 18% | 48% |  |
-| 31.5–32.5% | 20% | 29% |  |
-| 32.5–33.5% | 6% | 9% |  |
+| 24.5–25.5% | 0.1% | 100% | Last Result |
+| 25.5–26.5% | 0.9% | 99.9% |  |
+| 26.5–27.5% | 3% | 99.0% |  |
+| 27.5–28.5% | 8% | 96% |  |
+| 28.5–29.5% | 15% | 87% |  |
+| 29.5–30.5% | 19% | 73% |  |
+| 30.5–31.5% | 22% | 53% | Median |
+| 31.5–32.5% | 22% | 32% |  |
+| 32.5–33.5% | 7% | 10% |  |
 | 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.6% | 0.7% |  |
+| 34.5–35.5% | 0.5% | 0.7% |  |
 | 35.5–36.5% | 0.1% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
@@ -434,9 +434,9 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 26–32 | 26–34 | 25–34 | 24–34 |
-| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 29 | 27–32 | 26–34 | 26–34 | 24–34 |
+| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 29 | 28–31 | 28–32 | 27–32 | 26–32 |
+| [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 27–30 | 27–31 | 27–31 | 27–32 |
 | [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 33 | 29–34 | 29–34 | 29–34 | 28–35 |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 28–30 | 27–30 | 26–32 | 26–33 |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 29 | 29 | 29 | 29 | 29 |
@@ -836,18 +836,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.7% | 100% | Last Result |
-| 25 | 2% | 99.3% |  |
-| 26 | 7% | 97% |  |
-| 27 | 11% | 90% |  |
-| 28 | 15% | 79% |  |
-| 29 | 26% | 64% | Median |
-| 30 | 22% | 38% |  |
-| 31 | 4% | 16% |  |
-| 32 | 3% | 12% |  |
-| 33 | 2% | 9% |  |
-| 34 | 7% | 7% |  |
-| 35 | 0.2% | 0.2% |  |
+| 24 | 0.6% | 100% | Last Result |
+| 25 | 2% | 99.4% |  |
+| 26 | 6% | 98% |  |
+| 27 | 12% | 92% |  |
+| 28 | 14% | 80% |  |
+| 29 | 27% | 66% | Median |
+| 30 | 25% | 39% |  |
+| 31 | 4% | 14% |  |
+| 32 | 4% | 10% |  |
+| 33 | 1.2% | 7% |  |
+| 34 | 5% | 6% |  |
+| 35 | 0.1% | 0.2% |  |
 | 36 | 0% | 0% |  |
 
 
