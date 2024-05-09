@@ -11,10 +11,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
-| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 May 2024](2024-05-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [30 April–3 May 2024](2024-05-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [30 April–3 May 2024](2024-05-03-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.0% | N/A | N/A | N/A | N/A |
+| [30 April–3 May 2024](2024-05-03-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.0% | N/A | N/A | N/A | N/A |
+| [29 April–2 May 2024](2024-05-02-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
+| [29 April–2 May 2024](2024-05-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [29 April–1 May 2024](2024-05-01-Cluster17.html) | Cluster17 <br> Le Point | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
-| [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat | 0.0% | N/A | N/A | N/A | N/A |
+| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
@@ -425,10 +435,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [26–30 April 2024](2024-04-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [2–6 May 2024](2024-05-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [30 April–3 May 2024](2024-05-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [30 April–3 May 2024](2024-05-03-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [30 April–3 May 2024](2024-05-03-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
+| [29 April–2 May 2024](2024-05-02-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique |  |  |  |  |  |
+| [29 April–2 May 2024](2024-05-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [29 April–1 May 2024](2024-05-01-Cluster17.html) | Cluster17 <br> Le Point |  |  |  |  |  |
+| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
+| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [27–28 April 2024](2024-04-28-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
+| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL |  |  |  |  |  |
 | [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique |  |  |  |  |  |
 | [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
