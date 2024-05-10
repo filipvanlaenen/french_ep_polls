@@ -458,7 +458,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5–6 | 5–6 | 4–6 | 0–6 |
+| [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 6 | 5–6 | 5–6 | 5–6 | 0–6 |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 5 | 5 | 5 | 5 | 5 |
 | [24–25 April 2024](2024-04-25-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
 | [22–25 April 2024](2024-04-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
