@@ -10,7 +10,9 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.2% | 28.8–32.9% | 28.2–33.4% | 27.6–34.0% | 26.5–35.0% |
+| N/A | [Poll Average](average.html) | 31.4% | 29.4–33.1% | 28.8–33.6% | 28.3–34.1% | 27.3–35.1% |
+| [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.8% | 30.2–33.5% | 29.8–34.0% | 29.4–34.4% | 28.6–35.2% |
+| [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.5% | N/A | N/A | N/A | N/A |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.5% | 29.9–33.2% | 29.4–33.6% | 29.0–34.0% | 28.3–34.8% |
 | [2–6 May 2024](2024-05-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 32.0% | N/A | N/A | N/A | N/A |
 | [30 April–3 May 2024](2024-05-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31.5% | N/A | N/A | N/A | N/A |
@@ -420,19 +422,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% | Last Result |
-| 25.5–26.5% | 0.4% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.5% |  |
-| 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 11% | 92% |  |
-| 29.5–30.5% | 17% | 82% |  |
-| 30.5–31.5% | 24% | 65% | Median |
-| 31.5–32.5% | 26% | 41% |  |
-| 32.5–33.5% | 11% | 15% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 0.8% | 1.0% |  |
-| 35.5–36.5% | 0.1% | 0.2% |  |
+| 24.5–25.5% | 0% | 100% | Last Result |
+| 25.5–26.5% | 0.1% | 100% |  |
+| 26.5–27.5% | 0.7% | 99.9% |  |
+| 27.5–28.5% | 3% | 99.2% |  |
+| 28.5–29.5% | 8% | 96% |  |
+| 29.5–30.5% | 16% | 88% |  |
+| 30.5–31.5% | 25% | 72% | Median |
+| 31.5–32.5% | 29% | 47% |  |
+| 32.5–33.5% | 12% | 18% |  |
+| 33.5–34.5% | 4% | 5% |  |
+| 34.5–35.5% | 1.0% | 1.2% |  |
+| 35.5–36.5% | 0.2% | 0.2% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -444,7 +445,9 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 27–32 | 26–33 | 24–34 | 24–35 |
+| N/A | [Poll Average](average.html) | 29 | 26–32 | 26–34 | 24–34 | 24–35 |
+| [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 26 | 26–29 | 26–31 | 26–32 | 26–32 |
+| [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 28 | 27–32 | 26–33 | 26–33 | 24–33 |
 | [2–6 May 2024](2024-05-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [30 April–3 May 2024](2024-05-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
@@ -857,17 +860,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 3% | 100% | Last Result |
-| 25 | 1.1% | 97% |  |
-| 26 | 3% | 96% |  |
-| 27 | 7% | 92% |  |
-| 28 | 27% | 86% |  |
-| 29 | 22% | 59% | Median |
-| 30 | 17% | 37% |  |
-| 31 | 7% | 20% |  |
+| 25 | 0.1% | 97% |  |
+| 26 | 11% | 96% |  |
+| 27 | 3% | 86% |  |
+| 28 | 26% | 83% |  |
+| 29 | 21% | 57% | Median |
+| 30 | 18% | 37% |  |
+| 31 | 7% | 19% |  |
 | 32 | 4% | 12% |  |
 | 33 | 3% | 8% |  |
-| 34 | 4% | 5% |  |
-| 35 | 0.5% | 0.5% |  |
+| 34 | 5% | 5% |  |
+| 35 | 0.5% | 0.6% |  |
 | 36 | 0% | 0% |  |
 
 

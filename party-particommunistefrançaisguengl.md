@@ -10,7 +10,9 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.6–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.7% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.6–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.7% |
+| [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.5% | N/A | N/A | N/A | N/A |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.5% | 1.6–3.8% |
 | [2–6 May 2024](2024-05-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 3.0% | N/A | N/A | N/A | N/A |
 | [30 April–3 May 2024](2024-05-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 3.0% | N/A | N/A | N/A | N/A |
@@ -422,9 +424,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 61% | 92% | Median |
-| 2.5–3.5% | 31% | 31% |  |
-| 3.5–4.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 59% | 92% | Median |
+| 2.5–3.5% | 32% | 33% |  |
+| 3.5–4.5% | 0.9% | 1.0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
@@ -439,6 +441,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [2–6 May 2024](2024-05-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [30 April–3 May 2024](2024-05-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
