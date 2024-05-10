@@ -453,10 +453,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 April–2 May 2024](2024-05-02-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [29 April–2 May 2024](2024-05-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [29 April–1 May 2024](2024-05-01-Cluster17.html) | Cluster17 <br> Le Point | 5 | 5–6 | 0–6 | 0–6 | 0–7 |
-| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 5–6 | 5–7 | 5–7 | 0–7 |
 | [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
-| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5–6 | 5–6 | 4–6 | 0–6 |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 5 | 5 | 5 | 5 | 5 |
@@ -856,13 +856,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0% | 84% |  |
-| 4 | 0.8% | 84% |  |
-| 5 | 55% | 83% | Median |
-| 6 | 14% | 28% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 0% | 85% |  |
+| 4 | 0.8% | 85% |  |
+| 5 | 55% | 84% | Median |
+| 6 | 15% | 30% |  |
 | 7 | 4% | 14% |  |
 | 8 | 4% | 10% |  |
 | 9 | 3% | 6% |  |

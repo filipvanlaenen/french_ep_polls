@@ -450,10 +450,10 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [29 April–2 May 2024](2024-05-02-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 5 | 5–6 | 5–6 | 4–6 | 0–7 |
 | [29 April–2 May 2024](2024-05-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [29 April–1 May 2024](2024-05-01-Cluster17.html) | Cluster17 <br> Le Point | 8 | 7–8 | 6–8 | 5–9 | 5–10 |
-| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 6 | 5–7 | 5–8 | 4–8 | 0–8 |
-| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
+| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 6 | 6–7 | 5–7 | 5–8 | 0–8 |
+| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 7 | 7 | 6–7 | 6–7 | 6–7 |
@@ -858,12 +858,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 95% |  |
 | 3 | 0% | 95% |  |
 | 4 | 0.5% | 95% |  |
-| 5 | 12% | 94% |  |
-| 6 | 25% | 82% |  |
-| 7 | 21% | 57% | Median |
+| 5 | 13% | 94% |  |
+| 6 | 23% | 81% |  |
+| 7 | 20% | 58% | Median |
 | 8 | 30% | 37% |  |
 | 9 | 6% | 7% |  |
-| 10 | 0.7% | 0.7% |  |
+| 10 | 0.6% | 0.7% |  |
 | 11 | 0% | 0% |  |
 
 

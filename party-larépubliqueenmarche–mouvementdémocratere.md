@@ -453,10 +453,10 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [29 April–2 May 2024](2024-05-02-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 16 | 14–17 | 14–17 | 14–17 | 14–19 |
 | [29 April–2 May 2024](2024-05-02-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [29 April–1 May 2024](2024-05-01-Cluster17.html) | Cluster17 <br> Le Point | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 17 | 15–18 | 14–18 | 13–18 | 12–19 |
-| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [29–30 April 2024](2024-04-30-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 15 | 14–17 | 13–18 | 13–18 | 13–19 |
+| [26–30 April 2024](2024-04-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 14–16 | 13–16 | 13–16 | 12–18 |
 | [25–29 April 2024](2024-04-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 16 | 13–17 | 13–17 | 13–17 | 13–18 |
+| [25–26 April 2024](2024-04-26-Odoxa.html) | Odoxa <br> Public Sénat | 15 | 13–17 | 13–17 | 13–17 | 13–18 |
 | [23–26 April 2024](2024-04-26-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [24–26 April 2024](2024-04-26-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 16 | 14–16 | 14–16 | 14–17 | 13–18 |
 | [25–26 April 2024](2024-04-26-BVA.html) | BVA <br> RTL | 15 | 15 | 15 | 15 | 15–16 |
@@ -862,11 +862,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.3% | 100% |  |
-| 13 | 4% | 99.7% |  |
-| 14 | 13% | 96% |  |
-| 15 | 34% | 83% | Median |
-| 16 | 28% | 49% |  |
-| 17 | 9% | 21% |  |
+| 13 | 3% | 99.7% |  |
+| 14 | 14% | 96% |  |
+| 15 | 35% | 83% | Median |
+| 16 | 27% | 48% |  |
+| 17 | 8% | 21% |  |
 | 18 | 7% | 13% |  |
 | 19 | 3% | 5% |  |
 | 20 | 2% | 2% |  |
