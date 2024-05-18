@@ -462,13 +462,13 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 13 | 12–14 | 12–16 | 12–16 | 10–16 |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 13 | 11–15 | 11–15 | 11–15 | 11–16 |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 13 | 13–16 | 12–16 | 12–16 | 11–16 |
+| [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 13 | 12–14 | 12–16 | 12–16 | 11–16 |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [10–13 May 2024](2024-05-13-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 14 | 12–15 | 12–15 | 12–15 | 12–15 |
+| [10–13 May 2024](2024-05-13-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 13 | 12–15 | 12–15 | 12–15 | 12–15 |
 | [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12 | 11–12 | 10–12 | 10–13 | 10–14 |
 | [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [6–9 May 2024](2024-05-09-Cluster17.html) | Cluster17 <br> Le Point | 12 | 12–13 | 12–13 | 10–14 | 10–15 |
+| [6–9 May 2024](2024-05-09-Cluster17.html) | Cluster17 <br> Le Point | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [6–7 May 2024](2024-05-07-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [5–6 May 2024](2024-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
@@ -884,13 +884,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.9% | 100% |  |
 | 10 | 3% | 99.1% |  |
-| 11 | 7% | 96% |  |
-| 12 | 35% | 89% |  |
-| 13 | 33% | 54% | Last Result, Median |
-| 14 | 14% | 21% |  |
+| 11 | 8% | 96% |  |
+| 12 | 36% | 88% |  |
+| 13 | 34% | 52% | Last Result, Median |
+| 14 | 12% | 19% |  |
 | 15 | 5% | 7% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0% | 0.1% |  |
+| 16 | 1.5% | 2% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 

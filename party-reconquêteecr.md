@@ -464,13 +464,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 6 | 5–6 | 5–6 | 0–7 | 0–8 |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
+| [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [10–13 May 2024](2024-05-13-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 6 | 5–7 | 4–7 | 4–7 |
 | [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [6–9 May 2024](2024-05-09-Cluster17.html) | Cluster17 <br> Le Point | 5 | 5–6 | 5–6 | 0–6 | 0–8 |
+| [6–9 May 2024](2024-05-09-Cluster17.html) | Cluster17 <br> Le Point | 5 | 5–6 | 5–6 | 0–7 | 0–8 |
 | [6–7 May 2024](2024-05-07-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 0–6 | 0–6 | 0–7 | 0–7 |
 | [5–6 May 2024](2024-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
@@ -884,14 +884,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 0% | 80% |  |
-| 2 | 0% | 80% |  |
-| 3 | 0% | 80% |  |
-| 4 | 3% | 80% |  |
-| 5 | 37% | 78% | Median |
-| 6 | 27% | 40% |  |
-| 7 | 10% | 13% |  |
+| 0 | 19% | 100% | Last Result |
+| 1 | 0% | 81% |  |
+| 2 | 0% | 81% |  |
+| 3 | 0% | 81% |  |
+| 4 | 2% | 81% |  |
+| 5 | 37% | 79% | Median |
+| 6 | 29% | 42% |  |
+| 7 | 10% | 14% |  |
 | 8 | 3% | 4% |  |
 | 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |

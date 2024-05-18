@@ -462,13 +462,13 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 6 | 5–7 | 0–7 | 0–7 | 0–8 |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 7 | 6–8 | 6–9 | 6–9 | 5–11 |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 7 | 7–8 | 6–8 | 6–8 | 5–9 |
+| [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 8 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [10–13 May 2024](2024-05-13-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [10–13 May 2024](2024-05-13-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 7 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [6–10 May 2024](2024-05-10-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7 | 7–8 | 7–8 | 6–9 | 6–10 |
 | [5–9 May 2024](2024-05-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [6–9 May 2024](2024-05-09-Cluster17.html) | Cluster17 <br> Le Point | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [6–9 May 2024](2024-05-09-Cluster17.html) | Cluster17 <br> Le Point | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
 | [6–7 May 2024](2024-05-07-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos |  |  |  |  |  |
 | [3–7 May 2024](2024-05-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
 | [5–6 May 2024](2024-05-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
@@ -888,11 +888,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 98.9% |  |
 | 4 | 0% | 98.9% |  |
 | 5 | 6% | 98.9% |  |
-| 6 | 30% | 93% |  |
-| 7 | 29% | 63% | Median |
-| 8 | 27% | 34% |  |
-| 9 | 6% | 7% |  |
-| 10 | 0.6% | 0.7% |  |
+| 6 | 32% | 93% |  |
+| 7 | 25% | 61% | Median |
+| 8 | 28% | 36% |  |
+| 9 | 7% | 8% |  |
+| 10 | 0.7% | 0.8% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
