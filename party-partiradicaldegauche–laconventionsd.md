@@ -12,11 +12,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–0.6% | 0.1–0.8% | 0.1–0.8% | 0.1–1.1% |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 May 2024](2024-05-17-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 May 2024](2024-05-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 May 2024](2024-05-16-BVA.html) | BVA <br> RTL | 0.0% | N/A | N/A | N/A | N/A |
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 May 2024](2024-05-15-Cluster17.html) | Cluster17 <br> Le Point | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
@@ -450,11 +452,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [15–17 May 2024](2024-05-17-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
 | [13–16 May 2024](2024-05-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [15–16 May 2024](2024-05-16-BVA.html) | BVA <br> RTL |  |  |  |  |  |
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [13–15 May 2024](2024-05-15-Cluster17.html) | Cluster17 <br> Le Point |  |  |  |  |  |
 | [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France |  |  |  |  |  |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |

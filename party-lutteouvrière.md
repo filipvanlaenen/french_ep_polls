@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.7% | 0.4–1.9% | 0.3–2.0% | 0.2–2.4% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.4–1.7% | 0.3–1.9% | 0.3–2.0% | 0.2–2.4% |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
+| [15–17 May 2024](2024-05-17-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 1.0% | 0.7–1.4% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
 | [13–16 May 2024](2024-05-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
 | [15–16 May 2024](2024-05-16-BVA.html) | BVA <br> RTL | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
+| [13–15 May 2024](2024-05-15-Cluster17.html) | Cluster17 <br> Le Point | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.2–1.2% |
 | [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 0.5% | 0.4–0.9% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | N/A | N/A | N/A | N/A |
@@ -435,8 +437,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 23% | 100% | Last Result |
-| 0.5–1.5% | 63% | 77% | Median |
+| 0.0–0.5% | 24% | 100% | Last Result |
+| 0.5–1.5% | 62% | 76% | Median |
 | 1.5–2.5% | 14% | 14% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
@@ -452,11 +454,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [15–17 May 2024](2024-05-17-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [13–16 May 2024](2024-05-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [15–16 May 2024](2024-05-16-BVA.html) | BVA <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [6–15 May 2024](2024-05-15-YouGov.html) | YouGov | 0 | 0 | 0 | 0 | 0 |
 | [14–15 May 2024](2024-05-15-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 0 | 0 | 0 | 0 | 0 |
 | [11–15 May 2024](2024-05-15-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [13–15 May 2024](2024-05-15-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
 | [13–14 May 2024](2024-05-14-Ipsos.html) | Ipsos <br> Le Parisien and Radio France | 0 | 0 | 0 | 0 | 0 |
 | [10–14 May 2024](2024-05-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [9–13 May 2024](2024-05-13-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
