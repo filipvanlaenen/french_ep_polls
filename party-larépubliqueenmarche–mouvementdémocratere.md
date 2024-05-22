@@ -10,7 +10,8 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.7% | 14.2–18.1% | 13.8–18.6% | 13.2–19.4% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.7% | 14.2–18.2% | 13.8–18.6% | 13.2–19.4% |
+| [19–21 May 2024](2024-05-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16.5% | 15.3–17.9% | 14.9–18.3% | 14.6–18.6% | 14.1–19.3% |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16.5% | 15.2–17.9% | 14.9–18.2% | 14.6–18.6% | 14.0–19.3% |
 | [15–17 May 2024](2024-05-17-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15.5% | 14.3–16.8% | 14.0–17.2% | 13.7–17.5% | 13.2–18.2% |
 | [13–16 May 2024](2024-05-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16.5% | N/A | N/A | N/A | N/A |
@@ -442,9 +443,9 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 1.1% | 99.9% |  |
 | 13.5–14.5% | 9% | 98.8% |  |
-| 14.5–15.5% | 25% | 89% |  |
-| 15.5–16.5% | 31% | 64% | Median |
-| 16.5–17.5% | 22% | 33% |  |
+| 14.5–15.5% | 25% | 90% |  |
+| 15.5–16.5% | 31% | 65% | Median |
+| 16.5–17.5% | 22% | 34% |  |
 | 17.5–18.5% | 9% | 12% |  |
 | 18.5–19.5% | 2% | 3% |  |
 | 19.5–20.5% | 0.3% | 0.3% |  |
@@ -460,6 +461,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 13–18 | 12–20 |
+| [19–21 May 2024](2024-05-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 13–16 | 13–16 | 13–17 | 12–19 |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16 | 16 | 15–16 | 14–16 | 13–17 |
 | [15–17 May 2024](2024-05-17-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15 | 13–17 | 13–18 | 13–18 | 12–18 |
 | [13–16 May 2024](2024-05-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
@@ -894,13 +896,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 2% | 100% |  |
-| 13 | 10% | 98% |  |
-| 14 | 19% | 87% |  |
-| 15 | 27% | 69% | Median |
-| 16 | 29% | 42% |  |
-| 17 | 3% | 12% |  |
+| 13 | 12% | 98% |  |
+| 14 | 22% | 86% |  |
+| 15 | 30% | 64% | Median |
+| 16 | 22% | 34% |  |
+| 17 | 3% | 13% |  |
 | 18 | 7% | 9% |  |
-| 19 | 1.4% | 2% |  |
+| 19 | 1.5% | 2% |  |
 | 20 | 0.8% | 0.9% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
