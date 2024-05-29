@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 28 May 2024 22:58:47 +0200</pubDate>
+    <pubDate>Wed, 29 May 2024 18:24:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for LCI, Le Figaro and Sud Radio, 24–28 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-28-Ifop–Fiducial.html#seats</link>
@@ -40,14 +40,124 @@
       <dc:date>2024-05-28T22:15:27.518861+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, M6 and RTL, 24–27 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-27-HarrisInteractive.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7–10 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 30–33 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 13–16 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5–9 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-27-HarrisInteractive-seats.png"
+        length="363412"
+        type="image/png"/>
+      <pubDate>Tue, 28 May 2024 23:07:53 +0200</pubDate>
+      <dc:date>2024-05-28T23:07:53.549622+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Harris Interactive for Challenges, M6 and RTL, 24–27 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-27-HarrisInteractive.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-27-HarrisInteractive-coalitions-seats.png"
+        length="221190"
+        type="image/png"/>
+      <pubDate>Tue, 28 May 2024 23:07:53 +0200</pubDate>
+      <dc:date>2024-05-28T23:07:53.549622+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Harris Interactive for Challenges, M6 and RTL, 24–27 May 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-27-HarrisInteractive.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 4.1–6.1%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 7.3–9.8%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 30.0–34.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 12.5–15.6%&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.1–6.1%&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0.6–1.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 13.0–16.1%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.3–3.8%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.3–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-27-HarrisInteractive.png"
         length="445235"
         type="image/png"/>
-      <pubDate>Tue, 28 May 2024 22:58:47 +0200</pubDate>
-      <dc:date>2024-05-28T22:58:47.741788+02:00</dc:date>
+      <pubDate>Tue, 28 May 2024 23:07:53 +0200</pubDate>
+      <dc:date>2024-05-28T23:07:53.549622+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 24–25 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-25-ELABE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 5 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 31–34 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 11–12 seats&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 5–6 seats&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 13–14 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-25-ELABE-seats.png"
+        length="324362"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 17:45:16 +0200</pubDate>
+      <dc:date>2024-05-29T17:45:16.321568+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 24–25 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-25-ELABE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-25-ELABE-coalitions-seats.png"
+        length="169161"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 17:45:16 +0200</pubDate>
+      <dc:date>2024-05-29T17:45:16.321568+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 24–25 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-25-ELABE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 4.5–6.7%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.8–9.4%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 30.8–35.3%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 11.4–14.7%&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.9–7.2%&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 1.0–2.2%&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 1.4–2.8%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 13.9–17.3%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.0–0.4%&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0.2–0.9%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–2.8%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5.9–8.3%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.0–0.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-25-ELABE.png"
+        length="444100"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 17:45:16 +0200</pubDate>
+      <dc:date>2024-05-29T17:45:16.321568+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay–Tilder for Les Echos and Radio Classique, 21–24 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-OpinionWay–Tilder.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 6–8 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 5–8 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 29–34 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 12–16 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-OpinionWay–Tilder-seats.png"
+        length="354512"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 18:05:02 +0200</pubDate>
+      <dc:date>2024-05-29T18:05:02.044948+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay–Tilder for Les Echos and Radio Classique, 21–24 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-OpinionWay–Tilder.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-OpinionWay–Tilder-coalitions-seats.png"
+        length="212002"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 18:05:02 +0200</pubDate>
+      <dc:date>2024-05-29T18:05:02.044948+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay–Tilder for Les Echos and Radio Classique, 21–24 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-OpinionWay–Tilder.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 6.0–8.2%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 30.0–34.1%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 11.6–14.5%&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.1–6.0%&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0.1–0.6%&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0.6–1.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 13.5–16.6%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0.6–1.5%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.9–9.3%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.1–0.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-OpinionWay–Tilder.png"
+        length="445890"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 18:05:02 +0200</pubDate>
+      <dc:date>2024-05-29T18:05:02.044948+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 23–24 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-Odoxa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 5–8 seats&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 31–38 seats&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 0–7 seats&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 12–17 seats&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-Odoxa-seats.png"
+        length="355612"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 18:24:33 +0200</pubDate>
+      <dc:date>2024-05-29T18:24:33.556478+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 23–24 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-Odoxa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-Odoxa-coalitions-seats.png"
+        length="210734"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 18:24:33 +0200</pubDate>
+      <dc:date>2024-05-29T18:24:33.556478+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 23–24 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-Odoxa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Reconquête (ECR): 3.0–5.5%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Union populaire républicaine (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Rassemblement national (ID): 31.1–37.0%&lt;/li&gt;&lt;li&gt;Parti socialiste (S&amp;amp;D): 11.5–15.8%&lt;/li&gt;&lt;li&gt;Écologie au centre (Greens/EFA): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Europe Écologie Les Verts (Greens/EFA): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Alliance Rurale (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Parti animaliste (GUE/NGL): 0.9–2.5%&lt;/li&gt;&lt;li&gt;La République en marche–Mouvement démocrate (RE): 12.9–17.4%&lt;/li&gt;&lt;li&gt;Nouveau Parti anticapitaliste (GUE/NGL): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Les Patriotes (NI): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Parti radical de gauche (S&amp;amp;D): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2024-05-24-Odoxa.png"
+        length="459424"
+        type="image/png"/>
+      <pubDate>Wed, 29 May 2024 18:24:33 +0200</pubDate>
+      <dc:date>2024-05-29T18:24:33.556478+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for LCI, Le Figaro and Sud Radio, 19–21 May 2024 – Seat Projections for the Parties</title>
@@ -7849,6 +7959,6 @@
       <pubDate>Mon, 30 Dec 2019 17:44:22 +0100</pubDate>
       <dc:date>2019-12-30T17:44:22+01:00</dc:date>
     </item>
-    <dc:date>2024-05-28T22:58:47.741788+02:00</dc:date>
+    <dc:date>2024-05-29T18:24:33.556478+02:00</dc:date>
   </channel>
 </rss>
