@@ -476,16 +476,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–7 | 0–8 |
 | [24–28 May 2024](2024-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 4–5 | 4–6 | 0–6 | 0–6 |
 | [23–27 May 2024](2024-05-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [24–27 May 2024](2024-05-27-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [24–25 May 2024](2024-05-25-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 5 | 5 | 5 | 5 | 0–5 |
-| [21–24 May 2024](2024-05-24-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [24–27 May 2024](2024-05-27-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [24–25 May 2024](2024-05-25-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 5 | 5 | 5 | 4–5 | 0–6 |
+| [21–24 May 2024](2024-05-24-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Les Echos and Radio Classique | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [23–24 May 2024](2024-05-24-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0 | 0 | 0–5 |
 | [21–24 May 2024](2024-05-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [20–23 May 2024](2024-05-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [21–22 May 2024](2024-05-22-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
 | [20–22 May 2024](2024-05-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [21–22 May 2024](2024-05-22-Cluster17.html) | Cluster17 <br> Le Point | 5 | 5–6 | 5–6 | 5–6 | 0–7 |
-| [20–21 May 2024](2024-05-21-Viavoice.html) | Viavoice <br> Libération | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
+| [21–22 May 2024](2024-05-22-Cluster17.html) | Cluster17 <br> Le Point | 7 | 5–7 | 5–7 | 5–7 | 0–7 |
+| [20–21 May 2024](2024-05-21-Viavoice.html) | Viavoice <br> Libération | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [19–21 May 2024](2024-05-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 5 | 5–7 | 0–7 | 0–7 | 0–7 |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–6 | 5–6 | 5–6 | 0–6 |
 | [15–17 May 2024](2024-05-17-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
@@ -922,10 +922,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 84% |  |
 | 3 | 0% | 84% |  |
 | 4 | 11% | 84% |  |
-| 5 | 43% | 73% | Median |
-| 6 | 20% | 30% |  |
-| 7 | 9% | 10% |  |
-| 8 | 1.0% | 1.1% |  |
+| 5 | 36% | 72% | Median |
+| 6 | 18% | 36% |  |
+| 7 | 17% | 18% |  |
+| 8 | 1.2% | 1.2% |  |
 | 9 | 0% | 0% |  |
 
 
