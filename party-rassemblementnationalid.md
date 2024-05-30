@@ -10,7 +10,7 @@ Last result: **24.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.5% | 30.6–34.7% | 30.0–35.3% | 29.6–35.9% | 28.7–36.9% |
+| N/A | [Poll Average](average.html) | 32.2% | 29.6–34.5% | 28.7–35.2% | 27.9–35.7% | 26.6–36.8% |
 | [24–28 May 2024](2024-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 34.0% | 32.6–35.5% | 32.2–35.9% | 31.8–36.2% | 31.2–36.9% |
 | [23–27 May 2024](2024-05-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 33.5% | N/A | N/A | N/A | N/A |
 | [24–27 May 2024](2024-05-27-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 32.0% | 30.7–33.3% | 30.3–33.7% | 30.0–34.1% | 29.4–34.7% |
@@ -21,8 +21,8 @@ Last result: **24.9%** (General Election of 26 May 2019)
 | [20–23 May 2024](2024-05-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 33.0% | N/A | N/A | N/A | N/A |
 | [21–22 May 2024](2024-05-22-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 32.0% | N/A | N/A | N/A | N/A |
 | [20–22 May 2024](2024-05-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 32.5% | N/A | N/A | N/A | N/A |
-| [21–22 May 2024](2024-05-22-Cluster17.html) | Cluster17 <br> Le Point | 29.0% | N/A | N/A | N/A | N/A |
-| [20–21 May 2024](2024-05-21-Viavoice.html) | Viavoice <br> Libération | 32.0% | N/A | N/A | N/A | N/A |
+| [21–22 May 2024](2024-05-22-Cluster17.html) | Cluster17 <br> Le Point | 29.0% | 27.2–30.8% | 26.7–31.3% | 26.3–31.8% | 25.5–32.7% |
+| [20–21 May 2024](2024-05-21-Viavoice.html) | Viavoice <br> Libération | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.3–34.9% | 28.4–35.8% |
 | [19–21 May 2024](2024-05-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 32.0% | 30.4–33.7% | 29.9–34.1% | 29.6–34.5% | 28.8–35.3% |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 32.0% | 30.4–33.7% | 29.9–34.2% | 29.6–34.6% | 28.8–35.4% |
 | [15–17 May 2024](2024-05-17-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 31.5% | N/A | N/A | N/A | N/A |
@@ -452,20 +452,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 24.5–25.5% | 0% | 100% | Last Result |
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.3% | 100% |  |
-| 28.5–29.5% | 2% | 99.6% |  |
-| 29.5–30.5% | 7% | 98% |  |
-| 30.5–31.5% | 17% | 90% |  |
-| 31.5–32.5% | 24% | 74% |  |
-| 32.5–33.5% | 22% | 49% | Median |
-| 33.5–34.5% | 16% | 27% |  |
-| 34.5–35.5% | 8% | 12% |  |
-| 35.5–36.5% | 3% | 4% |  |
-| 36.5–37.5% | 0.7% | 0.9% |  |
-| 37.5–38.5% | 0.1% | 0.2% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.1% | 100% | Last Result |
+| 25.5–26.5% | 0.4% | 99.9% |  |
+| 26.5–27.5% | 1.3% | 99.6% |  |
+| 27.5–28.5% | 3% | 98% |  |
+| 28.5–29.5% | 5% | 95% |  |
+| 29.5–30.5% | 9% | 90% |  |
+| 30.5–31.5% | 17% | 81% |  |
+| 31.5–32.5% | 22% | 65% | Median |
+| 32.5–33.5% | 20% | 43% |  |
+| 33.5–34.5% | 13% | 23% |  |
+| 34.5–35.5% | 7% | 10% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.6% | 0.7% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
 
@@ -477,7 +478,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 29–34 | 28–36 | 28–36 | 27–39 |
+| N/A | [Poll Average](average.html) | 30 | 28–34 | 28–36 | 27–36 | 26–39 |
 | [24–28 May 2024](2024-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 29 | 28–31 | 27–31 | 27–31 | 27–32 |
 | [23–27 May 2024](2024-05-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [24–27 May 2024](2024-05-27-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 30 | 30–32 | 30–33 | 30–33 | 29–34 |
@@ -488,8 +489,8 @@ Last result: **24** seats (General Election of 26 May 2019)
 | [20–23 May 2024](2024-05-23-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [21–22 May 2024](2024-05-22-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD |  |  |  |  |  |
 | [20–22 May 2024](2024-05-22-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
-| [21–22 May 2024](2024-05-22-Cluster17.html) | Cluster17 <br> Le Point |  |  |  |  |  |
-| [20–21 May 2024](2024-05-21-Viavoice.html) | Viavoice <br> Libération |  |  |  |  |  |
+| [21–22 May 2024](2024-05-22-Cluster17.html) | Cluster17 <br> Le Point | 28 | 28 | 26–29 | 26–29 | 26–33 |
+| [20–21 May 2024](2024-05-21-Viavoice.html) | Viavoice <br> Libération | 29 | 28–31 | 28–31 | 27–33 | 27–36 |
 | [19–21 May 2024](2024-05-21-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 31 | 27–33 | 27–33 | 27–34 | 26–35 |
 | [15–17 May 2024](2024-05-17-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 29 | 29 | 29–30 | 29–30 | 28–32 |
 | [15–17 May 2024](2024-05-17-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
@@ -923,20 +924,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 0% | 100% | Last Result |
 | 25 | 0% | 100% |  |
-| 26 | 0.1% | 100% |  |
-| 27 | 2% | 99.9% |  |
-| 28 | 4% | 98% |  |
-| 29 | 11% | 94% |  |
-| 30 | 22% | 83% |  |
-| 31 | 10% | 61% |  |
-| 32 | 15% | 51% | Median |
-| 33 | 13% | 36% |  |
-| 34 | 15% | 23% |  |
-| 35 | 1.1% | 8% |  |
-| 36 | 5% | 7% |  |
-| 37 | 0.2% | 2% |  |
-| 38 | 0.2% | 1.3% |  |
-| 39 | 1.1% | 1.1% |  |
+| 26 | 0.7% | 100% |  |
+| 27 | 2% | 99.3% |  |
+| 28 | 14% | 97% |  |
+| 29 | 15% | 83% |  |
+| 30 | 19% | 68% | Median |
+| 31 | 9% | 49% |  |
+| 32 | 12% | 40% |  |
+| 33 | 11% | 28% |  |
+| 34 | 12% | 18% |  |
+| 35 | 0.9% | 6% |  |
+| 36 | 4% | 5% |  |
+| 37 | 0.1% | 1.2% |  |
+| 38 | 0.2% | 1.0% |  |
+| 39 | 0.9% | 0.9% |  |
 | 40 | 0% | 0% |  |
 
 
