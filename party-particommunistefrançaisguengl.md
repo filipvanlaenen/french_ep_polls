@@ -10,8 +10,15 @@ Last result: **6.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.4–3.1% | 1.1–3.3% | 0.9–3.5% | 0.6–3.8% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.2–3.2% | 1.0–3.4% | 0.8–3.6% | 0.6–3.9% |
+| [30–31 May 2024](2024-05-31-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 3.0% | 2.6–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [26–30 May 2024](2024-05-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
+| [29–30 May 2024](2024-05-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 3.0% | N/A | N/A | N/A | N/A |
+| [28–29 May 2024](2024-05-29-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [25–29 May 2024](2024-05-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 3.0% | N/A | N/A | N/A | N/A |
+| [28–29 May 2024](2024-05-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 3.0% | N/A | N/A | N/A | N/A |
 | [24–28 May 2024](2024-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
+| [27–28 May 2024](2024-05-28-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 3.0% | N/A | N/A | N/A | N/A |
 | [23–27 May 2024](2024-05-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.0% | N/A | N/A | N/A | N/A |
 | [24–27 May 2024](2024-05-27-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 3.0% | 2.5–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
 | [24–25 May 2024](2024-05-25-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.3–3.1% |
@@ -453,10 +460,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% |  |
-| 0.5–1.5% | 13% | 99.8% |  |
-| 1.5–2.5% | 54% | 87% | Median |
-| 2.5–3.5% | 31% | 32% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 17% | 99.8% |  |
+| 1.5–2.5% | 44% | 83% | Median |
+| 2.5–3.5% | 37% | 40% |  |
+| 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
@@ -471,7 +478,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30–31 May 2024](2024-05-31-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0 | 0 | 0 | 0 | 0 |
+| [26–30 May 2024](2024-05-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [29–30 May 2024](2024-05-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [28–29 May 2024](2024-05-29-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 0 | 0 | 0 | 0 | 0 |
+| [25–29 May 2024](2024-05-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
+| [28–29 May 2024](2024-05-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [24–28 May 2024](2024-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [27–28 May 2024](2024-05-28-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [23–27 May 2024](2024-05-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [24–27 May 2024](2024-05-27-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [24–25 May 2024](2024-05-25-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
