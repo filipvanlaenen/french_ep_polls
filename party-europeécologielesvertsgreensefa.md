@@ -10,10 +10,12 @@ Last result: **9.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 4.7–7.1% | 4.4–7.5% | 4.2–7.9% | 3.7–8.6% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.7–7.4% | 4.4–7.7% | 4.2–8.0% | 3.7–8.6% |
 | [30–31 May 2024](2024-05-31-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5.5% | 4.9–6.2% | 4.8–6.4% | 4.6–6.6% | 4.4–6.9% |
+| [29–31 May 2024](2024-05-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
 | [26–30 May 2024](2024-05-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6.5% | 5.9–7.2% | 5.8–7.4% | 5.6–7.5% | 5.4–7.8% |
 | [29–30 May 2024](2024-05-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5.5% | N/A | N/A | N/A | N/A |
+| [28–30 May 2024](2024-05-30-Cluster17.html) | Cluster17 <br> Le Point | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.9–6.4% | 3.5–6.9% |
 | [28–29 May 2024](2024-05-29-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [25–29 May 2024](2024-05-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6.5% | N/A | N/A | N/A | N/A |
 | [28–29 May 2024](2024-05-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5.5% | N/A | N/A | N/A | N/A |
@@ -462,11 +464,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.2% | 100% |  |
 | 3.5–4.5% | 7% | 99.8% |  |
-| 4.5–5.5% | 29% | 93% |  |
-| 5.5–6.5% | 39% | 64% | Median |
-| 6.5–7.5% | 20% | 25% |  |
-| 7.5–8.5% | 4% | 5% |  |
-| 8.5–9.5% | 0.5% | 0.5% | Last Result |
+| 4.5–5.5% | 27% | 93% |  |
+| 5.5–6.5% | 33% | 66% | Median |
+| 6.5–7.5% | 26% | 33% |  |
+| 7.5–8.5% | 7% | 7% |  |
+| 8.5–9.5% | 0.6% | 0.6% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -480,8 +482,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 0–7 | 0–7 | 0–7 | 0–8 |
 | [30–31 May 2024](2024-05-31-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 5 | 5–6 | 0–6 | 0–6 |
+| [29–31 May 2024](2024-05-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [26–30 May 2024](2024-05-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [29–30 May 2024](2024-05-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
+| [28–30 May 2024](2024-05-30-Cluster17.html) | Cluster17 <br> Le Point | 5 | 0–6 | 0–6 | 0–6 | 0–6 |
 | [28–29 May 2024](2024-05-29-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 0 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [25–29 May 2024](2024-05-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [28–29 May 2024](2024-05-29-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
@@ -929,15 +933,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% |  |
-| 1 | 0% | 80% |  |
-| 2 | 0% | 80% |  |
-| 3 | 0% | 80% |  |
-| 4 | 0.4% | 80% |  |
-| 5 | 27% | 79% |  |
-| 6 | 38% | 52% | Last Result, Median |
-| 7 | 13% | 14% |  |
-| 8 | 1.1% | 1.4% |  |
+| 0 | 14% | 100% |  |
+| 1 | 0% | 86% |  |
+| 2 | 0% | 86% |  |
+| 3 | 0% | 86% |  |
+| 4 | 0.5% | 86% |  |
+| 5 | 31% | 86% |  |
+| 6 | 33% | 55% | Last Result, Median |
+| 7 | 20% | 23% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
 
