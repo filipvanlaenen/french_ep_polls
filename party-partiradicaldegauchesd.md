@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.1–0.8% | 0.1–0.9% | 0.1–1.0% | 0.0–1.3% |
+| N/A | [Poll Average](average.html) | 0.3% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
+| [30 May–3 June 2024](2024-06-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.1% | 0.1–0.2% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
+| [2–3 June 2024](2024-06-03-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
+| [28–31 May 2024](2024-05-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.1% | 0.1–0.3% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% |
 | [30–31 May 2024](2024-05-31-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.1% | 0.1–0.3% | 0.1–0.4% | 0.0–0.4% | 0.0–0.5% |
 | [29–31 May 2024](2024-05-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.0% | N/A | N/A | N/A | N/A |
+| [28–30 May 2024](2024-05-30-OpinionWay–Tilder.html) | OpinionWay–Tilder | 0.2% | 0.1–0.4% | 0.1–0.5% | 0.1–0.5% | 0.1–0.7% |
+| [27–30 May 2024](2024-05-30-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 0.5% | 0.4–0.6% | 0.4–0.6% | 0.4–0.7% | 0.4–0.7% |
 | [26–30 May 2024](2024-05-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.5% | 0.4–0.7% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% |
 | [29–30 May 2024](2024-05-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0.1% | N/A | N/A | N/A | N/A |
 | [28–30 May 2024](2024-05-30-Cluster17.html) | Cluster17 <br> Le Point | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
@@ -461,9 +466,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 68% | 100% | Last Result, Median |
-| 0.5–1.5% | 32% | 32% |  |
-| 1.5–2.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 80% | 100% | Last Result, Median |
+| 0.5–1.5% | 20% | 20% |  |
+| 1.5–2.5% | 0% | 0% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -476,8 +481,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 May–3 June 2024](2024-06-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [2–3 June 2024](2024-06-03-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0 | 0 | 0 | 0 | 0 |
+| [28–31 May 2024](2024-05-31-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [30–31 May 2024](2024-05-31-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [29–31 May 2024](2024-05-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
+| [28–30 May 2024](2024-05-30-OpinionWay–Tilder.html) | OpinionWay–Tilder | 0 | 0 | 0 | 0 | 0 |
+| [27–30 May 2024](2024-05-30-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 0 | 0 | 0 | 0 | 0 |
 | [26–30 May 2024](2024-05-30-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [29–30 May 2024](2024-05-30-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [28–30 May 2024](2024-05-30-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
