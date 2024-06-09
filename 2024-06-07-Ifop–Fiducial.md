@@ -39,13 +39,13 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#rassemblement-national-(id)">Rassemblement national (ID)</a> | 24 | 31 | 30–32 |30–33 |30–34 |29–35 |
-| <a href="#la-république-en-marche–mouvement-démocrate-(re)">La République en marche–Mouvement démocrate (RE)</a> | 7 | 13 | 13–14 |12–14 |12–14 |11–15 |
-| <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 12 | 12–14 |12–14 |11–14 |11–14 |
-| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 8 | 8–9 |7–9 |7–9 |7–10 |
-| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 6 | 6 |5–7 |5–7 |5–7 |
-| <a href="#reconquête-(ecr)">Reconquête (ECR)</a> | 0 | 5 | 5–6 |5–6 |5–6 |4–7 |
-| <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 5 | 5 |4–6 |0–6 |0–6 |
+| <a href="#rassemblement-national-(id)">Rassemblement national (ID)</a> | 24 | 30 | 30–31 |30–31 |30–32 |29–34 |
+| <a href="#la-république-en-marche–mouvement-démocrate-(re)">La République en marche–Mouvement démocrate (RE)</a> | 7 | 14 | 13–14 |13–14 |12–14 |11–15 |
+| <a href="#parti-socialiste-(s&d)">Parti socialiste (S&D)</a> | 13 | 13 | 12–14 |12–14 |12–14 |11–14 |
+| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 1 | 8 | 8 |8–9 |8–9 |7–10 |
+| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 20 | 6 | 6 |6 |5–7 |5–7 |
+| <a href="#reconquête-(ecr)">Reconquête (ECR)</a> | 0 | 5 | 5–6 |5–6 |5–6 |5–7 |
+| <a href="#europe-écologie-les-verts-(greens/efa)">Europe Écologie Les Verts (Greens/EFA)</a> | 6 | 5 | 5 |4–5 |4–5 |0–6 |
 | <a href="#parti-animaliste-(gue/ngl)">Parti animaliste (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#alliance-rurale-(*)">Alliance Rurale (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -68,14 +68,14 @@
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0.1% | 100% |  |
-| 29 | 2% | 99.9% |  |
-| 30 | 42% | 98% |  |
-| 31 | 44% | 56% | Median |
-| 32 | 5% | 12% |  |
-| 33 | 3% | 7% |  |
-| 34 | 3% | 3% |  |
-| 35 | 0.8% | 0.8% |  |
+| 28 | 0.3% | 100% |  |
+| 29 | 0.7% | 99.7% |  |
+| 30 | 76% | 99.0% | Median |
+| 31 | 18% | 23% |  |
+| 32 | 3% | 5% |  |
+| 33 | 1.3% | 2% |  |
+| 34 | 0.8% | 1.1% |  |
+| 35 | 0.3% | 0.3% |  |
 | 36 | 0% | 0% |  |
 
 ### La République en marche–Mouvement démocrate (RE)
@@ -90,11 +90,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.7% | 100% |  |
-| 12 | 5% | 99.3% |  |
-| 13 | 83% | 94% | Median |
-| 14 | 9% | 11% |  |
-| 15 | 2% | 2% |  |
+| 11 | 0.8% | 100% |  |
+| 12 | 2% | 99.2% |  |
+| 13 | 31% | 97% |  |
+| 14 | 66% | 67% | Median |
+| 15 | 1.0% | 1.0% |  |
 | 16 | 0% | 0% |  |
 
 ### Parti socialiste (S&D)
@@ -105,14 +105,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 4% | 99.7% |  |
-| 12 | 51% | 96% | Median |
-| 13 | 5% | 44% | Last Result |
-| 14 | 39% | 40% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 2% | 99.9% |  |
+| 12 | 16% | 98% |  |
+| 13 | 71% | 82% | Last Result, Median |
+| 14 | 11% | 12% |  |
+| 15 | 0.3% | 0.3% |  |
+| 16 | 0% | 0% |  |
 
 ### La France insoumise (GUE/NGL)
 
@@ -128,10 +127,10 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 6% | 100% |  |
-| 8 | 84% | 94% | Median |
+| 7 | 2% | 100% |  |
+| 8 | 88% | 98% | Median |
 | 9 | 9% | 10% |  |
-| 10 | 0.9% | 0.9% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
 ### Les Républicains (EPP)
@@ -142,10 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 8% | 100% |  |
-| 6 | 86% | 92% | Median |
-| 7 | 6% | 6% |  |
-| 8 | 0.3% | 0.3% |  |
+| 5 | 3% | 100% |  |
+| 6 | 94% | 97% | Median |
+| 7 | 3% | 3% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -167,14 +166,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 0% | 99.6% |  |
-| 2 | 0% | 99.6% |  |
-| 3 | 0% | 99.6% |  |
-| 4 | 0.5% | 99.6% |  |
-| 5 | 49% | 99.1% | Median |
-| 6 | 49% | 50% |  |
-| 7 | 0.9% | 0.9% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0% | 99.8% |  |
+| 4 | 0.2% | 99.8% |  |
+| 5 | 82% | 99.6% | Median |
+| 6 | 16% | 17% |  |
+| 7 | 1.4% | 1.4% |  |
 | 8 | 0% | 0% |  |
 
 ### Europe Écologie Les Verts (Greens/EFA)
@@ -185,13 +184,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 0% | 97% |  |
-| 4 | 2% | 97% |  |
-| 5 | 88% | 95% | Median |
-| 6 | 6% | 6% | Last Result |
+| 0 | 2% | 100% |  |
+| 1 | 0% | 98% |  |
+| 2 | 0% | 98% |  |
+| 3 | 0% | 98% |  |
+| 4 | 6% | 98% |  |
+| 5 | 90% | 92% | Median |
+| 6 | 2% | 2% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Parti animaliste (GUE/NGL)
@@ -294,9 +293,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Rassemblement national (ID) | 24 | 31 | 0% | 30–32 | 30–33 | 30–34 | 29–35 |
-| Les Républicains (EPP) | 20 | 6 | 0% | 6 | 5–7 | 5–7 | 5–7 |
-| Europe Écologie Les Verts (Greens/EFA) – Écologie au centre (Greens/EFA) | 6 | 5 | 0% | 5 | 4–6 | 0–6 | 0–6 |
+| Rassemblement national (ID) | 24 | 30 | 0% | 30–31 | 30–31 | 30–32 | 29–34 |
+| Les Républicains (EPP) | 20 | 6 | 0% | 6 | 6 | 5–7 | 5–7 |
+| Europe Écologie Les Verts (Greens/EFA) – Écologie au centre (Greens/EFA) | 6 | 5 | 0% | 5 | 4–5 | 4–5 | 0–6 |
 | Les Patriotes (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Rassemblement national (ID)
@@ -309,14 +308,14 @@
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0.1% | 100% |  |
-| 29 | 2% | 99.9% |  |
-| 30 | 42% | 98% |  |
-| 31 | 44% | 56% | Median |
-| 32 | 5% | 12% |  |
-| 33 | 3% | 7% |  |
-| 34 | 3% | 3% |  |
-| 35 | 0.8% | 0.8% |  |
+| 28 | 0.3% | 100% |  |
+| 29 | 0.7% | 99.7% |  |
+| 30 | 76% | 99.0% | Median |
+| 31 | 18% | 23% |  |
+| 32 | 3% | 5% |  |
+| 33 | 1.3% | 2% |  |
+| 34 | 0.8% | 1.1% |  |
+| 35 | 0.3% | 0.3% |  |
 | 36 | 0% | 0% |  |
 
 ### Les Républicains (EPP)
@@ -325,10 +324,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 8% | 100% |  |
-| 6 | 86% | 92% | Median |
-| 7 | 6% | 6% |  |
-| 8 | 0.3% | 0.3% |  |
+| 5 | 3% | 100% |  |
+| 6 | 94% | 97% | Median |
+| 7 | 3% | 3% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -348,13 +347,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 0% | 97% |  |
-| 4 | 2% | 97% |  |
-| 5 | 88% | 95% | Median |
-| 6 | 6% | 6% | Last Result |
+| 0 | 2% | 100% |  |
+| 1 | 0% | 98% |  |
+| 2 | 0% | 98% |  |
+| 3 | 0% | 98% |  |
+| 4 | 6% | 98% |  |
+| 5 | 90% | 92% | Median |
+| 6 | 2% | 2% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Les Patriotes (NI)
@@ -377,6 +376,6 @@
 ### Calculations
 
 + **Sample size:** 2710
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.07%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.31%
 

@@ -503,18 +503,18 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
-| [6–7 June 2024](2024-06-07-Ipsos.html) | Ipsos | 15 | 14–15 | 14–15 | 14–15 | 13–15 |
-| [4–7 June 2024](2024-06-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 13 | 13–14 | 12–14 | 12–14 | 11–15 |
-| [5–7 June 2024](2024-06-07-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 14 | 14–15 | 12–15 | 12–16 | 12–17 |
-| [5–7 June 2024](2024-06-07-ELABE.html) | ELABE | 16 | 15–18 | 15–18 | 14–18 | 13–18 |
-| [4–6 June 2024](2024-06-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 15 | 12–15 | 12–16 | 12–16 | 12–16 |
-| [5–6 June 2024](2024-06-06-Odoxa.html) | Odoxa <br> Public Sénat | 13 | 13–15 | 13–16 | 13–17 | 12–17 |
+| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–16 | 12–17 | 11–18 |
+| [6–7 June 2024](2024-06-07-Ipsos.html) | Ipsos | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [4–7 June 2024](2024-06-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14 | 13–14 | 13–14 | 12–14 | 11–15 |
+| [5–7 June 2024](2024-06-07-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
+| [5–7 June 2024](2024-06-07-ELABE.html) | ELABE | 16 | 15–18 | 14–18 | 14–18 | 13–18 |
+| [4–6 June 2024](2024-06-06-OpinionWay–Tilder.html) | OpinionWay–Tilder <br> Cnews, Europe1 and JDD | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
+| [5–6 June 2024](2024-06-06-Odoxa.html) | Odoxa <br> Public Sénat | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [5–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> Le Parisien and Radio France |  |  |  |  |  |
 | [3–6 June 2024](2024-06-06-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [4–6 June 2024](2024-06-06-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [4–6 June 2024](2024-06-06-Cluster17.html) | Cluster17 <br> Le Point | 14 | 14 | 14 | 13–16 | 12–17 |
-| [31 May–5 June 2024](2024-06-05-YouGov.html) | YouGov | 14 | 14–15 | 13–16 | 13–18 | 12–18 |
+| [4–6 June 2024](2024-06-06-Cluster17.html) | Cluster17 <br> Le Point | 14 | 14–15 | 14–15 | 13–15 | 12–17 |
+| [31 May–5 June 2024](2024-06-05-YouGov.html) | YouGov | 14 | 13–15 | 12–16 | 11–18 | 11–18 |
 | [1–5 June 2024](2024-06-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [4–5 June 2024](2024-06-05-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [3–5 June 2024](2024-06-05-BVA.html) | BVA <br> RTL | 15 | 15–16 | 15–16 | 15–17 | 14–17 |
@@ -981,13 +981,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 5% | 99.9% |  |
-| 13 | 20% | 95% |  |
-| 14 | 27% | 76% | Median |
-| 15 | 33% | 48% |  |
-| 16 | 11% | 15% |  |
-| 17 | 1.4% | 4% |  |
+| 11 | 0.6% | 100% |  |
+| 12 | 3% | 99.4% |  |
+| 13 | 12% | 97% |  |
+| 14 | 35% | 85% |  |
+| 15 | 31% | 50% | Median |
+| 16 | 15% | 19% |  |
+| 17 | 2% | 4% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0% | 0% |  |
 
