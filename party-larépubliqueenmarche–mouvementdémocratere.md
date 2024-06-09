@@ -10,7 +10,7 @@ Last result: **9.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.6% | 14.2–16.8% | 13.8–17.2% | 13.4–17.5% | 12.7–18.2% |
+| N/A | [Poll Average](average.html) | 15.0% | 13.7–16.6% | 13.4–17.0% | 13.1–17.4% | 12.5–18.1% |
 | [6–7 June 2024](2024-06-07-Ipsos.html) | Ipsos | 15.0% | 14.5–15.5% | 14.4–15.6% | 14.3–15.8% | 14.0–16.0% |
 | [4–7 June 2024](2024-06-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14.5% | 13.7–15.4% | 13.4–15.7% | 13.2–15.9% | 12.8–16.3% |
 | [5–7 June 2024](2024-06-07-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 14.0% | 13.1–15.0% | 12.8–15.3% | 12.6–15.5% | 12.2–16.0% |
@@ -484,14 +484,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% | Last Result |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 3% | 99.7% |  |
-| 13.5–14.5% | 14% | 97% |  |
-| 14.5–15.5% | 30% | 83% |  |
-| 15.5–16.5% | 39% | 53% | Median |
-| 16.5–17.5% | 12% | 14% |  |
+| 11.5–12.5% | 0.6% | 100% |  |
+| 12.5–13.5% | 7% | 99.4% |  |
+| 13.5–14.5% | 24% | 93% |  |
+| 14.5–15.5% | 37% | 69% | Median |
+| 15.5–16.5% | 22% | 32% |  |
+| 16.5–17.5% | 8% | 10% |  |
 | 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -503,7 +503,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [6–7 June 2024](2024-06-07-Ipsos.html) | Ipsos | 15 | 14–15 | 14–15 | 14–15 | 13–15 |
 | [4–7 June 2024](2024-06-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 13 | 13–14 | 12–14 | 12–14 | 11–15 |
 | [5–7 June 2024](2024-06-07-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 14 | 14–15 | 12–15 | 12–16 | 12–17 |
@@ -982,12 +982,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.1% | 100% |  |
-| 12 | 0.5% | 99.9% |  |
-| 13 | 6% | 99.5% |  |
-| 14 | 22% | 94% |  |
-| 15 | 50% | 71% | Median |
-| 16 | 17% | 22% |  |
-| 17 | 3% | 5% |  |
+| 12 | 5% | 99.9% |  |
+| 13 | 20% | 95% |  |
+| 14 | 27% | 76% | Median |
+| 15 | 33% | 48% |  |
+| 16 | 11% | 15% |  |
+| 17 | 1.4% | 4% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0% | 0% |  |
 
