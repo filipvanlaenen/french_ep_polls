@@ -503,7 +503,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–16 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–16 | 12–17 | 11–18 |
 | [6–7 June 2024](2024-06-07-Ipsos.html) | Ipsos | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
 | [4–7 June 2024](2024-06-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14 | 13–14 | 13–14 | 12–14 | 11–15 |
 | [5–7 June 2024](2024-06-07-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
@@ -517,7 +517,7 @@ Last result: **7** seats (General Election of 26 May 2019)
 | [31 May–5 June 2024](2024-06-05-YouGov.html) | YouGov | 14 | 13–15 | 12–16 | 11–18 | 11–18 |
 | [1–5 June 2024](2024-06-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [4–5 June 2024](2024-06-05-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [3–5 June 2024](2024-06-05-BVA.html) | BVA <br> RTL | 15 | 15–16 | 15–16 | 15–17 | 14–17 |
+| [3–5 June 2024](2024-06-05-BVA.html) | BVA <br> RTL | 15 | 14–16 | 14–17 | 13–18 | 13–19 |
 | [31 May–4 June 2024](2024-06-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [3–4 June 2024](2024-06-04-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [30 May–3 June 2024](2024-06-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 14 | 14 | 13–15 | 13–15 | 12–15 |
@@ -984,11 +984,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.6% | 100% |  |
 | 12 | 3% | 99.4% |  |
 | 13 | 12% | 97% |  |
-| 14 | 35% | 85% |  |
-| 15 | 31% | 50% | Median |
-| 16 | 15% | 19% |  |
+| 14 | 36% | 84% | Median |
+| 15 | 30% | 48% |  |
+| 16 | 14% | 18% |  |
 | 17 | 2% | 4% |  |
 | 18 | 2% | 2% |  |
-| 19 | 0% | 0% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
 
 

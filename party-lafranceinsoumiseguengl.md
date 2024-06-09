@@ -517,7 +517,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [31 May–5 June 2024](2024-06-05-YouGov.html) | YouGov | 6 | 5–6 | 5–7 | 5–7 | 0–8 |
 | [1–5 June 2024](2024-06-05-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [4–5 June 2024](2024-06-05-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
-| [3–5 June 2024](2024-06-05-BVA.html) | BVA <br> RTL | 6 | 6–7 | 6–7 | 6–8 | 5–9 |
+| [3–5 June 2024](2024-06-05-BVA.html) | BVA <br> RTL | 6 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [31 May–4 June 2024](2024-06-04-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio |  |  |  |  |  |
 | [3–4 June 2024](2024-06-04-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 | [30 May–3 June 2024](2024-06-03-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
@@ -983,10 +983,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 99.7% |  |
 | 4 | 0% | 99.7% |  |
 | 5 | 5% | 99.7% |  |
-| 6 | 18% | 95% |  |
-| 7 | 21% | 77% |  |
-| 8 | 27% | 56% | Median |
-| 9 | 22% | 29% |  |
+| 6 | 16% | 95% |  |
+| 7 | 21% | 78% |  |
+| 8 | 27% | 57% | Median |
+| 9 | 24% | 30% |  |
 | 10 | 6% | 6% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

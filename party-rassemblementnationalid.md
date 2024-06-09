@@ -506,7 +506,7 @@ Last result: **24** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 29–34 | 28–35 | 28–35 | 27–36 |
+| N/A | [Poll Average](average.html) | 31 | 29–34 | 28–35 | 28–35 | 27–37 |
 | [6–7 June 2024](2024-06-07-Ipsos.html) | Ipsos | 31 | 30–32 | 30–32 | 29–33 | 29–33 |
 | [4–7 June 2024](2024-06-07-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 30–31 | 30–31 | 30–32 | 29–34 |
 | [5–7 June 2024](2024-06-07-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 33 | 32–36 | 32–36 | 32–36 | 29–36 |
@@ -987,15 +987,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 6% | 99.4% |  |
 | 29 | 13% | 93% |  |
 | 30 | 27% | 80% |  |
-| 31 | 15% | 53% | Median |
-| 32 | 13% | 37% |  |
-| 33 | 12% | 24% |  |
-| 34 | 2% | 12% |  |
-| 35 | 8% | 10% |  |
-| 36 | 1.5% | 2% |  |
+| 31 | 17% | 53% | Median |
+| 32 | 13% | 36% |  |
+| 33 | 12% | 22% |  |
+| 34 | 2% | 10% |  |
+| 35 | 6% | 8% |  |
+| 36 | 1.4% | 2% |  |
 | 37 | 0.3% | 0.5% |  |
 | 38 | 0% | 0.2% |  |
-| 39 | 0% | 0.1% |  |
+| 39 | 0% | 0.2% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% | Majority |
 
