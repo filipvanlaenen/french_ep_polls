@@ -43,9 +43,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
-| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 6 | 6–8 | 5–8 | 5–8 | 0–8 |
-| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 6 | 5–8 | 5–8 | 5–8 | 0–8 |
+| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 
 ### Probability Mass Function
 
@@ -55,15 +55,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 0% | 84% |  |
-| 4 | 11% | 84% |  |
-| 5 | 40% | 73% | Median |
-| 6 | 19% | 33% |  |
-| 7 | 8% | 14% |  |
-| 8 | 6% | 6% |  |
+| 0 | 34% | 100% | Last Result |
+| 1 | 0% | 66% |  |
+| 2 | 0% | 66% |  |
+| 3 | 0% | 66% |  |
+| 4 | 6% | 66% |  |
+| 5 | 30% | 60% | Median |
+| 6 | 15% | 30% |  |
+| 7 | 9% | 14% |  |
+| 8 | 5% | 5% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

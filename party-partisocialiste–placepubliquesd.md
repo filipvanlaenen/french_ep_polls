@@ -46,10 +46,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 0–10 | 0–11 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–11 | 0–11 | 0–12 |
 | [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
-| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0 | 0–5 | 0–5 | 0–6 |
-| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 10 | 9–11 | 8–11 | 8–12 | 8–13 |
+| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 11 | 10–11 | 9–11 | 9–12 | 8–12 |
 
 ### Probability Mass Function
 
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 0% | 70% |  |
-| 2 | 0% | 70% |  |
-| 3 | 0% | 70% |  |
-| 4 | 0.1% | 70% |  |
-| 5 | 3% | 70% |  |
-| 6 | 2% | 67% |  |
-| 7 | 9% | 65% |  |
-| 8 | 12% | 56% | Median |
-| 9 | 13% | 43% |  |
-| 10 | 23% | 30% |  |
-| 11 | 5% | 7% |  |
-| 12 | 1.2% | 1.5% |  |
-| 13 | 0.2% | 0.2% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 0% | 73% |  |
+| 2 | 0% | 73% |  |
+| 3 | 0% | 73% |  |
+| 4 | 0.3% | 73% |  |
+| 5 | 5% | 72% |  |
+| 6 | 3% | 68% |  |
+| 7 | 8% | 64% |  |
+| 8 | 16% | 57% | Median |
+| 9 | 8% | 41% |  |
+| 10 | 13% | 33% |  |
+| 11 | 19% | 20% |  |
+| 12 | 1.3% | 1.4% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 

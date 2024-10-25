@@ -74,10 +74,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 30–35 | 30–37 | 29–37 | 29–40 |
-| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 32 | 30–33 | 30–35 | 30–35 | 29–37 |
-| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 34 | 32–37 | 31–38 | 29–40 | 29–40 |
-| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 30 | 30–33 | 29–34 | 29–34 | 28–35 |
+| N/A | [Poll Average](average.html) | 32 | 30–35 | 30–36 | 30–37 | 29–40 |
+| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 32 | 30–34 | 30–35 | 30–36 | 29–37 |
+| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 34 | 32–37 | 31–37 | 30–39 | 29–40 |
+| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 32 | 30–32 | 30–33 | 29–33 | 28–35 |
 
 ### Probability Mass Function
 
@@ -115,19 +115,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
 | 27 | 0.1% | 100% |  |
-| 28 | 0.4% | 99.9% |  |
-| 29 | 3% | 99.5% |  |
-| 30 | 22% | 97% |  |
-| 31 | 16% | 74% |  |
-| 32 | 17% | 58% | Median |
-| 33 | 19% | 41% |  |
-| 34 | 7% | 22% |  |
-| 35 | 6% | 15% |  |
-| 36 | 1.3% | 9% |  |
-| 37 | 6% | 7% |  |
-| 38 | 0.6% | 2% |  |
-| 39 | 0.2% | 1.3% |  |
-| 40 | 1.0% | 1.1% |  |
-| 41 | 0% | 0% | Majority |
+| 28 | 0.3% | 99.9% |  |
+| 29 | 2% | 99.6% |  |
+| 30 | 8% | 98% |  |
+| 31 | 11% | 90% |  |
+| 32 | 37% | 78% | Median |
+| 33 | 17% | 42% |  |
+| 34 | 7% | 24% |  |
+| 35 | 7% | 17% |  |
+| 36 | 4% | 9% |  |
+| 37 | 4% | 5% |  |
+| 38 | 0.4% | 1.4% |  |
+| 39 | 0.2% | 1.0% |  |
+| 40 | 0.7% | 0.8% |  |
+| 41 | 0% | 0.1% | Majority |
+| 42 | 0% | 0% |  |
 
 

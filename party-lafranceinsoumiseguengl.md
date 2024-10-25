@@ -51,10 +51,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 9–16 | 9–17 | 9–18 |
-| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 10 | 9–13 | 9–13 | 9–13 | 8–13 |
-| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
-| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 15 | 13–16 | 13–17 | 13–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 12 | 10–16 | 10–16 | 9–16 | 9–18 |
+| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
+| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 12 | 11–13 | 10–14 | 10–14 | 9–15 |
+| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 16 | 14–16 | 14–17 | 13–17 | 12–18 |
 
 ### Probability Mass Function
 
@@ -72,17 +72,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 5% | 99.7% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 4% | 99.8% |  |
 | 10 | 17% | 95% |  |
-| 11 | 12% | 78% |  |
-| 12 | 23% | 66% | Median |
-| 13 | 10% | 43% |  |
-| 14 | 10% | 32% |  |
-| 15 | 17% | 22% |  |
-| 16 | 3% | 6% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.7% | 0.7% |  |
+| 11 | 18% | 78% |  |
+| 12 | 17% | 60% | Median |
+| 13 | 9% | 43% |  |
+| 14 | 4% | 34% |  |
+| 15 | 7% | 30% |  |
+| 16 | 21% | 23% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 
 
