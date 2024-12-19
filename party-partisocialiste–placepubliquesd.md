@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 4.4–11.0% | 4.1–11.4% | 3.9–11.7% | 3.5–12.3% |
-| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 9.0% | 7.9–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
+| N/A | [Poll Average](average.html) | 6.9% | 4.5–9.8% | 4.3–10.3% | 4.1–10.6% | 3.7–11.3% |
+| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.5–7.0% |
+| [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 9.0% | 7.9–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
 | [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 10.5% | 9.6–11.6% | 9.3–11.9% | 9.1–12.1% | 8.7–12.6% |
 
@@ -24,18 +25,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 12% | 99.3% |  |
-| 4.5–5.5% | 16% | 87% |  |
-| 5.5–6.5% | 4% | 70% |  |
-| 6.5–7.5% | 1.4% | 67% |  |
-| 7.5–8.5% | 8% | 65% |  |
-| 8.5–9.5% | 17% | 57% | Median |
-| 9.5–10.5% | 22% | 40% |  |
-| 10.5–11.5% | 15% | 19% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 10% | 99.7% |  |
+| 4.5–5.5% | 27% | 89% |  |
+| 5.5–6.5% | 11% | 62% |  |
+| 6.5–7.5% | 3% | 51% | Median |
+| 7.5–8.5% | 12% | 48% |  |
+| 8.5–9.5% | 21% | 36% |  |
+| 9.5–10.5% | 12% | 15% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.2% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -46,8 +46,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–11 | 0–11 | 0–12 |
-| [18 September 2024](2024-09-18-OpinionWay.html) | OpinionWay | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 6 | 0–9 | 0–9 | 0–10 | 0–10 |
+| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 0 | 0 | 0–5 | 0–6 | 0–6 |
+| [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 11 | 10–11 | 9–11 | 9–12 | 8–12 |
 
@@ -59,20 +60,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% | Last Result |
-| 1 | 0% | 73% |  |
-| 2 | 0% | 73% |  |
-| 3 | 0% | 73% |  |
-| 4 | 0.3% | 73% |  |
-| 5 | 5% | 72% |  |
-| 6 | 3% | 68% |  |
-| 7 | 8% | 64% |  |
-| 8 | 16% | 57% | Median |
-| 9 | 8% | 41% |  |
-| 10 | 13% | 33% |  |
-| 11 | 19% | 20% |  |
-| 12 | 1.3% | 1.4% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 0% | 55% |  |
+| 3 | 0% | 55% |  |
+| 4 | 0.1% | 55% |  |
+| 5 | 4% | 55% |  |
+| 6 | 4% | 51% | Median |
+| 7 | 14% | 48% |  |
+| 8 | 15% | 33% |  |
+| 9 | 15% | 18% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
