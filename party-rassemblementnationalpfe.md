@@ -75,8 +75,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–36 | 30–36 | 30–36 | 29–39 |
-| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 36 | 35–36 | 35–36 | 34–37 | 32–39 |
+| N/A | [Poll Average](average.html) | 34 | 31–36 | 30–36 | 30–37 | 29–40 |
+| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 36 | 34–36 | 34–37 | 33–39 | 31–41 |
 | [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 32 | 30–33 | 30–35 | 30–35 | 29–37 |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 34 | 32–37 | 31–37 | 30–39 | 29–40 |
 | [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 32 | 30–32 | 30–33 | 29–33 | 28–35 |
@@ -120,17 +120,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.1% | 100% |  |
 | 29 | 0.7% | 99.9% |  |
 | 30 | 9% | 99.2% |  |
-| 31 | 13% | 91% |  |
+| 31 | 14% | 90% |  |
 | 32 | 15% | 77% |  |
-| 33 | 8% | 62% |  |
-| 34 | 3% | 54% |  |
-| 35 | 10% | 51% | Median |
-| 36 | 39% | 41% |  |
-| 37 | 0.6% | 2% |  |
-| 38 | 0.2% | 1.1% |  |
-| 39 | 0.7% | 0.8% |  |
-| 40 | 0% | 0.1% |  |
-| 41 | 0% | 0.1% | Majority |
+| 33 | 9% | 61% |  |
+| 34 | 6% | 53% | Median |
+| 35 | 9% | 47% |  |
+| 36 | 34% | 38% |  |
+| 37 | 1.3% | 3% |  |
+| 38 | 0.3% | 2% |  |
+| 39 | 0.9% | 2% |  |
+| 40 | 0.6% | 0.9% |  |
+| 41 | 0.2% | 0.3% | Majority |
 | 42 | 0% | 0% |  |
 
 
