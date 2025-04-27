@@ -31,10 +31,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0.2% | 100% |  |
 | 3.5–4.5% | 7% | 99.8% |  |
 | 4.5–5.5% | 24% | 93% |  |
-| 5.5–6.5% | 33% | 69% | Median |
+| 5.5–6.5% | 33% | 68% | Median |
 | 6.5–7.5% | 28% | 36% |  |
 | 7.5–8.5% | 7% | 8% |  |
-| 8.5–9.5% | 0.4% | 0.5% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -46,10 +46,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 0–7 | 0–7 | 0–8 | 0–8 |
-| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
-| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 0 | 0–6 | 0–6 | 0–6 | 0–7 |
-| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 6 | 5–7 | 0–7 | 0–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–8 | 0–8 | 0–8 |
+| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
 | [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
@@ -63,16 +63,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 0% | 80% |  |
-| 2 | 0% | 80% |  |
-| 3 | 0% | 80% |  |
-| 4 | 0.2% | 80% |  |
-| 5 | 18% | 80% |  |
-| 6 | 35% | 62% | Median |
-| 7 | 22% | 27% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.4% | 0.4% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 0% | 85% |  |
+| 4 | 0.5% | 85% |  |
+| 5 | 39% | 85% | Median |
+| 6 | 26% | 46% |  |
+| 7 | 14% | 19% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 

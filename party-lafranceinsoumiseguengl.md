@@ -34,7 +34,7 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.9% | 100% |  |
-| 8.5–9.5% | 8% | 99.1% |  |
+| 8.5–9.5% | 9% | 99.1% |  |
 | 9.5–10.5% | 16% | 91% |  |
 | 10.5–11.5% | 13% | 75% |  |
 | 11.5–12.5% | 19% | 62% | Median |
@@ -53,10 +53,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–14 | 9–15 | 8–15 | 8–16 |
-| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
-| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 13 | 12–14 | 11–15 | 11–16 | 10–16 |
-| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
+| N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 8–15 | 8–15 |
+| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
+| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 12 | 12–14 | 11–15 | 11–15 | 10–15 |
+| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 12 | 11–13 | 10–14 | 10–15 | 9–15 |
 | [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 12 | 11–12 | 11–13 | 10–13 | 9–14 |
 | [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 12 | 11–13 | 10–14 | 10–14 | 9–15 |
@@ -77,17 +77,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.4% | 100% |  |
-| 8 | 3% | 99.6% |  |
-| 9 | 16% | 96% |  |
-| 10 | 13% | 80% |  |
-| 11 | 7% | 67% |  |
-| 12 | 15% | 60% | Median |
-| 13 | 20% | 46% |  |
-| 14 | 20% | 26% |  |
-| 15 | 4% | 6% |  |
-| 16 | 1.2% | 1.4% |  |
-| 17 | 0.2% | 0.2% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 3% | 99.8% |  |
+| 9 | 10% | 97% |  |
+| 10 | 14% | 87% |  |
+| 11 | 18% | 73% |  |
+| 12 | 29% | 55% | Median |
+| 13 | 18% | 26% |  |
+| 14 | 5% | 8% |  |
+| 15 | 3% | 3% |  |
+| 16 | 0.1% | 0.2% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
 

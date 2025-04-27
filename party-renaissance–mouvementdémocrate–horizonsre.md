@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.8% | 19.8–24.7% | 19.3–25.3% | 18.9–25.9% | 18.2–26.8% |
-| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20.5% | 19.2–22.0% | 18.8–22.4% | 18.5–22.7% | 17.9–23.4% |
+| N/A | [Poll Average](average.html) | 21.8% | 19.7–24.7% | 19.3–25.3% | 18.9–25.9% | 18.2–26.8% |
+| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20.5% | 19.2–21.9% | 18.8–22.3% | 18.5–22.7% | 17.9–23.4% |
 | [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 24.0% | 22.4–25.7% | 22.0–26.1% | 21.6–26.5% | 20.9–27.3% |
 | [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 21.5% | 20.0–23.2% | 19.6–23.7% | 19.2–24.1% | 18.5–24.9% |
 | [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 23.7% | 22.1–25.4% | 21.7–25.9% | 21.3–26.3% | 20.5–27.2% |
@@ -44,8 +44,8 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 1.1% | 99.9% |  |
-| 18.5–19.5% | 6% | 98.9% |  |
-| 19.5–20.5% | 16% | 93% |  |
+| 18.5–19.5% | 6% | 98.8% |  |
+| 19.5–20.5% | 16% | 92% |  |
 | 20.5–21.5% | 21% | 76% |  |
 | 21.5–22.5% | 18% | 55% | Median |
 | 22.5–23.5% | 14% | 38% |  |
@@ -65,10 +65,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–25 | 19–26 | 18–27 | 17–28 |
-| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20 | 18–21 | 18–22 | 18–23 | 17–24 |
-| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 24 | 22–27 | 22–27 | 22–28 | 21–30 |
-| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 22 | 20–24 | 19–24 | 19–25 | 17–26 |
+| N/A | [Poll Average](average.html) | 21 | 19–25 | 18–25 | 18–26 | 17–27 |
+| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 23 | 22–26 | 22–27 | 21–27 | 20–28 |
+| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 21 | 18–22 | 18–23 | 18–23 | 17–24 |
 | [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 27 | 23–27 | 22–27 | 21–27 | 20–29 |
 | [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 26 | 25–29 | 24–29 | 24–29 | 23–31 |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
@@ -99,21 +99,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 0.8% | 99.9% |  |
-| 18 | 3% | 99.1% |  |
-| 19 | 7% | 96% |  |
-| 20 | 19% | 88% |  |
-| 21 | 12% | 69% |  |
-| 22 | 14% | 57% | Median |
-| 23 | 12% | 43% |  |
-| 24 | 17% | 31% |  |
-| 25 | 5% | 14% |  |
-| 26 | 4% | 8% |  |
-| 27 | 3% | 4% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.2% | 0.5% |  |
-| 30 | 0.2% | 0.3% |  |
-| 31 | 0.1% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 17 | 0.9% | 99.9% |  |
+| 18 | 6% | 99.0% |  |
+| 19 | 14% | 93% |  |
+| 20 | 15% | 79% |  |
+| 21 | 18% | 64% | Median |
+| 22 | 19% | 46% |  |
+| 23 | 12% | 28% |  |
+| 24 | 3% | 15% |  |
+| 25 | 9% | 12% |  |
+| 26 | 2% | 4% |  |
+| 27 | 2% | 2% |  |
+| 28 | 0.2% | 0.3% |  |
+| 29 | 0% | 0.1% |  |
+| 30 | 0.1% | 0.1% |  |
+| 31 | 0% | 0% |  |
 
 
