@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 13 | 11–13 | 11–14 | 11–15 | 10–15 |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
-| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 12 | 9–12 | 9–13 | 9–13 | 9–14 |
+| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 10 | 9–12 | 9–13 | 9–14 | 9–14 |
 | [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
 | [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 12 | 12–14 | 11–15 | 11–15 | 10–15 |
 | [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 12 | 11–13 | 10–14 | 10–15 | 9–15 |
@@ -88,13 +88,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
-| 9 | 8% | 98% |  |
-| 10 | 13% | 90% |  |
-| 11 | 11% | 77% |  |
-| 12 | 24% | 66% | Median |
-| 13 | 25% | 42% |  |
-| 14 | 13% | 17% |  |
-| 15 | 4% | 5% |  |
+| 9 | 9% | 98% |  |
+| 10 | 16% | 89% |  |
+| 11 | 12% | 73% |  |
+| 12 | 19% | 61% | Median |
+| 13 | 25% | 41% |  |
+| 14 | 12% | 17% |  |
+| 15 | 4% | 4% |  |
 | 16 | 0.4% | 0.4% |  |
 | 17 | 0% | 0% |  |
 

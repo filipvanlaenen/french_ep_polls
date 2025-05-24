@@ -56,11 +56,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–12 | 0–13 | 0–13 |
+| N/A | [Poll Average](average.html) | 8 | 0–12 | 0–13 | 0–13 | 0–13 |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 10 | 10–13 | 10–13 | 9–13 | 9–14 |
+| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 5 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 6 | 5–7 | 5–7 | 4–7 | 0–8 |
@@ -84,14 +84,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.6% | 83% |  |
 | 5 | 6% | 82% |  |
 | 6 | 8% | 77% |  |
-| 7 | 8% | 69% |  |
+| 7 | 7% | 69% |  |
 | 8 | 20% | 61% | Median |
-| 9 | 17% | 41% |  |
-| 10 | 14% | 24% |  |
-| 11 | 3% | 10% |  |
-| 12 | 3% | 7% |  |
-| 13 | 4% | 5% |  |
+| 9 | 17% | 42% |  |
+| 10 | 9% | 24% |  |
+| 11 | 5% | 15% |  |
+| 12 | 5% | 10% |  |
+| 13 | 5% | 5% |  |
 | 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
