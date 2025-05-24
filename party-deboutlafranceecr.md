@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.8–3.8% | 1.6–4.0% | 1.5–4.2% | 1.3–4.6% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.7–3.4% | 1.5–3.7% | 1.4–3.9% | 1.2–4.3% |
+| [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
+| [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 0.0% | N/A | N/A | N/A | N/A |
+| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.9–3.2% | 1.7–3.4% |
+| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.2% | 2.1–4.6% |
 | [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
 | [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 3.2% | 2.6–4.0% | 2.5–4.2% | 2.3–4.4% | 2.1–4.8% |
@@ -26,11 +30,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 30% | 97% |  |
-| 2.5–3.5% | 48% | 66% | Median |
-| 3.5–4.5% | 18% | 18% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 54% | 94% | Median |
+| 2.5–3.5% | 34% | 40% |  |
+| 3.5–4.5% | 6% | 6% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -43,6 +47,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI |  |  |  |  |  |
+| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 0 | 0 | 0 | 0 | 0 |
+| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0 | 0 | 0 |
 | [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 0 | 0 | 0 | 0 | 0 |
@@ -59,12 +67,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0% | 0.1% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
