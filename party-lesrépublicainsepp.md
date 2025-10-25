@@ -59,10 +59,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
-| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
-| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
+| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 11 | 11–13 | 10–13 | 10–13 | 9–14 |
+| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
@@ -90,14 +90,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.1% | 100% |  |
-| 8 | 9% | 98.9% |  |
-| 9 | 13% | 90% |  |
-| 10 | 30% | 78% | Median |
-| 11 | 23% | 47% |  |
-| 12 | 18% | 24% |  |
-| 13 | 5% | 5% |  |
-| 14 | 0.5% | 0.6% |  |
+| 7 | 1.4% | 100% |  |
+| 8 | 7% | 98.6% |  |
+| 9 | 17% | 92% |  |
+| 10 | 27% | 74% | Median |
+| 11 | 28% | 47% |  |
+| 12 | 14% | 19% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.4% | 0.5% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

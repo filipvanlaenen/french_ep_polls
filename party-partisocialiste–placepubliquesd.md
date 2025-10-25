@@ -61,8 +61,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–13 | 6–14 | 6–14 | 5–15 |
-| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 12 | 11–12 | 11–13 | 10–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 11 | 6–13 | 6–14 | 6–14 | 6–15 |
+| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 12 | 11–12 | 10–13 | 10–13 | 9–14 |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -90,17 +90,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.7% | 100% |  |
-| 6 | 8% | 99.3% |  |
-| 7 | 19% | 91% |  |
-| 8 | 5% | 73% |  |
-| 9 | 0.7% | 67% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 12% | 99.5% |  |
+| 7 | 17% | 88% |  |
+| 8 | 4% | 71% |  |
+| 9 | 0.6% | 67% |  |
 | 10 | 2% | 66% |  |
-| 11 | 17% | 64% | Median |
-| 12 | 27% | 47% |  |
-| 13 | 11% | 20% |  |
-| 14 | 8% | 9% |  |
-| 15 | 0.8% | 1.0% |  |
+| 11 | 14% | 64% | Median |
+| 12 | 31% | 50% |  |
+| 13 | 11% | 19% |  |
+| 14 | 6% | 8% |  |
+| 15 | 1.0% | 1.3% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
