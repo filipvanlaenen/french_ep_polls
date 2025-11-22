@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.9–13.1% | 9.5–13.5% | 9.2–13.8% | 8.6–14.5% |
+| N/A | [Poll Average](average.html) | 10.9% | 6.0–12.9% | 5.6–13.4% | 5.4–13.7% | 4.9–14.4% |
+| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 6.1% | 5.4–7.0% | 5.2–7.3% | 5.0–7.5% | 4.7–7.9% |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 10.5% | 9.3–11.7% | 9.0–12.1% | 8.8–12.4% | 8.3–13.0% |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 12.5% | 11.5–13.7% | 11.2–14.0% | 10.9–14.3% | 10.5–14.8% |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.6–13.3% | 9.1–14.0% |
@@ -36,18 +37,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 5% | 99.6% |  |
-| 9.5–10.5% | 18% | 94% |  |
-| 10.5–11.5% | 28% | 76% | Median |
-| 11.5–12.5% | 27% | 48% |  |
-| 12.5–13.5% | 17% | 21% |  |
-| 13.5–14.5% | 4% | 5% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 14% | 96% |  |
+| 6.5–7.5% | 6% | 82% |  |
+| 7.5–8.5% | 0.8% | 76% |  |
+| 8.5–9.5% | 4% | 75% |  |
+| 9.5–10.5% | 14% | 71% |  |
+| 10.5–11.5% | 21% | 57% | Median |
+| 11.5–12.5% | 20% | 36% |  |
+| 12.5–13.5% | 12% | 16% |  |
+| 13.5–14.5% | 3% | 3% |  |
+| 14.5–15.5% | 0.3% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -59,7 +60,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 5–12 | 5–12 | 5–13 | 0–13 |
+| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 5 | 5–7 | 5–7 | 0–7 | 0–7 |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 11 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
@@ -83,21 +85,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 1.4% | 100% |  |
-| 8 | 7% | 98.6% |  |
-| 9 | 17% | 92% |  |
-| 10 | 27% | 74% | Median |
-| 11 | 28% | 47% |  |
-| 12 | 14% | 19% |  |
-| 13 | 4% | 5% |  |
-| 14 | 0.4% | 0.5% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 0% | 99.1% |  |
+| 2 | 0% | 99.1% |  |
+| 3 | 0% | 99.1% |  |
+| 4 | 0.3% | 99.1% |  |
+| 5 | 12% | 98.8% |  |
+| 6 | 9% | 87% |  |
+| 7 | 4% | 78% |  |
+| 8 | 5% | 74% |  |
+| 9 | 13% | 69% |  |
+| 10 | 20% | 56% | Median |
+| 11 | 21% | 35% |  |
+| 12 | 11% | 14% |  |
+| 13 | 3% | 3% |  |
+| 14 | 0.3% | 0.4% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.5% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.3–5.5% | 2.1–5.8% | 2.0–6.1% | 1.7–6.6% |
+| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 5.1% | 4.5–6.0% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
@@ -34,11 +35,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 34% | 99.9% |  |
-| 2.5–3.5% | 57% | 66% | Median |
-| 3.5–4.5% | 9% | 10% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 22% | 99.9% |  |
+| 2.5–3.5% | 38% | 78% | Median |
+| 3.5–4.5% | 11% | 40% |  |
+| 4.5–5.5% | 20% | 29% |  |
+| 5.5–6.5% | 9% | 9% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,7 +52,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 0 | 0 | 0 | 0 | 0 |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio |  |  |  |  |  |
@@ -73,6 +77,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 0% | 17% |  |
+| 4 | 3% | 17% |  |
+| 5 | 13% | 14% |  |
+| 6 | 1.4% | 1.5% |  |
+| 7 | 0% | 0% |  |
 
 
