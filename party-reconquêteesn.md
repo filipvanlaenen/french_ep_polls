@@ -55,9 +55,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0–6 | 0–6 | 0–6 | 0–6 |
-| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
+| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 5 | 4–6 | 4–6 | 0–6 | 0–7 |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 5 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio |  |  |  |  |  |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI |  |  |  |  |  |
 | [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone |  |  |  |  |  |
@@ -78,14 +78,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 0% | 51% |  |
-| 2 | 0% | 51% |  |
-| 3 | 0% | 51% |  |
-| 4 | 14% | 51% | Median |
-| 5 | 28% | 37% |  |
-| 6 | 9% | 9% |  |
-| 7 | 0.2% | 0.2% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 0% | 55% |  |
+| 3 | 0% | 55% |  |
+| 4 | 10% | 55% | Median |
+| 5 | 34% | 44% |  |
+| 6 | 10% | 10% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 

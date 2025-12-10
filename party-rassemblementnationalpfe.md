@@ -85,11 +85,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 28–37 | 28–39 | 27–39 | 26–39 |
-| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 36 | 33–39 | 33–39 | 32–39 | 31–39 |
-| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 31 | 29–33 | 29–34 | 29–34 | 28–35 |
-| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 29 | 27–31 | 26–31 | 26–31 | 25–32 |
-| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 33 | 32–35 | 31–35 | 30–35 | 29–36 |
+| N/A | [Poll Average](average.html) | 32 | 29–36 | 28–39 | 27–39 | 26–39 |
+| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 35 | 33–39 | 33–39 | 32–39 | 31–40 |
+| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 31 | 29–34 | 29–34 | 29–34 | 29–35 |
+| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 29 | 27–30 | 26–31 | 26–31 | 25–32 |
+| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 33 | 31–35 | 30–35 | 30–35 | 29–36 |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio |  |  |  |  |  |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI |  |  |  |  |  |
 | [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone |  |  |  |  |  |
@@ -135,22 +135,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.3% | 100% |  |
-| 26 | 2% | 99.7% |  |
-| 27 | 3% | 98% |  |
-| 28 | 5% | 95% |  |
-| 29 | 11% | 90% |  |
-| 30 | 11% | 78% |  |
-| 31 | 15% | 67% |  |
-| 32 | 3% | 53% | Median |
-| 33 | 17% | 49% |  |
-| 34 | 8% | 32% |  |
-| 35 | 11% | 24% |  |
-| 36 | 3% | 13% |  |
-| 37 | 1.1% | 10% |  |
-| 38 | 1.4% | 9% |  |
-| 39 | 8% | 8% |  |
-| 40 | 0.1% | 0.1% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 2% | 99.8% |  |
+| 27 | 2% | 98% |  |
+| 28 | 5% | 96% |  |
+| 29 | 13% | 91% |  |
+| 30 | 12% | 78% |  |
+| 31 | 14% | 65% |  |
+| 32 | 5% | 51% | Median |
+| 33 | 15% | 47% |  |
+| 34 | 9% | 32% |  |
+| 35 | 12% | 24% |  |
+| 36 | 3% | 12% |  |
+| 37 | 1.5% | 9% |  |
+| 38 | 2% | 7% |  |
+| 39 | 5% | 6% |  |
+| 40 | 0.2% | 0.2% |  |
 | 41 | 0% | 0% | Majority |
 
 
