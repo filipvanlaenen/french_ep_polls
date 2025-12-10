@@ -15,17 +15,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 13.5% | 12.3–15.0% | 11.9–15.3% | 11.6–15.7% | 11.1–16.4% |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 18.0% | 16.8–19.3% | 16.4–19.7% | 16.1–20.0% | 15.6–20.6% |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.6–13.3% | 9.1–14.0% |
-| [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 21.0% | 19.5–22.6% | 19.1–23.1% | 18.7–23.5% | 18.0–24.3% |
-| [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 18.0% | 16.6–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
-| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 22.4% | 21.3–23.6% | 21.0–23.9% | 20.7–24.2% | 20.2–24.8% |
-| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
-| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20.5% | 19.2–21.9% | 18.8–22.3% | 18.5–22.7% | 17.9–23.4% |
-| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 24.0% | 22.4–25.7% | 22.0–26.1% | 21.6–26.5% | 20.9–27.3% |
-| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 21.5% | 20.0–23.2% | 19.6–23.7% | 19.2–24.1% | 18.5–24.9% |
-| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 23.7% | 22.1–25.4% | 21.7–25.9% | 21.3–26.3% | 20.5–27.2% |
-| [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.9–32.5% | 26.0–33.4% |
-| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 21.3% | 19.7–22.9% | 19.3–23.4% | 18.9–23.8% | 18.2–24.6% |
-| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 21.7% | 20.5–23.2% | 20.2–23.6% | 19.9–23.9% | 19.3–24.6% |
+| [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 21.0% | N/A | N/A | N/A | N/A |
+| [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 18.0% | N/A | N/A | N/A | N/A |
+| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 22.4% | N/A | N/A | N/A | N/A |
+| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 20.0% | N/A | N/A | N/A | N/A |
+| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20.5% | N/A | N/A | N/A | N/A |
+| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 24.0% | N/A | N/A | N/A | N/A |
+| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 21.5% | N/A | N/A | N/A | N/A |
+| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 23.7% | N/A | N/A | N/A | N/A |
+| [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 29.6% | N/A | N/A | N/A | N/A |
+| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 21.3% | N/A | N/A | N/A | N/A |
+| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 21.7% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -66,22 +66,22 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–17 | 10–17 | 9–18 | 9–19 |
-| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
-| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
-| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 16 | 16–18 | 15–18 | 15–19 | 14–20 |
-| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
-| [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
-| [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 17 | 15–18 | 14–18 | 14–19 | 13–19 |
-| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
-| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat | 20 | 18–21 | 18–21 | 17–21 | 16–22 |
-| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
-| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 23 | 22–26 | 22–27 | 21–27 | 20–28 |
-| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 21 | 18–22 | 18–23 | 18–23 | 17–24 |
-| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 27 | 23–27 | 22–27 | 21–27 | 20–29 |
-| [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 26 | 25–29 | 24–29 | 24–29 | 23–31 |
-| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
-| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 22 | 20–23 | 20–23 | 20–23 | 19–25 |
+| N/A | [Poll Average](average.html) | 13 | 10–17 | 10–18 | 10–18 | 9–19 |
+| [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15 | 13–16 | 13–16 | 12–16 | 12–18 |
+| [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 12 | 11–14 | 11–14 | 11–14 | 10–14 |
+| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 11 | 10–11 | 9–12 | 9–12 | 8–13 |
+| [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio |  |  |  |  |  |
+| [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI |  |  |  |  |  |
+| [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone |  |  |  |  |  |
+| [23–24 April 2025](2025-04-24-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
+| [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche |  |  |  |  |  |
+| [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL |  |  |  |  |  |
+| [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche |  |  |  |  |  |
+| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio |  |  |  |  |  |
+| [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay |  |  |  |  |  |
+| [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio |  |  |  |  |  |
+| [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -99,19 +99,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.4% | 100% |  |
-| 9 | 3% | 99.6% |  |
-| 10 | 9% | 96% |  |
-| 11 | 18% | 87% |  |
-| 12 | 14% | 69% |  |
-| 13 | 8% | 55% | Median |
-| 14 | 11% | 47% |  |
-| 15 | 7% | 36% |  |
-| 16 | 18% | 29% |  |
-| 17 | 7% | 11% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.8% | 1.0% |  |
-| 20 | 0.2% | 0.2% |  |
+| 8 | 0.3% | 100% |  |
+| 9 | 1.3% | 99.7% |  |
+| 10 | 11% | 98% |  |
+| 11 | 18% | 88% |  |
+| 12 | 13% | 69% |  |
+| 13 | 7% | 56% | Median |
+| 14 | 8% | 49% |  |
+| 15 | 8% | 41% |  |
+| 16 | 20% | 33% |  |
+| 17 | 8% | 13% |  |
+| 18 | 3% | 5% |  |
+| 19 | 1.2% | 2% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 
 
