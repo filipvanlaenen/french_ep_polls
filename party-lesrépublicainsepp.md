@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 6.0–12.9% | 5.6–13.4% | 5.4–13.7% | 4.9–14.4% |
+| N/A | [Poll Average](average.html) | 9.1% | 6.1–12.6% | 5.7–13.1% | 5.4–13.5% | 5.0–14.3% |
+| [18–20 November 2025](2025-11-20-Verian.html) | Verian | 7.5% | 6.5–8.7% | 6.2–9.0% | 5.9–9.3% | 5.5–9.9% |
+| [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.6–10.9% | 7.1–11.5% |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 6.1% | 5.4–7.0% | 5.2–7.3% | 5.0–7.5% | 4.7–7.9% |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 10.5% | 9.3–11.7% | 9.0–12.1% | 8.8–12.4% | 8.3–13.0% |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 12.5% | 11.5–13.7% | 11.2–14.0% | 10.9–14.3% | 10.5–14.8% |
@@ -38,17 +40,17 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 4% | 99.9% |  |
-| 5.5–6.5% | 14% | 96% |  |
-| 6.5–7.5% | 6% | 82% |  |
-| 7.5–8.5% | 0.8% | 76% |  |
-| 8.5–9.5% | 4% | 75% |  |
-| 9.5–10.5% | 14% | 71% |  |
-| 10.5–11.5% | 21% | 57% | Median |
-| 11.5–12.5% | 20% | 36% |  |
-| 12.5–13.5% | 12% | 16% |  |
-| 13.5–14.5% | 3% | 3% |  |
-| 14.5–15.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 14% | 97% |  |
+| 6.5–7.5% | 13% | 83% |  |
+| 7.5–8.5% | 12% | 70% |  |
+| 8.5–9.5% | 14% | 57% | Median |
+| 9.5–10.5% | 13% | 44% |  |
+| 10.5–11.5% | 10% | 31% |  |
+| 11.5–12.5% | 10% | 20% |  |
+| 12.5–13.5% | 8% | 10% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -60,7 +62,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 5–12 | 5–12 | 5–13 | 0–13 |
+| N/A | [Poll Average](average.html) | 8 | 5–11 | 5–12 | 5–12 | 0–13 |
+| [18–20 November 2025](2025-11-20-Verian.html) | Verian | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 5 | 5–6 | 4–7 | 0–7 | 0–7 |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 11 | 11–13 | 10–13 | 10–13 | 9–14 |
@@ -85,22 +89,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 0% | 98.9% |  |
-| 2 | 0% | 98.9% |  |
-| 3 | 0% | 98.9% |  |
-| 4 | 0.1% | 98.9% |  |
-| 5 | 12% | 98.7% |  |
-| 6 | 10% | 86% |  |
-| 7 | 2% | 76% |  |
-| 8 | 5% | 74% |  |
-| 9 | 11% | 69% |  |
-| 10 | 15% | 58% | Median |
-| 11 | 22% | 43% |  |
-| 12 | 18% | 21% |  |
-| 13 | 3% | 3% |  |
-| 14 | 0.3% | 0.3% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 0% | 99.1% |  |
+| 2 | 0% | 99.1% |  |
+| 3 | 0% | 99.1% |  |
+| 4 | 0.1% | 99.1% |  |
+| 5 | 11% | 98.9% |  |
+| 6 | 18% | 88% |  |
+| 7 | 13% | 70% |  |
+| 8 | 13% | 57% | Median |
+| 9 | 16% | 44% |  |
+| 10 | 9% | 28% |  |
+| 11 | 10% | 19% |  |
+| 12 | 6% | 9% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.2% | 0.3% |  |
+| 15 | 0% | 0% |  |
 
 
