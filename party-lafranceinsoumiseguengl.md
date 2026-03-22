@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.0–15.1% | 10.6–15.6% | 10.2–16.0% | 9.6–16.7% |
+| N/A | [Poll Average](average.html) | 10.9% | 9.8–12.1% | 9.5–12.5% | 9.2–12.8% | 8.7–13.5% |
+| [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 10.9% | 9.8–12.1% | 9.4–12.5% | 9.2–12.8% | 8.7–13.5% |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 11.7% | 10.5–13.2% | 10.1–13.6% | 9.8–13.9% | 9.2–14.7% |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 11.6% | 10.5–12.9% | 10.1–13.3% | 9.9–13.6% | 9.3–14.2% |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 12.5% | 11.5–13.7% | 11.2–14.1% | 10.9–14.3% | 10.4–14.9% |
@@ -43,18 +44,14 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.4% | 100% |  |
-| 9.5–10.5% | 4% | 99.5% |  |
-| 10.5–11.5% | 15% | 95% |  |
-| 11.5–12.5% | 23% | 80% |  |
-| 12.5–13.5% | 21% | 57% | Median |
-| 13.5–14.5% | 18% | 36% |  |
-| 14.5–15.5% | 13% | 18% |  |
-| 15.5–16.5% | 5% | 5% |  |
-| 16.5–17.5% | 0.6% | 0.7% |  |
-| 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.3% | 100% |  |
+| 8.5–9.5% | 6% | 99.7% |  |
+| 9.5–10.5% | 28% | 94% |  |
+| 10.5–11.5% | 41% | 66% | Median |
+| 11.5–12.5% | 20% | 25% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,7 +62,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–15 | 8–15 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–13 | 8–14 |
+| [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 10 | 9–11 | 8–12 | 8–13 | 8–14 |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 13 | 11–13 | 10–14 | 10–14 | 10–15 |
@@ -99,16 +97,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0.8% | 100% |  |
-| 9 | 5% | 99.2% |  |
-| 10 | 15% | 94% |  |
-| 11 | 19% | 79% |  |
-| 12 | 22% | 60% | Median |
-| 13 | 23% | 38% |  |
-| 14 | 12% | 15% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.3% | 0.3% |  |
-| 17 | 0% | 0% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 6% | 99.9% |  |
+| 9 | 22% | 94% |  |
+| 10 | 42% | 72% | Median |
+| 11 | 21% | 29% |  |
+| 12 | 5% | 8% |  |
+| 13 | 2% | 3% |  |
+| 14 | 1.3% | 1.3% |  |
+| 15 | 0% | 0% |  |
 
 
