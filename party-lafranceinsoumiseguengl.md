@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 10.4–15.2% | 10.0–15.7% | 9.6–16.2% | 9.0–17.0% |
+| N/A | [Poll Average](average.html) | 12.7% | 10.6–14.8% | 10.2–15.4% | 9.8–15.9% | 9.2–16.8% |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 14.5% | 13.1–16.0% | 12.7–16.4% | 12.4–16.8% | 11.8–17.5% |
 | [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 13.6% | 12.5–14.8% | 12.1–15.1% | 11.9–15.4% | 11.4–16.0% |
-| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 12.5% | N/A | N/A | N/A | N/A |
-| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 11.9% | N/A | N/A | N/A | N/A |
+| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 12.5% | 11.3–14.0% | 10.9–14.4% | 10.6–14.7% | 10.1–15.5% |
+| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 11.9% | 10.6–13.3% | 10.3–13.7% | 10.0–14.0% | 9.4–14.7% |
 | [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 10.9% | 9.8–12.1% | 9.4–12.5% | 9.2–12.8% | 8.7–13.5% |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 11.7% | 10.5–13.2% | 10.1–13.6% | 9.8–13.9% | 9.2–14.7% |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 11.6% | 10.5–12.9% | 10.1–13.3% | 9.9–13.6% | 9.3–14.2% |
@@ -49,16 +49,16 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 9% | 98% |  |
-| 10.5–11.5% | 14% | 89% |  |
-| 11.5–12.5% | 12% | 75% |  |
-| 12.5–13.5% | 19% | 63% | Median |
-| 13.5–14.5% | 23% | 44% |  |
-| 14.5–15.5% | 14% | 21% |  |
-| 15.5–16.5% | 5% | 7% |  |
-| 16.5–17.5% | 1.1% | 1.3% |  |
-| 17.5–18.5% | 0.1% | 0.2% |  |
+| 8.5–9.5% | 1.4% | 99.9% |  |
+| 9.5–10.5% | 8% | 98.6% |  |
+| 10.5–11.5% | 17% | 91% |  |
+| 11.5–12.5% | 21% | 74% |  |
+| 12.5–13.5% | 22% | 54% | Median |
+| 13.5–14.5% | 18% | 31% |  |
+| 14.5–15.5% | 9% | 13% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.7% | 0.8% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -70,11 +70,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–14 | 8–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
-| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 13–14 | 12–14 | 12–14 | 12–16 |
-| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat |  |  |  |  |  |
-| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL |  |  |  |  |  |
+| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 12 | 10–13 | 10–13 | 9–13 | 9–15 |
+| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 10 | 9–12 | 9–13 | 9–13 | 9–14 |
 | [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 10 | 9–11 | 8–12 | 8–13 | 8–14 |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
@@ -110,14 +110,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 2% | 100% |  |
-| 9 | 7% | 98% |  |
-| 10 | 16% | 90% |  |
-| 11 | 15% | 74% |  |
-| 12 | 17% | 59% | Median |
-| 13 | 13% | 42% |  |
-| 14 | 28% | 29% |  |
-| 15 | 0.4% | 0.6% |  |
+| 8 | 1.4% | 100% |  |
+| 9 | 8% | 98.6% |  |
+| 10 | 19% | 91% |  |
+| 11 | 22% | 71% | Median |
+| 12 | 17% | 49% |  |
+| 13 | 16% | 32% |  |
+| 14 | 15% | 16% |  |
+| 15 | 1.2% | 1.4% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
