@@ -94,11 +94,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–38 | 30–38 | 30–39 | 29–40 |
+| N/A | [Poll Average](average.html) | 35 | 31–38 | 30–39 | 30–40 | 28–40 |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 32 | 30–34 | 30–35 | 29–36 | 29–36 |
-| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 36 | 36–38 | 36–39 | 35–39 | 34–40 |
-| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 35 | 31–38 | 31–38 | 31–38 | 30–40 |
-| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 32 | 30–36 | 30–36 | 29–36 | 29–37 |
+| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 37 | 36–39 | 36–40 | 35–40 | 34–40 |
+| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 35 | 31–38 | 31–38 | 31–39 | 29–40 |
+| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 30–35 | 29–36 | 28–36 | 28–37 |
 | [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 36 | 34–38 | 34–40 | 33–40 | 31–40 |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 33 | 31–36 | 30–37 | 30–37 | 29–38 |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 33 | 31–35 | 30–35 | 30–35 | 29–36 |
@@ -154,19 +154,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0% | 100% |  |
 | 26 | 0% | 100% |  |
 | 27 | 0% | 100% |  |
-| 28 | 0.2% | 99.9% |  |
-| 29 | 1.2% | 99.8% |  |
-| 30 | 7% | 98.6% |  |
-| 31 | 8% | 92% |  |
-| 32 | 11% | 84% |  |
-| 33 | 6% | 73% |  |
-| 34 | 11% | 67% |  |
-| 35 | 12% | 56% | Median |
-| 36 | 21% | 44% |  |
-| 37 | 8% | 23% |  |
-| 38 | 10% | 14% |  |
-| 39 | 1.5% | 4% |  |
-| 40 | 2% | 2% |  |
+| 28 | 0.7% | 100% |  |
+| 29 | 1.2% | 99.3% |  |
+| 30 | 3% | 98% |  |
+| 31 | 7% | 95% |  |
+| 32 | 13% | 88% |  |
+| 33 | 8% | 75% |  |
+| 34 | 14% | 67% |  |
+| 35 | 12% | 53% | Median |
+| 36 | 14% | 41% |  |
+| 37 | 10% | 26% |  |
+| 38 | 9% | 16% |  |
+| 39 | 4% | 7% |  |
+| 40 | 3% | 3% |  |
 | 41 | 0.1% | 0.1% | Majority |
 | 42 | 0% | 0% |  |
 

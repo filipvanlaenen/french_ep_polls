@@ -67,11 +67,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 0–11 | 0–11 | 0–12 | 0–13 |
+| N/A | [Poll Average](average.html) | 8 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
-| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 7 | 5–7 | 5–7 | 5–7 | 0–7 |
-| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0–4 | 0–4 | 0–5 |
-| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 6 | 5–7 | 5–7 | 4–7 | 0–7 |
+| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 0 | 0 | 0–4 | 0–5 | 0–5 |
+| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
@@ -103,12 +103,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 81% |  |
 | 2 | 0% | 81% |  |
 | 3 | 0% | 81% |  |
-| 4 | 1.0% | 81% |  |
-| 5 | 3% | 80% |  |
-| 6 | 9% | 77% |  |
-| 7 | 18% | 68% | Median |
-| 8 | 12% | 50% |  |
-| 9 | 13% | 38% |  |
+| 4 | 0.8% | 81% |  |
+| 5 | 4% | 80% |  |
+| 6 | 9% | 76% |  |
+| 7 | 16% | 67% |  |
+| 8 | 12% | 51% | Median |
+| 9 | 13% | 39% |  |
 | 10 | 15% | 25% |  |
 | 11 | 6% | 10% |  |
 | 12 | 3% | 4% |  |

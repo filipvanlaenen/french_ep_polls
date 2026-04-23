@@ -72,9 +72,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
-| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 12 | 10–13 | 10–13 | 9–13 | 9–15 |
-| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 10 | 9–12 | 9–13 | 9–13 | 9–14 |
+| [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
+| [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
 | [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 10 | 9–11 | 8–12 | 8–13 | 8–14 |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
@@ -110,14 +110,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 1.4% | 100% |  |
-| 9 | 8% | 98.6% |  |
+| 8 | 1.5% | 100% |  |
+| 9 | 7% | 98.5% |  |
 | 10 | 19% | 91% |  |
-| 11 | 22% | 71% | Median |
-| 12 | 17% | 49% |  |
-| 13 | 16% | 32% |  |
-| 14 | 15% | 16% |  |
-| 15 | 1.2% | 1.4% |  |
+| 11 | 23% | 72% | Median |
+| 12 | 20% | 49% |  |
+| 13 | 15% | 30% |  |
+| 14 | 12% | 14% |  |
+| 15 | 2% | 2% |  |
 | 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
