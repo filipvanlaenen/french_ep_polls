@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.7% | 12.8–23.0% | 12.2–23.9% | 11.7–24.6% | 11.0–25.7% |
+| N/A | [Poll Average](average.html) | 15.8% | 12.9–23.0% | 12.2–23.9% | 11.7–24.6% | 11.0–25.7% |
+| [28–30 April 2026](2026-04-30-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 15.7% | 14.5–16.9% | 14.2–17.3% | 13.9–17.6% | 13.4–18.2% |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 16.5% | 15.1–18.1% | 14.7–18.6% | 14.4–19.0% | 13.7–19.7% |
 | [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15.2% | 14.1–16.5% | 13.7–16.9% | 13.4–17.2% | 12.9–17.8% |
 | [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 23.0% | 21.3–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
@@ -53,11 +54,11 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.1% | 100% |  |
 | 10.5–11.5% | 2% | 99.9% |  |
 | 11.5–12.5% | 6% | 98% |  |
-| 12.5–13.5% | 9% | 92% |  |
-| 13.5–14.5% | 12% | 83% |  |
-| 14.5–15.5% | 18% | 71% |  |
-| 15.5–16.5% | 18% | 53% | Median |
-| 16.5–17.5% | 10% | 35% |  |
+| 12.5–13.5% | 8% | 93% |  |
+| 13.5–14.5% | 11% | 84% |  |
+| 14.5–15.5% | 18% | 74% |  |
+| 15.5–16.5% | 20% | 55% | Median |
+| 16.5–17.5% | 11% | 36% |  |
 | 17.5–18.5% | 4% | 25% |  |
 | 18.5–19.5% | 1.0% | 21% |  |
 | 19.5–20.5% | 0.6% | 20% |  |
@@ -79,7 +80,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–22 | 11–23 | 11–24 | 10–25 |
+| N/A | [Poll Average](average.html) | 15 | 12–22 | 11–23 | 11–24 | 10–25 |
+| [28–30 April 2026](2026-04-30-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [26–27 March 2026](2026-03-27-OpinionWay.html) | OpinionWay | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 22 | 20–24 | 20–24 | 19–25 | 18–26 |
@@ -123,12 +125,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 1.0% | 100% |  |
 | 11 | 8% | 99.0% |  |
-| 12 | 7% | 91% |  |
-| 13 | 19% | 84% |  |
-| 14 | 17% | 64% | Median |
-| 15 | 20% | 47% |  |
-| 16 | 5% | 27% |  |
-| 17 | 1.4% | 22% |  |
+| 12 | 6% | 91% |  |
+| 13 | 15% | 85% |  |
+| 14 | 19% | 70% |  |
+| 15 | 24% | 51% | Median |
+| 16 | 6% | 27% |  |
+| 17 | 1.3% | 21% |  |
 | 18 | 0.7% | 20% |  |
 | 19 | 0.5% | 20% |  |
 | 20 | 6% | 19% |  |
