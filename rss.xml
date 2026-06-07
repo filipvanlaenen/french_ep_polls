@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Jun 2026 17:17:23 +0200</pubDate>
+    <pubDate>Sun, 07 Jun 2026 20:04:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Le Parisien, 27–28 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-05-28-Ipsos.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Sun, 07 Jun 2026 17:17:23 +0200</pubDate>
       <dc:date>2026-06-07T17:17:23.620397+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 20–21 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-05-21-Odoxa.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 8–12 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 0–6 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 12–16 seats&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 13–18 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 27–32 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-05-21-Odoxa-seats.png"
+        length="284338"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jun 2026 20:04:01 +0200</pubDate>
+      <dc:date>2026-06-07T20:04:01.394831+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 20–21 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-05-21-Odoxa.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-05-21-Odoxa-coalitions-seats.png"
+        length="220958"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jun 2026 20:04:01 +0200</pubDate>
+      <dc:date>2026-06-07T20:04:01.394831+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Odoxa for Public Sénat, 20–21 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-05-21-Odoxa.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 9.3–13.1%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.3–10.9%&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 4.7–7.6%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13.9–18.4%&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 14.8–19.5%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 29.2–35.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-05-21-Odoxa.png"
+        length="344878"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jun 2026 20:04:01 +0200</pubDate>
+      <dc:date>2026-06-07T20:04:01.394831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Harris Interactive for M6 and RTL, 28–30 April 2026 – Seat Projections for the Parties</title>
@@ -459,6 +489,6 @@
       <pubDate>Wed, 10 Dec 2025 19:20:07 +0100</pubDate>
       <dc:date>2025-12-10T19:20:07.955574+01:00</dc:date>
     </item>
-    <dc:date>2026-06-07T17:17:23.620397+02:00</dc:date>
+    <dc:date>2026-06-07T20:04:01.394831+02:00</dc:date>
   </channel>
 </rss>
