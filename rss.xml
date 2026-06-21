@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Jun 2026 20:04:01 +0200</pubDate>
+    <pubDate>Sat, 20 Jun 2026 23:37:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by OpinionWay for Le Journal du Dimanche, 10–11 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-06-11-OpinionWay.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–10 seats&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11–15 seats&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 14–18 seats&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 29–35 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-06-11-OpinionWay-seats.png"
+        length="263338"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 23:37:00 +0200</pubDate>
+      <dc:date>2026-06-20T23:37:00.887253+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for Le Journal du Dimanche, 10–11 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-06-11-OpinionWay.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-06-11-OpinionWay-coalitions-seats.png"
+        length="191725"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 23:37:00 +0200</pubDate>
+      <dc:date>2026-06-20T23:37:00.887253+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for Le Journal du Dimanche, 10–11 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-06-11-OpinionWay.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 12.2–16.8%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7.0–10.7%&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 2.3–4.7%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 11.9–16.4%&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 15.0–19.9%&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 30.9–37.1%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.5–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-06-11-OpinionWay.png"
+        length="344052"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 23:37:00 +0200</pubDate>
+      <dc:date>2026-06-20T23:37:00.887253+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Le Parisien, 27–28 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-05-28-Ipsos.html#seats</link>
@@ -489,6 +519,6 @@
       <pubDate>Wed, 10 Dec 2025 19:20:07 +0100</pubDate>
       <dc:date>2025-12-10T19:20:07.955574+01:00</dc:date>
     </item>
-    <dc:date>2026-06-07T20:04:01.394831+02:00</dc:date>
+    <dc:date>2026-06-20T23:37:00.887253+02:00</dc:date>
   </channel>
 </rss>
