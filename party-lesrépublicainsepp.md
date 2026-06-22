@@ -70,8 +70,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
-| [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [26–28 May 2026](2026-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 8 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [25–27 May 2026](2026-05-27-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 7 | 7–9 | 7–9 | 6–10 | 6–10 |
@@ -113,11 +113,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 5% | 99.8% |  |
-| 7 | 30% | 95% |  |
-| 8 | 39% | 65% | Median |
-| 9 | 21% | 26% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 4% | 99.9% |  |
+| 7 | 30% | 96% |  |
+| 8 | 39% | 66% | Median |
+| 9 | 22% | 27% |  |
 | 10 | 5% | 5% |  |
 | 11 | 0.4% | 0.4% |  |
 | 12 | 0% | 0% |  |
