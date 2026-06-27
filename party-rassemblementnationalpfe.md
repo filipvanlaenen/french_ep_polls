@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.6% | 31.4–35.7% | 30.8–36.2% | 30.2–36.7% | 29.2–37.6% |
+| N/A | [Poll Average](average.html) | 33.9% | 31.5–36.0% | 30.8–36.5% | 30.2–37.0% | 29.2–37.9% |
+| [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 35.1% | 33.5–36.8% | 33.0–37.2% | 32.6–37.6% | 31.9–38.4% |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 34.0% | 32.0–36.0% | 31.4–36.6% | 30.9–37.1% | 30.0–38.1% |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 34.6% | 33.0–36.2% | 32.6–36.6% | 32.2–37.0% | 31.5–37.8% |
 | [26–28 May 2026](2026-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 34.0% | 32.3–35.9% | 31.8–36.4% | 31.3–36.9% | 30.5–37.8% |
@@ -77,14 +78,14 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0.1% | 100% |  |
 | 28.5–29.5% | 0.8% | 99.8% |  |
 | 29.5–30.5% | 3% | 99.1% |  |
-| 30.5–31.5% | 8% | 96% |  |
-| 31.5–32.5% | 15% | 88% |  |
-| 32.5–33.5% | 21% | 73% |  |
-| 33.5–34.5% | 23% | 52% | Median |
-| 34.5–35.5% | 17% | 29% |  |
-| 35.5–36.5% | 8% | 12% |  |
-| 36.5–37.5% | 3% | 3% |  |
-| 37.5–38.5% | 0.5% | 0.6% |  |
+| 30.5–31.5% | 7% | 96% |  |
+| 31.5–32.5% | 13% | 89% |  |
+| 32.5–33.5% | 19% | 76% |  |
+| 33.5–34.5% | 22% | 57% | Median |
+| 34.5–35.5% | 19% | 35% |  |
+| 35.5–36.5% | 11% | 16% |  |
+| 36.5–37.5% | 4% | 5% |  |
+| 37.5–38.5% | 0.9% | 1.0% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -98,6 +99,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 29–34 | 28–34 | 27–35 | 27–36 |
+| [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 33 | 30–34 | 30–34 | 29–34 | 29–35 |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 32 | 30–34 | 29–34 | 29–35 | 28–35 |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 33 | 31–35 | 31–35 | 30–35 | 30–36 |
 | [26–28 May 2026](2026-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 32 | 30–34 | 30–35 | 29–35 | 29–36 |
@@ -163,16 +165,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0.1% | 100% |  |
 | 26 | 0.4% | 99.9% |  |
 | 27 | 3% | 99.5% |  |
-| 28 | 6% | 96% |  |
-| 29 | 11% | 91% |  |
-| 30 | 14% | 79% |  |
-| 31 | 21% | 65% | Median |
-| 32 | 14% | 44% |  |
-| 33 | 18% | 30% |  |
-| 34 | 8% | 12% |  |
-| 35 | 4% | 5% |  |
-| 36 | 0.5% | 0.6% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 28 | 5% | 96% |  |
+| 29 | 12% | 91% |  |
+| 30 | 13% | 79% |  |
+| 31 | 19% | 66% | Median |
+| 32 | 14% | 47% |  |
+| 33 | 18% | 34% |  |
+| 34 | 12% | 16% |  |
+| 35 | 3% | 4% |  |
+| 36 | 0.5% | 0.5% |  |
+| 37 | 0% | 0% |  |
 
 
