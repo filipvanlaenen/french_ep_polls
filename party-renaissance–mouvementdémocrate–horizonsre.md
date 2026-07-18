@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
-| [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 22 | 20–23 | 20–23 | 19–24 | 18–25 |
+| [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 22 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 19 | 18–21 | 17–21 | 16–22 | 15–22 |
 | [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 15 | 14–17 | 14–18 | 14–19 | 13–19 |
@@ -151,9 +151,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
-| 14 | 4% | 99.7% |  |
-| 15 | 14% | 96% |  |
-| 16 | 13% | 82% |  |
+| 14 | 4% | 99.6% |  |
+| 15 | 15% | 95% |  |
+| 16 | 11% | 80% |  |
 | 17 | 14% | 69% |  |
 | 18 | 21% | 55% | Median |
 | 19 | 9% | 34% |  |

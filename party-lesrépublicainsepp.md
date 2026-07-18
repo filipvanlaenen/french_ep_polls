@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–10 | 4–10 |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -121,17 +121,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0% | 99.9% |  |
-| 4 | 0.7% | 99.9% |  |
-| 5 | 7% | 99.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 7% | 99.2% |  |
 | 6 | 13% | 92% |  |
 | 7 | 29% | 79% |  |
-| 8 | 28% | 50% | Median |
-| 9 | 18% | 22% |  |
-| 10 | 4% | 4% |  |
+| 8 | 24% | 50% | Median |
+| 9 | 21% | 26% |  |
+| 10 | 5% | 5% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
