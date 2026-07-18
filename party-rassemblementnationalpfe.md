@@ -102,10 +102,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 29–34 | 28–35 | 27–36 | 27–37 |
-| [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 31 | 29–34 | 29–34 | 28–34 | 28–35 |
-| [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 33 | 31–36 | 31–36 | 31–37 | 29–37 |
-| [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 32 | 32–33 | 31–33 | 31–34 | 30–36 |
+| N/A | [Poll Average](average.html) | 32 | 29–35 | 28–35 | 27–36 | 27–37 |
+| [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 32 | 29–34 | 29–34 | 28–34 | 28–35 |
+| [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 34 | 32–35 | 31–36 | 31–37 | 30–37 |
+| [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 32 | 31–33 | 30–35 | 30–35 | 29–36 |
 | [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 33 | 30–34 | 30–34 | 29–34 | 29–35 |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 32 | 30–34 | 29–34 | 29–35 | 28–35 |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 33 | 31–35 | 31–35 | 30–35 | 30–36 |
@@ -173,13 +173,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 0.4% | 99.9% |  |
 | 27 | 3% | 99.5% |  |
 | 28 | 3% | 97% |  |
-| 29 | 10% | 94% |  |
-| 30 | 7% | 84% |  |
-| 31 | 17% | 77% |  |
-| 32 | 28% | 60% | Median |
-| 33 | 15% | 32% |  |
-| 34 | 7% | 17% |  |
-| 35 | 7% | 10% |  |
+| 29 | 8% | 94% |  |
+| 30 | 8% | 87% |  |
+| 31 | 15% | 78% |  |
+| 32 | 24% | 64% | Median |
+| 33 | 17% | 39% |  |
+| 34 | 10% | 22% |  |
+| 35 | 9% | 12% |  |
 | 36 | 2% | 3% |  |
 | 37 | 0.5% | 0.6% |  |
 | 38 | 0.1% | 0.1% |  |
