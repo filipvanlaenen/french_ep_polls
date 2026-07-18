@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 Jul 2026 19:07:39 +0200</pubDate>
+    <pubDate>Sat, 18 Jul 2026 22:30:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for L’Hémicycle, 8–10 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-Verian.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-Verian-seats.png"
         length="215471"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 18:54:11 +0200</pubDate>
-      <dc:date>2026-07-18T18:54:11.601703+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 22:19:05 +0200</pubDate>
+      <dc:date>2026-07-18T22:19:05.43093+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for L’Hémicycle, 8–10 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-Verian-coalitions-seats.png"
         length="190878"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 18:54:11 +0200</pubDate>
-      <dc:date>2026-07-18T18:54:11.601703+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 22:19:05 +0200</pubDate>
+      <dc:date>2026-07-18T22:19:05.43093+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for L’Hémicycle, 8–10 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-Verian.png"
         length="257317"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 18:54:11 +0200</pubDate>
-      <dc:date>2026-07-18T18:54:11.601703+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 22:19:05 +0200</pubDate>
+      <dc:date>2026-07-18T22:19:05.43093+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 9–10 July 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-ELABE-seats.png"
         length="273703"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 19:07:39 +0200</pubDate>
-      <dc:date>2026-07-18T19:07:39.76676+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 22:30:07 +0200</pubDate>
+      <dc:date>2026-07-18T22:30:07.041378+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 9–10 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-ELABE-coalitions-seats.png"
         length="189104"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 19:07:39 +0200</pubDate>
-      <dc:date>2026-07-18T19:07:39.76676+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 22:30:07 +0200</pubDate>
+      <dc:date>2026-07-18T22:30:07.041378+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ELABE for BFMTV and La Tribune Dimanche, 9–10 July 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-07-10-ELABE.png"
         length="348595"
         type="image/png"/>
-      <pubDate>Sat, 18 Jul 2026 19:07:39 +0200</pubDate>
-      <dc:date>2026-07-18T19:07:39.76676+02:00</dc:date>
+      <pubDate>Sat, 18 Jul 2026 22:30:07 +0200</pubDate>
+      <dc:date>2026-07-18T22:30:07.041378+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OpinionWay for Les Echos, 8–9 July 2026 – Seat Projections for the Parties</title>
@@ -699,6 +699,6 @@
       <pubDate>Wed, 10 Dec 2025 19:20:07 +0100</pubDate>
       <dc:date>2025-12-10T19:20:07.955574+01:00</dc:date>
     </item>
-    <dc:date>2026-07-18T19:07:39.76676+02:00</dc:date>
+    <dc:date>2026-07-18T22:30:07.041378+02:00</dc:date>
   </channel>
 </rss>
