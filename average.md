@@ -350,7 +350,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#génération·s,-le-mouvement-(s&d)">Génération·s, le mouvement (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-radical-de-gauche-(s&d)">Parti radical de gauche (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#parti-radical-de-gauche–la-convention-(s&d)">Parti radical de gauche–La Convention (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#parti-socialiste–place-publique-(s&d)">Parti socialiste–Place Publique (S&D)</a> | 0 | 9 | 8–10 |7–11 | 7–11 | 6–11 |
+| <a href="#parti-socialiste–place-publique-(s&d)">Parti socialiste–Place Publique (S&D)</a> | 0 | 9 | 7–10 |7–11 | 7–11 | 6–11 |
 | <a href="#agir,-la-droite-constructive–union-des-démocrates-et-indépendants-(re)">Agir, la droite constructive–Union des démocrates et indépendants (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#renaissance–mouvement-démocrate–horizons-(re)">Renaissance–Mouvement démocrate–Horizons (RE)</a> | 0 | 18 | 15–22 |15–22 | 14–23 | 14–24 |
 | <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 0 | 8 | 6–9 |5–9 | 5–10 | 4–10 |
@@ -385,16 +385,17 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.7% | 100% |  |
-| 11 | 4% | 99.3% |  |
+| 10 | 0.6% | 100% |  |
+| 11 | 4% | 99.4% |  |
 | 12 | 12% | 95% |  |
 | 13 | 26% | 83% |  |
-| 14 | 17% | 57% | Median |
-| 15 | 20% | 39% |  |
-| 16 | 12% | 19% |  |
-| 17 | 6% | 7% |  |
-| 18 | 0.9% | 0.9% |  |
-| 19 | 0% | 0% |  |
+| 14 | 18% | 58% | Median |
+| 15 | 22% | 40% |  |
+| 16 | 12% | 18% |  |
+| 17 | 5% | 6% |  |
+| 18 | 0.8% | 0.8% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 ### Lutte Ouvrière–Nouveau Parti anticapitaliste (GUE/NGL)
 
@@ -480,12 +481,12 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.9% | 100% |  |
-| 7 | 9% | 99.1% |  |
-| 8 | 30% | 90% |  |
-| 9 | 36% | 60% | Median |
-| 10 | 19% | 25% |  |
+| 7 | 10% | 99.0% |  |
+| 8 | 30% | 89% |  |
+| 9 | 35% | 59% | Median |
+| 10 | 18% | 24% |  |
 | 11 | 5% | 6% |  |
-| 12 | 0.4% | 0.5% |  |
+| 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
 ### Agir, la droite constructive–Union des démocrates et indépendants (RE)
@@ -516,9 +517,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
-| 14 | 4% | 99.7% |  |
-| 15 | 14% | 96% |  |
-| 16 | 13% | 82% |  |
+| 14 | 4% | 99.6% |  |
+| 15 | 15% | 95% |  |
+| 16 | 11% | 80% |  |
 | 17 | 14% | 69% |  |
 | 18 | 21% | 55% | Median |
 | 19 | 9% | 34% |  |
@@ -538,17 +539,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0% | 99.9% |  |
-| 4 | 0.7% | 99.9% |  |
-| 5 | 7% | 99.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 7% | 99.2% |  |
 | 6 | 13% | 92% |  |
 | 7 | 29% | 79% |  |
-| 8 | 28% | 50% | Median |
-| 9 | 18% | 22% |  |
-| 10 | 4% | 4% |  |
+| 8 | 24% | 50% | Median |
+| 9 | 21% | 26% |  |
+| 10 | 5% | 5% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
@@ -601,8 +602,8 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 0.7% | 99.9% |  |
 | 29 | 4% | 99.3% |  |
 | 30 | 8% | 96% |  |
-| 31 | 10% | 87% |  |
-| 32 | 34% | 77% | Median |
+| 31 | 12% | 88% |  |
+| 32 | 33% | 76% | Median |
 | 33 | 18% | 44% |  |
 | 34 | 15% | 26% |  |
 | 35 | 8% | 10% |  |
@@ -701,7 +702,7 @@ Only polls for which at least the sample size has been published are included in
 | Rassemblement national (PfE) | 0 | 32 | 0% | 30–35 | 30–35 | 29–35 | 28–37 |
 | Agir, la droite constructive–Union des démocrates et indépendants (RE) – Renaissance–Mouvement démocrate–Horizons (RE) | 0 | 18 | 0% | 15–22 | 15–22 | 14–23 | 14–24 |
 | La France insoumise (GUE/NGL) – Lutte Ouvrière–Nouveau Parti anticapitaliste (GUE/NGL) – Nouveau Parti anticapitaliste (GUE/NGL) – Parti animaliste (GUE/NGL) – Parti communiste français (GUE/NGL) | 0 | 14 | 0% | 12–16 | 12–17 | 11–17 | 10–18 |
-| Génération·s, le mouvement (S&D) – Parti radical de gauche (S&D) – Parti radical de gauche–La Convention (S&D) – Parti socialiste–Place Publique (S&D) | 0 | 9 | 0% | 8–10 | 7–11 | 7–11 | 6–11 |
+| Génération·s, le mouvement (S&D) – Parti radical de gauche (S&D) – Parti radical de gauche–La Convention (S&D) – Parti socialiste–Place Publique (S&D) | 0 | 9 | 0% | 7–10 | 7–11 | 7–11 | 6–11 |
 | Les Républicains (EPP) | 0 | 8 | 0% | 6–9 | 5–9 | 5–10 | 4–10 |
 | Les Écologistes – Europe Écologie Les Verts (Greens/EFA) – Écologie au centre (Greens/EFA) | 0 | 0 | 0% | 0 | 0–4 | 0–4 | 0–5 |
 | Alliance Rurale (*) – La France humaniste (*) – Lutte Ouvrière (*) – L’Engagement (*) – Mouvement des gilets jaunes (*) – Résistons! (*) – Union populaire républicaine (*) – Walwari (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -746,8 +747,8 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 0.7% | 99.9% |  |
 | 29 | 4% | 99.3% |  |
 | 30 | 8% | 96% |  |
-| 31 | 10% | 87% |  |
-| 32 | 34% | 77% | Median |
+| 31 | 12% | 88% |  |
+| 32 | 33% | 76% | Median |
 | 33 | 18% | 44% |  |
 | 34 | 15% | 26% |  |
 | 35 | 8% | 10% |  |
@@ -776,9 +777,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
-| 14 | 4% | 99.7% |  |
-| 15 | 14% | 96% |  |
-| 16 | 13% | 82% |  |
+| 14 | 4% | 99.6% |  |
+| 15 | 15% | 95% |  |
+| 16 | 11% | 80% |  |
 | 17 | 14% | 69% |  |
 | 18 | 21% | 55% | Median |
 | 19 | 9% | 34% |  |
@@ -806,16 +807,17 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.7% | 100% |  |
-| 11 | 4% | 99.3% |  |
+| 10 | 0.6% | 100% |  |
+| 11 | 4% | 99.4% |  |
 | 12 | 12% | 95% |  |
 | 13 | 26% | 83% |  |
-| 14 | 17% | 57% | Median |
-| 15 | 20% | 39% |  |
-| 16 | 12% | 19% |  |
-| 17 | 6% | 7% |  |
-| 18 | 0.9% | 0.9% |  |
-| 19 | 0% | 0% |  |
+| 14 | 18% | 58% | Median |
+| 15 | 22% | 40% |  |
+| 16 | 12% | 18% |  |
+| 17 | 5% | 6% |  |
+| 18 | 0.8% | 0.8% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 ### Génération·s, le mouvement (S&D) – Parti radical de gauche (S&D) – Parti radical de gauche–La Convention (S&D) – Parti socialiste–Place Publique (S&D)
 
@@ -830,12 +832,12 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.9% | 100% |  |
-| 7 | 9% | 99.1% |  |
-| 8 | 30% | 90% |  |
-| 9 | 36% | 60% | Median |
-| 10 | 19% | 25% |  |
+| 7 | 10% | 99.0% |  |
+| 8 | 30% | 89% |  |
+| 9 | 35% | 59% | Median |
+| 10 | 18% | 24% |  |
 | 11 | 5% | 6% |  |
-| 12 | 0.4% | 0.5% |  |
+| 12 | 0.5% | 0.5% |  |
 | 13 | 0% | 0% |  |
 
 ### Les Républicains (EPP)
@@ -844,17 +846,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0% | 99.9% |  |
-| 4 | 0.7% | 99.9% |  |
-| 5 | 7% | 99.3% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 7% | 99.2% |  |
 | 6 | 13% | 92% |  |
 | 7 | 29% | 79% |  |
-| 8 | 28% | 50% | Median |
-| 9 | 18% | 22% |  |
-| 10 | 4% | 4% |  |
+| 8 | 24% | 50% | Median |
+| 9 | 21% | 26% |  |
+| 10 | 5% | 5% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
@@ -915,6 +917,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.90%
