@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 8.8–11.7% | 8.5–12.1% | 8.2–12.5% | 7.6–13.3% |
+| N/A | [Poll Average](average.html) | 10.0% | 8.6–11.6% | 8.3–12.1% | 8.0–12.5% | 7.4–13.3% |
+| [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.2% | 8.7–13.8% |
+| [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9.2% | 8.2–10.2% | 8.0–10.5% | 7.8–10.8% | 7.3–11.3% |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 9.3% | 8.2–10.7% | 7.9–11.0% | 7.6–11.4% | 7.1–12.0% |
 | [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 10.5% | 9.4–11.9% | 9.0–12.3% | 8.8–12.6% | 8.2–13.3% |
 | [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 9.8% | 8.7–11.0% | 8.4–11.3% | 8.2–11.6% | 7.7–12.2% |
@@ -57,11 +59,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.5% | 100% |  |
-| 7.5–8.5% | 5% | 99.5% |  |
-| 8.5–9.5% | 22% | 94% |  |
-| 9.5–10.5% | 35% | 72% | Median |
-| 10.5–11.5% | 25% | 37% |  |
+| 6.5–7.5% | 0.7% | 100% |  |
+| 7.5–8.5% | 9% | 99.3% |  |
+| 8.5–9.5% | 27% | 91% |  |
+| 9.5–10.5% | 32% | 63% | Median |
+| 10.5–11.5% | 21% | 32% |  |
 | 11.5–12.5% | 9% | 11% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.2% | 0.2% |  |
@@ -76,7 +78,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–11 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 6–11 |
+| [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
+| [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8 | 7–9 | 7–10 | 7–10 | 7–10 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
 | [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 9 | 8–9 | 8–10 | 8–10 | 7–11 |
@@ -124,14 +128,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.8% | 100% |  |
-| 7 | 3% | 99.2% |  |
-| 8 | 23% | 96% |  |
-| 9 | 47% | 73% | Median |
-| 10 | 19% | 26% |  |
-| 11 | 6% | 7% |  |
-| 12 | 1.2% | 1.2% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 6 | 0.9% | 100% |  |
+| 7 | 9% | 99.1% |  |
+| 8 | 30% | 90% |  |
+| 9 | 36% | 60% | Median |
+| 10 | 19% | 25% |  |
+| 11 | 5% | 6% |  |
+| 12 | 0.4% | 0.5% |  |
+| 13 | 0% | 0% |  |
 
 
