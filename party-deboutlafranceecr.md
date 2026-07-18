@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.4–2.7% | 1.3–2.9% | 1.2–3.1% | 1.0–3.4% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.5% | 1.0–2.7% | 0.9–2.9% | 0.7–3.3% |
+| [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
+| [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.3% | 1.9–2.9% | 1.8–3.1% | 1.7–3.3% | 1.5–3.6% |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
@@ -22,13 +25,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.8% |
 | [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 2.7% | 2.2–3.5% | 2.1–3.7% | 1.9–3.9% | 1.7–4.3% |
+| [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 2.8% | 2.2–3.5% | 2.1–3.7% | 1.9–3.9% | 1.7–4.3% |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 2.2% | 1.8–2.8% | 1.7–3.0% | 1.6–3.1% | 1.4–3.4% |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.4% |
-| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 2.2% | 1.8–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
+| [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 2.3% | 1.8–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 2.0% | N/A | N/A | N/A | N/A |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 0.0% | N/A | N/A | N/A | N/A |
 | [11–30 April 2025](2025-04-30-Ifop.html) | Ifop <br> Hexagone | 2.4% | N/A | N/A | N/A | N/A |
@@ -36,7 +39,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–4 April 2025](2025-04-04-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 3.2% | N/A | N/A | N/A | N/A |
 | [31 March 2025](2025-03-31-HarrisInteractive.html) | Harris Interactive <br> RTL | 2.0% | N/A | N/A | N/A | N/A |
 | [26–27 March 2025](2025-03-27-Ifop.html) | Ifop <br> Le Journal du Dimanche | 3.2% | N/A | N/A | N/A | N/A |
-| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 3.3% | N/A | N/A | N/A | N/A |
+| [6–9 December 2024](2024-12-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 3.2% | N/A | N/A | N/A | N/A |
 | [11–12 September 2024](2024-09-12-OpinionWay.html) | OpinionWay | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 September 2024](2024-09-09-Ifop–Fiducial.html) | Ifop–Fiducial <br> Sud Radio | 2.4% | N/A | N/A | N/A | N/A |
 | [7–8 July 2024](2024-07-08-HarrisInteractive.html) | Harris Interactive <br> Challenges, M6 and RTL | 2.0% | N/A | N/A | N/A | N/A |
@@ -47,11 +50,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 16% | 100% |  |
-| 1.5–2.5% | 68% | 84% | Median |
-| 2.5–3.5% | 16% | 16% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 37% | 99.9% |  |
+| 1.5–2.5% | 55% | 63% | Median |
+| 2.5–3.5% | 8% | 8% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -64,6 +67,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos |  |  |  |  |  |
+| [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 0 | 0 | 0 | 0 | 0 |
+| [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 0 | 0 | 0 | 0 | 0 |

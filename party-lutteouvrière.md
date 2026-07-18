@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.4% | 0.4–1.5% | 0.3–1.7% | 0.2–2.0% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.3% | 0.3–1.5% | 0.3–1.6% | 0.2–1.9% |
+| [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
+| [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.9% | 0.7–1.3% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
@@ -22,7 +25,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 March 2026](2026-03-27-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.6% |
 | [25–26 March 2026](2026-03-26-Odoxa.html) | Odoxa <br> Public Sénat | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [22 March 2026](2026-03-22-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.8% | 1.0–3.2% |
+| [26–27 February 2026](2026-02-27-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 1.8% | 1.4–2.5% | 1.3–2.7% | 1.2–2.8% | 1.0–3.2% |
 | [18–20 November 2025](2025-11-20-Verian.html) | Verian | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.6–2.0% |
@@ -47,9 +50,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 84% | 89% | Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 21% | 100% | Last Result |
+| 0.5–1.5% | 76% | 79% | Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -62,6 +65,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 0 | 0 | 0 | 0 | 0 |
+| [7–8 July 2026](2026-07-08-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Le Figaro | 0 | 0 | 0 | 0 | 0 |
+| [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 0 | 0 | 0 | 0 | 0 |
