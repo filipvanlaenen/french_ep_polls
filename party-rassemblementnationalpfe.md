@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.6% | 33.6–37.8% | 33.1–38.5% | 32.6–39.0% | 31.6–40.1% |
+| N/A | [Poll Average](average.html) | 34.5% | 30.0–37.5% | 29.2–38.2% | 28.6–38.9% | 27.7–40.0% |
+| [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 34.3% | 32.8–36.0% | 32.3–36.4% | 31.9–36.8% | 31.2–37.6% |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 33.6% | 31.8–35.5% | 31.3–36.1% | 30.9–36.5% | 30.0–37.4% |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 35.8% | 34.1–37.6% | 33.6–38.1% | 33.2–38.6% | 32.4–39.4% |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 30.0% | 28.5–31.6% | 28.0–32.1% | 27.6–32.4% | 26.9–33.2% |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 36.9% | 35.0–38.9% | 34.5–39.5% | 34.0–40.0% | 33.1–41.0% |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 34.8% | 33.2–36.5% | 32.8–36.9% | 32.4–37.3% | 31.6–38.1% |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 34.8% | 32.9–36.9% | 32.3–37.5% | 31.8–38.0% | 30.9–39.0% |
@@ -33,7 +36,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [19–20 November 2025](2025-11-20-Odoxa.html) | Odoxa <br> Public Sénat | 35.5% | 33.7–37.3% | 33.2–37.8% | 32.8–38.3% | 31.9–39.2% |
 | [30–31 October 2025](2025-10-31-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 35.9% | 34.3–37.6% | 33.9–38.0% | 33.5–38.4% | 32.7–39.2% |
 | [7 October 2025](2025-10-07-HarrisInteractive.html) | Harris Interactive <br> RTL | 34.9% | 33.1–36.8% | 32.6–37.3% | 32.1–37.8% | 31.3–38.7% |
-| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 30.3% | 28.8–31.9% | 28.4–32.3% | 28.1–32.7% | 27.4–33.4% |
+| [30 September–1 October 2025](2025-10-01-Cluster17.html) | Cluster17 <br> Le Point | 30.4% | 28.8–31.9% | 28.4–32.3% | 28.1–32.7% | 27.4–33.4% |
 | [24–25 September 2025](2025-09-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> L’Opinion and Sud Radio | 34.1% | 32.4–36.0% | 31.9–36.6% | 31.4–37.0% | 30.6–37.9% |
 | [19–20 May 2025](2025-05-20-Ifop–Fiducial.html) | Ifop–Fiducial <br> Le Figaro and Sud Radio | 31.0% | N/A | N/A | N/A | N/A |
 | [19 May 2025](2025-05-19-HarrisInteractive.html) | Harris Interactive <br> LCI | 30.4% | N/A | N/A | N/A | N/A |
@@ -80,20 +83,20 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.1% | 100% |  |
-| 30.5–31.5% | 0.4% | 99.9% |  |
-| 31.5–32.5% | 2% | 99.6% |  |
-| 32.5–33.5% | 7% | 98% |  |
-| 33.5–34.5% | 16% | 91% |  |
-| 34.5–35.5% | 23% | 75% |  |
-| 35.5–36.5% | 23% | 53% | Median |
-| 36.5–37.5% | 16% | 30% |  |
-| 37.5–38.5% | 9% | 13% |  |
-| 38.5–39.5% | 3% | 5% |  |
-| 39.5–40.5% | 1.0% | 1.2% |  |
+| 26.5–27.5% | 0.4% | 100% |  |
+| 27.5–28.5% | 2% | 99.6% |  |
+| 28.5–29.5% | 5% | 98% |  |
+| 29.5–30.5% | 7% | 93% |  |
+| 30.5–31.5% | 6% | 86% |  |
+| 31.5–32.5% | 6% | 80% |  |
+| 32.5–33.5% | 10% | 74% |  |
+| 33.5–34.5% | 15% | 64% |  |
+| 34.5–35.5% | 16% | 50% | Median |
+| 35.5–36.5% | 14% | 34% |  |
+| 36.5–37.5% | 10% | 20% |  |
+| 37.5–38.5% | 6% | 9% |  |
+| 38.5–39.5% | 3% | 4% |  |
+| 39.5–40.5% | 0.8% | 1.0% |  |
 | 40.5–41.5% | 0.2% | 0.2% |  |
 | 41.5–42.5% | 0% | 0% |  |
 
@@ -106,8 +109,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 30–35 | 30–35 | 29–36 | 28–37 |
+| N/A | [Poll Average](average.html) | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
+| [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 34 | 33–34 | 32–35 | 32–35 | 30–37 |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 29–33 | 28–33 | 28–34 | 27–34 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 32–35 | 32–36 | 31–36 | 31–37 |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 30 | 28–31 | 27–31 | 27–32 | 26–32 |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 32 | 30–34 | 30–34 | 29–35 | 29–35 |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 33 | 31–34 | 31–34 | 30–35 | 30–36 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 32 | 29–34 | 29–34 | 28–34 | 28–35 |
@@ -177,19 +183,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
-| 26 | 0% | 100% |  |
-| 27 | 0.1% | 100% |  |
-| 28 | 0.6% | 99.9% |  |
-| 29 | 4% | 99.3% |  |
-| 30 | 7% | 96% |  |
-| 31 | 11% | 89% |  |
-| 32 | 23% | 78% |  |
-| 33 | 26% | 55% | Median |
-| 34 | 16% | 30% |  |
-| 35 | 10% | 13% |  |
-| 36 | 3% | 4% |  |
-| 37 | 0.6% | 0.8% |  |
-| 38 | 0.1% | 0.1% |  |
-| 39 | 0% | 0% |  |
+| 26 | 0.2% | 100% |  |
+| 27 | 1.2% | 99.8% |  |
+| 28 | 2% | 98.6% |  |
+| 29 | 11% | 97% |  |
+| 30 | 14% | 86% |  |
+| 31 | 13% | 71% |  |
+| 32 | 14% | 58% | Median |
+| 33 | 18% | 43% |  |
+| 34 | 19% | 25% |  |
+| 35 | 4% | 6% |  |
+| 36 | 1.4% | 2% |  |
+| 37 | 0.3% | 0.3% |  |
+| 38 | 0% | 0% |  |
 
 

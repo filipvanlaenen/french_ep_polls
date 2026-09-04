@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.6% | 13.7–17.6% | 13.2–18.1% | 12.8–18.5% | 12.1–19.2% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.4–18.7% | 13.9–19.2% | 13.5–19.7% | 12.8–20.5% |
+| [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15.2% | 14.0–16.5% | 13.7–16.8% | 13.4–17.1% | 12.9–17.8% |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 17.3% | 15.9–18.9% | 15.5–19.3% | 15.2–19.7% | 14.5–20.5% |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 16.7% | 15.4–18.1% | 15.0–18.5% | 14.7–18.9% | 14.1–19.6% |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 18.3% | 17.0–19.6% | 16.6–20.0% | 16.3–20.4% | 15.7–21.0% |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.3% | 12.3–18.1% |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16.9% | 15.7–18.3% | 15.4–18.6% | 15.1–19.0% | 14.5–19.6% |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 14.3% | 12.9–15.9% | 12.5–16.3% | 12.2–16.7% | 11.5–17.5% |
@@ -64,17 +67,18 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.4% | 99.9% |  |
-| 12.5–13.5% | 7% | 98.5% |  |
-| 13.5–14.5% | 17% | 92% |  |
-| 14.5–15.5% | 23% | 75% |  |
-| 15.5–16.5% | 23% | 52% | Median |
-| 16.5–17.5% | 18% | 29% |  |
-| 17.5–18.5% | 9% | 11% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 2% | 99.8% |  |
+| 13.5–14.5% | 10% | 97% |  |
+| 14.5–15.5% | 18% | 88% |  |
+| 15.5–16.5% | 21% | 70% |  |
+| 16.5–17.5% | 20% | 49% | Median |
+| 17.5–18.5% | 17% | 29% |  |
+| 18.5–19.5% | 9% | 12% |  |
+| 19.5–20.5% | 3% | 3% |  |
+| 20.5–21.5% | 0.4% | 0.4% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -85,8 +89,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–18 | 11–19 |
+| [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 14–15 | 14–16 | 13–16 | 12–17 |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16 | 14–17 | 13–17 | 13–18 | 12–18 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 17 | 16–18 | 16–19 | 15–19 | 15–21 |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
@@ -140,16 +147,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.6% | 100% |  |
-| 11 | 4% | 99.4% |  |
-| 12 | 12% | 95% |  |
-| 13 | 25% | 83% |  |
-| 14 | 17% | 58% | Median |
-| 15 | 23% | 41% |  |
-| 16 | 11% | 18% |  |
-| 17 | 5% | 7% |  |
-| 18 | 1.5% | 2% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 2% | 99.8% |  |
+| 12 | 7% | 98% |  |
+| 13 | 9% | 91% |  |
+| 14 | 24% | 82% |  |
+| 15 | 22% | 58% | Median |
+| 16 | 14% | 36% |  |
+| 17 | 11% | 23% |  |
+| 18 | 9% | 11% |  |
+| 19 | 1.4% | 2% |  |
+| 20 | 0.3% | 0.5% |  |
+| 21 | 0.2% | 0.2% |  |
+| 22 | 0% | 0% |  |
 
 
