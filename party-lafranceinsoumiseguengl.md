@@ -89,11 +89,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–18 | 11–20 |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16 | 14–17 | 13–17 | 13–18 | 12–18 |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
-| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 17 | 16–18 | 16–19 | 15–19 | 15–21 |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 18 | 16–18 | 16–19 | 15–20 | 15–21 |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
@@ -151,14 +151,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 99.8% |  |
 | 12 | 7% | 98% |  |
 | 13 | 10% | 91% |  |
-| 14 | 21% | 81% |  |
-| 15 | 24% | 60% | Median |
-| 16 | 13% | 36% |  |
-| 17 | 12% | 23% |  |
-| 18 | 9% | 11% |  |
-| 19 | 1.4% | 2% |  |
-| 20 | 0.3% | 0.5% |  |
-| 21 | 0.2% | 0.2% |  |
+| 14 | 20% | 81% |  |
+| 15 | 26% | 60% | Median |
+| 16 | 13% | 34% |  |
+| 17 | 9% | 21% |  |
+| 18 | 11% | 13% |  |
+| 19 | 1.0% | 2% |  |
+| 20 | 0.4% | 0.5% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 

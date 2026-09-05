@@ -33,11 +33,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#rassemblement-national-(pfe)">Rassemblement national (PfE)</a> | 0 | 30 | 29–33 |28–33 |28–34 |27–34 |
-| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 0 | 16 | 14–17 |13–17 |13–18 |12–18 |
-| <a href="#renaissance–mouvement-démocrate–horizons-(re)">Renaissance–Mouvement démocrate–Horizons (RE)</a> | 0 | 15 | 14–16 |13–17 |13–17 |13–18 |
-| <a href="#parti-socialiste–place-publique-(s&d)">Parti socialiste–Place Publique (S&D)</a> | 0 | 13 | 11–14 |11–14 |11–15 |10–15 |
-| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 0 | 7 | 6–9 |6–9 |6–9 |5–10 |
+| <a href="#rassemblement-national-(pfe)">Rassemblement national (PfE)</a> | 0 | 30 | 29–32 |29–33 |28–33 |27–34 |
+| <a href="#la-france-insoumise-(gue/ngl)">La France insoumise (GUE/NGL)</a> | 0 | 15 | 14–17 |14–17 |13–18 |13–18 |
+| <a href="#renaissance–mouvement-démocrate–horizons-(re)">Renaissance–Mouvement démocrate–Horizons (RE)</a> | 0 | 16 | 14–16 |14–17 |13–17 |13–18 |
+| <a href="#parti-socialiste–place-publique-(s&d)">Parti socialiste–Place Publique (S&D)</a> | 0 | 12 | 11–14 |10–14 |10–15 |10–15 |
+| <a href="#les-républicains-(epp)">Les Républicains (EPP)</a> | 0 | 7 | 7–9 |6–9 |6–9 |5–10 |
 | <a href="#reconquête-(esn)">Reconquête (ESN)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#les-écologistes-–-europe-écologie-les-verts-(greens/efa)">Les Écologistes – Europe Écologie Les Verts (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#parti-communiste-français-(gue/ngl)">Parti communiste français (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -80,14 +80,14 @@
 | 25 | 0% | 100% |  |
 | 26 | 0.1% | 100% |  |
 | 27 | 0.5% | 99.9% |  |
-| 28 | 5% | 99.4% |  |
-| 29 | 36% | 94% |  |
-| 30 | 23% | 59% | Median |
-| 31 | 9% | 36% |  |
-| 32 | 15% | 27% |  |
-| 33 | 8% | 12% |  |
-| 34 | 3% | 4% |  |
-| 35 | 0.2% | 0.2% |  |
+| 28 | 3% | 99.5% |  |
+| 29 | 25% | 97% |  |
+| 30 | 26% | 72% | Median |
+| 31 | 29% | 46% |  |
+| 32 | 10% | 16% |  |
+| 33 | 4% | 6% |  |
+| 34 | 2% | 2% |  |
+| 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 
 ### La France insoumise (GUE/NGL)
@@ -110,13 +110,13 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.8% | 100% |  |
-| 13 | 4% | 99.2% |  |
-| 14 | 12% | 95% |  |
-| 15 | 26% | 83% |  |
-| 16 | 41% | 57% | Median |
-| 17 | 12% | 16% |  |
-| 18 | 4% | 5% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 4% | 99.7% |  |
+| 14 | 9% | 96% |  |
+| 15 | 38% | 87% | Median |
+| 16 | 35% | 48% |  |
+| 17 | 10% | 13% |  |
+| 18 | 3% | 3% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
@@ -140,14 +140,15 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.3% | 100% |  |
-| 13 | 5% | 99.7% |  |
-| 14 | 20% | 95% |  |
-| 15 | 31% | 75% | Median |
-| 16 | 36% | 45% |  |
-| 17 | 7% | 9% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0% | 0% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 4% | 99.8% |  |
+| 14 | 13% | 96% |  |
+| 15 | 32% | 83% |  |
+| 16 | 41% | 51% | Median |
+| 17 | 8% | 10% |  |
+| 18 | 1.4% | 1.4% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 ### Parti socialiste–Place Publique (S&D)
 
@@ -167,13 +168,13 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 21% | 98% |  |
-| 12 | 25% | 77% |  |
-| 13 | 35% | 53% | Median |
-| 14 | 13% | 18% |  |
-| 15 | 4% | 5% |  |
-| 16 | 0.5% | 0.5% |  |
+| 10 | 6% | 99.9% |  |
+| 11 | 12% | 94% |  |
+| 12 | 38% | 82% | Median |
+| 13 | 25% | 44% |  |
+| 14 | 17% | 19% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.4% | 0.4% |  |
 | 17 | 0% | 0% |  |
 
 ### Les Républicains (EPP)
@@ -189,12 +190,12 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.0% | 100% |  |
-| 6 | 10% | 99.0% |  |
-| 7 | 58% | 89% | Median |
-| 8 | 19% | 32% |  |
-| 9 | 11% | 13% |  |
-| 10 | 2% | 2% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 6% | 98.9% |  |
+| 7 | 65% | 93% | Median |
+| 8 | 16% | 28% |  |
+| 9 | 11% | 11% |  |
+| 10 | 0.9% | 0.9% |  |
 | 11 | 0% | 0% |  |
 
 ### Reconquête (ESN)
@@ -261,8 +262,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Rassemblement national (PfE) | 0 | 30 | 0% | 29–33 | 28–33 | 28–34 | 27–34 |
-| Les Républicains (EPP) | 0 | 7 | 0% | 6–9 | 6–9 | 6–9 | 5–10 |
+| Rassemblement national (PfE) | 0 | 30 | 0% | 29–32 | 29–33 | 28–33 | 27–34 |
+| Les Républicains (EPP) | 0 | 7 | 0% | 7–9 | 6–9 | 6–9 | 5–10 |
 | Debout la France (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Reconquête (ESN) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -300,14 +301,14 @@
 | 25 | 0% | 100% |  |
 | 26 | 0.1% | 100% |  |
 | 27 | 0.5% | 99.9% |  |
-| 28 | 5% | 99.4% |  |
-| 29 | 36% | 94% |  |
-| 30 | 23% | 59% | Median |
-| 31 | 9% | 36% |  |
-| 32 | 15% | 27% |  |
-| 33 | 8% | 12% |  |
-| 34 | 3% | 4% |  |
-| 35 | 0.2% | 0.2% |  |
+| 28 | 3% | 99.5% |  |
+| 29 | 25% | 97% |  |
+| 30 | 26% | 72% | Median |
+| 31 | 29% | 46% |  |
+| 32 | 10% | 16% |  |
+| 33 | 4% | 6% |  |
+| 34 | 2% | 2% |  |
+| 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 
 ### Les Républicains (EPP)
@@ -321,12 +322,12 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.0% | 100% |  |
-| 6 | 10% | 99.0% |  |
-| 7 | 58% | 89% | Median |
-| 8 | 19% | 32% |  |
-| 9 | 11% | 13% |  |
-| 10 | 2% | 2% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 6% | 98.9% |  |
+| 7 | 65% | 93% | Median |
+| 8 | 16% | 28% |  |
+| 9 | 11% | 11% |  |
+| 10 | 0.9% | 0.9% |  |
 | 11 | 0% | 0% |  |
 
 ### Debout la France (ECR)
@@ -362,6 +363,6 @@
 ### Calculations
 
 + **Sample size:** 1073
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.62%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.01%
 

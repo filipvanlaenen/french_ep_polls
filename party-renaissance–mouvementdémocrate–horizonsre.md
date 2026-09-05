@@ -99,9 +99,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–22 | 14–22 | 14–23 | 13–24 |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 17 | 15–17 | 15–18 | 14–18 | 13–19 |
-| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 16 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 17 | 16–17 | 16–18 | 15–19 | 14–19 |
-| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 16 | 15–16 | 15–17 | 14–17 | 13–18 |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 22 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 19 | 18–21 | 17–21 | 16–22 | 15–22 |
@@ -158,12 +158,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 1.3% | 99.9% |  |
-| 14 | 6% | 98.6% |  |
-| 15 | 13% | 93% |  |
-| 16 | 28% | 80% |  |
-| 17 | 28% | 52% | Median |
-| 18 | 3% | 24% |  |
+| 13 | 1.2% | 99.9% |  |
+| 14 | 5% | 98.8% |  |
+| 15 | 16% | 94% |  |
+| 16 | 24% | 79% |  |
+| 17 | 32% | 55% | Median |
+| 18 | 3% | 23% |  |
 | 19 | 2% | 21% |  |
 | 20 | 3% | 19% |  |
 | 21 | 6% | 17% |  |

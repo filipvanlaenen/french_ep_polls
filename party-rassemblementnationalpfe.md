@@ -111,9 +111,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 34 | 32–35 | 31–35 | 31–35 | 30–37 |
-| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 29–33 | 28–33 | 28–34 | 27–34 |
+| [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 29–32 | 29–33 | 28–33 | 27–34 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 32–35 | 32–36 | 31–36 | 31–37 |
-| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 30 | 28–31 | 27–31 | 27–32 | 26–32 |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 30 | 28–31 | 28–32 | 27–32 | 26–33 |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 32 | 30–34 | 30–34 | 29–35 | 29–35 |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 33 | 31–34 | 31–34 | 30–35 | 30–36 |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 32 | 29–34 | 29–34 | 28–34 | 28–35 |
@@ -183,14 +183,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
 | 25 | 0% | 100% |  |
-| 26 | 0.2% | 100% |  |
-| 27 | 1.2% | 99.8% |  |
-| 28 | 2% | 98.6% |  |
-| 29 | 11% | 97% |  |
-| 30 | 15% | 86% |  |
-| 31 | 14% | 71% |  |
-| 32 | 15% | 57% | Median |
-| 33 | 18% | 42% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.9% | 99.8% |  |
+| 28 | 2% | 99.0% |  |
+| 29 | 8% | 97% |  |
+| 30 | 16% | 89% |  |
+| 31 | 17% | 73% |  |
+| 32 | 15% | 55% | Median |
+| 33 | 18% | 41% |  |
 | 34 | 16% | 23% |  |
 | 35 | 5% | 7% |  |
 | 36 | 1.5% | 2% |  |
