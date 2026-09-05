@@ -110,7 +110,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 29–34 | 29–35 | 28–35 | 27–36 |
-| [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 34 | 33–34 | 32–35 | 32–35 | 30–37 |
+| [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 34 | 32–35 | 31–35 | 31–35 | 30–37 |
 | [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 30 | 29–33 | 28–33 | 28–34 | 27–34 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 32–35 | 32–36 | 31–36 | 31–37 |
 | [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 30 | 28–31 | 27–31 | 27–32 | 26–32 |
@@ -187,14 +187,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 1.2% | 99.8% |  |
 | 28 | 2% | 98.6% |  |
 | 29 | 11% | 97% |  |
-| 30 | 14% | 86% |  |
-| 31 | 13% | 71% |  |
-| 32 | 14% | 58% | Median |
-| 33 | 18% | 43% |  |
-| 34 | 19% | 25% |  |
-| 35 | 4% | 6% |  |
-| 36 | 1.4% | 2% |  |
-| 37 | 0.3% | 0.3% |  |
+| 30 | 15% | 86% |  |
+| 31 | 14% | 71% |  |
+| 32 | 15% | 57% | Median |
+| 33 | 18% | 42% |  |
+| 34 | 16% | 23% |  |
+| 35 | 5% | 7% |  |
+| 36 | 1.5% | 2% |  |
+| 37 | 0.2% | 0.3% |  |
 | 38 | 0% | 0% |  |
 
 
