@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.4–18.7% | 13.9–19.2% | 13.5–19.7% | 12.8–20.5% |
+| N/A | [Poll Average](average.html) | 16.7% | 14.8–19.2% | 14.3–19.7% | 14.0–20.2% | 13.3–21.0% |
+| [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 15.7% | 14.5–17.0% | 14.2–17.3% | 13.9–17.6% | 13.4–18.3% |
+| [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 18.9% | 17.7–20.3% | 17.3–20.7% | 17.0–21.0% | 16.4–21.6% |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15.2% | 14.0–16.5% | 13.7–16.8% | 13.4–17.1% | 12.9–17.8% |
 | [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 17.3% | 15.9–18.9% | 15.5–19.3% | 15.2–19.7% | 14.5–20.5% |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 16.7% | 15.4–18.1% | 15.0–18.5% | 14.7–18.9% | 14.1–19.6% |
@@ -68,17 +70,18 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 2% | 99.8% |  |
-| 13.5–14.5% | 10% | 97% |  |
-| 14.5–15.5% | 18% | 88% |  |
-| 15.5–16.5% | 21% | 70% |  |
-| 16.5–17.5% | 20% | 49% | Median |
-| 17.5–18.5% | 17% | 29% |  |
-| 18.5–19.5% | 9% | 12% |  |
-| 19.5–20.5% | 3% | 3% |  |
-| 20.5–21.5% | 0.4% | 0.4% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.9% | 100% |  |
+| 13.5–14.5% | 6% | 99.1% |  |
+| 14.5–15.5% | 17% | 93% |  |
+| 15.5–16.5% | 23% | 75% |  |
+| 16.5–17.5% | 19% | 52% | Median |
+| 17.5–18.5% | 15% | 33% |  |
+| 18.5–19.5% | 11% | 17% |  |
+| 19.5–20.5% | 5% | 6% |  |
+| 20.5–21.5% | 1.2% | 1.3% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -89,7 +92,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–18 | 12–18 | 12–18 | 11–20 |
+| N/A | [Poll Average](average.html) | 15 | 14–18 | 13–19 | 13–19 | 13–20 |
+| [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 15 | 14–16 | 14–17 | 14–18 | 13–18 |
@@ -147,18 +152,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
-| 12 | 7% | 98% |  |
-| 13 | 10% | 91% |  |
-| 14 | 20% | 81% |  |
-| 15 | 26% | 60% | Median |
-| 16 | 13% | 34% |  |
-| 17 | 9% | 21% |  |
-| 18 | 11% | 13% |  |
-| 19 | 1.0% | 2% |  |
-| 20 | 0.4% | 0.5% |  |
-| 21 | 0.1% | 0.1% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0.5% | 100% |  |
+| 13 | 6% | 99.5% |  |
+| 14 | 23% | 93% |  |
+| 15 | 34% | 70% | Median |
+| 16 | 13% | 36% |  |
+| 17 | 9% | 23% |  |
+| 18 | 7% | 15% |  |
+| 19 | 7% | 8% |  |
+| 20 | 0.9% | 1.1% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 
