@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.6–4.6% | 1.4–4.9% | 1.3–5.2% | 1.1–5.7% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.6–4.5% | 1.4–4.9% | 1.3–5.2% | 1.1–5.6% |
+| [8–9 September 2026](2026-09-09-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 3.3% | 2.6–4.2% | 2.5–4.4% | 2.3–4.6% | 2.0–5.1% |
 | [2–3 September 2026](2026-09-03-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 3.6% | 2.9–4.6% | 2.8–4.8% | 2.6–5.1% | 2.3–5.5% |
 | [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
 | [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 1.6% | 1.2–2.1% | 1.1–2.2% | 1.1–2.4% | 0.9–2.6% |
@@ -61,11 +62,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 32% | 90% |  |
-| 2.5–3.5% | 25% | 58% | Median |
-| 3.5–4.5% | 22% | 33% |  |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.8% | 0.8% |  |
+| 1.5–2.5% | 33% | 90% |  |
+| 2.5–3.5% | 28% | 57% | Median |
+| 3.5–4.5% | 20% | 29% |  |
+| 4.5–5.5% | 9% | 9% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -78,6 +79,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–5 |
+| [8–9 September 2026](2026-09-09-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 0 | 0 | 0 | 0 | 0–4 |
 | [2–3 September 2026](2026-09-03-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 0 | 0 | 0 | 0–4 | 0–4 |
 | [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
@@ -132,7 +134,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 3% |  |
 | 2 | 0% | 3% |  |
 | 3 | 0% | 3% |  |
-| 4 | 2% | 3% |  |
+| 4 | 1.2% | 3% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
