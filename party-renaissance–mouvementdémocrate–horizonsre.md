@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 15.9–20.0% | 15.4–20.6% | 15.1–21.0% | 14.4–21.8% |
+| N/A | [Poll Average](average.html) | 18.0% | 15.9–23.0% | 15.5–24.0% | 15.1–24.8% | 14.4–26.0% |
+| [9–10 September 2026](2026-09-10-OpinionWay.html) | OpinionWay <br> CNews | 23.3% | 21.5–25.1% | 21.0–25.7% | 20.6–26.1% | 19.8–27.1% |
+| [8–10 September 2026](2026-09-10-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 18.2% | 16.8–19.7% | 16.4–20.1% | 16.1–20.5% | 15.5–21.2% |
 | [8–9 September 2026](2026-09-09-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 18.7% | 17.1–20.4% | 16.6–20.9% | 16.3–21.3% | 15.5–22.2% |
+| [3–9 September 2026](2026-09-09-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 19.6% | 18.8–20.5% | 18.6–20.7% | 18.4–20.9% | 18.0–21.3% |
 | [2–3 September 2026](2026-09-03-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 18.3% | 16.7–20.0% | 16.3–20.5% | 15.9–20.9% | 15.2–21.8% |
 | [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 19.6% | 18.4–21.0% | 18.0–21.4% | 17.7–21.7% | 17.1–22.4% |
 | [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 16.3% | 15.2–17.6% | 14.8–18.0% | 14.5–18.3% | 14.0–18.9% |
@@ -76,15 +79,19 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.7% | 100% |  |
 | 14.5–15.5% | 5% | 99.3% |  |
-| 15.5–16.5% | 16% | 94% |  |
-| 16.5–17.5% | 23% | 78% |  |
-| 17.5–18.5% | 22% | 55% | Median |
-| 18.5–19.5% | 18% | 33% |  |
-| 19.5–20.5% | 11% | 16% |  |
-| 20.5–21.5% | 4% | 5% |  |
-| 21.5–22.5% | 0.8% | 0.9% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 15.5–16.5% | 15% | 94% |  |
+| 16.5–17.5% | 21% | 79% |  |
+| 17.5–18.5% | 16% | 58% | Median |
+| 18.5–19.5% | 14% | 42% |  |
+| 19.5–20.5% | 10% | 28% |  |
+| 20.5–21.5% | 3% | 18% |  |
+| 21.5–22.5% | 3% | 15% |  |
+| 22.5–23.5% | 5% | 12% |  |
+| 23.5–24.5% | 4% | 7% |  |
+| 24.5–25.5% | 2% | 3% |  |
+| 25.5–26.5% | 0.8% | 1.0% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -95,8 +102,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–21 | 14–21 | 14–22 | 13–23 |
+| [9–10 September 2026](2026-09-10-OpinionWay.html) | OpinionWay <br> CNews | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [8–10 September 2026](2026-09-10-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 17 | 15–17 | 15–18 | 14–18 | 14–20 |
 | [8–9 September 2026](2026-09-09-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
+| [3–9 September 2026](2026-09-09-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 18 | 17–19 | 17–20 | 17–20 | 17–21 |
 | [2–3 September 2026](2026-09-03-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 17 | 15–18 | 14–18 | 14–19 | 14–20 |
 | [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
@@ -162,13 +172,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 1.0% | 99.9% |  |
 | 14 | 6% | 99.0% |  |
-| 15 | 15% | 93% |  |
-| 16 | 22% | 78% |  |
-| 17 | 34% | 55% | Median |
-| 18 | 12% | 21% |  |
-| 19 | 7% | 10% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.5% | 0.6% |  |
-| 22 | 0% | 0% |  |
+| 15 | 16% | 93% |  |
+| 16 | 19% | 77% |  |
+| 17 | 26% | 58% | Median |
+| 18 | 9% | 31% |  |
+| 19 | 6% | 23% |  |
+| 20 | 5% | 16% |  |
+| 21 | 7% | 11% |  |
+| 22 | 3% | 4% |  |
+| 23 | 1.4% | 2% |  |
+| 24 | 0.3% | 0.3% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
