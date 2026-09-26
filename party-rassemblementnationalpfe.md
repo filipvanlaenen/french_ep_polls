@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 28–34 | 27–34 | 27–34 | 27–35 |
-| [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 28 | 27–30 | 27–31 | 27–31 | 26–31 |
+| [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 27 | 27–30 | 27–30 | 27–30 | 26–31 |
 | [9–10 September 2026](2026-09-10-OpinionWay.html) | OpinionWay <br> CNews | 30 | 29–32 | 28–33 | 28–33 | 27–34 |
 | [8–10 September 2026](2026-09-10-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 32 | 30–33 | 29–33 | 28–34 | 28–34 |
 | [8–9 September 2026](2026-09-09-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 32 | 30–34 | 29–35 | 28–35 | 27–35 |
@@ -195,13 +195,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0% | 100% |  |
-| 26 | 0.3% | 100% |  |
-| 27 | 6% | 99.6% |  |
-| 28 | 7% | 93% |  |
-| 29 | 10% | 87% |  |
-| 30 | 18% | 77% |  |
-| 31 | 19% | 59% | Median |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.4% | 99.9% |  |
+| 27 | 9% | 99.6% |  |
+| 28 | 5% | 91% |  |
+| 29 | 10% | 86% |  |
+| 30 | 18% | 76% |  |
+| 31 | 18% | 58% | Median |
 | 32 | 12% | 40% |  |
 | 33 | 14% | 27% |  |
 | 34 | 11% | 13% |  |
