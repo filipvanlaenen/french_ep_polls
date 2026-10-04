@@ -105,9 +105,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–20 | 13–21 | 12–22 | 12–23 |
-| [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 13 | 12–15 | 12–16 | 12–16 | 12–17 |
-| [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 18 | 14–20 | 14–20 | 13–20 | 12–21 |
+| N/A | [Poll Average](average.html) | 16 | 13–20 | 13–21 | 13–22 | 12–23 |
+| [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 13 | 12–15 | 12–15 | 12–16 | 12–17 |
+| [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 15 | 14–18 | 14–20 | 13–20 | 13–21 |
 | [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [9–10 September 2026](2026-09-10-OpinionWay.html) | OpinionWay <br> CNews | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [8–10 September 2026](2026-09-10-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 17 | 15–17 | 15–18 | 14–18 | 14–20 |
@@ -175,15 +175,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 4% | 100% |  |
-| 13 | 6% | 96% |  |
-| 14 | 6% | 90% |  |
-| 15 | 14% | 84% |  |
-| 16 | 15% | 70% |  |
-| 17 | 20% | 55% | Median |
-| 18 | 12% | 34% |  |
-| 19 | 7% | 22% |  |
-| 20 | 6% | 15% |  |
+| 12 | 1.5% | 100% |  |
+| 13 | 9% | 98% |  |
+| 14 | 7% | 90% |  |
+| 15 | 18% | 83% |  |
+| 16 | 15% | 64% | Median |
+| 17 | 20% | 50% |  |
+| 18 | 9% | 30% |  |
+| 19 | 6% | 21% |  |
+| 20 | 5% | 15% |  |
 | 21 | 6% | 10% |  |
 | 22 | 2% | 4% |  |
 | 23 | 1.2% | 1.5% |  |

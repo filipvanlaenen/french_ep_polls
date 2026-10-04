@@ -119,8 +119,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 28–34 | 27–34 | 27–35 | 27–36 |
-| [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 31–35 | 30–35 | 29–35 | 29–36 |
-| [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 30 | 29–35 | 28–35 | 28–36 | 27–37 |
+| [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 30–34 | 30–35 | 29–35 | 29–36 |
+| [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 32 | 30–34 | 29–35 | 28–36 | 27–37 |
 | [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 27 | 27–30 | 27–30 | 27–30 | 26–31 |
 | [9–10 September 2026](2026-09-10-OpinionWay.html) | OpinionWay <br> CNews | 30 | 29–32 | 28–33 | 28–33 | 27–34 |
 | [8–10 September 2026](2026-09-10-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 32 | 30–33 | 29–33 | 28–34 | 28–34 |
@@ -202,19 +202,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
 | 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.9% |  |
+| 26 | 0.3% | 99.9% |  |
 | 27 | 8% | 99.6% |  |
 | 28 | 4% | 92% |  |
-| 29 | 9% | 87% |  |
-| 30 | 20% | 78% |  |
-| 31 | 15% | 58% | Median |
-| 32 | 14% | 43% |  |
-| 33 | 14% | 29% |  |
-| 34 | 10% | 15% |  |
-| 35 | 4% | 5% |  |
-| 36 | 0.7% | 1.1% |  |
-| 37 | 0.3% | 0.3% |  |
-| 38 | 0% | 0.1% |  |
-| 39 | 0% | 0% |  |
+| 29 | 9% | 88% |  |
+| 30 | 16% | 79% |  |
+| 31 | 15% | 62% | Median |
+| 32 | 16% | 48% |  |
+| 33 | 11% | 31% |  |
+| 34 | 17% | 20% |  |
+| 35 | 3% | 4% |  |
+| 36 | 0.6% | 0.9% |  |
+| 37 | 0.2% | 0.3% |  |
+| 38 | 0% | 0% |  |
 
 

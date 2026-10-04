@@ -90,9 +90,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–9 | 6–9 | 6–10 | 6–11 |
-| [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 7 | 7–9 | 6–10 | 6–11 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
+| [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 8 | 7–9 | 6–9 | 6–10 | 5–11 |
 | [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [9–10 September 2026](2026-09-10-OpinionWay.html) | OpinionWay <br> CNews | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [8–10 September 2026](2026-09-10-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 7 | 7–8 | 7–8 | 6–9 | 6–10 |
@@ -155,11 +155,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
 | 6 | 8% | 99.6% |  |
-| 7 | 44% | 91% | Median |
-| 8 | 25% | 47% |  |
-| 9 | 19% | 22% |  |
+| 7 | 38% | 92% |  |
+| 8 | 31% | 54% | Median |
+| 9 | 20% | 23% |  |
 | 10 | 2% | 3% |  |
-| 11 | 0.6% | 0.7% |  |
+| 11 | 0.4% | 0.4% |  |
 | 12 | 0% | 0% |  |
 
 
