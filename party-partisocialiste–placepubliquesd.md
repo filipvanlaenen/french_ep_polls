@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 6.8–13.5% | 6.3–14.4% | 5.9–15.0% | 5.3–16.0% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.5–11.3% | 6.1–11.8% | 5.8–12.1% | 5.3–12.8% |
+| [25–29 September 2026](2026-09-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7.4% | 6.4–8.5% | 6.2–8.9% | 5.9–9.2% | 5.5–9.7% |
 | [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 9.3% | 8.3–10.5% | 8.0–10.8% | 7.8–11.1% | 7.4–11.7% |
 | [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 6.9% | 5.8–8.3% | 5.5–8.7% | 5.3–9.0% | 4.8–9.7% |
 | [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 11.2% | 10.3–12.3% | 10.0–12.6% | 9.8–12.9% | 9.3–13.4% |
@@ -71,20 +72,17 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.0% | 100% |  |
-| 5.5–6.5% | 7% | 99.0% |  |
-| 6.5–7.5% | 12% | 92% |  |
-| 7.5–8.5% | 10% | 80% |  |
-| 8.5–9.5% | 14% | 70% |  |
-| 9.5–10.5% | 18% | 56% | Median |
-| 10.5–11.5% | 17% | 38% |  |
-| 11.5–12.5% | 6% | 20% |  |
-| 12.5–13.5% | 4% | 14% |  |
-| 13.5–14.5% | 5% | 10% |  |
-| 14.5–15.5% | 3% | 4% |  |
-| 15.5–16.5% | 1.0% | 1.2% |  |
-| 16.5–17.5% | 0.1% | 0.2% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 4.5–5.5% | 1.2% | 100% |  |
+| 5.5–6.5% | 10% | 98.7% |  |
+| 6.5–7.5% | 21% | 89% |  |
+| 7.5–8.5% | 17% | 68% |  |
+| 8.5–9.5% | 11% | 51% | Median |
+| 9.5–10.5% | 15% | 40% |  |
+| 10.5–11.5% | 18% | 25% |  |
+| 11.5–12.5% | 6% | 7% |  |
+| 12.5–13.5% | 1.0% | 1.0% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -95,7 +93,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–12 | 6–13 | 5–14 | 5–14 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–11 | 5–11 | 5–11 |
+| [25–29 September 2026](2026-09-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 9 | 7–10 | 7–10 | 7–10 | 6–10 |
 | [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 7 | 5–8 | 5–8 | 5–8 | 0–9 |
 | [15–16 September 2026](2026-09-16-Cluster17.html) | Cluster17 <br> Politico | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
@@ -153,23 +152,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 0% | 99.8% |  |
-| 2 | 0% | 99.8% |  |
-| 3 | 0% | 99.8% |  |
-| 4 | 0.2% | 99.8% |  |
-| 5 | 3% | 99.6% |  |
-| 6 | 8% | 97% |  |
-| 7 | 15% | 89% |  |
-| 8 | 10% | 74% |  |
-| 9 | 23% | 64% | Median |
-| 10 | 21% | 41% |  |
-| 11 | 7% | 19% |  |
-| 12 | 6% | 12% |  |
-| 13 | 4% | 6% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.3% | 0.4% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 0% | 99.7% |  |
+| 4 | 0.2% | 99.7% |  |
+| 5 | 4% | 99.5% |  |
+| 6 | 12% | 95% |  |
+| 7 | 28% | 83% |  |
+| 8 | 10% | 55% | Median |
+| 9 | 17% | 45% |  |
+| 10 | 22% | 29% |  |
+| 11 | 6% | 6% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% |  |
 
 
