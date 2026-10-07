@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Oct 2026 12:02:23 +0200</pubDate>
+    <pubDate>Tue, 06 Oct 2026 22:28:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for LCI, Le Figaro and Sud Radio, 25–29 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-09-29-Ifop–Fiducial.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 5–8 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13–16 seats&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 18–21 seats&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0–5 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 29–35 seats&lt;/li&gt;&lt;li&gt;La France humaniste (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-09-29-Ifop–Fiducial-seats.png"
+        length="282767"
+        type="image/png"/>
+      <pubDate>Tue, 06 Oct 2026 22:28:10 +0200</pubDate>
+      <dc:date>2026-10-06T22:28:10.878058+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for LCI, Le Figaro and Sud Radio, 25–29 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-09-29-Ifop–Fiducial.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-09-29-Ifop–Fiducial-coalitions-seats.png"
+        length="201907"
+        type="image/png"/>
+      <pubDate>Tue, 06 Oct 2026 22:28:10 +0200</pubDate>
+      <dc:date>2026-10-06T22:28:10.878058+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ifop–Fiducial for LCI, Le Figaro and Sud Radio, 25–29 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-09-29-Ifop–Fiducial.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 2.8–5.2%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13.8–18.3%&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 19.0–24.0%&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 31.0–36.8%&lt;/li&gt;&lt;li&gt;La France humaniste (*): 0.0–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-09-29-Ifop–Fiducial.png"
+        length="364075"
+        type="image/png"/>
+      <pubDate>Tue, 06 Oct 2026 22:28:10 +0200</pubDate>
+      <dc:date>2026-10-06T22:28:10.878058+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Harris Interactive for M6 and RTL, 22–24 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-09-24-HarrisInteractive.html#seats</link>
@@ -1119,6 +1149,6 @@
       <pubDate>Wed, 10 Dec 2025 19:20:07 +0100</pubDate>
       <dc:date>2025-12-10T19:20:07.955574+01:00</dc:date>
     </item>
-    <dc:date>2026-10-04T12:02:23.134076+02:00</dc:date>
+    <dc:date>2026-10-06T22:28:10.878058+02:00</dc:date>
   </channel>
 </rss>
