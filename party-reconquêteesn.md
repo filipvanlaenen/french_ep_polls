@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.0–5.7% | 1.8–6.1% | 1.6–6.5% | 1.3–7.2% |
+| N/A | [Poll Average](average.html) | 4.2% | 2.5–5.5% | 2.3–6.0% | 2.1–6.4% | 1.8–7.2% |
+| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.5% | 2.6–5.9% |
+| [12–14 October 2026](2026-10-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Sud Radio | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
+| [5–8 October 2026](2026-10-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 4.7% | 4.0–5.5% | 3.8–5.8% | 3.6–6.0% | 3.3–6.5% |
+| [24 September–7 October 2026](2026-10-07-Odoxa.html) | Odoxa <br> Le Nouvel Obs and Public Sénat | 4.5% | 4.1–4.9% | 4.0–5.1% | 3.9–5.2% | 3.7–5.4% |
 | [25–29 September 2026](2026-09-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
 | [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 5.2% | 4.4–6.1% | 4.2–6.3% | 4.0–6.6% | 3.7–7.0% |
 | [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 5.4% | 4.5–6.6% | 4.2–7.0% | 4.0–7.3% | 3.6–7.9% |
@@ -68,12 +72,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 21% | 98% |  |
-| 2.5–3.5% | 16% | 77% |  |
-| 3.5–4.5% | 29% | 61% | Median |
-| 4.5–5.5% | 19% | 32% |  |
-| 5.5–6.5% | 11% | 13% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 22% | 89% |  |
+| 3.5–4.5% | 30% | 66% | Median |
+| 4.5–5.5% | 26% | 36% |  |
+| 5.5–6.5% | 8% | 10% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.2% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -88,6 +92,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [12–14 October 2026](2026-10-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Sud Radio | 0 | 0 | 0 | 0 | 0 |
+| [5–8 October 2026](2026-10-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [24 September–7 October 2026](2026-10-07-Odoxa.html) | Odoxa <br> Le Nouvel Obs and Public Sénat | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [25–29 September 2026](2026-09-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0–4 |
 | [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
@@ -146,13 +154,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 0% | 20% |  |
-| 4 | 5% | 20% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 0% | 23% |  |
+| 2 | 0% | 23% |  |
+| 3 | 0% | 23% |  |
+| 4 | 8% | 23% |  |
 | 5 | 13% | 14% |  |
-| 6 | 2% | 2% |  |
+| 6 | 1.4% | 1.5% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 

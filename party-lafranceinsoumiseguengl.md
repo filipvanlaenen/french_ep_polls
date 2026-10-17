@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.8% | 15.1–19.5% | 14.7–20.1% | 14.4–20.6% | 13.7–21.4% |
+| N/A | [Poll Average](average.html) | 17.6% | 14.7–19.6% | 14.0–20.2% | 13.5–20.6% | 12.6–21.5% |
+| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 14.7% | 13.2–16.2% | 12.9–16.7% | 12.5–17.1% | 11.9–17.9% |
+| [12–14 October 2026](2026-10-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Sud Radio | 16.6% | 15.2–18.2% | 14.9–18.6% | 14.5–19.0% | 13.9–19.7% |
+| [5–8 October 2026](2026-10-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 18.1% | 16.7–19.6% | 16.3–20.0% | 16.0–20.3% | 15.4–21.1% |
+| [24 September–7 October 2026](2026-10-07-Odoxa.html) | Odoxa <br> Le Nouvel Obs and Public Sénat | 18.1% | 17.3–18.8% | 17.1–19.1% | 16.9–19.3% | 16.6–19.6% |
 | [25–29 September 2026](2026-09-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15.9% | 14.5–17.5% | 14.2–17.9% | 13.8–18.3% | 13.2–19.1% |
 | [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 17.3% | 16.0–18.8% | 15.6–19.2% | 15.3–19.6% | 14.7–20.3% |
 | [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 16.9% | 15.2–18.7% | 14.7–19.3% | 14.3–19.8% | 13.5–20.7% |
@@ -79,17 +83,17 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 3% | 99.6% |  |
-| 14.5–15.5% | 15% | 97% |  |
-| 15.5–16.5% | 26% | 81% |  |
-| 16.5–17.5% | 20% | 55% | Median |
-| 17.5–18.5% | 15% | 35% |  |
-| 18.5–19.5% | 11% | 20% |  |
-| 19.5–20.5% | 6% | 9% |  |
+| 11.5–12.5% | 0.4% | 100% |  |
+| 12.5–13.5% | 2% | 99.6% |  |
+| 13.5–14.5% | 6% | 97% |  |
+| 14.5–15.5% | 10% | 91% |  |
+| 15.5–16.5% | 13% | 82% |  |
+| 16.5–17.5% | 18% | 69% |  |
+| 17.5–18.5% | 25% | 51% | Median |
+| 18.5–19.5% | 16% | 26% |  |
+| 19.5–20.5% | 7% | 10% |  |
 | 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.3% | 0.4% |  |
+| 21.5–22.5% | 0.4% | 0.4% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -101,7 +105,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–18 | 13–18 | 13–18 | 12–19 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–18 | 12–19 | 12–19 |
+| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
+| [12–14 October 2026](2026-10-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Sud Radio | 14 | 13–16 | 13–17 | 13–17 | 13–19 |
+| [5–8 October 2026](2026-10-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 17 | 15–18 | 14–19 | 14–19 | 14–19 |
+| [24 September–7 October 2026](2026-10-07-Odoxa.html) | Odoxa <br> Le Nouvel Obs and Public Sénat | 17 | 16–17 | 16–17 | 16–18 | 15–18 |
 | [25–29 September 2026](2026-09-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [22–24 September 2026](2026-09-24-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 17 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [17–21 September 2026](2026-09-21-YouGov.html) | YouGov <br> Le HuffPost | 14 | 14–17 | 14–17 | 13–18 | 12–19 |
@@ -171,16 +179,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 0.5% | 99.9% |  |
-| 13 | 5% | 99.4% |  |
-| 14 | 23% | 94% |  |
-| 15 | 33% | 71% | Median |
-| 16 | 9% | 39% |  |
-| 17 | 14% | 29% |  |
-| 18 | 13% | 16% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.3% | 0.4% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 4% | 99.6% |  |
+| 13 | 9% | 95% |  |
+| 14 | 21% | 86% |  |
+| 15 | 11% | 65% |  |
+| 16 | 14% | 54% | Median |
+| 17 | 21% | 40% |  |
+| 18 | 16% | 20% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 
 
