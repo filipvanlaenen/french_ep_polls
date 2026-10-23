@@ -10,11 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.1% | 1.4–3.4% | 1.2–3.7% | 1.0–4.2% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.8% | 1.0–3.2% | 0.8–3.5% | 0.6–4.2% |
+| [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.9% | 0.4–2.2% |
+| [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 1.8% | 1.4–2.5% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% |
 | [12–15 October 2026](2026-10-15-YouGov.html) | YouGov <br> Le HuffPost | 2.8% | 2.1–3.8% | 1.9–4.1% | 1.8–4.3% | 1.5–4.8% |
 | [14–15 October 2026](2026-10-15-Cluster17.html) | Cluster17 <br> Le Point | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.1–3.1% |
-| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 2.4% | 1.8–3.2% | 1.7–3.4% | 1.6–3.6% | 1.3–4.0% |
+| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> CNews | 1.0% | 1.8–3.2% | 1.7–3.4% | 1.6–3.6% | 1.3–4.0% |
 | [12–14 October 2026](2026-10-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Sud Radio | 2.6% | 2.0–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
 | [5–8 October 2026](2026-10-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
 | [24 September–7 October 2026](2026-10-07-Odoxa.html) | Odoxa <br> Le Nouvel Obs and Public Sénat | 2.0% | 1.8–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% |
@@ -74,11 +76,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 10% | 100% |  |
-| 1.5–2.5% | 61% | 90% | Median |
-| 2.5–3.5% | 25% | 29% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 0.0–0.5% | 0.3% | 100% | Last Result |
+| 0.5–1.5% | 25% | 99.7% |  |
+| 1.5–2.5% | 59% | 74% | Median |
+| 2.5–3.5% | 13% | 16% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -92,10 +94,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0 | 0 | 0 |
+| [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [12–15 October 2026](2026-10-15-YouGov.html) | YouGov <br> Le HuffPost | 0 | 0 | 0 | 0 | 0 |
 | [14–15 October 2026](2026-10-15-Cluster17.html) | Cluster17 <br> Le Point | 0 | 0 | 0 | 0 | 0 |
-| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 0 | 0 | 0 | 0 | 0 |
+| [13–14 October 2026](2026-10-14-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0 | 0 | 0 |
 | [12–14 October 2026](2026-10-14-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [5–8 October 2026](2026-10-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [24 September–7 October 2026](2026-10-07-Odoxa.html) | Odoxa <br> Le Nouvel Obs and Public Sénat | 0 | 0 | 0 | 0 | 0 |
