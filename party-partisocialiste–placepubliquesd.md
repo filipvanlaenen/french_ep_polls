@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 9.2–15.5% | 8.8–16.2% | 8.4–16.7% | 7.8–17.6% |
+| N/A | [Poll Average](average.html) | 13.1% | 9.8–15.6% | 9.4–16.2% | 9.2–16.7% | 8.8–17.6% |
+| [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 12.7% | 11.5–14.0% | 11.2–14.3% | 10.9–14.6% | 10.4–15.3% |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 13.1% | 11.8–14.6% | 11.5–15.0% | 11.2–15.4% | 10.6–16.2% |
 | [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.4–15.5% | 10.9–16.2% |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 15.8% | 14.6–17.1% | 14.3–17.4% | 14.0–17.8% | 13.5–18.4% |
@@ -83,15 +84,15 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 3% | 99.8% |  |
-| 8.5–9.5% | 13% | 97% |  |
-| 9.5–10.5% | 13% | 84% |  |
-| 10.5–11.5% | 6% | 71% |  |
-| 11.5–12.5% | 11% | 65% |  |
-| 12.5–13.5% | 18% | 54% | Median |
-| 13.5–14.5% | 16% | 36% |  |
-| 14.5–15.5% | 10% | 20% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 6% | 99.9% |  |
+| 9.5–10.5% | 9% | 94% |  |
+| 10.5–11.5% | 6% | 84% |  |
+| 11.5–12.5% | 16% | 78% |  |
+| 12.5–13.5% | 23% | 62% | Median |
+| 13.5–14.5% | 18% | 39% |  |
+| 14.5–15.5% | 10% | 21% |  |
 | 15.5–16.5% | 7% | 10% |  |
 | 16.5–17.5% | 3% | 3% |  |
 | 17.5–18.5% | 0.5% | 0.6% |  |
@@ -107,7 +108,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–14 | 8–15 | 7–15 | 7–16 |
+| N/A | [Poll Average](average.html) | 12 | 9–14 | 9–15 | 8–15 | 8–16 |
+| [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 11 | 11–12 | 11–12 | 10–13 | 10–13 |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
@@ -181,14 +183,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.3% | 100% |  |
-| 7 | 4% | 99.7% |  |
-| 8 | 9% | 96% |  |
-| 9 | 17% | 87% |  |
-| 10 | 5% | 69% |  |
-| 11 | 18% | 64% | Median |
-| 12 | 19% | 46% |  |
-| 13 | 15% | 27% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 4% | 100% |  |
+| 9 | 13% | 96% |  |
+| 10 | 5% | 83% |  |
+| 11 | 28% | 78% |  |
+| 12 | 23% | 51% | Median |
+| 13 | 16% | 28% |  |
 | 14 | 6% | 12% |  |
 | 15 | 5% | 6% |  |
 | 16 | 0.7% | 0.9% |  |
