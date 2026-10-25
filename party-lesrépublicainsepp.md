@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 6.5–12.4% | 6.3–13.0% | 6.0–13.4% | 5.5–14.2% |
+| N/A | [Poll Average](average.html) | 9.4% | 6.6–12.3% | 6.3–12.9% | 6.1–13.3% | 5.5–14.2% |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 9.5% | 8.5–10.7% | 8.2–11.0% | 8.0–11.3% | 7.5–11.9% |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.4–14.8% |
+| [21–22 October 2026](2026-10-22-Ipsos.html) | Ipsos <br> Le Parisien | 9.7% | 8.6–11.0% | 8.3–11.3% | 8.1–11.6% | 7.6–12.3% |
 | [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6.8% | 5.9–7.9% | 5.7–8.2% | 5.5–8.5% | 5.1–9.0% |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9.7% | 8.8–10.8% | 8.5–11.1% | 8.3–11.3% | 7.9–11.9% |
 | [12–15 October 2026](2026-10-15-YouGov.html) | YouGov <br> Le HuffPost | 7.6% | 6.5–9.1% | 6.1–9.5% | 5.9–9.9% | 5.3–10.6% |
@@ -30,7 +31,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–9 September 2026](2026-09-09-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 9.9% | 8.8–11.3% | 8.4–11.7% | 8.2–12.1% | 7.6–12.7% |
 | [3–9 September 2026](2026-09-09-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 7.3% | 6.8–7.9% | 6.7–8.1% | 6.6–8.2% | 6.3–8.5% |
 | [2–3 September 2026](2026-09-03-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 8.7% | 7.6–10.0% | 7.3–10.4% | 7.0–10.7% | 6.5–11.4% |
-| [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 7.8% | 7.0–8.7% | 6.7–9.0% | 6.5–9.3% | 6.2–9.7% |
+| [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 7.6% | 7.0–8.7% | 6.7–9.0% | 6.5–9.3% | 6.2–9.7% |
 | [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 8.9% | 8.0–9.9% | 7.8–10.2% | 7.6–10.5% | 7.1–11.0% |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 8.5% | 7.7–9.6% | 7.4–9.8% | 7.2–10.1% | 6.8–10.6% |
 | [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 8.4% | 7.4–9.6% | 7.1–9.9% | 6.9–10.2% | 6.4–10.8% |
@@ -43,7 +44,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–8 July 2026](2026-07-08-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8.0% | 7.0–9.1% | 6.8–9.4% | 6.5–9.7% | 6.1–10.2% |
 | [22–24 June 2026](2026-06-24-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 10.7% | 9.7–11.8% | 9.4–12.1% | 9.2–12.4% | 8.7–12.9% |
 | [10–11 June 2026](2026-06-11-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 8.7% | 7.6–10.0% | 7.3–10.3% | 7.0–10.7% | 6.5–11.3% |
-| [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 8.9% | 8.0–10.0% | 7.8–10.2% | 7.6–10.5% | 7.2–11.0% |
+| [27–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Le Parisien | 8.8% | 8.0–10.0% | 7.8–10.2% | 7.6–10.5% | 7.2–11.0% |
 | [26–28 May 2026](2026-05-28-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 9.4% | 8.4–10.7% | 8.1–11.0% | 7.9–11.3% | 7.4–11.9% |
 | [25–27 May 2026](2026-05-27-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8.8% | 7.9–9.9% | 7.6–10.3% | 7.4–10.5% | 6.9–11.1% |
 | [20–21 May 2026](2026-05-21-Odoxa.html) | Odoxa <br> Public Sénat | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
@@ -82,15 +83,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 10% | 99.4% |  |
-| 6.5–7.5% | 22% | 90% |  |
-| 7.5–8.5% | 10% | 68% |  |
-| 8.5–9.5% | 13% | 58% | Median |
-| 9.5–10.5% | 14% | 45% |  |
-| 10.5–11.5% | 11% | 31% |  |
-| 11.5–12.5% | 11% | 20% |  |
-| 12.5–13.5% | 7% | 9% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 8% | 99.5% |  |
+| 6.5–7.5% | 19% | 91% |  |
+| 7.5–8.5% | 10% | 72% |  |
+| 8.5–9.5% | 16% | 62% | Median |
+| 9.5–10.5% | 17% | 47% |  |
+| 10.5–11.5% | 12% | 30% |  |
+| 11.5–12.5% | 10% | 18% |  |
+| 12.5–13.5% | 6% | 8% |  |
 | 13.5–14.5% | 2% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -105,8 +106,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 5–11 | 5–12 | 5–12 | 5–13 |
-| [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [21–22 October 2026](2026-10-22-Ipsos.html) | Ipsos <br> Le Parisien | 9 | 8–10 | 8–10 | 7–11 | 6–11 |
 | [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 6 | 5–7 | 5–7 | 5–7 | 0–8 |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [12–15 October 2026](2026-10-15-YouGov.html) | YouGov <br> Le HuffPost | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
@@ -178,15 +180,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.9% |  |
 | 3 | 0% | 99.9% |  |
 | 4 | 0.1% | 99.9% |  |
-| 5 | 11% | 99.8% |  |
-| 6 | 20% | 88% |  |
-| 7 | 9% | 68% |  |
-| 8 | 20% | 59% | Median |
-| 9 | 12% | 39% |  |
-| 10 | 11% | 28% |  |
-| 11 | 10% | 16% |  |
-| 12 | 5% | 6% |  |
-| 13 | 0.7% | 0.8% |  |
+| 5 | 10% | 99.8% |  |
+| 6 | 18% | 90% |  |
+| 7 | 12% | 72% |  |
+| 8 | 17% | 60% | Median |
+| 9 | 16% | 42% |  |
+| 10 | 12% | 26% |  |
+| 11 | 9% | 15% |  |
+| 12 | 5% | 5% |  |
+| 13 | 0.6% | 0.7% |  |
 | 14 | 0% | 0% |  |
 
 
