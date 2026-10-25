@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Oct 2026 10:27:09 +0100</pubDate>
+    <pubDate>Sun, 25 Oct 2026 16:50:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by Harris Interactive for M6 and RTL, 23 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-10-23-HarrisInteractive.html#seats</link>
@@ -72,22 +72,22 @@
     <item>
       <title>Opinion Poll by Ipsos for Le Parisien, 21–22 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-10-22-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–11 seats&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 0–5 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13–18 seats&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 11–14 seats&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 27–33 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 0–5 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13–18 seats&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 11–15 seats&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 27–34 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-10-22-Ipsos-seats.png"
-        length="267708"
+        length="267247"
         type="image/png"/>
-      <pubDate>Sun, 25 Oct 2026 10:27:09 +0100</pubDate>
-      <dc:date>2026-10-25T10:27:09.084066+01:00</dc:date>
+      <pubDate>Sun, 25 Oct 2026 16:50:51 +0100</pubDate>
+      <dc:date>2026-10-25T16:50:51.825998+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Le Parisien, 21–22 October 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-10-22-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-10-22-Ipsos-coalitions-seats.png"
-        length="198129"
+        length="197790"
         type="image/png"/>
-      <pubDate>Sun, 25 Oct 2026 10:27:09 +0100</pubDate>
-      <dc:date>2026-10-25T10:27:09.084066+01:00</dc:date>
+      <pubDate>Sun, 25 Oct 2026 16:50:51 +0100</pubDate>
+      <dc:date>2026-10-25T16:50:51.825998+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Le Parisien, 21–22 October 2026 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-10-22-Ipsos.png"
         length="343088"
         type="image/png"/>
-      <pubDate>Sun, 25 Oct 2026 10:27:09 +0100</pubDate>
-      <dc:date>2026-10-25T10:27:09.084066+01:00</dc:date>
+      <pubDate>Sun, 25 Oct 2026 16:50:51 +0100</pubDate>
+      <dc:date>2026-10-25T16:50:51.825998+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ifop–Fiducial for LCI, Le Figaro and Sud Radio, 17–19 October 2026 – Seat Projections for the Parties</title>
@@ -1479,6 +1479,6 @@
       <pubDate>Wed, 10 Dec 2025 19:20:07 +0100</pubDate>
       <dc:date>2025-12-10T19:20:07.955574+01:00</dc:date>
     </item>
-    <dc:date>2026-10-25T10:27:09.084066+01:00</dc:date>
+    <dc:date>2026-10-25T16:50:51.825998+01:00</dc:date>
   </channel>
 </rss>
