@@ -111,7 +111,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 12 | 9–14 | 9–15 | 8–15 | 8–16 |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
-| [21–22 October 2026](2026-10-22-Ipsos.html) | Ipsos <br> Le Parisien | 13 | 11–14 | 11–14 | 11–15 | 9–16 |
+| [21–22 October 2026](2026-10-22-Ipsos.html) | Ipsos <br> Le Parisien | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [17–19 October 2026](2026-10-19-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
 | [14–16 October 2026](2026-10-16-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [12–15 October 2026](2026-10-15-YouGov.html) | YouGov <br> Le HuffPost | 11 | 9–13 | 9–13 | 9–14 | 8–14 |
@@ -190,11 +190,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 12% | 96% |  |
 | 10 | 6% | 85% |  |
 | 11 | 22% | 79% |  |
-| 12 | 26% | 57% | Median |
-| 13 | 16% | 31% |  |
-| 14 | 9% | 15% |  |
+| 12 | 25% | 57% | Median |
+| 13 | 17% | 32% |  |
+| 14 | 8% | 15% |  |
 | 15 | 5% | 6% |  |
-| 16 | 0.8% | 0.9% |  |
+| 16 | 0.7% | 0.8% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
