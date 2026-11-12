@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.2–5.3% | 3.0–5.7% | 2.8–6.0% | 2.4–6.6% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.7–4.8% | 2.5–5.1% | 2.3–5.4% | 1.9–5.9% |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.8% | 1.7–4.1% |
+| [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.6–4.7% | 2.4–5.1% |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.3–5.7% | 3.0–6.1% |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 5.3% | 4.6–6.3% | 4.4–6.5% | 4.2–6.8% | 3.9–7.2% |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -82,12 +84,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 19% | 99.0% |  |
-| 3.5–4.5% | 47% | 80% | Median |
-| 4.5–5.5% | 26% | 33% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 35% | 94% |  |
+| 3.5–4.5% | 42% | 59% | Median |
+| 4.5–5.5% | 15% | 17% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -99,7 +101,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 0 | 0 | 0 | 0 | 0 |
+| [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 0 | 0 | 0–4 | 0–5 | 0–5 |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0–4 | 0–4 | 0–4 |
@@ -171,13 +175,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 0% | 13% |  |
-| 2 | 0% | 13% |  |
-| 3 | 0% | 13% |  |
-| 4 | 6% | 13% |  |
-| 5 | 7% | 7% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 0% | 6% |  |
+| 3 | 0% | 6% |  |
+| 4 | 4% | 6% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.1% | 0.1–1.3% | 0.1–1.4% | 0.0–1.6% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.2–1.2% | 0.1–1.4% | 0.1–1.5% | 0.0–1.8% |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 0.0% | N/A | N/A | N/A | N/A |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews | 0.0% | N/A | N/A | N/A | N/A |
@@ -34,11 +36,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–9 September 2026](2026-09-09-Ipsos.html) | Ipsos <br> CEVIPOF, Fondation Jean Jaurès, Institut Montaigne and Le Monde | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 September 2026](2026-09-03-OpinionWay.html) | OpinionWay <br> Le Journal du Dimanche | 0.0% | N/A | N/A | N/A | N/A |
 | [31 August–2 September 2026](2026-09-02-Ipsos.html) | Ipsos <br> Le Parisien | 0.0% | N/A | N/A | N/A | N/A |
-| [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.6% | 2.5–4.9% |
+| [31 August–1 September 2026](2026-09-01-Cluster17.html) | Cluster17 <br> Le Point | 3.6% | 3.0–4.2% | 2.8–4.4% | 2.7–4.6% | 2.5–4.9% |
 | [26–28 August 2026](2026-08-28-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% |
 | [24–25 August 2026](2026-08-25-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 August 2026](2026-08-19-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0.0% | N/A | N/A | N/A | N/A |
-| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.9% |
+| [22–24 July 2026](2026-07-24-Cluster17.html) | Cluster17 <br> Le Grand Continent | 3.3% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.9% |
 | [8–10 July 2026](2026-07-10-Verian.html) | Verian <br> L’Hémicycle | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 July 2026](2026-07-10-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 1.5% | 1.2–2.1% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
 | [8–9 July 2026](2026-07-09-OpinionWay.html) | OpinionWay <br> Les Echos | 0.0% | N/A | N/A | N/A | N/A |
@@ -80,9 +82,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 38% | 100% | Last Result |
-| 0.5–1.5% | 61% | 62% | Median |
-| 1.5–2.5% | 0.8% | 0.8% |  |
+| 0.0–0.5% | 43% | 100% | Last Result |
+| 0.5–1.5% | 55% | 57% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -95,6 +97,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 0 | 0 | 0 | 0 | 0 |
+| [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI |  |  |  |  |  |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [21–22 October 2026](2026-10-22-OpinionWay.html) | OpinionWay <br> CNews |  |  |  |  |  |
