@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 8.3–15.9% | 7.6–16.6% | 7.2–17.1% | 6.5–18.2% |
-| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 7.8% | 6.9–8.9% | 6.6–9.2% | 6.4–9.5% | 6.0–10.1% |
+| N/A | [Poll Average](average.html) | 13.2% | 8.3–15.2% | 7.6–15.8% | 7.2–16.3% | 6.5–17.3% |
+| [12–13 November 2026](2026-11-13-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 12.9% | 11.8–14.1% | 11.5–14.4% | 11.2–14.7% | 10.7–15.3% |
+| [10–12 November 2026](2026-11-12-OpinionWay.html) | OpinionWay <br> CNews | 14.9% | 13.5–16.5% | 13.2–16.9% | 12.8–17.3% | 12.2–18.1% |
+| [9–10 November 2026](2026-11-10-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 12.3% | N/A | N/A | N/A | N/A |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 11.0% | 6.9–8.9% | 6.6–9.2% | 6.4–9.5% | 6.0–10.1% |
 | [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.0–14.9% |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 13.5% | 12.3–14.9% | 11.9–15.3% | 11.6–15.7% | 11.1–16.4% |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 14.2% | 13.0–15.6% | 12.7–16.0% | 12.4–16.3% | 11.8–17.0% |
@@ -92,17 +95,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 4% | 99.4% |  |
 | 7.5–8.5% | 7% | 95% |  |
 | 8.5–9.5% | 3% | 89% |  |
-| 9.5–10.5% | 0.7% | 86% |  |
+| 9.5–10.5% | 0.8% | 86% |  |
 | 10.5–11.5% | 4% | 85% |  |
-| 11.5–12.5% | 11% | 82% |  |
-| 12.5–13.5% | 19% | 71% |  |
-| 13.5–14.5% | 22% | 52% | Median |
-| 14.5–15.5% | 16% | 30% |  |
-| 15.5–16.5% | 9% | 14% |  |
-| 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 1.2% | 1.4% |  |
-| 18.5–19.5% | 0.2% | 0.2% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 11.5–12.5% | 15% | 81% |  |
+| 12.5–13.5% | 24% | 66% | Median |
+| 13.5–14.5% | 22% | 42% |  |
+| 14.5–15.5% | 13% | 20% |  |
+| 15.5–16.5% | 5% | 7% |  |
+| 16.5–17.5% | 1.4% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.3% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -114,6 +116,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 7–14 | 7–15 | 6–15 | 6–16 |
+| [12–13 November 2026](2026-11-13-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
+| [10–12 November 2026](2026-11-12-OpinionWay.html) | OpinionWay <br> CNews | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
+| [9–10 November 2026](2026-11-10-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique |  |  |  |  |  |
 | [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 11 | 11 | 10–11 | 10–11 | 9–13 |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
@@ -197,14 +202,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 10% | 97% |  |
 | 8 | 1.0% | 87% |  |
 | 9 | 1.0% | 86% |  |
-| 10 | 2% | 85% |  |
-| 11 | 21% | 82% |  |
-| 12 | 16% | 61% | Median |
-| 13 | 28% | 46% |  |
-| 14 | 12% | 17% |  |
-| 15 | 4% | 5% |  |
-| 16 | 1.3% | 1.4% |  |
-| 17 | 0.1% | 0.1% |  |
+| 10 | 3% | 85% |  |
+| 11 | 25% | 82% |  |
+| 12 | 20% | 57% | Median |
+| 13 | 20% | 37% |  |
+| 14 | 11% | 18% |  |
+| 15 | 5% | 7% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.3% | 0.4% |  |
 | 18 | 0% | 0% |  |
 
 

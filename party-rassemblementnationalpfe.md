@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.3% | 29.8–37.2% | 28.7–37.9% | 28.0–38.5% | 26.9–39.7% |
-| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 29.2% | 27.5–31.0% | 27.1–31.5% | 26.7–31.9% | 25.9–32.8% |
+| N/A | [Poll Average](average.html) | 33.3% | 29.3–36.8% | 28.5–37.6% | 27.9–38.3% | 26.8–39.6% |
+| [12–13 November 2026](2026-11-13-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 32.3% | 30.8–34.0% | 30.3–34.4% | 29.9–34.8% | 29.2–35.6% |
+| [10–12 November 2026](2026-11-12-OpinionWay.html) | OpinionWay <br> CNews | 30.8% | 28.9–32.8% | 28.4–33.3% | 28.0–33.8% | 27.1–34.8% |
+| [9–10 November 2026](2026-11-10-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 33.9% | N/A | N/A | N/A | N/A |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 31.0% | 27.5–31.0% | 27.1–31.5% | 26.7–31.9% | 25.9–32.8% |
 | [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 35.2% | 33.5–37.0% | 33.0–37.5% | 32.6–37.9% | 31.7–38.8% |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 35.8% | 33.9–37.6% | 33.4–38.1% | 33.0–38.6% | 32.1–39.5% |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 34.0% | 32.3–35.8% | 31.8–36.3% | 31.4–36.7% | 30.6–37.6% |
@@ -109,21 +112,21 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.3% | 100% |  |
-| 26.5–27.5% | 1.2% | 99.7% |  |
-| 27.5–28.5% | 3% | 98.6% |  |
-| 28.5–29.5% | 4% | 96% |  |
-| 29.5–30.5% | 5% | 91% |  |
-| 30.5–31.5% | 6% | 87% |  |
-| 31.5–32.5% | 9% | 81% |  |
-| 32.5–33.5% | 11% | 72% |  |
-| 33.5–34.5% | 14% | 61% | Median |
-| 34.5–35.5% | 15% | 47% |  |
-| 35.5–36.5% | 15% | 32% |  |
-| 36.5–37.5% | 10% | 17% |  |
-| 37.5–38.5% | 5% | 7% |  |
-| 38.5–39.5% | 2% | 2% |  |
-| 39.5–40.5% | 0.5% | 0.7% |  |
-| 40.5–41.5% | 0.1% | 0.2% |  |
+| 26.5–27.5% | 1.3% | 99.7% |  |
+| 27.5–28.5% | 4% | 98% |  |
+| 28.5–29.5% | 6% | 95% |  |
+| 29.5–30.5% | 8% | 89% |  |
+| 30.5–31.5% | 10% | 80% |  |
+| 31.5–32.5% | 11% | 71% |  |
+| 32.5–33.5% | 12% | 59% | Median |
+| 33.5–34.5% | 12% | 48% |  |
+| 34.5–35.5% | 12% | 36% |  |
+| 35.5–36.5% | 11% | 23% |  |
+| 36.5–37.5% | 7% | 12% |  |
+| 37.5–38.5% | 3% | 5% |  |
+| 38.5–39.5% | 1.3% | 2% |  |
+| 39.5–40.5% | 0.4% | 0.5% |  |
+| 40.5–41.5% | 0.1% | 0.1% |  |
 | 41.5–42.5% | 0% | 0% |  |
 
 
@@ -135,7 +138,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 28–34 | 27–35 | 27–36 | 25–36 |
+| N/A | [Poll Average](average.html) | 31 | 28–34 | 27–35 | 26–36 | 25–36 |
+| [12–13 November 2026](2026-11-13-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 30 | 29–32 | 29–33 | 28–33 | 27–34 |
+| [10–12 November 2026](2026-11-12-OpinionWay.html) | OpinionWay <br> CNews | 30 | 28–31 | 27–32 | 27–32 | 26–33 |
+| [9–10 November 2026](2026-11-10-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique |  |  |  |  |  |
 | [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 28 | 26–28 | 26–29 | 25–29 | 24–30 |
 | [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 33 | 32–33 | 31–33 | 31–33 | 30–35 |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 33 | 31–35 | 31–36 | 30–36 | 29–37 |
@@ -236,15 +242,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 100% |  |
 | 25 | 0.4% | 99.9% |  |
 | 26 | 2% | 99.5% |  |
-| 27 | 5% | 98% |  |
-| 28 | 8% | 93% |  |
-| 29 | 9% | 85% |  |
-| 30 | 8% | 76% |  |
-| 31 | 15% | 68% |  |
-| 32 | 15% | 52% | Median |
-| 33 | 25% | 38% |  |
-| 34 | 6% | 13% |  |
-| 35 | 4% | 7% |  |
+| 27 | 5% | 97% |  |
+| 28 | 10% | 92% |  |
+| 29 | 8% | 82% |  |
+| 30 | 14% | 74% |  |
+| 31 | 16% | 60% | Median |
+| 32 | 10% | 44% |  |
+| 33 | 22% | 33% |  |
+| 34 | 5% | 11% |  |
+| 35 | 4% | 6% |  |
 | 36 | 2% | 3% |  |
 | 37 | 0.3% | 0.5% |  |
 | 38 | 0.1% | 0.1% |  |
