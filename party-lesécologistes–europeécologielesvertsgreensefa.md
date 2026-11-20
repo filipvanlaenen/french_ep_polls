@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.5–5.4% | 1.2–6.1% | 1.1–6.7% | 0.8–7.6% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.4–3.6% | 1.2–4.0% | 1.0–4.2% | 0.8–4.7% |
+| [13–16 November 2026](2026-11-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% | 1.4–3.8% |
 | [12–13 November 2026](2026-11-13-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 2.1% | 1.7–2.7% | 1.6–2.8% | 1.5–3.0% | 1.3–3.3% |
 | [10–12 November 2026](2026-11-12-OpinionWay.html) | OpinionWay <br> CNews | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.8–4.7% |
 | [9–10 November 2026](2026-11-10-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique | 3.0% | N/A | N/A | N/A | N/A |
-| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 1.5% | 0.9–1.8% | 0.9–2.0% | 0.8–2.1% | 0.6–2.4% |
+| [9–10 November 2026](2026-11-10-Cluster17.html) | Cluster17 <br> Politico | 1.3% | 0.9–1.8% | 0.9–2.0% | 0.8–2.1% | 0.6–2.4% |
 | [3–5 November 2026](2026-11-05-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 2.1% | 1.7–2.8% | 1.6–3.0% | 1.5–3.1% | 1.3–3.4% |
 | [27–29 October 2026](2026-10-29-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI | 3.1% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.0–4.7% |
 | [23 October 2026](2026-10-23-HarrisInteractive.html) | Harris Interactive <br> M6 and RTL | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–2.9% | 1.1–3.2% |
@@ -86,16 +87,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 30% | 88% |  |
-| 2.5–3.5% | 31% | 58% | Median |
-| 3.5–4.5% | 13% | 28% |  |
-| 4.5–5.5% | 5% | 14% |  |
-| 5.5–6.5% | 6% | 9% |  |
-| 6.5–7.5% | 2% | 3% |  |
-| 7.5–8.5% | 0.5% | 0.5% |  |
-| 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 43% | 86% | Median |
+| 2.5–3.5% | 32% | 43% |  |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -106,7 +103,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–7 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–16 November 2026](2026-11-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
 | [12–13 November 2026](2026-11-13-ELABE.html) | ELABE <br> BFMTV and La Tribune Dimanche | 0 | 0 | 0 | 0 | 0 |
 | [10–12 November 2026](2026-11-12-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0 | 0 | 0 |
 | [9–10 November 2026](2026-11-10-OpinionWay.html) | OpinionWay <br> Les Echos and Radio Classique |  |  |  |  |  |
@@ -183,14 +181,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 0% | 12% |  |
-| 3 | 0% | 12% |  |
-| 4 | 0.9% | 12% |  |
-| 5 | 9% | 11% |  |
-| 6 | 1.5% | 2% |  |
-| 7 | 0.7% | 0.7% |  |
-| 8 | 0% | 0% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 
