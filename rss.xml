@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/french_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Nov 2026 19:36:11 +0100</pubDate>
+    <pubDate>Fri, 27 Nov 2026 08:44:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by OpinionWay for CNews, 25–26 November 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-11-26-OpinionWay.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 8–12 seats&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0 seats&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 12–17 seats&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 0 seats&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 12–17 seats&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 9–13 seats&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 28–34 seats&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 0 seats&lt;/li&gt;&lt;li&gt;La France humaniste (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-11-26-OpinionWay-seats.png"
+        length="283838"
+        type="image/png"/>
+      <pubDate>Fri, 27 Nov 2026 08:44:18 +0100</pubDate>
+      <dc:date>2026-11-27T08:44:18.981741+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for CNews, 25–26 November 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-11-26-OpinionWay.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-11-26-OpinionWay-coalitions-seats.png"
+        length="200659"
+        type="image/png"/>
+      <pubDate>Fri, 27 Nov 2026 08:44:18 +0100</pubDate>
+      <dc:date>2026-11-27T08:44:18.981741+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OpinionWay for CNews, 25–26 November 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/french_ep_polls/2026-11-26-OpinionWay.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Parti socialiste–Place Publique (S&amp;amp;D): 9.0–13.0%&lt;/li&gt;&lt;li&gt;Lutte Ouvrière (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Les Républicains (EPP): 13.6–18.3%&lt;/li&gt;&lt;li&gt;Reconquête (ESN): 2.0–4.3%&lt;/li&gt;&lt;li&gt;La France insoumise (GUE/NGL): 13.6–18.3%&lt;/li&gt;&lt;li&gt;Les Écologistes – Europe Écologie Les Verts (Greens/EFA): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Renaissance–Mouvement démocrate–Horizons (RE): 9.9–14.1%&lt;/li&gt;&lt;li&gt;Rassemblement national (PfE): 29.7–35.8%&lt;/li&gt;&lt;li&gt;Parti communiste français (GUE/NGL): 1.2–3.1%&lt;/li&gt;&lt;li&gt;Debout la France (ECR): 1.2–3.1%&lt;/li&gt;&lt;li&gt;La France humaniste (*): 1.2–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/french_ep_polls/2026-11-26-OpinionWay.png"
+        length="365350"
+        type="image/png"/>
+      <pubDate>Fri, 27 Nov 2026 08:44:18 +0100</pubDate>
+      <dc:date>2026-11-27T08:44:18.981741+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Harris Interactive for L’Express, M6 and RTL, 18–19 November 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/french_ep_polls/2026-11-19-HarrisInteractive.html#seats</link>
@@ -1749,6 +1779,6 @@
       <pubDate>Wed, 10 Dec 2025 19:20:07 +0100</pubDate>
       <dc:date>2025-12-10T19:20:07.955574+01:00</dc:date>
     </item>
-    <dc:date>2026-11-23T19:36:11.930095+01:00</dc:date>
+    <dc:date>2026-11-27T08:44:18.981741+01:00</dc:date>
   </channel>
 </rss>
