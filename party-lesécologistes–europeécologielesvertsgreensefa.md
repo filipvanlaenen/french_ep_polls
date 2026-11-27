@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.2–4.0% | 1.1–4.3% | 1.0–4.6% | 0.8–5.3% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.0–3.7% | 0.8–4.2% | 0.7–4.6% | 0.5–5.3% |
+| [25–26 November 2026](2026-11-26-OpinionWay.html) | OpinionWay <br> CNews | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [18–19 November 2026](2026-11-19-HarrisInteractive.html) | Harris Interactive <br> L’Express, M6 and RTL | 1.2% | 0.9–1.7% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [12–17 November 2026](2026-11-17-YouGov.html) | YouGov <br> Le HuffPost | 3.7% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–5.9% |
 | [13–16 November 2026](2026-11-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% | 1.4–3.8% |
@@ -89,12 +90,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 21% | 100% |  |
-| 1.5–2.5% | 31% | 79% | Median |
-| 2.5–3.5% | 29% | 48% |  |
-| 3.5–4.5% | 16% | 19% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 39% | 99.5% |  |
+| 1.5–2.5% | 34% | 60% | Median |
+| 2.5–3.5% | 15% | 26% |  |
+| 3.5–4.5% | 9% | 11% |  |
+| 4.5–5.5% | 2% | 3% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [25–26 November 2026](2026-11-26-OpinionWay.html) | OpinionWay <br> CNews | 0 | 0 | 0 | 0 | 0 |
 | [18–19 November 2026](2026-11-19-HarrisInteractive.html) | Harris Interactive <br> L’Express, M6 and RTL | 0 | 0 | 0 | 0 | 0 |
 | [12–17 November 2026](2026-11-17-YouGov.html) | YouGov <br> Le HuffPost | 0 | 0 | 0 | 0–5 | 0–5 |
 | [13–16 November 2026](2026-11-16-Ifop–Fiducial.html) | Ifop–Fiducial <br> LCI, Le Figaro and Sud Radio | 0 | 0 | 0 | 0 | 0 |
